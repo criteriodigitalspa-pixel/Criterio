@@ -1,0 +1,27 @@
+{
+    "name": "print-agent",
+    "version": "1.0.0",
+    "description": "Agente de impresión local para Firebase Firestore (Ticket System)",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "build": "pkg index.js --targets node18-win-x64 --output distrib/Puente_Criterio_Taller_v7.exe"
+    },
+    "pkg": {
+        "assets": [
+            "node_modules/pdf-to-printer/dist/**/*"
+        ]
+    },
+    "dependencies": {
+        "dotenv": "^16.0.0",
+        "exceljs": "^4.4.0",
+        "firebase-admin": "^13.6.0",
+        "fs-extra": "^11.3.2",
+        "node-cron": "^4.2.1",
+        "nodemailer": "^7.0.11",
+        "pdf-to-printer": "^5.0.0",
+        "winston": "^3.19.0",
+        "whatsapp-web.js": "github:pedroslopez/whatsapp-web.js#main",
+        "qrcode-terminal": "^0.12.0"
+    }
+}

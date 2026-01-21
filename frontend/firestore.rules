@@ -1,0 +1,118 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // 🔐 Helper Functions
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+    
+    function isAdmin() {
+      return isAuthenticated() && 
+        (get(/databases/$(database)/documents/users/$(request.auth.uid)).data.role in ['Admin', 'admin'] ||
+         request.auth.token.email == 'criteriodigitalspa@gmail.com');
+    }
+
+    function isOwner(userId) {
+      return isAuthenticated() && request.auth.uid == userId;
+    }
+
+    // 👤 Users Collection
+    match /users/{userId} {
+      allow read: if true; // ⚠️ DEV OVERRIDE
+      allow create: if true; // ⚠️ DEV OVERRIDE
+      allow update: if true; // ⚠️ DEV OVERRIDE
+      allow delete: if true; // ⚠️ DEV OVERRIDE
+    }
+
+    // 🎫 Tickets Collection
+    match /tickets/{ticketId} {
+      allow read: if true; // ⚠️ DEV OVERRIDE
+      allow create: if true; // ⚠️ DEV OVERRIDE
+      allow update: if true; // ⚠️ DEV OVERRIDE
+      allow delete: if true; // ⚠️ DEV OVERRIDE
+      
+      // History Subcollection
+      match /history/{historyId} {
+        allow read, write: if true; // ⚠️ DEV OVERRIDE
+      }
+    }
+
+    // 📦 Inventory Collection
+    match /inventory/{itemId} {
+      allow read: if true;
+      allow write: if true;
+    }
+
+    // 👥 Clients Collection
+    match /clients/{clientId} {
+      allow read, write: if true;
+    }
+    
+    // 🔢 Counters Collection (For Ticket IDs)
+    match /counters/{counterId} {
+      allow read, write: if true; // ⚠️ DEV OVERRIDE
+    }
+
+    // 🖨️ Print Jobs
+    // Plan: Restrict to Authenticated. Service Account (Agent) bypasses rules.
+    match /print_jobs/{jobId} {
+      allow read, write: if true; 
+    }
+
+    // ⚙️ System Configuration (Hardware DB, Brands, Models)
+    match /system_config/{configId} {
+      allow read, write: if true; // ⚠️ OPEN FOR LOCAL DEV ADMIN (No Auth Token)
+    }
+
+    // 💰 Hardware Prices (RAM, Components)
+    match /hardware_prices/{priceId} {
+      allow read, write: if true; // ⚠️ OPEN FOR LOCAL DEV ADMIN (No Auth Token)
+    }
+
+    // --- 🆕 TASK MANAGER RULES ---
+    match /projects/{projectId} {
+      allow create: if request.auth != null;
+      allow read, update, delete: if request.auth != null && (
+        resource.data.ownerId == request.auth.uid || 
+        resource.data.members.hasAny([request.auth.uid])
+      );
+    }
+    
+    match /project_areas/{areaId} {
+      allow create: if request.auth != null;
+      allow read, update, delete: if request.auth != null && (
+        resource.data.ownerId == request.auth.uid || 
+        resource.data.members.hasAny([request.auth.uid])
+      );
+    }
+
+    match /tasks/{taskId} {
+      allow create: if request.auth != null;
+      allow read, update, delete: if request.auth != null && (
+        resource.data.createdBy == request.auth.uid || 
+        resource.data.assignedTo.hasAny([request.auth.uid]) ||
+        resource.data.members.hasAny([request.auth.uid])
+      );
+    }
+    // 🔔 Notifications Collection
+    match /notifications/{notificationId} {
+      allow create: if request.auth != null;
+      allow delete: if request.auth != null && (resource.data.userId == request.auth.uid || isAdmin());
+      allow read, update: if request.auth != null && resource.data.userId == request.auth.uid;
+    }
+
+    // 📱 WhatsApp Queue
+    match /whatsapp_queue/{messageId} {
+      allow create: if true; // TEMPORARY DEBUG: Allow anyone to create
+      allow read, update, delete: if isAdmin(); // Only Admin/Agent handles them
+    }
+
+    // -----------------------------
+
+    // 🛡️ Default Block
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

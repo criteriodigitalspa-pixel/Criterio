@@ -1,0 +1,2171 @@
+2025-12-16T03:18:32.441Z [INFO]: 🚀 Iniciando Print Agent v2.0 (Admin SDK + Logical Queues)
+2025-12-16T03:18:32.478Z [INFO]: 📡 Conectado a Firestore como: firebase-adminsdk-fbsvc@logistica-criterio.iam.gserviceaccount.com
+2025-12-16T03:18:32.491Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2025-12-16T03:18:33.237Z [INFO]: 🧹 Cola de Windows limpia.
+2025-12-16T03:18:34.440Z [INFO]: 📥 Nuevo trabajo recibido: 4LibjgABK1zACudn567b
+2025-12-16T03:18:34.452Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765855114440.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T03:18:34.452Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T03:18:34.453Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T03:18:34.473Z [INFO]: 📥 Nuevo trabajo recibido: 5o8EPNcUKbO6se3RqvDx
+2025-12-16T03:18:34.475Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765855114474.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T03:18:34.475Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T03:18:34.475Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T03:18:34.480Z [INFO]: 📥 Nuevo trabajo recibido: GKnvRkE5ks4hKkqJalJn
+2025-12-16T03:18:34.481Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765855114480.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T03:18:34.482Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T03:18:34.482Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T03:18:34.488Z [INFO]: 📥 Nuevo trabajo recibido: JmNi0NtIsyHOxUBijV0r
+2025-12-16T03:18:34.490Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765855114488.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T03:18:34.490Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T03:18:34.491Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T03:18:34.496Z [INFO]: 📥 Nuevo trabajo recibido: N27KyAAJwLRP5ZV0eyaT
+2025-12-16T03:18:34.498Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765855114497.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T03:18:34.501Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T03:18:34.503Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T03:18:34.510Z [INFO]: 📥 Nuevo trabajo recibido: O5GV8lOeplocpgnGruFX
+2025-12-16T03:18:34.512Z [INFO]: 📄 PDF guardado temp: ticket_FA2VilDBIcCQtiIy5DZY_1765855114512.pdf (Ticket: FA2VilDBIcCQtiIy5DZY)
+2025-12-16T03:18:34.513Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T03:18:34.514Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T03:18:34.521Z [INFO]: 📥 Nuevo trabajo recibido: gpYs8acw99I2Jw7odipw
+2025-12-16T03:18:34.529Z [INFO]: 📄 PDF guardado temp: ticket_68QsO8vvWII4V8SeiLuI_1765855114528.pdf (Ticket: 68QsO8vvWII4V8SeiLuI)
+2025-12-16T03:18:34.532Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T03:18:34.532Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T03:18:34.539Z [INFO]: 📥 Nuevo trabajo recibido: hvapQt37AdBAXuXM9KAB
+2025-12-16T03:18:34.541Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765855114540.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T03:18:34.542Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T03:18:34.542Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T03:18:34.548Z [INFO]: 📥 Nuevo trabajo recibido: iJmG0p1gykcExnHOL737
+2025-12-16T03:18:34.550Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765855114549.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T03:18:34.550Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T03:18:34.550Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T03:18:34.557Z [INFO]: 📥 Nuevo trabajo recibido: iZI4IYfBw7aPblEaroa6
+2025-12-16T03:18:34.560Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765855114559.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T03:18:34.560Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T03:18:34.561Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T03:18:34.567Z [INFO]: 📥 Nuevo trabajo recibido: sGkEUXBYojxXQrXrEeD6
+2025-12-16T03:18:34.572Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765855114570.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T03:18:34.574Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T03:18:34.575Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T03:18:34.581Z [INFO]: 📥 Nuevo trabajo recibido: sqooPYj7HsImNHNnPxtZ
+2025-12-16T03:18:34.582Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765855114582.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T03:18:34.583Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T03:18:34.583Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T03:18:34.590Z [INFO]: 📥 Nuevo trabajo recibido: yUwwWnwAanuN4cN8feIO
+2025-12-16T03:18:34.592Z [INFO]: 📄 PDF guardado temp: ticket_FA2VilDBIcCQtiIy5DZY_1765855114591.pdf (Ticket: FA2VilDBIcCQtiIy5DZY)
+2025-12-16T03:18:34.594Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T03:18:34.595Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T03:18:39.283Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T03:18:39.292Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T03:18:39.293Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T03:18:39.306Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T03:18:39.441Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T03:18:39.473Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T03:18:39.499Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T03:18:39.501Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T03:18:39.532Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T03:18:39.544Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T03:18:39.622Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T03:18:39.644Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T03:18:39.656Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T03:19:02.251Z [INFO]: 📥 Nuevo trabajo recibido: oMvwL0WqY03H0nVVxK4F
+2025-12-16T03:19:02.253Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765855142252.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T03:19:02.254Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T03:19:02.254Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T03:19:03.811Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T03:19:06.924Z [INFO]: 📥 Nuevo trabajo recibido: RaHpF532dVSyxB4OwpyG
+2025-12-16T03:19:06.925Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765855146924.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T03:19:06.925Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T03:19:06.925Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T03:19:08.123Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T03:19:21.032Z [INFO]: 📥 Nuevo trabajo recibido: XRBK5oowJxOUB4Rz5iyA
+2025-12-16T03:19:21.033Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765855161032.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T03:19:21.033Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T03:19:21.034Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T03:19:22.245Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T03:19:30.866Z [INFO]: 📥 Nuevo trabajo recibido: LI8s3G1qWlKqywSnomZx
+2025-12-16T03:19:30.868Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765855170867.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T03:19:30.868Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T03:19:30.868Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T03:19:31.265Z [INFO]: 📥 Nuevo trabajo recibido: gaZOMX2sKN4U2aymlgsD
+2025-12-16T03:19:31.267Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765855171266.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T03:19:31.267Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T03:19:31.267Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T03:19:31.333Z [INFO]: 📥 Nuevo trabajo recibido: yrWDV90RrUN7Fpd9c76X
+2025-12-16T03:19:31.335Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765855171334.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T03:19:31.335Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T03:19:31.336Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T03:19:32.364Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T03:19:33.249Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T03:19:33.984Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T03:22:23.629Z [INFO]: 📥 Nuevo trabajo recibido: nx8uOCZ6ifcbVsp8cTHX
+2025-12-16T03:22:23.630Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765855343629.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T03:22:23.630Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T03:22:23.631Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T03:22:23.684Z [INFO]: 📥 Nuevo trabajo recibido: bCaMsrsjGWWUj8f21kWA
+2025-12-16T03:22:23.685Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765855343684.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T03:22:23.685Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T03:22:23.686Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T03:22:24.864Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T03:22:25.575Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T13:50:39.279Z [ERROR]: ❌ Error de conexión stream: undefined. Reintentando en 1s...
+2025-12-16T13:50:39.294Z [INFO]: 💓 Agente activo.
+2025-12-16T13:50:40.309Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2025-12-16T14:33:39.035Z [ERROR]: ❌ Error de conexión stream: undefined. Reintentando en 2s...
+2025-12-16T14:33:41.083Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2025-12-16T14:39:55.653Z [INFO]: 📥 Nuevo trabajo recibido: bUwpjHG7FhWCPcrmNlO4
+2025-12-16T14:39:55.655Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765895995653.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T14:39:55.655Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T14:39:55.655Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T14:39:58.501Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T14:40:06.334Z [INFO]: 📥 Nuevo trabajo recibido: riqE8RBI8jeLNb8spL6E
+2025-12-16T14:40:06.336Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765896006334.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T14:40:06.336Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T14:40:06.337Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T14:40:06.848Z [INFO]: 📥 Nuevo trabajo recibido: 97m4VITaPMIkru0kfg4Q
+2025-12-16T14:40:06.850Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765896006849.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T14:40:06.851Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T14:40:06.851Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T14:40:08.282Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T14:40:09.102Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T14:43:05.760Z [INFO]: 📥 Nuevo trabajo recibido: L2DI1XNVdEctnNg54plH
+2025-12-16T14:43:05.762Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765896185761.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T14:43:05.763Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T14:43:05.763Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T14:43:05.923Z [INFO]: 📥 Nuevo trabajo recibido: s4IXIswqZl5dIQZ1jB4i
+2025-12-16T14:43:05.925Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765896185923.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T14:43:05.926Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T14:43:05.926Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T14:43:11.984Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T14:43:12.840Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T14:45:20.277Z [INFO]: 📥 Nuevo trabajo recibido: WSlN33pmdyUecAXwefs0
+2025-12-16T14:45:20.279Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765896320277.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T14:45:20.279Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T14:45:20.279Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T14:45:21.960Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T14:45:37.559Z [INFO]: 📥 Nuevo trabajo recibido: UDMS5ChypmuwjnnkoORv
+2025-12-16T14:45:37.560Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765896337559.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T14:45:37.560Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T14:45:37.561Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T14:45:37.776Z [INFO]: 📥 Nuevo trabajo recibido: tDtW4Rr8TI5SA8ztrRqS
+2025-12-16T14:45:37.777Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765896337776.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T14:45:37.777Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T14:45:37.777Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T14:45:39.105Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T14:45:40.033Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T14:50:33.957Z [INFO]: 💓 Agente activo.
+2025-12-16T14:52:55.130Z [INFO]: 📥 Nuevo trabajo recibido: J5imXFVdWTyoPbVI0NmM
+2025-12-16T14:52:55.142Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765896775131.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T14:52:55.143Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T14:52:55.143Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T14:52:55.186Z [INFO]: 📥 Nuevo trabajo recibido: JzySgAyWcyzXbufnXO5M
+2025-12-16T14:52:55.190Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765896775187.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T14:52:55.192Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T14:52:55.192Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T14:52:55.235Z [INFO]: 📥 Nuevo trabajo recibido: RZCE4btqlQwWiqYtJaB5
+2025-12-16T14:52:55.246Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765896775244.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T14:52:55.250Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T14:52:55.256Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T14:52:57.609Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T14:52:58.349Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T14:52:58.453Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T14:53:50.094Z [INFO]: 📥 Nuevo trabajo recibido: vqC8acrmR2WSELuq07fM
+2025-12-16T14:53:50.096Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765896830094.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T14:53:50.096Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T14:53:50.096Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T14:53:51.642Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T15:46:23.008Z [INFO]: 📥 Nuevo trabajo recibido: job-1765899976214-p0oc8
+2025-12-16T15:46:23.180Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765899983171.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T15:46:23.308Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T15:46:23.309Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T15:46:23.457Z [INFO]: 📥 Nuevo trabajo recibido: job-1765899976307-fzqvy
+2025-12-16T15:46:23.625Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765899983621.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T15:46:23.675Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T15:46:23.698Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T15:46:23.740Z [INFO]: 📥 Nuevo trabajo recibido: job-1765899976390-w7uay
+2025-12-16T15:46:23.751Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765899983746.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T15:46:23.767Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T15:46:23.780Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T15:46:23.972Z [INFO]: 📥 Nuevo trabajo recibido: job-1765899976850-sdkgx
+2025-12-16T15:46:24.091Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765899984064.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T15:46:24.179Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T15:46:24.260Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T15:46:24.829Z [INFO]: 📥 Nuevo trabajo recibido: job-1765899977035-cyyb4
+2025-12-16T15:46:24.868Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765899984860.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T15:46:25.042Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T15:46:25.065Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T15:46:25.196Z [INFO]: 📥 Nuevo trabajo recibido: job-1765899977224-epzmp
+2025-12-16T15:46:25.211Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765899985207.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T15:46:25.217Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T15:46:25.221Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T15:46:35.225Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T15:46:35.323Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T15:46:35.345Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T15:46:35.404Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T15:46:35.413Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T15:46:35.422Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T15:50:33.612Z [INFO]: 💓 Agente activo.
+2025-12-16T15:50:53.320Z [INFO]: 🚀 Iniciando Print Agent v2.0 (Admin SDK + Logical Queues)
+2025-12-16T15:50:53.452Z [INFO]: 📡 Conectado a Firestore como: firebase-adminsdk-fbsvc@logistica-criterio.iam.gserviceaccount.com
+2025-12-16T15:50:53.479Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2025-12-16T15:50:58.477Z [INFO]: 🧹 Cola de Windows limpia.
+2025-12-16T15:51:07.497Z [INFO]: 📥 Nuevo trabajo recibido: job-1765900265505-60sen
+2025-12-16T15:51:07.599Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765900267549.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T15:51:07.625Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T15:51:07.642Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T15:51:07.698Z [INFO]: 📥 Nuevo trabajo recibido: job-1765900265549-atwdg
+2025-12-16T15:51:07.712Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765900267708.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T15:51:07.715Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T15:51:07.716Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T15:51:17.590Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T15:51:17.599Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T15:51:31.307Z [INFO]: 📥 Nuevo trabajo recibido: job-1765900289891-58c4p
+2025-12-16T15:51:31.312Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765900291308.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T15:51:31.312Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T15:51:31.313Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T15:51:33.586Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T15:52:22.368Z [INFO]: 📥 Nuevo trabajo recibido: job-1765900340937-f4pev
+2025-12-16T15:52:22.374Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765900342371.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T15:52:22.376Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T15:52:22.376Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T15:52:24.193Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T15:52:30.807Z [INFO]: 📥 Nuevo trabajo recibido: job-1765900349543-dj6ji
+2025-12-16T15:52:30.811Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765900350807.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T15:52:30.813Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T15:52:30.822Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T15:52:35.050Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T15:52:35.784Z [INFO]: 📥 Nuevo trabajo recibido: job-1765900354356-fbakj
+2025-12-16T15:52:35.789Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765900355786.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T15:52:35.789Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T15:52:35.790Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T15:52:38.629Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T15:53:19.275Z [INFO]: 📥 Nuevo trabajo recibido: job-1765900397730-gi4bo
+2025-12-16T15:53:19.278Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765900399275.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T15:53:19.278Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T15:53:19.279Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T15:53:21.154Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T15:53:24.555Z [INFO]: 📥 Nuevo trabajo recibido: job-1765900402982-y36a7
+2025-12-16T15:53:24.557Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765900404555.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T15:53:24.557Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T15:53:24.557Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T15:53:26.345Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T15:54:14.002Z [INFO]: 📥 Nuevo trabajo recibido: job-1765900452443-79p9t
+2025-12-16T15:54:14.006Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765900454003.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T15:54:14.007Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T15:54:14.007Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T15:54:15.919Z [INFO]: 📥 Nuevo trabajo recibido: job-1765900453566-7i6gz
+2025-12-16T15:54:15.922Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765900455920.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T15:54:15.923Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T15:54:15.923Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T15:54:15.934Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T15:54:17.518Z [INFO]: 📥 Nuevo trabajo recibido: job-1765900456026-qvhgn
+2025-12-16T15:54:17.520Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765900457518.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T15:54:17.520Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T15:54:17.520Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T15:54:17.575Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T15:54:18.892Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T16:00:17.234Z [INFO]: 📥 Nuevo trabajo recibido: job-1765900814726-n87un
+2025-12-16T16:00:17.235Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765900817234.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T16:00:17.236Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T16:00:17.236Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T16:00:18.317Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T16:00:24.626Z [INFO]: 📥 Nuevo trabajo recibido: job-1765900823272-x180w
+2025-12-16T16:00:24.628Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765900824627.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T16:00:24.628Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T16:00:24.628Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T16:00:25.615Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T16:37:49.658Z [INFO]: 📥 Nuevo trabajo recibido: job-1765903065976-p1vep
+2025-12-16T16:37:49.660Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765903069659.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T16:37:49.660Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T16:37:49.660Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T16:37:49.742Z [INFO]: 📥 Nuevo trabajo recibido: job-1765903067259-m81yb
+2025-12-16T16:37:49.743Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765903069742.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T16:37:49.744Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T16:37:49.745Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T16:37:52.057Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T16:37:52.060Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T16:50:54.424Z [INFO]: 💓 Agente activo.
+2025-12-16T17:12:27.782Z [INFO]: 📥 Nuevo trabajo recibido: job-1765905143997-8758i
+2025-12-16T17:12:27.784Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765905147783.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T17:12:27.784Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T17:12:27.784Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T17:12:27.850Z [INFO]: 📥 Nuevo trabajo recibido: job-1765905145014-sui14
+2025-12-16T17:12:27.851Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765905147850.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T17:12:27.851Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T17:12:27.851Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T17:12:29.921Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T17:12:29.923Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T17:12:58.728Z [INFO]: 📥 Nuevo trabajo recibido: job-1765905177344-pg53g
+2025-12-16T17:12:58.730Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765905178729.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T17:12:58.730Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T17:12:58.730Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T17:12:59.988Z [INFO]: 📥 Nuevo trabajo recibido: job-1765905178204-8o0yt
+2025-12-16T17:12:59.990Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765905179989.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T17:12:59.990Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T17:12:59.990Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T17:13:00.856Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T17:13:01.069Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T17:50:54.397Z [INFO]: 💓 Agente activo.
+2025-12-16T18:00:25.016Z [INFO]: 📥 Nuevo trabajo recibido: job-1765908023027-prz6n
+2025-12-16T18:00:25.019Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765908025017.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T18:00:25.021Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T18:00:25.022Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T18:00:26.430Z [INFO]: 📥 Nuevo trabajo recibido: job-1765908024799-ubim5
+2025-12-16T18:00:26.432Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765908026431.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T18:00:26.432Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T18:00:26.433Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T18:00:27.384Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T18:00:27.560Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T18:13:17.816Z [INFO]: 📥 Nuevo trabajo recibido: job-1765908793603-sbt4h
+2025-12-16T18:13:17.818Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765908797816.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T18:13:17.818Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T18:13:17.819Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T18:13:17.905Z [INFO]: 📥 Nuevo trabajo recibido: job-1765908794981-xwgkg
+2025-12-16T18:13:17.906Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765908797905.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T18:13:17.907Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T18:13:17.907Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T18:13:20.363Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T18:13:20.436Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T18:13:30.074Z [INFO]: 📥 Nuevo trabajo recibido: job-1765908808521-3n3ek
+2025-12-16T18:13:30.076Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765908810075.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T18:13:30.077Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T18:13:30.077Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T18:13:31.427Z [INFO]: 📥 Nuevo trabajo recibido: job-1765908809418-nz7wd
+2025-12-16T18:13:31.429Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765908811427.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T18:13:31.430Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T18:13:31.430Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T18:13:31.489Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T18:13:32.770Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T18:13:33.020Z [INFO]: 📥 Nuevo trabajo recibido: job-1765908811476-docak
+2025-12-16T18:13:33.021Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765908813020.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T18:13:33.022Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T18:13:33.022Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T18:13:34.121Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T18:17:33.815Z [INFO]: 📥 Nuevo trabajo recibido: job-1765909050936-wt43q
+2025-12-16T18:17:33.817Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765909053815.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T18:17:33.818Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T18:17:33.818Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T18:17:36.637Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T18:17:44.389Z [INFO]: 📥 Nuevo trabajo recibido: job-1765909062828-wzrqe
+2025-12-16T18:17:44.396Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765909064389.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T18:17:44.398Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T18:17:44.399Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T18:17:46.255Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T18:18:27.457Z [INFO]: 📥 Nuevo trabajo recibido: job-1765909106147-ayqju
+2025-12-16T18:18:27.459Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765909107458.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T18:18:27.459Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T18:18:27.460Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T18:18:29.072Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T18:19:30.614Z [INFO]: 📥 Nuevo trabajo recibido: job-1765909168935-1ecxd
+2025-12-16T18:19:30.618Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765909170614.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T18:19:30.622Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T18:19:30.622Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T18:19:33.029Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T18:31:43.795Z [INFO]: 📥 Nuevo trabajo recibido: job-1765909900520-1tyd2
+2025-12-16T18:31:43.900Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765909903835.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T18:31:43.910Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T18:31:43.919Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T18:31:46.361Z [INFO]: 📥 Nuevo trabajo recibido: job-1765909902648-xmh26
+2025-12-16T18:31:46.364Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765909906362.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T18:31:46.364Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T18:31:46.364Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T18:31:46.435Z [INFO]: 📥 Nuevo trabajo recibido: job-1765909902779-7ia4g
+2025-12-16T18:31:46.437Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765909906435.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T18:31:46.438Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T18:31:46.438Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T18:31:46.595Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T18:31:48.662Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T18:31:49.501Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T18:35:27.950Z [INFO]: 📥 Nuevo trabajo recibido: job-1765910126409-a89hj
+2025-12-16T18:35:27.952Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765910127951.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T18:35:27.953Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T18:35:27.954Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T18:35:29.601Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T18:35:30.657Z [INFO]: 📥 Nuevo trabajo recibido: job-1765910130289-vcd8x
+2025-12-16T18:35:30.692Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765910130677.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T18:35:30.694Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T18:35:30.694Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T18:35:31.765Z [INFO]: 📥 Nuevo trabajo recibido: job-1765910131439-qziw4
+2025-12-16T18:35:31.768Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765910131766.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T18:35:31.768Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T18:35:31.769Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T18:35:32.569Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T18:35:33.947Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T18:36:08.352Z [INFO]: 📥 Nuevo trabajo recibido: job-1765910168021-bkbnp
+2025-12-16T18:36:08.354Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765910168353.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T18:36:08.355Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T18:36:08.355Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T18:36:08.710Z [INFO]: 📥 Nuevo trabajo recibido: job-1765910168334-pbwqd
+2025-12-16T18:36:08.712Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765910168711.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T18:36:08.713Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T18:36:08.713Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T18:36:10.387Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T18:36:11.087Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T18:38:55.946Z [INFO]: 📥 Nuevo trabajo recibido: job-1765910333314-vkfj1
+2025-12-16T18:38:55.948Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765910335947.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T18:38:55.948Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T18:38:55.948Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T18:38:57.508Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T18:39:12.099Z [INFO]: 📥 Nuevo trabajo recibido: job-1765910350706-j8ji7
+2025-12-16T18:39:12.104Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765910352100.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T18:39:12.104Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T18:39:12.104Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T18:39:13.749Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T18:39:14.803Z [INFO]: 📥 Nuevo trabajo recibido: job-1765910350789-l2y7e
+2025-12-16T18:39:14.804Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765910354803.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T18:39:14.805Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T18:39:14.805Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T18:39:14.870Z [INFO]: 📥 Nuevo trabajo recibido: job-1765910350849-28jhc
+2025-12-16T18:39:14.871Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765910354870.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T18:39:14.871Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T18:39:14.871Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T18:39:16.365Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T18:39:17.232Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T18:50:54.395Z [INFO]: 💓 Agente activo.
+2025-12-16T19:10:22.790Z [INFO]: 📥 Nuevo trabajo recibido: job-1765912221220-gkhml
+2025-12-16T19:10:22.791Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765912222790.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T19:10:22.792Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T19:10:22.792Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T19:10:24.752Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T19:10:25.198Z [INFO]: 📥 Nuevo trabajo recibido: job-1765912224862-oz0s7
+2025-12-16T19:10:25.200Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765912225199.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T19:10:25.200Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T19:10:25.200Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T19:10:26.064Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T19:10:26.205Z [INFO]: 📥 Nuevo trabajo recibido: job-1765912225894-97wdw
+2025-12-16T19:10:26.206Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765912226205.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T19:10:26.206Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T19:10:26.206Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T19:10:27.058Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T19:46:22.040Z [INFO]: 📥 Nuevo trabajo recibido: job-1765914380426-bhn6m
+2025-12-16T19:46:22.041Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765914382040.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T19:46:22.042Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T19:46:22.042Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T19:46:23.811Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T19:47:36.264Z [INFO]: 📥 Nuevo trabajo recibido: job-1765914454355-zf0o0
+2025-12-16T19:47:36.266Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765914456265.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T19:47:36.266Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T19:47:36.267Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T19:47:36.329Z [INFO]: 📥 Nuevo trabajo recibido: job-1765914455370-8gpcl
+2025-12-16T19:47:36.331Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765914456330.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T19:47:36.331Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T19:47:36.331Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T19:47:37.292Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T19:47:38.117Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T19:47:43.893Z [INFO]: 📥 Nuevo trabajo recibido: job-1765914462304-ka3ui
+2025-12-16T19:47:43.895Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765914463894.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T19:47:43.896Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T19:47:43.896Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T19:47:45.332Z [INFO]: 📥 Nuevo trabajo recibido: job-1765914463404-51flc
+2025-12-16T19:47:45.334Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765914465333.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T19:47:45.334Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T19:47:45.335Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T19:47:45.782Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T19:47:46.894Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T19:47:48.827Z [INFO]: 📥 Nuevo trabajo recibido: job-1765914468361-kpsbv
+2025-12-16T19:47:48.828Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765914468827.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T19:47:48.829Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T19:47:48.829Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T19:47:49.569Z [INFO]: 📥 Nuevo trabajo recibido: job-1765914469098-tlszc
+2025-12-16T19:47:49.572Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765914469570.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T19:47:49.572Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T19:47:49.573Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T19:47:50.431Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T19:47:51.366Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T19:47:52.328Z [INFO]: 📥 Nuevo trabajo recibido: job-1765914472021-3yfce
+2025-12-16T19:47:52.329Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765914472328.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T19:47:52.329Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T19:47:52.330Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T19:47:53.131Z [INFO]: 📥 Nuevo trabajo recibido: job-1765914472823-x5kc8
+2025-12-16T19:47:53.134Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765914473132.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T19:47:53.135Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T19:47:53.135Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T19:47:53.929Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T19:47:54.744Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T19:50:54.479Z [INFO]: 💓 Agente activo.
+2025-12-16T19:56:36.550Z [INFO]: 📥 Nuevo trabajo recibido: job-1765914994777-757bg
+2025-12-16T19:56:36.551Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765914996550.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T19:56:36.552Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T19:56:36.552Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T19:56:38.214Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T20:00:20.213Z [INFO]: 📥 Nuevo trabajo recibido: job-1765915218712-dxas2
+2025-12-16T20:00:20.214Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765915220213.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T20:00:20.215Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T20:00:20.215Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T20:00:21.566Z [INFO]: 📥 Nuevo trabajo recibido: job-1765915221267-yj7jf
+2025-12-16T20:00:21.568Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765915221566.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T20:00:21.572Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T20:00:21.573Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T20:00:22.048Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T20:00:23.234Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T20:03:04.348Z [INFO]: 📥 Nuevo trabajo recibido: job-1765915379980-p947z
+2025-12-16T20:03:04.349Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765915384348.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T20:03:04.350Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T20:03:04.350Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T20:03:04.450Z [INFO]: 📥 Nuevo trabajo recibido: job-1765915381155-v8b0k
+2025-12-16T20:03:04.452Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765915384450.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T20:03:04.453Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T20:03:04.453Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T20:03:05.705Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T20:03:05.867Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T20:03:16.357Z [INFO]: 📥 Nuevo trabajo recibido: job-1765915396013-nxxew
+2025-12-16T20:03:16.358Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765915396357.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T20:03:16.358Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T20:03:16.359Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T20:03:16.784Z [INFO]: 📥 Nuevo trabajo recibido: job-1765915396426-c0mx8
+2025-12-16T20:03:16.786Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765915396784.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T20:03:16.786Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T20:03:16.787Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T20:03:17.904Z [INFO]: 📥 Nuevo trabajo recibido: job-1765915397564-kguln
+2025-12-16T20:03:17.908Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765915397906.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T20:03:17.909Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T20:03:17.910Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T20:03:18.063Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T20:03:18.986Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T20:03:19.737Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T20:10:06.032Z [INFO]: 📥 Nuevo trabajo recibido: job-1765915804480-etxkj
+2025-12-16T20:10:06.034Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765915806033.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T20:10:06.035Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T20:10:06.035Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T20:10:08.370Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T20:10:10.910Z [INFO]: 📥 Nuevo trabajo recibido: job-1765915810554-dijmn
+2025-12-16T20:10:10.912Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765915810911.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T20:10:10.912Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T20:10:10.912Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T20:10:12.324Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T20:10:17.603Z [INFO]: 📥 Nuevo trabajo recibido: job-1765915816213-ts0z0
+2025-12-16T20:10:17.605Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765915817603.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T20:10:17.605Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T20:10:17.606Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T20:10:18.793Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T20:10:18.838Z [INFO]: 📥 Nuevo trabajo recibido: job-1765915817176-1jkc3
+2025-12-16T20:10:18.839Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765915818838.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T20:10:18.839Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T20:10:18.840Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T20:10:20.011Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T20:25:56.853Z [INFO]: 📥 Nuevo trabajo recibido: job-1765916755319-xcghf
+2025-12-16T20:25:56.854Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765916756853.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T20:25:56.854Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T20:25:56.854Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T20:25:59.698Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T20:26:06.430Z [INFO]: 📥 Nuevo trabajo recibido: job-1765916766107-7oqqc
+2025-12-16T20:26:06.431Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765916766430.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T20:26:06.432Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T20:26:06.432Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T20:26:07.457Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T20:27:05.032Z [INFO]: 📥 Nuevo trabajo recibido: job-1765916823475-mncz0
+2025-12-16T20:27:05.035Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765916825033.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T20:27:05.035Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T20:27:05.036Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T20:27:06.966Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T20:27:18.968Z [INFO]: 📥 Nuevo trabajo recibido: job-1765916837393-6hhxv
+2025-12-16T20:27:18.969Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765916838968.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T20:27:18.970Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T20:27:18.970Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T20:27:20.308Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T20:27:32.878Z [INFO]: 📥 Nuevo trabajo recibido: job-1765916852550-shk86
+2025-12-16T20:27:32.901Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765916852882.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T20:27:32.930Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T20:27:32.934Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T20:27:33.244Z [INFO]: 📥 Nuevo trabajo recibido: job-1765916852814-2c2ix
+2025-12-16T20:27:33.288Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765916853262.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T20:27:33.333Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T20:27:33.349Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T20:27:38.392Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T20:27:39.214Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T20:28:02.875Z [INFO]: 📥 Nuevo trabajo recibido: job-1765916881243-8x0lf
+2025-12-16T20:28:02.876Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765916882875.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T20:28:02.877Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T20:28:02.877Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T20:28:04.320Z [INFO]: 📥 Nuevo trabajo recibido: job-1765916881746-rdfn1
+2025-12-16T20:28:04.322Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765916884321.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T20:28:04.323Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T20:28:04.323Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T20:28:04.374Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T20:28:06.002Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T20:31:22.044Z [INFO]: 📥 Nuevo trabajo recibido: job-1765917079878-knomi
+2025-12-16T20:31:22.046Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765917082045.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T20:31:22.046Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T20:31:22.047Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T20:31:22.090Z [INFO]: 📥 Nuevo trabajo recibido: job-1765917080079-1btbj
+2025-12-16T20:31:22.092Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765917082090.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T20:31:22.092Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T20:31:22.093Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T20:31:23.680Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T20:31:24.584Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T20:31:30.887Z [INFO]: 📥 Nuevo trabajo recibido: job-1765917090588-6zfep
+2025-12-16T20:31:30.888Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765917090887.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T20:31:30.888Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T20:31:30.888Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T20:31:31.110Z [INFO]: 📥 Nuevo trabajo recibido: job-1765917090767-96fzh
+2025-12-16T20:31:31.112Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765917091111.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T20:31:31.112Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T20:31:31.112Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T20:31:32.032Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T20:31:32.827Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T20:46:56.270Z [INFO]: 📥 Nuevo trabajo recibido: job-1765918014419-4c3ma
+2025-12-16T20:46:56.272Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765918016270.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T20:46:56.272Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T20:46:56.272Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T20:46:56.333Z [INFO]: 📥 Nuevo trabajo recibido: job-1765918014641-2ujc0
+2025-12-16T20:46:56.335Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765918016333.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T20:46:56.335Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T20:46:56.335Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T20:46:56.395Z [INFO]: 📥 Nuevo trabajo recibido: job-1765918014870-n9iy2
+2025-12-16T20:46:56.397Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765918016396.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T20:46:56.397Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T20:46:56.397Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T20:46:58.789Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T20:46:58.798Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T20:46:58.917Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T20:47:26.157Z [INFO]: 📥 Nuevo trabajo recibido: job-1765918044890-y5o95
+2025-12-16T20:47:26.158Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765918046157.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T20:47:26.158Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T20:47:26.159Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T20:47:27.077Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T20:47:27.283Z [INFO]: 📥 Nuevo trabajo recibido: job-1765918045042-eorfx
+2025-12-16T20:47:27.285Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765918047284.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T20:47:27.285Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-16T20:47:27.285Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T20:47:28.200Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T20:50:54.531Z [INFO]: 💓 Agente activo.
+2025-12-16T20:56:09.507Z [INFO]: 📥 Nuevo trabajo recibido: job-1765918567299-hrjer
+2025-12-16T20:56:09.508Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765918569507.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T20:56:09.509Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T20:56:09.509Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T20:56:09.572Z [INFO]: 📥 Nuevo trabajo recibido: job-1765918567606-sudu8
+2025-12-16T20:56:09.585Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765918569572.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T20:56:09.585Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T20:56:09.586Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T20:56:09.619Z [INFO]: 📥 Nuevo trabajo recibido: job-1765918567717-nxmfz
+2025-12-16T20:56:09.621Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765918569619.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T20:56:09.621Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T20:56:09.622Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T20:56:12.407Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T20:56:12.587Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T20:56:12.650Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T20:59:14.968Z [INFO]: 🚀 Iniciando Print Agent v2.0 (Admin SDK + Logical Queues)
+2025-12-16T20:59:15.097Z [INFO]: 📡 Conectado a Firestore como: firebase-adminsdk-fbsvc@logistica-criterio.iam.gserviceaccount.com
+2025-12-16T20:59:15.132Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2025-12-16T20:59:19.520Z [INFO]: 🧹 Cola de Windows limpia.
+2025-12-16T21:00:08.067Z [INFO]: 📥 Nuevo trabajo recibido: job-1765918806151-9jomc
+2025-12-16T21:00:08.068Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765918808067.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T21:00:08.068Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:00:08.069Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:00:08.129Z [INFO]: 📥 Nuevo trabajo recibido: job-1765918806151-9jomc
+2025-12-16T21:00:08.131Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765918808130.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T21:00:08.131Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:00:08.132Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:00:08.163Z [INFO]: 📥 Nuevo trabajo recibido: job-1765918806377-uaqos
+2025-12-16T21:00:08.165Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765918808164.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T21:00:08.169Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:00:08.169Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:00:08.238Z [INFO]: 📥 Nuevo trabajo recibido: job-1765918806595-a1nuw
+2025-12-16T21:00:08.240Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765918808239.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T21:00:08.241Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:00:08.241Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:00:08.344Z [INFO]: 📥 Nuevo trabajo recibido: job-1765918806377-uaqos
+2025-12-16T21:00:08.346Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765918808345.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T21:00:08.347Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:00:08.348Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:00:08.434Z [INFO]: 📥 Nuevo trabajo recibido: job-1765918806595-a1nuw
+2025-12-16T21:00:08.439Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765918808437.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T21:00:08.441Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:00:08.442Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:00:11.902Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:00:12.721Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:00:12.738Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:00:12.992Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:00:13.144Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:00:13.397Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:03:01.692Z [INFO]: 📥 Nuevo trabajo recibido: job-1765918979940-2zo6y
+2025-12-16T21:03:01.693Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765918981692.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T21:03:01.693Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:03:01.694Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:03:01.711Z [INFO]: 📥 Nuevo trabajo recibido: job-1765918979940-2zo6y
+2025-12-16T21:03:01.712Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765918981711.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T21:03:01.712Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:03:01.712Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:03:01.881Z [INFO]: 📥 Nuevo trabajo recibido: job-1765918980245-rd44r
+2025-12-16T21:03:01.883Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765918981881.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T21:03:01.883Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:03:01.883Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:03:01.920Z [INFO]: 📥 Nuevo trabajo recibido: job-1765918980245-rd44r
+2025-12-16T21:03:01.921Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765918981920.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T21:03:01.922Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:03:01.922Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:03:03.875Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:03:03.917Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:03:04.649Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:03:04.752Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:07:49.136Z [INFO]: 📥 Nuevo trabajo recibido: job-1765919267549-a93fj
+2025-12-16T21:07:49.139Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765919269137.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T21:07:49.140Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:07:49.140Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:07:49.161Z [INFO]: 📥 Nuevo trabajo recibido: job-1765919267549-a93fj
+2025-12-16T21:07:49.164Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765919269161.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T21:07:49.174Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:07:49.176Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:07:49.209Z [INFO]: 📥 Nuevo trabajo recibido: job-1765919267749-3kji8
+2025-12-16T21:07:49.213Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765919269211.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T21:07:49.214Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:07:49.214Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:07:49.234Z [INFO]: 📥 Nuevo trabajo recibido: job-1765919267749-3kji8
+2025-12-16T21:07:49.242Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765919269241.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T21:07:49.243Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:07:49.243Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:07:49.268Z [INFO]: 📥 Nuevo trabajo recibido: job-1765919268023-96xyl
+2025-12-16T21:07:49.299Z [INFO]: 📥 Nuevo trabajo recibido: job-1765919268023-96xyl
+2025-12-16T21:07:49.280Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765919269278.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T21:07:49.284Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:07:49.293Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:07:49.305Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765919269302.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T21:07:49.314Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:07:49.318Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:07:53.587Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:07:53.593Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:07:54.318Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:07:54.477Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:07:54.500Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:07:54.566Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:12:03.540Z [INFO]: 📥 Nuevo trabajo recibido: job-1765919521423-xvazi
+2025-12-16T21:12:03.542Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765919523541.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T21:12:03.543Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:12:03.543Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:12:03.563Z [INFO]: 📥 Nuevo trabajo recibido: job-1765919521423-xvazi
+2025-12-16T21:12:03.599Z [INFO]: 📥 Nuevo trabajo recibido: job-1765919521593-esdpk
+2025-12-16T21:12:03.574Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765919523564.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T21:12:03.576Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:12:03.581Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:12:03.602Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765919523600.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T21:12:03.605Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:12:03.606Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:12:03.622Z [INFO]: 📥 Nuevo trabajo recibido: job-1765919521593-esdpk
+2025-12-16T21:12:03.624Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765919523623.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T21:12:03.625Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:12:03.626Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:12:03.673Z [INFO]: 📥 Nuevo trabajo recibido: job-1765919521891-mcnhb
+2025-12-16T21:12:03.677Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765919523676.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T21:12:03.678Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:12:03.680Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:12:03.695Z [INFO]: 📥 Nuevo trabajo recibido: job-1765919521891-mcnhb
+2025-12-16T21:12:03.697Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765919523695.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T21:12:03.699Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:12:03.700Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:12:07.343Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:12:07.357Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:12:08.068Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:12:08.204Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:12:08.257Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:12:08.366Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:12:34.714Z [INFO]: 📥 Nuevo trabajo recibido: job-1765919554420-3wv1a
+2025-12-16T21:12:34.716Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765919554715.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T21:12:34.716Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:12:34.717Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:12:34.734Z [INFO]: 📥 Nuevo trabajo recibido: job-1765919554420-3wv1a
+2025-12-16T21:12:34.736Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765919554735.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T21:12:34.736Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:12:34.736Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:12:35.218Z [INFO]: 📥 Nuevo trabajo recibido: job-1765919554902-q9jis
+2025-12-16T21:12:35.219Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765919555218.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T21:12:35.220Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:12:35.221Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:12:35.246Z [INFO]: 📥 Nuevo trabajo recibido: job-1765919554902-q9jis
+2025-12-16T21:12:35.263Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765919555258.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T21:12:35.265Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:12:35.265Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:12:36.003Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:12:36.022Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:12:36.964Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:12:36.990Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:19:02.940Z [INFO]: 📥 Nuevo trabajo recibido: job-1765919941357-3fa9l
+2025-12-16T21:19:02.942Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765919942941.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T21:19:02.942Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:19:02.942Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:19:02.961Z [INFO]: 📥 Nuevo trabajo recibido: job-1765919941357-3fa9l
+2025-12-16T21:19:02.962Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765919942961.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T21:19:02.962Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:19:02.963Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:19:05.346Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:19:05.378Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:20:10.983Z [INFO]: 📥 Nuevo trabajo recibido: UPYkeFaFB63jabeWYC6h
+2025-12-16T21:20:10.991Z [INFO]: 📥 Nuevo trabajo recibido: UPYkeFaFB63jabeWYC6h
+2025-12-16T21:20:10.986Z [INFO]: 📄 PDF guardado temp: ticket_FA2VilDBIcCQtiIy5DZY_1765920010984.pdf (Ticket: FA2VilDBIcCQtiIy5DZY)
+2025-12-16T21:20:10.986Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:20:10.987Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:20:10.993Z [INFO]: 📄 PDF guardado temp: ticket_FA2VilDBIcCQtiIy5DZY_1765920010991.pdf (Ticket: FA2VilDBIcCQtiIy5DZY)
+2025-12-16T21:20:11.004Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:20:11.004Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:20:13.207Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:20:13.245Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:20:34.277Z [INFO]: 📥 Nuevo trabajo recibido: U7xYdxetQj2EuII3npH0
+2025-12-16T21:20:34.279Z [INFO]: 📥 Nuevo trabajo recibido: U7xYdxetQj2EuII3npH0
+2025-12-16T21:20:34.282Z [INFO]: 📄 PDF guardado temp: ticket_BATCH_1765920034280.pdf (Ticket: BATCH)
+2025-12-16T21:20:34.283Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:20:34.284Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:20:34.282Z [INFO]: 📄 PDF guardado temp: ticket_BATCH_1765920034278.pdf (Ticket: BATCH)
+2025-12-16T21:20:34.283Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:20:34.283Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:20:36.206Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:20:36.221Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:32:59.266Z [INFO]: 📥 Nuevo trabajo recibido: job-1765920777306-wskqf
+2025-12-16T21:32:59.272Z [INFO]: 📥 Nuevo trabajo recibido: job-1765920777306-wskqf
+2025-12-16T21:32:59.268Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765920779266.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T21:32:59.268Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:32:59.268Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:32:59.274Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765920779273.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T21:32:59.274Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:32:59.275Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:32:59.355Z [INFO]: 📥 Nuevo trabajo recibido: job-1765920777462-9a9q2
+2025-12-16T21:32:59.355Z [INFO]: 📥 Nuevo trabajo recibido: job-1765920777462-9a9q2
+2025-12-16T21:32:59.359Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765920779356.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T21:32:59.360Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:32:59.360Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:32:59.358Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765920779357.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T21:32:59.359Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:32:59.360Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:33:02.185Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:33:02.226Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:33:02.309Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:33:02.310Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:41:52.085Z [INFO]: 📥 Nuevo trabajo recibido: job-1765921309904-ufzju
+2025-12-16T21:41:52.085Z [INFO]: 📥 Nuevo trabajo recibido: job-1765921309904-ufzju
+2025-12-16T21:41:52.086Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765921312085.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T21:41:52.086Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:41:52.087Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:41:52.086Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765921312085.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T21:41:52.086Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:41:52.086Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:41:52.106Z [INFO]: 📥 Nuevo trabajo recibido: job-1765921310104-r2agf
+2025-12-16T21:41:52.108Z [INFO]: 📥 Nuevo trabajo recibido: job-1765921310104-r2agf
+2025-12-16T21:41:52.108Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765921312107.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T21:41:52.108Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:41:52.109Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:41:52.110Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765921312108.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T21:41:52.111Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:41:52.113Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:41:54.546Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:41:54.591Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:41:55.419Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:41:55.429Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:42:03.525Z [INFO]: 📥 Nuevo trabajo recibido: job-1765921323159-btxa5
+2025-12-16T21:42:03.525Z [INFO]: 📥 Nuevo trabajo recibido: job-1765921323159-btxa5
+2025-12-16T21:42:03.528Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765921323526.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T21:42:03.530Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:42:03.531Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:42:03.530Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765921323526.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T21:42:03.531Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:42:03.532Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:42:03.812Z [INFO]: 📥 Nuevo trabajo recibido: job-1765921323335-12z0m
+2025-12-16T21:42:03.812Z [INFO]: 📥 Nuevo trabajo recibido: job-1765921323335-12z0m
+2025-12-16T21:42:03.814Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765921323813.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T21:42:03.817Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:42:03.818Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:42:03.814Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765921323812.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T21:42:03.814Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:42:03.815Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:42:04.102Z [INFO]: 📥 Nuevo trabajo recibido: job-1765921323540-kbf6j
+2025-12-16T21:42:04.104Z [INFO]: 📥 Nuevo trabajo recibido: job-1765921323540-kbf6j
+2025-12-16T21:42:04.110Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765921324105.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T21:42:04.113Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:42:04.114Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:42:04.104Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765921324103.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T21:42:04.112Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T21:42:04.114Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T21:42:06.463Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:42:06.480Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:42:07.298Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:42:07.368Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:42:07.569Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:42:07.810Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T21:50:54.557Z [INFO]: 💓 Agente activo.
+2025-12-16T21:59:15.894Z [INFO]: 💓 Agente activo.
+2025-12-16T22:06:03.115Z [INFO]: 📥 Nuevo trabajo recibido: job-1765922761615-mjq4c
+2025-12-16T22:06:03.116Z [INFO]: 📥 Nuevo trabajo recibido: job-1765922761615-mjq4c
+2025-12-16T22:06:03.116Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765922763115.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T22:06:03.117Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T22:06:03.117Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T22:06:03.117Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765922763117.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T22:06:03.118Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T22:06:03.118Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T22:06:06.142Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T22:06:06.246Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T22:06:10.400Z [INFO]: 📥 Nuevo trabajo recibido: job-1765922770100-2c4v1
+2025-12-16T22:06:10.403Z [INFO]: 📥 Nuevo trabajo recibido: job-1765922770100-2c4v1
+2025-12-16T22:06:10.402Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765922770400.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T22:06:10.402Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T22:06:10.403Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T22:06:10.406Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765922770404.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T22:06:10.412Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T22:06:10.414Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T22:06:10.723Z [INFO]: 📥 Nuevo trabajo recibido: job-1765922770290-nb1bk
+2025-12-16T22:06:10.724Z [INFO]: 📥 Nuevo trabajo recibido: job-1765922770290-nb1bk
+2025-12-16T22:06:10.728Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765922770726.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T22:06:10.729Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T22:06:10.731Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T22:06:10.729Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765922770724.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T22:06:10.731Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T22:06:10.738Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T22:06:10.950Z [INFO]: 📥 Nuevo trabajo recibido: job-1765922770560-6tdqj
+2025-12-16T22:06:10.951Z [INFO]: 📥 Nuevo trabajo recibido: job-1765922770560-6tdqj
+2025-12-16T22:06:10.964Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765922770962.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T22:06:10.967Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T22:06:10.970Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T22:06:10.974Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765922770964.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T22:06:10.987Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T22:06:10.989Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T22:06:14.745Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T22:06:14.910Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T22:06:15.067Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T22:06:15.189Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T22:06:15.240Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T22:06:15.275Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T22:50:54.572Z [INFO]: 💓 Agente activo.
+2025-12-16T22:59:15.906Z [INFO]: 💓 Agente activo.
+2025-12-16T23:50:54.605Z [INFO]: 💓 Agente activo.
+2025-12-16T23:58:23.043Z [INFO]: 📥 Nuevo trabajo recibido: job-1765929500528-iixi4
+2025-12-16T23:58:23.043Z [INFO]: 📥 Nuevo trabajo recibido: job-1765929500528-iixi4
+2025-12-16T23:58:23.046Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765929503044.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T23:58:23.046Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T23:58:23.047Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T23:58:23.046Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765929503044.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T23:58:23.048Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T23:58:23.048Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T23:58:23.233Z [INFO]: 📥 Nuevo trabajo recibido: job-1765929500713-3uo3d
+2025-12-16T23:58:23.235Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765929503233.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T23:58:23.236Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T23:58:23.236Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T23:58:23.261Z [INFO]: 📥 Nuevo trabajo recibido: job-1765929500713-3uo3d
+2025-12-16T23:58:23.268Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765929503266.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T23:58:23.270Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T23:58:23.270Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T23:58:23.315Z [INFO]: 📥 Nuevo trabajo recibido: job-1765929500863-civis
+2025-12-16T23:58:23.322Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765929503315.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T23:58:23.326Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T23:58:23.331Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T23:58:23.366Z [INFO]: 📥 Nuevo trabajo recibido: job-1765929500863-civis
+2025-12-16T23:58:23.370Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765929503367.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T23:58:23.370Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T23:58:23.371Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T23:58:27.993Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T23:58:28.105Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T23:58:28.142Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T23:58:28.176Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T23:58:28.180Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T23:58:28.307Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T23:58:47.339Z [INFO]: 📥 Nuevo trabajo recibido: job-1765929526960-f0la3
+2025-12-16T23:58:47.324Z [INFO]: 📥 Nuevo trabajo recibido: job-1765929526960-f0la3
+2025-12-16T23:58:47.347Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765929527345.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T23:58:47.361Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T23:58:47.380Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T23:58:47.355Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765929527348.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T23:58:47.411Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T23:58:47.424Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T23:58:48.254Z [INFO]: 📥 Nuevo trabajo recibido: job-1765929527165-a9v4h
+2025-12-16T23:58:48.265Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765929528263.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T23:58:48.266Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T23:58:48.267Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T23:58:48.244Z [INFO]: 📥 Nuevo trabajo recibido: job-1765929527165-a9v4h
+2025-12-16T23:58:48.323Z [INFO]: 📥 Nuevo trabajo recibido: job-1765929527189-mixjl
+2025-12-16T23:58:48.358Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765929528356.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T23:58:48.376Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T23:58:48.391Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T23:58:48.418Z [INFO]: 📥 Nuevo trabajo recibido: job-1765929527210-bp01k
+2025-12-16T23:58:48.444Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765929528442.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T23:58:48.484Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T23:58:48.506Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T23:58:48.295Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765929528294.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T23:58:48.352Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T23:58:48.384Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T23:58:48.710Z [INFO]: 📥 Nuevo trabajo recibido: job-1765929527189-mixjl
+2025-12-16T23:58:48.780Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765929528766.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T23:58:48.806Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T23:58:48.856Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T23:58:49.135Z [INFO]: 📥 Nuevo trabajo recibido: job-1765929527210-bp01k
+2025-12-16T23:58:49.150Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765929529144.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-16T23:58:49.164Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-16T23:58:49.193Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-16T23:58:54.063Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T23:58:55.235Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T23:58:56.073Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T23:58:56.503Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T23:58:57.753Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T23:58:57.961Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T23:58:58.585Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T23:58:58.786Z [INFO]: ✅ Impresión confirmada.
+2025-12-16T23:59:15.996Z [INFO]: 💓 Agente activo.
+2025-12-17T00:01:40.504Z [INFO]: 🚀 Iniciando Print Agent v2.0 (Admin SDK + Logical Queues)
+2025-12-17T00:01:40.771Z [INFO]: 📡 Conectado a Firestore como: firebase-adminsdk-fbsvc@logistica-criterio.iam.gserviceaccount.com
+2025-12-17T00:01:40.831Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2025-12-17T00:01:51.545Z [INFO]: 🧹 Cola de Windows limpia.
+2025-12-17T00:04:36.811Z [INFO]: 📥 Nuevo trabajo recibido: job-1765929874173-vl4j5
+2025-12-17T00:04:36.870Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765929876851.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T00:04:36.884Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T00:04:36.887Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T00:04:37.054Z [INFO]: 📥 Nuevo trabajo recibido: job-1765929874214-49mjw
+2025-12-17T00:04:37.072Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765929877070.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T00:04:37.097Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T00:04:37.097Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T00:04:37.186Z [INFO]: 📥 Nuevo trabajo recibido: job-1765929874237-hl0b1
+2025-12-17T00:04:37.220Z [INFO]: 📥 Nuevo trabajo recibido: job-1765929874173-vl4j5
+2025-12-17T00:04:37.192Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765929877189.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T00:04:37.201Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T00:04:37.202Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T00:04:37.248Z [INFO]: 📥 Nuevo trabajo recibido: job-1765929874297-fxz5h
+2025-12-17T00:04:37.264Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765929877256.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T00:04:37.326Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T00:04:37.356Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T00:04:37.603Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765929877494.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T00:04:37.654Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T00:04:37.745Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T00:04:38.201Z [INFO]: 📥 Nuevo trabajo recibido: job-1765929874214-49mjw
+2025-12-17T00:04:38.209Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765929878204.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T00:04:38.215Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T00:04:38.217Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T00:04:38.306Z [INFO]: 📥 Nuevo trabajo recibido: job-1765929874237-hl0b1
+2025-12-17T00:04:38.397Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765929878364.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T00:04:38.405Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T00:04:38.421Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T00:04:38.613Z [INFO]: 📥 Nuevo trabajo recibido: job-1765929874297-fxz5h
+2025-12-17T00:04:38.628Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765929878620.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T00:04:38.646Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T00:04:38.665Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T00:04:47.357Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T00:04:48.172Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T00:04:48.301Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T00:04:48.335Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T00:04:48.715Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T00:04:48.982Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T00:04:49.084Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T00:04:50.057Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T00:06:18.602Z [INFO]: 📥 Nuevo trabajo recibido: job-1765929976338-s50bd
+2025-12-17T00:06:18.619Z [INFO]: 📥 Nuevo trabajo recibido: job-1765929976338-s50bd
+2025-12-17T00:06:18.618Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765929978616.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T00:06:18.620Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T00:06:18.630Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T00:06:18.678Z [INFO]: 📥 Nuevo trabajo recibido: job-1765929976363-ihjtc
+2025-12-17T00:06:18.686Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765929978684.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T00:06:18.692Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T00:06:18.766Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T00:06:18.834Z [INFO]: 📥 Nuevo trabajo recibido: job-1765929976399-fs14k
+2025-12-17T00:06:18.653Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765929978635.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T00:06:18.767Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T00:06:18.784Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T00:06:18.870Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765929978868.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T00:06:18.930Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T00:06:19.003Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T00:06:19.416Z [INFO]: 📥 Nuevo trabajo recibido: job-1765929976363-ihjtc
+2025-12-17T00:06:19.482Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765929979451.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T00:06:19.541Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T00:06:19.700Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T00:06:20.329Z [INFO]: 📥 Nuevo trabajo recibido: job-1765929976399-fs14k
+2025-12-17T00:06:20.415Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765929980382.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T00:06:20.465Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T00:06:20.470Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T00:06:27.199Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T00:06:27.822Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T00:06:28.116Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T00:06:28.425Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T00:06:29.372Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T00:06:29.444Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:01:42.258Z [INFO]: 💓 Agente activo.
+2025-12-17T01:02:15.472Z [INFO]: 📥 Nuevo trabajo recibido: job-1765933333260-u646n
+2025-12-17T01:02:15.474Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765933335472.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:02:15.474Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T01:02:15.475Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:02:15.556Z [INFO]: 📥 Nuevo trabajo recibido: job-1765933333378-2vs8x
+2025-12-17T01:02:15.558Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765933335557.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:02:15.559Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T01:02:15.559Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:02:15.630Z [INFO]: 📥 Nuevo trabajo recibido: job-1765933333599-w280r
+2025-12-17T01:02:15.634Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765933335631.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:02:15.635Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T01:02:15.635Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:02:17.548Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:02:17.662Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:02:17.665Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:04:20.351Z [INFO]: 📥 Nuevo trabajo recibido: job-1765933453759-ifuz9
+2025-12-17T01:04:20.352Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765933460351.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:04:20.353Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:04:20.353Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:04:20.519Z [INFO]: 📥 Nuevo trabajo recibido: job-1765933453813-bjzwh
+2025-12-17T01:04:20.520Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765933460519.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:04:20.520Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:04:20.520Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:04:20.627Z [INFO]: 📥 Nuevo trabajo recibido: job-1765933453855-a4gpg
+2025-12-17T01:04:20.628Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765933460627.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:04:20.629Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:04:20.640Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:04:22.302Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:04:22.413Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:04:22.427Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:05:13.068Z [INFO]: 📥 Nuevo trabajo recibido: job-1765933511458-10kwf
+2025-12-17T01:05:13.070Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765933513069.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:05:13.070Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:05:13.070Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:05:14.026Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:05:15.345Z [INFO]: 📥 Nuevo trabajo recibido: job-1765933513794-jay90
+2025-12-17T01:05:15.347Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765933515345.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:05:15.347Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:05:15.347Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:05:16.441Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:07:56.220Z [INFO]: 📥 Nuevo trabajo recibido: job-1765933673368-o2gkh
+2025-12-17T01:07:56.222Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765933676220.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:07:56.222Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:07:56.222Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:07:57.200Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:08:18.290Z [INFO]: 📥 Nuevo trabajo recibido: job-1765933696681-z33mg
+2025-12-17T01:08:18.291Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765933698290.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:08:18.292Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:08:18.292Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:08:19.204Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:08:19.699Z [INFO]: 📥 Nuevo trabajo recibido: job-1765933696834-b05uz
+2025-12-17T01:08:19.701Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765933699700.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:08:19.701Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:08:19.701Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:08:20.527Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:08:54.637Z [INFO]: 📥 Nuevo trabajo recibido: job-1765933733003-7sfle
+2025-12-17T01:08:54.638Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765933734637.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:08:54.638Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:08:54.638Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:08:55.523Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:11:32.023Z [INFO]: 📥 Nuevo trabajo recibido: job-1765933889580-jcf0n
+2025-12-17T01:11:32.024Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765933892023.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:11:32.025Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:11:32.025Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:11:33.119Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:11:40.805Z [INFO]: 📥 Nuevo trabajo recibido: job-1765933899460-kuur0
+2025-12-17T01:11:40.807Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765933900806.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:11:40.807Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:11:40.808Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:11:41.652Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:11:44.146Z [INFO]: 📥 Nuevo trabajo recibido: job-1765933902804-6wxbd
+2025-12-17T01:11:44.148Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765933904146.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:11:44.148Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:11:44.149Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:11:45.030Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:11:48.435Z [INFO]: 📥 Nuevo trabajo recibido: job-1765933907085-97s6l
+2025-12-17T01:11:48.437Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765933908435.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:11:48.437Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:11:48.437Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:11:49.257Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:11:53.590Z [INFO]: 📥 Nuevo trabajo recibido: job-1765933912240-7rd92
+2025-12-17T01:11:53.592Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765933913590.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:11:53.592Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:11:53.592Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:11:54.427Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:12:05.743Z [INFO]: 📥 Nuevo trabajo recibido: job-1765933924121-cqf9u
+2025-12-17T01:12:05.745Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765933925744.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:12:05.745Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:12:05.745Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:12:06.593Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:20:03.712Z [INFO]: 📥 Nuevo trabajo recibido: job-1765934400630-eppky
+2025-12-17T01:20:03.713Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765934403712.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:20:03.713Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:20:03.713Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:20:05.451Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:20:11.097Z [INFO]: 📥 Nuevo trabajo recibido: job-1765934409304-21bi4
+2025-12-17T01:20:11.099Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765934411098.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:20:11.099Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:20:11.100Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:20:11.987Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:21:55.315Z [INFO]: 📥 Nuevo trabajo recibido: job-1765934512882-odzdp
+2025-12-17T01:21:55.317Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765934515315.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:21:55.317Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:21:55.317Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:21:56.197Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:23:35.330Z [INFO]: 📥 Nuevo trabajo recibido: job-1765934613831-nob5t
+2025-12-17T01:23:35.332Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765934615330.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:23:35.332Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T01:23:35.332Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:23:36.173Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:23:58.236Z [INFO]: 📥 Nuevo trabajo recibido: job-1765934637801-rq1z1
+2025-12-17T01:23:58.237Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765934638236.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:23:58.237Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T01:23:58.237Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:23:59.064Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:24:06.901Z [INFO]: 📥 Nuevo trabajo recibido: job-1765934645415-hpehs
+2025-12-17T01:24:06.902Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765934646901.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:24:06.902Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:24:06.903Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:24:07.792Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:24:08.152Z [INFO]: 📥 Nuevo trabajo recibido: job-1765934645476-xpc25
+2025-12-17T01:24:08.153Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765934648152.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:24:08.154Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:24:08.154Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:24:09.004Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:24:19.625Z [INFO]: 📥 Nuevo trabajo recibido: job-1765934658126-ini68
+2025-12-17T01:24:19.627Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765934659625.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:24:19.627Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:24:19.627Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:24:20.479Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:24:29.693Z [INFO]: 📥 Nuevo trabajo recibido: job-1765934668200-lt4l1
+2025-12-17T01:24:29.695Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765934669693.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:24:29.695Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:24:29.695Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:24:30.552Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:28:17.552Z [INFO]: 📥 Nuevo trabajo recibido: job-1765934895987-e3tbs
+2025-12-17T01:28:17.553Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765934897552.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:28:17.554Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T01:28:17.554Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:28:17.865Z [INFO]: 📥 Nuevo trabajo recibido: job-1765934897520-sbm5k
+2025-12-17T01:28:17.867Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765934897865.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:28:17.868Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T01:28:17.868Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:28:18.660Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:28:19.377Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:28:23.698Z [INFO]: 📥 Nuevo trabajo recibido: job-1765934903356-cda72
+2025-12-17T01:28:23.699Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765934903698.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:28:23.700Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T01:28:23.700Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:28:24.268Z [INFO]: 📥 Nuevo trabajo recibido: job-1765934903949-7nv34
+2025-12-17T01:28:24.270Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765934904269.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:28:24.270Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T01:28:24.270Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:28:24.632Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:28:25.543Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:32:47.321Z [INFO]: 📥 Nuevo trabajo recibido: job-1765935164930-96myl
+2025-12-17T01:32:47.322Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765935167321.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:32:47.323Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:32:47.323Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:32:49.221Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:33:01.385Z [INFO]: 📥 Nuevo trabajo recibido: job-1765935180006-e7432
+2025-12-17T01:33:01.387Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765935181386.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:33:01.388Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:33:01.388Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:33:02.266Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:33:11.689Z [INFO]: 📥 Nuevo trabajo recibido: job-1765935190319-yzud2
+2025-12-17T01:33:11.690Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765935191689.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:33:11.691Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:33:11.691Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:33:12.581Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:33:16.769Z [INFO]: 📥 Nuevo trabajo recibido: job-1765935195397-y06hl
+2025-12-17T01:33:16.770Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765935196769.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:33:16.770Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:33:16.771Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:33:17.656Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:33:31.452Z [INFO]: 📥 Nuevo trabajo recibido: job-1765935210092-iveks
+2025-12-17T01:33:31.454Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765935211453.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:33:31.454Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:33:31.454Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:33:32.292Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:33:45.215Z [INFO]: 📥 Nuevo trabajo recibido: job-1765935222492-9wpvs
+2025-12-17T01:33:45.227Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765935225215.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:33:45.228Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:33:45.228Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:33:46.242Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:36:15.449Z [INFO]: 📥 Nuevo trabajo recibido: job-1765935373308-mgyeb
+2025-12-17T01:36:15.451Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765935375449.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:36:15.451Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:36:15.451Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:36:15.520Z [INFO]: 📥 Nuevo trabajo recibido: job-1765935373491-q82z3
+2025-12-17T01:36:15.522Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765935375520.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:36:15.522Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:36:15.522Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:36:16.690Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:36:17.496Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:37:30.243Z [INFO]: 📥 Nuevo trabajo recibido: job-1765935447189-k21su
+2025-12-17T01:37:30.245Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765935450244.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:37:30.245Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:37:30.245Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:37:31.175Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:37:42.249Z [INFO]: 📥 Nuevo trabajo recibido: job-1765935460543-lekps
+2025-12-17T01:37:42.251Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765935462250.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:37:42.251Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:37:42.252Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:37:43.129Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:37:52.257Z [INFO]: 📥 Nuevo trabajo recibido: job-1765935470559-vvar7
+2025-12-17T01:37:52.259Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765935472257.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:37:52.259Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:37:52.259Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:37:53.130Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:41:09.752Z [INFO]: 📥 Nuevo trabajo recibido: job-1765935667576-5ekaj
+2025-12-17T01:41:09.753Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765935669752.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:41:09.753Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T01:41:09.754Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:41:09.809Z [INFO]: 📥 Nuevo trabajo recibido: job-1765935667784-vopxv
+2025-12-17T01:41:09.810Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765935669810.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:41:09.811Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T01:41:09.811Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:41:10.911Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:41:11.869Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:41:21.649Z [INFO]: 📥 Nuevo trabajo recibido: job-1765935679992-rxi4v
+2025-12-17T01:41:21.651Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765935681649.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:41:21.651Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:41:21.651Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:41:22.549Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:41:23.368Z [INFO]: 📥 Nuevo trabajo recibido: job-1765935680059-dr57z
+2025-12-17T01:41:23.370Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765935683368.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:41:23.370Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:41:23.371Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:41:24.207Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:41:33.491Z [INFO]: 📥 Nuevo trabajo recibido: job-1765935691945-w0xja
+2025-12-17T01:41:33.493Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765935693492.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:41:33.493Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:41:33.493Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:41:34.383Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:41:37.761Z [INFO]: 📥 Nuevo trabajo recibido: job-1765935696107-z72ef
+2025-12-17T01:41:37.762Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765935697761.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:41:37.763Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:41:37.763Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:41:38.622Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:41:45.000Z [INFO]: 📥 Nuevo trabajo recibido: job-1765935703286-uw7j6
+2025-12-17T01:41:45.001Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765935705000.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:41:45.002Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:41:45.002Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:41:45.825Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:41:46.551Z [INFO]: 📥 Nuevo trabajo recibido: job-1765935703332-4ko1s
+2025-12-17T01:41:46.552Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765935706551.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:41:46.552Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:41:46.553Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:41:47.390Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:43:11.647Z [INFO]: 📥 Nuevo trabajo recibido: job-1765935788713-7a892
+2025-12-17T01:43:11.649Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765935791648.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:43:11.650Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:43:11.650Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:43:12.531Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:43:24.030Z [INFO]: 📥 Nuevo trabajo recibido: job-1765935802404-r6zor
+2025-12-17T01:43:24.032Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765935804031.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:43:24.032Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:43:24.032Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:43:25.580Z [INFO]: 📥 Nuevo trabajo recibido: job-1765935802482-hpb2s
+2025-12-17T01:43:25.583Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765935805581.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:43:25.584Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:43:25.584Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:43:26.007Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:43:27.594Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:43:41.641Z [INFO]: 📥 Nuevo trabajo recibido: bEWdnFXmoaANdMxDjHUe
+2025-12-17T01:43:41.643Z [INFO]: 📄 PDF guardado temp: ticket_fnEGvPlsQd6xMLZxNKXh_1765935821642.pdf (Ticket: fnEGvPlsQd6xMLZxNKXh)
+2025-12-17T01:43:41.643Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T01:43:41.643Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:43:42.808Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:44:16.802Z [INFO]: 📥 Nuevo trabajo recibido: job-1765935855241-7850x
+2025-12-17T01:44:16.804Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765935856802.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:44:16.804Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T01:44:16.804Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:44:17.664Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:44:25.900Z [INFO]: 📥 Nuevo trabajo recibido: job-1765935864322-w3aeq
+2025-12-17T01:44:25.901Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765935865900.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:44:25.902Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:44:25.902Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:44:26.768Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:44:36.058Z [INFO]: 📥 Nuevo trabajo recibido: job-1765935874509-kxq4t
+2025-12-17T01:44:36.059Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765935876058.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:44:36.059Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:44:36.060Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:44:36.922Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:44:51.024Z [INFO]: 📥 Nuevo trabajo recibido: job-1765935889424-1af1e
+2025-12-17T01:44:51.026Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765935891024.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:44:51.026Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:44:51.026Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:44:51.937Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:44:53.345Z [INFO]: 📥 Nuevo trabajo recibido: job-1765935891762-t1zq5
+2025-12-17T01:44:53.346Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765935893345.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:44:53.347Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:44:53.347Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:44:54.209Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:47:21.105Z [INFO]: 📥 Nuevo trabajo recibido: job-1765936038437-ug2a1
+2025-12-17T01:47:21.107Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765936041105.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:47:21.107Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:47:21.107Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:47:22.156Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:47:26.263Z [INFO]: 📥 Nuevo trabajo recibido: job-1765936044362-h7st8
+2025-12-17T01:47:26.265Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765936046264.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:47:26.265Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:47:26.265Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:47:27.410Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:48:12.157Z [INFO]: 📥 Nuevo trabajo recibido: job-1765936090595-iztzd
+2025-12-17T01:48:12.158Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765936092157.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:48:12.158Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:48:12.159Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:48:13.028Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:48:21.790Z [INFO]: 📥 Nuevo trabajo recibido: job-1765936100241-p2bih
+2025-12-17T01:48:21.792Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765936101790.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:48:21.793Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:48:21.793Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:48:22.607Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:48:32.025Z [INFO]: 📥 Nuevo trabajo recibido: job-1765936111542-otjsr
+2025-12-17T01:48:32.026Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765936112025.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:48:32.026Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T01:48:32.027Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:48:32.905Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:48:33.340Z [INFO]: 📥 Nuevo trabajo recibido: job-1765936112864-mb35i
+2025-12-17T01:48:33.342Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765936113341.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:48:33.342Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T01:48:33.342Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:48:34.331Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:49:06.420Z [INFO]: 📥 Nuevo trabajo recibido: job-1765936144707-3kwdb
+2025-12-17T01:49:06.421Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765936146420.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:49:06.422Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:49:06.422Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:49:07.342Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:50:06.253Z [INFO]: 📥 Nuevo trabajo recibido: job-1765936204718-hz8k7
+2025-12-17T01:50:06.254Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765936206253.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:50:06.255Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:50:06.255Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:50:07.112Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:50:07.783Z [INFO]: 📥 Nuevo trabajo recibido: job-1765936204768-w8eko
+2025-12-17T01:50:07.784Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765936207783.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:50:07.784Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:50:07.785Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:50:08.641Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:50:23.380Z [INFO]: 📥 Nuevo trabajo recibido: job-1765936220873-4rk59
+2025-12-17T01:50:23.382Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765936223381.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:50:23.382Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T01:50:23.382Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:50:23.445Z [INFO]: 📥 Nuevo trabajo recibido: job-1765936221048-i1clh
+2025-12-17T01:50:23.447Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765936223446.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:50:23.447Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T01:50:23.447Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:50:23.498Z [INFO]: 📥 Nuevo trabajo recibido: job-1765936221254-x899m
+2025-12-17T01:50:23.499Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765936223498.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:50:23.500Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T01:50:23.500Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:50:24.381Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:50:25.169Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:50:25.388Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:50:27.154Z [INFO]: 📥 Nuevo trabajo recibido: job-1765936225451-ucogh
+2025-12-17T01:50:27.155Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765936227154.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:50:27.155Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:50:27.155Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:50:27.994Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:50:30.436Z [INFO]: 📥 Nuevo trabajo recibido: job-1765936225501-6uf1s
+2025-12-17T01:50:30.438Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765936230436.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:50:30.438Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:50:30.438Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:50:30.508Z [INFO]: 📥 Nuevo trabajo recibido: job-1765936225544-ys34i
+2025-12-17T01:50:30.509Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765936230508.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:50:30.509Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:50:30.509Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:50:31.406Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:50:32.443Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:53:38.236Z [INFO]: 📥 Nuevo trabajo recibido: job-1765936416471-5okj2
+2025-12-17T01:53:38.237Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765936418236.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:53:38.238Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T01:53:38.238Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:53:38.255Z [INFO]: 📥 Nuevo trabajo recibido: job-1765936416645-fhwyg
+2025-12-17T01:53:38.256Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765936418255.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:53:38.257Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T01:53:38.257Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:53:40.066Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:53:40.881Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:53:45.021Z [INFO]: 📥 Nuevo trabajo recibido: job-1765936423643-utg13
+2025-12-17T01:53:45.022Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765936425021.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:53:45.023Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:53:45.023Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:53:46.263Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:53:46.273Z [INFO]: 📥 Nuevo trabajo recibido: job-1765936423706-28srt
+2025-12-17T01:53:46.275Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765936426273.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:53:46.275Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:53:46.275Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:53:47.623Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:54:12.641Z [INFO]: 📥 Nuevo trabajo recibido: job-1765936450932-tvdtf
+2025-12-17T01:54:12.642Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765936452641.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:54:12.643Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:54:12.643Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:54:13.571Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:54:14.159Z [INFO]: 📥 Nuevo trabajo recibido: job-1765936450983-u37at
+2025-12-17T01:54:14.161Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765936454159.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:54:14.161Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:54:14.162Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:54:15.024Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:55:57.322Z [INFO]: 📥 Nuevo trabajo recibido: job-1765936555432-z6apk
+2025-12-17T01:55:57.324Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765936557322.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:55:57.324Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T01:55:57.324Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:55:58.227Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:56:03.608Z [INFO]: 📥 Nuevo trabajo recibido: job-1765936561933-tu7kh
+2025-12-17T01:56:03.610Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765936563609.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:56:03.610Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:56:03.610Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:56:04.487Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T01:56:15.550Z [INFO]: 📥 Nuevo trabajo recibido: job-1765936573870-fskgk
+2025-12-17T01:56:15.552Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765936575550.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T01:56:15.552Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T01:56:15.552Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T01:56:16.407Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T02:01:42.296Z [INFO]: 💓 Agente activo.
+2025-12-17T02:02:09.818Z [INFO]: 📥 Nuevo trabajo recibido: job-1765936926733-mtvdb
+2025-12-17T02:02:09.820Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765936929819.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T02:02:09.820Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T02:02:09.821Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T02:02:11.597Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T02:02:18.030Z [INFO]: 📥 Nuevo trabajo recibido: job-1765936936452-ockkr
+2025-12-17T02:02:18.032Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765936938031.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T02:02:18.032Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T02:02:18.032Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T02:02:18.894Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T02:02:24.985Z [INFO]: 📥 Nuevo trabajo recibido: job-1765936943427-q94rc
+2025-12-17T02:02:24.986Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765936944985.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T02:02:24.987Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T02:02:24.987Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T02:02:26.028Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T02:19:18.828Z [INFO]: 📥 Nuevo trabajo recibido: JTsUvFUO8segrjzVBRyx
+2025-12-17T02:19:18.829Z [INFO]: 📄 PDF guardado temp: ticket_X7l6qMg94BePUcvlKIi1_1765937958828.pdf (Ticket: X7l6qMg94BePUcvlKIi1)
+2025-12-17T02:19:18.829Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T02:19:18.829Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T02:19:20.582Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T02:31:01.905Z [INFO]: 📥 Nuevo trabajo recibido: FK9ZHFAZ1zy79LLlO874
+2025-12-17T02:31:01.906Z [INFO]: 📄 PDF guardado temp: ticket_LURjX6Dr1fKUA4VtYuM2_1765938661905.pdf (Ticket: LURjX6Dr1fKUA4VtYuM2)
+2025-12-17T02:31:01.907Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T02:31:01.907Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T02:31:02.654Z [INFO]: 📥 Nuevo trabajo recibido: w6WstwhRxM5R4H6Itz97
+2025-12-17T02:31:02.656Z [INFO]: 📄 PDF guardado temp: ticket_6HisUBiLejRRL64sgWlz_1765938662654.pdf (Ticket: 6HisUBiLejRRL64sgWlz)
+2025-12-17T02:31:02.656Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T02:31:02.656Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T02:31:03.381Z [INFO]: 📥 Nuevo trabajo recibido: PZOfbPS8fgPrrRDMEz8l
+2025-12-17T02:31:03.387Z [INFO]: 📄 PDF guardado temp: ticket_mTXz01mdNdpx1V5UUmSq_1765938663386.pdf (Ticket: mTXz01mdNdpx1V5UUmSq)
+2025-12-17T02:31:03.389Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T02:31:03.390Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T02:31:04.127Z [INFO]: 📥 Nuevo trabajo recibido: YVZRIgrBkmXd6GnXG6ew
+2025-12-17T02:31:04.132Z [INFO]: 📄 PDF guardado temp: ticket_5ZRkzmX2qQSd6H76hnLZ_1765938664130.pdf (Ticket: 5ZRkzmX2qQSd6H76hnLZ)
+2025-12-17T02:31:04.137Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T02:31:04.137Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T02:31:04.583Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T02:31:04.868Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T02:31:05.725Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T02:31:06.300Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T02:36:20.484Z [INFO]: 📥 Nuevo trabajo recibido: ykmTla3SZ4pgGPB9fr9I
+2025-12-17T02:36:20.485Z [INFO]: 📄 PDF guardado temp: ticket_UgR41Pl5bpanJ4WnVyhp_1765938980484.pdf (Ticket: UgR41Pl5bpanJ4WnVyhp)
+2025-12-17T02:36:20.485Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T02:36:20.485Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T02:36:22.213Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T02:46:11.462Z [INFO]: 📥 Nuevo trabajo recibido: job-1765939568571-lswjc
+2025-12-17T02:46:11.463Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765939571462.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T02:46:11.463Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T02:46:11.464Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T02:46:13.432Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T02:55:58.919Z [INFO]: 📥 Nuevo trabajo recibido: ROZOsXlJESB931CdIZoO
+2025-12-17T02:55:58.921Z [INFO]: 📄 PDF guardado temp: ticket_YnJMatiYGLGtbpNe6QdY_1765940158919.pdf (Ticket: YnJMatiYGLGtbpNe6QdY)
+2025-12-17T02:55:58.921Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T02:55:58.921Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T02:56:00.702Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T03:01:42.316Z [INFO]: 💓 Agente activo.
+2025-12-17T03:09:37.051Z [INFO]: 📥 Nuevo trabajo recibido: L6oLzOyUCgLh4umJzSvu
+2025-12-17T03:09:37.052Z [INFO]: 📄 PDF guardado temp: ticket_pZYwYbIhpQLDPVaGlZ81_1765940977051.pdf (Ticket: pZYwYbIhpQLDPVaGlZ81)
+2025-12-17T03:09:37.052Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T03:09:37.052Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T03:09:38.917Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T04:01:42.335Z [INFO]: 💓 Agente activo.
+2025-12-17T05:01:42.427Z [INFO]: 💓 Agente activo.
+2025-12-17T06:01:42.476Z [INFO]: 💓 Agente activo.
+2025-12-17T07:01:42.514Z [INFO]: 💓 Agente activo.
+2025-12-17T08:01:42.542Z [INFO]: 💓 Agente activo.
+2025-12-17T09:01:42.590Z [INFO]: 💓 Agente activo.
+2025-12-17T10:01:42.665Z [INFO]: 💓 Agente activo.
+2025-12-17T11:01:42.705Z [INFO]: 💓 Agente activo.
+2025-12-17T11:47:21.393Z [INFO]: 📥 Nuevo trabajo recibido: job-1765972037404-lcl9u
+2025-12-17T11:47:21.395Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765972041394.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T11:47:21.395Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T11:47:21.395Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T11:47:23.298Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T11:48:30.777Z [INFO]: 📥 Nuevo trabajo recibido: job-1765972108014-a1owi
+2025-12-17T11:48:30.779Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765972110778.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T11:48:30.779Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T11:48:30.779Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T11:48:31.758Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T12:01:42.739Z [INFO]: 💓 Agente activo.
+2025-12-17T12:13:48.727Z [INFO]: 📥 Nuevo trabajo recibido: job-1765973625463-i29td
+2025-12-17T12:13:48.729Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765973628728.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T12:13:48.729Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T12:13:48.729Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T12:13:50.636Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T12:14:06.775Z [INFO]: 📥 Nuevo trabajo recibido: job-1765973638084-hc15d
+2025-12-17T12:14:06.776Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765973646775.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T12:14:06.776Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T12:14:06.777Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T12:14:07.776Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T12:14:08.725Z [INFO]: 📥 Nuevo trabajo recibido: job-1765973645175-0nl8d
+2025-12-17T12:14:08.726Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765973648725.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T12:14:08.726Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T12:14:08.726Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T12:14:09.636Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T12:14:12.056Z [INFO]: 📥 Nuevo trabajo recibido: job-1765973650003-tsqmj
+2025-12-17T12:14:12.057Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1765973652056.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-17T12:14:12.057Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-17T12:14:12.057Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T12:14:12.921Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T13:01:42.777Z [INFO]: 💓 Agente activo.
+2025-12-17T13:10:12.060Z [INFO]: 📥 Nuevo trabajo recibido: AgijSDWrMYht4aCJseMB
+2025-12-17T13:10:12.063Z [INFO]: 📄 PDF guardado temp: ticket_sXtSwyNEoDqOVAWq72IM_1765977012061.pdf (Ticket: sXtSwyNEoDqOVAWq72IM)
+2025-12-17T13:10:12.063Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T13:10:12.063Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T13:10:13.695Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T14:01:42.845Z [INFO]: 💓 Agente activo.
+2025-12-17T15:01:42.897Z [INFO]: 💓 Agente activo.
+2025-12-17T16:01:42.933Z [INFO]: 💓 Agente activo.
+2025-12-17T16:30:06.834Z [INFO]: 📥 Nuevo trabajo recibido: hYVKilBLWiwW7ryEq6IZ
+2025-12-17T16:30:06.836Z [INFO]: 📄 PDF guardado temp: ticket_EjG7gJbDQyGI0eeEhhrZ_1765989006834.pdf (Ticket: EjG7gJbDQyGI0eeEhhrZ)
+2025-12-17T16:30:06.836Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T16:30:06.836Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T16:30:08.884Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T16:44:49.116Z [INFO]: 📥 Nuevo trabajo recibido: RT1ExV9bGiinMnLM5GFo
+2025-12-17T16:44:49.118Z [INFO]: 📄 PDF guardado temp: ticket_mQNo574sxaXui1plRn6n_1765989889117.pdf (Ticket: mQNo574sxaXui1plRn6n)
+2025-12-17T16:44:49.118Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-17T16:44:49.118Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-17T16:44:50.752Z [INFO]: ✅ Impresión confirmada.
+2025-12-17T17:01:42.957Z [INFO]: 💓 Agente activo.
+2025-12-17T18:01:43.000Z [INFO]: 💓 Agente activo.
+2025-12-17T19:01:43.060Z [INFO]: 💓 Agente activo.
+2025-12-17T20:01:43.097Z [INFO]: 💓 Agente activo.
+2025-12-17T21:01:43.138Z [INFO]: 💓 Agente activo.
+2025-12-17T22:01:43.170Z [INFO]: 💓 Agente activo.
+2025-12-18T02:33:06.297Z [ERROR]: ❌ Error de conexión stream: undefined. Reintentando en 1s...
+2025-12-18T02:33:06.403Z [INFO]: 💓 Agente activo.
+2025-12-18T02:33:07.414Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2025-12-18T19:32:31.697Z [INFO]: 💓 Agente activo.
+2025-12-18T19:32:32.294Z [ERROR]: ❌ Error de conexión stream: undefined. Reintentando en 2s...
+2025-12-18T19:32:34.656Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2025-12-18T20:32:29.954Z [INFO]: 💓 Agente activo.
+2025-12-18T22:12:35.126Z [INFO]: 💓 Agente activo.
+2025-12-18T22:17:23.752Z [INFO]: 📥 Nuevo trabajo recibido: job-1766096240542-8dzqn
+2025-12-18T22:17:23.757Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1766096243753.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-18T22:17:23.757Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-18T22:17:23.757Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-18T22:17:24.314Z [INFO]: 📥 Nuevo trabajo recibido: job-1766096240637-d2ts7
+2025-12-18T22:17:24.315Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1766096244314.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-18T22:17:24.315Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2025-12-18T22:17:24.316Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-18T22:17:25.897Z [INFO]: ✅ Impresión confirmada.
+2025-12-18T22:17:25.927Z [INFO]: ✅ Impresión confirmada.
+2025-12-18T23:12:35.134Z [INFO]: 💓 Agente activo.
+2025-12-19T00:12:35.138Z [INFO]: 💓 Agente activo.
+2025-12-19T01:12:35.332Z [INFO]: 💓 Agente activo.
+2025-12-19T08:14:36.365Z [INFO]: 💓 Agente activo.
+2025-12-19T12:53:51.330Z [ERROR]: ❌ Error de conexión stream: undefined. Reintentando en 1s...
+2025-12-19T12:53:51.479Z [INFO]: 💓 Agente activo.
+2025-12-19T12:53:52.562Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2025-12-19T13:53:51.528Z [INFO]: 💓 Agente activo.
+2025-12-19T14:53:51.803Z [INFO]: 💓 Agente activo.
+2025-12-19T15:53:51.887Z [INFO]: 💓 Agente activo.
+2025-12-19T16:26:14.501Z [INFO]: 📥 Nuevo trabajo recibido: 9M3ltsBnHHyADh9C5KXn
+2025-12-19T16:26:14.503Z [INFO]: 📄 PDF guardado temp: ticket_sgADfl8MoZfb07UTbg7x_1766161574501.pdf (Ticket: sgADfl8MoZfb07UTbg7x)
+2025-12-19T16:26:14.503Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-19T16:26:14.503Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-19T16:26:15.582Z [INFO]: ✅ Impresión confirmada.
+2025-12-19T16:53:51.919Z [INFO]: 💓 Agente activo.
+2025-12-19T17:53:51.930Z [INFO]: 💓 Agente activo.
+2025-12-19T18:53:52.049Z [INFO]: 💓 Agente activo.
+2025-12-19T19:25:06.775Z [INFO]: 📥 Nuevo trabajo recibido: HA2vdHloalYowLgWNVE4
+2025-12-19T19:25:06.777Z [INFO]: 📄 PDF guardado temp: ticket_R48QNW0BH5DaVd5PCTd1_1766172306776.pdf (Ticket: R48QNW0BH5DaVd5PCTd1)
+2025-12-19T19:25:06.778Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-19T19:25:06.778Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-19T19:25:08.712Z [INFO]: ✅ Impresión confirmada.
+2025-12-19T19:53:52.113Z [INFO]: 💓 Agente activo.
+2025-12-19T23:00:24.459Z [ERROR]: ❌ Error de conexión stream: undefined. Reintentando en 1s...
+2025-12-19T23:00:24.571Z [INFO]: 💓 Agente activo.
+2025-12-19T23:00:25.598Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2025-12-20T00:00:24.664Z [INFO]: 💓 Agente activo.
+2025-12-21T01:58:33.445Z [INFO]: 🚀 Iniciando Print Agent v2.0 (Admin SDK + Logical Queues)
+2025-12-21T01:58:33.524Z [INFO]: 📡 Conectado a Firestore como: firebase-adminsdk-fbsvc@logistica-criterio.iam.gserviceaccount.com
+2025-12-21T01:58:33.539Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2025-12-21T01:58:34.440Z [INFO]: 🧪 Modo Prueba: Generando reporte ahora...
+2025-12-21T01:58:34.440Z [INFO]: 📅 Iniciando Reporte Diario...
+2025-12-21T01:58:35.881Z [INFO]: 🧹 Cola de Windows limpia.
+2025-12-21T01:58:38.643Z [INFO]: ✅ Reporte enviado: <f47ad3d2-af60-1a76-2fc2-8537ee47eb8d@criteriodigital.shop>
+2025-12-22T16:28:38.645Z [INFO]: 🚀 Iniciando Print Agent v2.0 (Admin SDK + Logical Queues)
+2025-12-22T16:28:38.809Z [INFO]: 📡 Conectado a Firestore como: firebase-adminsdk-fbsvc@logistica-criterio.iam.gserviceaccount.com
+2025-12-22T16:28:38.836Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2025-12-22T16:28:42.172Z [INFO]: 📥 Nuevo trabajo recibido: 7I37yLtYl6Ee34snDmx0
+2025-12-22T16:28:42.175Z [INFO]: 📄 PDF guardado temp: ticket_YNF3qqVvi5iTnTGX50HS_1766420922173.pdf (Ticket: YNF3qqVvi5iTnTGX50HS)
+2025-12-22T16:28:42.175Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-22T16:28:42.176Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-22T16:28:42.205Z [INFO]: 📥 Nuevo trabajo recibido: JMwUSQse51BYU0Pb3b62
+2025-12-22T16:28:42.207Z [INFO]: 📄 PDF guardado temp: ticket_kgnKRln2SoLN9AXiH13Z_1766420922205.pdf (Ticket: kgnKRln2SoLN9AXiH13Z)
+2025-12-22T16:28:42.207Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-22T16:28:42.208Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-22T16:28:42.219Z [INFO]: 📥 Nuevo trabajo recibido: thCf3ri0tcZOsN0Wu1zW
+2025-12-22T16:28:42.223Z [INFO]: 📄 PDF guardado temp: ticket_u1GP5sYDMYltt3nXMaZH_1766420922221.pdf (Ticket: u1GP5sYDMYltt3nXMaZH)
+2025-12-22T16:28:42.223Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-22T16:28:42.223Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-22T16:28:42.234Z [INFO]: 📥 Nuevo trabajo recibido: wmYxJvwYc3vFV1BsY6jI
+2025-12-22T16:28:42.236Z [INFO]: 📄 PDF guardado temp: ticket_pC2zuyQEKLSlBhd4RG50_1766420922235.pdf (Ticket: pC2zuyQEKLSlBhd4RG50)
+2025-12-22T16:28:42.237Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-22T16:28:42.237Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-22T16:28:42.892Z [INFO]: 🧹 Cola de Windows limpia.
+2025-12-22T16:28:45.168Z [INFO]: ✅ Impresión confirmada.
+2025-12-22T16:28:45.850Z [INFO]: ✅ Impresión confirmada.
+2025-12-22T16:28:45.968Z [INFO]: ✅ Impresión confirmada.
+2025-12-22T16:28:45.973Z [INFO]: ✅ Impresión confirmada.
+2025-12-22T16:41:14.765Z [INFO]: 📥 Nuevo trabajo recibido: iWkzLVQMePHWmDj3jzZm
+2025-12-22T16:41:14.768Z [INFO]: 📄 PDF guardado temp: ticket_ox3cx6VmyU5Z7FeV6Hfk_1766421674766.pdf (Ticket: ox3cx6VmyU5Z7FeV6Hfk)
+2025-12-22T16:41:14.768Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-22T16:41:14.768Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-22T16:41:16.406Z [INFO]: ✅ Impresión confirmada.
+2025-12-22T16:48:44.855Z [INFO]: 📥 Nuevo trabajo recibido: sb60in4cwhyZl09LK7QX
+2025-12-22T16:48:44.857Z [INFO]: 📄 PDF guardado temp: ticket_Zf81UdmgcS6iTUawBZf1_1766422124855.pdf (Ticket: Zf81UdmgcS6iTUawBZf1)
+2025-12-22T16:48:44.858Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-22T16:48:44.858Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-22T16:48:46.412Z [INFO]: ✅ Impresión confirmada.
+2025-12-22T17:01:59.428Z [INFO]: 📥 Nuevo trabajo recibido: 2YNWkuQ0bYi9AiuCrYjc
+2025-12-22T17:01:59.430Z [INFO]: 📄 PDF guardado temp: ticket_RSpZs90wlkAlplvAKbAi_1766422919429.pdf (Ticket: RSpZs90wlkAlplvAKbAi)
+2025-12-22T17:01:59.430Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-22T17:01:59.431Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-22T17:02:01.885Z [INFO]: ✅ Impresión confirmada.
+2025-12-22T17:05:35.737Z [INFO]: 📥 Nuevo trabajo recibido: rHPgz5463HEQOiUe7QKP
+2025-12-22T17:05:35.738Z [INFO]: 📄 PDF guardado temp: ticket_9IHewsz6La30hF2BghZ5_1766423135737.pdf (Ticket: 9IHewsz6La30hF2BghZ5)
+2025-12-22T17:05:35.739Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-22T17:05:35.739Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-22T17:05:37.138Z [INFO]: ✅ Impresión confirmada.
+2025-12-22T17:11:15.549Z [INFO]: 📥 Nuevo trabajo recibido: S27vrGV7ZEcP79W9vF6w
+2025-12-22T17:11:15.551Z [INFO]: 📄 PDF guardado temp: ticket_FfDo9DRKcrsflhstZFdp_1766423475550.pdf (Ticket: FfDo9DRKcrsflhstZFdp)
+2025-12-22T17:11:15.551Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-22T17:11:15.552Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-22T17:11:15.774Z [INFO]: 📥 Nuevo trabajo recibido: KDnxC3VREWHkTX7RyZ9I
+2025-12-22T17:11:15.775Z [INFO]: 📄 PDF guardado temp: ticket_nSDzkFhK5GMCn888IkKr_1766423475774.pdf (Ticket: nSDzkFhK5GMCn888IkKr)
+2025-12-22T17:11:15.775Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-22T17:11:15.775Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-22T17:11:17.335Z [INFO]: ✅ Impresión confirmada.
+2025-12-22T17:11:18.134Z [INFO]: ✅ Impresión confirmada.
+2025-12-22T17:24:38.154Z [INFO]: 📥 Nuevo trabajo recibido: Z5iSaooJOP92Pd8OiShX
+2025-12-22T17:24:38.159Z [INFO]: 📄 PDF guardado temp: ticket_WHTUWWgqg6lazZlK3h0F_1766424278156.pdf (Ticket: WHTUWWgqg6lazZlK3h0F)
+2025-12-22T17:24:38.161Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-22T17:24:38.167Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-22T17:24:41.629Z [INFO]: ✅ Impresión confirmada.
+2025-12-22T17:28:41.563Z [INFO]: 💓 Agente activo.
+2025-12-22T18:28:41.578Z [INFO]: 💓 Agente activo.
+2025-12-22T19:28:41.591Z [INFO]: 💓 Agente activo.
+2025-12-22T20:28:41.545Z [INFO]: 💓 Agente activo.
+2025-12-22T21:23:18.774Z [INFO]: 📥 Nuevo trabajo recibido: TSsITffNDwyfMsm82seB
+2025-12-22T21:23:18.789Z [INFO]: 📄 PDF guardado temp: ticket_MK26tBaayumHt1dro2bJ_1766438598779.pdf (Ticket: MK26tBaayumHt1dro2bJ)
+2025-12-22T21:23:18.795Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-22T21:23:18.797Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-22T21:23:23.577Z [INFO]: ✅ Impresión confirmada.
+2025-12-22T21:27:54.696Z [INFO]: 📥 Nuevo trabajo recibido: ZngGXtDoJzwKgVydLcqf
+2025-12-22T21:27:54.703Z [INFO]: 📄 PDF guardado temp: ticket_1BSSvteDtjdoeVglZlDF_1766438874700.pdf (Ticket: 1BSSvteDtjdoeVglZlDF)
+2025-12-22T21:27:54.703Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-22T21:27:54.704Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-22T21:27:57.735Z [INFO]: ✅ Impresión confirmada.
+2025-12-22T21:28:41.530Z [INFO]: 💓 Agente activo.
+2025-12-22T22:04:29.509Z [ERROR]: ❌ Error de conexión stream: undefined. Reintentando en 1s...
+2025-12-22T22:04:30.567Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2025-12-22T22:06:20.342Z [ERROR]: ❌ Error de conexión stream: undefined. Reintentando en 2s...
+2025-12-22T22:06:22.352Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2025-12-22T22:07:59.302Z [ERROR]: ❌ Error de conexión stream: undefined. Reintentando en 4s...
+2025-12-22T22:08:03.309Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2025-12-22T22:10:01.245Z [ERROR]: ❌ Error de conexión stream: undefined. Reintentando en 8s...
+2025-12-22T22:10:09.246Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2025-12-22T22:12:04.938Z [ERROR]: ❌ Error de conexión stream: undefined. Reintentando en 16s...
+2025-12-22T22:12:20.953Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2025-12-22T22:14:17.557Z [ERROR]: ❌ Error de conexión stream: undefined. Reintentando en 32s...
+2025-12-22T22:14:49.570Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2025-12-22T22:16:12.836Z [ERROR]: ❌ Error de conexión stream: undefined. Reintentando en 60s...
+2025-12-22T22:17:12.841Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2025-12-22T22:19:13.385Z [ERROR]: ❌ Error de conexión stream: undefined. Reintentando en 60s...
+2025-12-22T22:20:13.395Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2025-12-22T22:22:02.422Z [ERROR]: ❌ Error de conexión stream: undefined. Reintentando en 60s...
+2025-12-22T22:23:02.429Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2025-12-22T22:24:38.350Z [ERROR]: ❌ Error de conexión stream: undefined. Reintentando en 60s...
+2025-12-22T22:25:38.352Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2025-12-22T22:27:41.254Z [ERROR]: ❌ Error de conexión stream: undefined. Reintentando en 60s...
+2025-12-22T22:28:41.254Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2025-12-22T22:28:41.529Z [INFO]: 💓 Agente activo.
+2025-12-22T22:30:36.311Z [ERROR]: ❌ Error de conexión stream: undefined. Reintentando en 60s...
+2025-12-22T22:31:36.315Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2025-12-22T22:33:38.599Z [ERROR]: ❌ Error de conexión stream: undefined. Reintentando en 60s...
+2025-12-22T22:34:38.604Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2025-12-22T22:36:31.033Z [ERROR]: ❌ Error de conexión stream: undefined. Reintentando en 60s...
+2025-12-22T22:37:31.035Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2025-12-22T22:39:40.994Z [ERROR]: ❌ Error de conexión stream: undefined. Reintentando en 60s...
+2025-12-22T22:40:40.999Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2025-12-22T22:42:35.088Z [ERROR]: ❌ Error de conexión stream: undefined. Reintentando en 60s...
+2025-12-22T22:43:35.098Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2025-12-22T22:45:39.653Z [ERROR]: ❌ Error de conexión stream: undefined. Reintentando en 60s...
+2025-12-22T22:46:39.665Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2025-12-22T22:48:56.360Z [ERROR]: ❌ Error de conexión stream: undefined. Reintentando en 60s...
+2025-12-22T22:49:56.371Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2025-12-22T23:28:41.529Z [INFO]: 💓 Agente activo.
+2025-12-23T00:28:41.597Z [INFO]: 💓 Agente activo.
+2025-12-23T01:28:41.648Z [INFO]: 💓 Agente activo.
+2025-12-23T01:47:57.145Z [ERROR]: ❌ Error de conexión stream: undefined. Reintentando en 1s...
+2025-12-23T01:47:58.239Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2025-12-23T02:28:38.261Z [INFO]: 💓 Agente activo.
+2025-12-23T03:00:00.086Z [INFO]: ⏰ Ejecutando Cron Job: Reporte Diario
+2025-12-23T03:00:00.109Z [INFO]: 📅 Iniciando Reporte Diario...
+2025-12-23T03:00:05.430Z [INFO]: ✅ Reporte enviado: <89625e98-6352-6020-5a86-bae415662819@criteriodigital.shop>
+2025-12-23T03:28:38.261Z [INFO]: 💓 Agente activo.
+2025-12-23T03:34:35.600Z [INFO]: 📥 Nuevo trabajo recibido: OZn28Lj1P82cmAxkkiQb
+2025-12-23T03:34:35.606Z [INFO]: 📄 PDF guardado temp: ticket_LV62yO4y9NakkwDVvnCL_1766460875601.pdf (Ticket: LV62yO4y9NakkwDVvnCL)
+2025-12-23T03:34:35.607Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-23T03:34:35.608Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-23T03:34:38.742Z [INFO]: ✅ Impresión confirmada.
+2025-12-23T03:34:54.030Z [INFO]: 📥 Nuevo trabajo recibido: 8zitnAtqMdJ4ji6BaqfR
+2025-12-23T03:34:54.036Z [INFO]: 📄 PDF guardado temp: ticket_WM4qMv31gs3vw7C3SqAo_1766460894034.pdf (Ticket: WM4qMv31gs3vw7C3SqAo)
+2025-12-23T03:34:54.038Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-23T03:34:54.039Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-23T03:34:55.847Z [INFO]: ✅ Impresión confirmada.
+2025-12-23T04:28:38.273Z [INFO]: 💓 Agente activo.
+2025-12-23T06:01:10.058Z [INFO]: 💓 Agente activo.
+2025-12-23T09:58:24.366Z [INFO]: 💓 Agente activo.
+2025-12-23T13:22:09.742Z [INFO]: 💓 Agente activo.
+2025-12-23T17:50:36.062Z [ERROR]: ❌ Error de conexión stream: undefined. Reintentando en 1s...
+2025-12-23T17:50:36.280Z [INFO]: 💓 Agente activo.
+2025-12-23T17:50:37.299Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2025-12-23T18:50:36.353Z [INFO]: 💓 Agente activo.
+2025-12-23T19:32:41.483Z [ERROR]: ❌ Error de conexión stream: undefined. Reintentando en 1s...
+2025-12-23T19:32:42.487Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2025-12-23T19:50:36.391Z [INFO]: 💓 Agente activo.
+2025-12-23T20:50:36.402Z [INFO]: 💓 Agente activo.
+2025-12-23T21:50:36.419Z [INFO]: 💓 Agente activo.
+2025-12-23T22:50:36.498Z [INFO]: 💓 Agente activo.
+2025-12-23T22:53:11.873Z [INFO]: 📥 Nuevo trabajo recibido: BTgNqy328nxgns8F8gWU
+2025-12-23T22:53:11.877Z [INFO]: 📄 PDF guardado temp: ticket_qwURT3n2wx8colyE6Ics_1766530391874.pdf (Ticket: qwURT3n2wx8colyE6Ics)
+2025-12-23T22:53:11.877Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-23T22:53:11.877Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-23T22:53:14.181Z [INFO]: ✅ Impresión confirmada.
+2025-12-23T23:16:47.400Z [INFO]: 📥 Nuevo trabajo recibido: 432PyVyIGGNrlHDUg6JG
+2025-12-23T23:16:47.403Z [INFO]: 📄 PDF guardado temp: ticket_HPHibOGTrWIRwTytkZkv_1766531807401.pdf (Ticket: HPHibOGTrWIRwTytkZkv)
+2025-12-23T23:16:47.404Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-23T23:16:47.404Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-23T23:16:49.519Z [INFO]: ✅ Impresión confirmada.
+2025-12-23T23:50:36.585Z [INFO]: 💓 Agente activo.
+2025-12-24T00:04:01.377Z [INFO]: 📥 Nuevo trabajo recibido: 3x6LD5Lej80uq2vRgbpt
+2025-12-24T00:04:01.380Z [INFO]: 📄 PDF guardado temp: ticket_v6rgf2jRcWJFIat7Kbu1_1766534641378.pdf (Ticket: v6rgf2jRcWJFIat7Kbu1)
+2025-12-24T00:04:01.380Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-24T00:04:01.380Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-24T00:04:02.185Z [INFO]: 📥 Nuevo trabajo recibido: OypXzeFBf6PeEruOB9dh
+2025-12-24T00:04:02.188Z [INFO]: 📄 PDF guardado temp: ticket_VzQoWgsVIyLIkB2PlhOt_1766534642185.pdf (Ticket: VzQoWgsVIyLIkB2PlhOt)
+2025-12-24T00:04:02.188Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-24T00:04:02.188Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-24T00:04:02.922Z [INFO]: 📥 Nuevo trabajo recibido: iFWWZ56nZInv2DooOeIS
+2025-12-24T00:04:02.924Z [INFO]: 📄 PDF guardado temp: ticket_pcsHDmk6VmB8JlQ0hmOX_1766534642922.pdf (Ticket: pcsHDmk6VmB8JlQ0hmOX)
+2025-12-24T00:04:02.925Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-24T00:04:02.925Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-24T00:04:03.362Z [INFO]: ✅ Impresión confirmada.
+2025-12-24T00:04:04.310Z [INFO]: ✅ Impresión confirmada.
+2025-12-24T00:04:04.333Z [INFO]: ✅ Impresión confirmada.
+2025-12-24T00:50:36.623Z [INFO]: 💓 Agente activo.
+2025-12-24T01:50:36.647Z [INFO]: 💓 Agente activo.
+2025-12-24T02:14:30.513Z [INFO]: 📥 Nuevo trabajo recibido: t0XIDv6I6gFgLQg1LBF7
+2025-12-24T02:14:30.516Z [INFO]: 📄 PDF guardado temp: ticket_EgArynz8VI9zDaq0Q4z3_1766542470514.pdf (Ticket: EgArynz8VI9zDaq0Q4z3)
+2025-12-24T02:14:30.516Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-24T02:14:30.516Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-24T02:14:32.779Z [INFO]: ✅ Impresión confirmada.
+2025-12-24T02:15:24.407Z [INFO]: 📥 Nuevo trabajo recibido: vmEpnXv3WYpUDUfBrlO0
+2025-12-24T02:15:24.408Z [INFO]: 📄 PDF guardado temp: ticket_9prUVnUMWjcOx9fLVkh0_1766542524408.pdf (Ticket: 9prUVnUMWjcOx9fLVkh0)
+2025-12-24T02:15:24.409Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-24T02:15:24.409Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-24T02:15:25.867Z [INFO]: ✅ Impresión confirmada.
+2025-12-24T02:50:36.666Z [INFO]: 💓 Agente activo.
+2025-12-24T03:00:00.530Z [INFO]: ⏰ Ejecutando Cron Job: Reporte Diario
+2025-12-24T03:00:00.531Z [INFO]: 📅 Iniciando Reporte Diario...
+2025-12-24T03:00:04.097Z [INFO]: ✅ Reporte enviado: <a4c8047d-a683-45b6-84ca-2a45b3c3fffc@criteriodigital.shop>
+2025-12-24T03:07:08.610Z [INFO]: 📥 Nuevo trabajo recibido: my92wdLv3dK0yfh9r4qd
+2025-12-24T03:07:08.614Z [INFO]: 📄 PDF guardado temp: ticket_baTcz84iJ7QopLgVVyrk_1766545628611.pdf (Ticket: baTcz84iJ7QopLgVVyrk)
+2025-12-24T03:07:08.614Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-24T03:07:08.615Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-24T03:07:09.462Z [INFO]: 📥 Nuevo trabajo recibido: XQuZl11r6u1hl00alG4T
+2025-12-24T03:07:09.464Z [INFO]: 📄 PDF guardado temp: ticket_O1oiERNYxCthfp1aTjgr_1766545629463.pdf (Ticket: O1oiERNYxCthfp1aTjgr)
+2025-12-24T03:07:09.465Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-24T03:07:09.465Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-24T03:07:10.041Z [INFO]: ✅ Impresión confirmada.
+2025-12-24T03:07:10.251Z [INFO]: 📥 Nuevo trabajo recibido: HSWwLaX1uBeyvECcGOJu
+2025-12-24T03:07:10.253Z [INFO]: 📄 PDF guardado temp: ticket_b92sQC4jHqu3Q7cKNyW8_1766545630251.pdf (Ticket: b92sQC4jHqu3Q7cKNyW8)
+2025-12-24T03:07:10.254Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-24T03:07:10.254Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-24T03:07:11.110Z [INFO]: 📥 Nuevo trabajo recibido: TQS0wNaMsoNN9DQu2qyN
+2025-12-24T03:07:11.112Z [INFO]: 📄 PDF guardado temp: ticket_EPAxxqelQPEjPYcGZHWq_1766545631111.pdf (Ticket: EPAxxqelQPEjPYcGZHWq)
+2025-12-24T03:07:11.112Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-24T03:07:11.113Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-24T03:07:11.814Z [INFO]: ✅ Impresión confirmada.
+2025-12-24T03:07:11.852Z [INFO]: ✅ Impresión confirmada.
+2025-12-24T03:07:12.534Z [INFO]: ✅ Impresión confirmada.
+2025-12-24T03:50:36.769Z [INFO]: 💓 Agente activo.
+2025-12-24T04:21:19.828Z [INFO]: 📥 Nuevo trabajo recibido: UVIhbIEGQcAEA0lEHL4O
+2025-12-24T04:21:19.831Z [INFO]: 📄 PDF guardado temp: ticket_XU7OkbpRBlUWfxQ2UUZq_1766550079829.pdf (Ticket: XU7OkbpRBlUWfxQ2UUZq)
+2025-12-24T04:21:19.833Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-24T04:21:19.833Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-24T04:21:21.837Z [INFO]: ✅ Impresión confirmada.
+2025-12-24T04:35:03.211Z [ERROR]: ❌ Error de conexión stream: undefined. Reintentando en 1s...
+2025-12-24T04:35:04.474Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2025-12-24T04:50:36.815Z [INFO]: 💓 Agente activo.
+2025-12-24T05:50:36.823Z [INFO]: 💓 Agente activo.
+2025-12-24T06:50:36.829Z [INFO]: 💓 Agente activo.
+2025-12-24T07:50:36.836Z [INFO]: 💓 Agente activo.
+2025-12-24T08:50:36.952Z [INFO]: 💓 Agente activo.
+2025-12-24T09:50:36.991Z [INFO]: 💓 Agente activo.
+2025-12-24T10:50:37.016Z [INFO]: 💓 Agente activo.
+2025-12-24T11:50:37.027Z [INFO]: 💓 Agente activo.
+2025-12-24T12:14:56.677Z [ERROR]: ❌ Error de conexión stream: undefined. Reintentando en 1s...
+2025-12-24T12:14:58.750Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2025-12-30T20:13:05.930Z [INFO]: 🚀 Iniciando Print Agent v2.0 (Admin SDK + Logical Queues)
+2025-12-30T20:13:06.001Z [INFO]: 📡 Conectado a Firestore como: firebase-adminsdk-fbsvc@logistica-criterio.iam.gserviceaccount.com
+2025-12-30T20:13:06.013Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2025-12-30T20:13:07.882Z [INFO]: 📥 Nuevo trabajo recibido: 6gL5R9oWicbra6qQcW1K
+2025-12-30T20:13:07.883Z [INFO]: 📄 PDF guardado temp: ticket_QhMzOU03CstpXWOB483M_1767125587882.pdf (Ticket: QhMzOU03CstpXWOB483M)
+2025-12-30T20:13:07.883Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-30T20:13:07.884Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-30T20:13:07.900Z [INFO]: 📥 Nuevo trabajo recibido: GTBa5oOKjtcmKXck9fO1
+2025-12-30T20:13:07.901Z [INFO]: 📄 PDF guardado temp: ticket_jEHKDyst9VB0m4qwkz99_1767125587900.pdf (Ticket: jEHKDyst9VB0m4qwkz99)
+2025-12-30T20:13:07.901Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-30T20:13:07.902Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-30T20:13:07.907Z [INFO]: 📥 Nuevo trabajo recibido: R0nghgDXXTt8BQbQUbn1
+2025-12-30T20:13:07.908Z [INFO]: 📄 PDF guardado temp: ticket_Tndf4zsDrWAFgBw0m1qU_1767125587907.pdf (Ticket: Tndf4zsDrWAFgBw0m1qU)
+2025-12-30T20:13:07.909Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-30T20:13:07.909Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-30T20:13:07.915Z [INFO]: 📥 Nuevo trabajo recibido: T3WwpLMSIhS7W9hLUEQE
+2025-12-30T20:13:07.916Z [INFO]: 📄 PDF guardado temp: ticket_aGK2nS7aCbjiReQtk6Tp_1767125587915.pdf (Ticket: aGK2nS7aCbjiReQtk6Tp)
+2025-12-30T20:13:07.916Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-30T20:13:07.917Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-30T20:13:07.922Z [INFO]: 📥 Nuevo trabajo recibido: e63pnTjZajvxdrA6i8Dc
+2025-12-30T20:13:07.924Z [INFO]: 📄 PDF guardado temp: ticket_RhoIGzZZUk8otDbxdEEb_1767125587923.pdf (Ticket: RhoIGzZZUk8otDbxdEEb)
+2025-12-30T20:13:07.925Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-30T20:13:07.925Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-30T20:13:07.931Z [INFO]: 📥 Nuevo trabajo recibido: nZI3wWUjAvFutly1HI5d
+2025-12-30T20:13:07.934Z [INFO]: 📄 PDF guardado temp: ticket_I5YVeihi2TAdQr93JkQR_1767125587933.pdf (Ticket: I5YVeihi2TAdQr93JkQR)
+2025-12-30T20:13:07.935Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-30T20:13:07.936Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-30T20:13:07.945Z [INFO]: 📥 Nuevo trabajo recibido: pFuPqMCkNMV7DLnogGuY
+2025-12-30T20:13:07.952Z [INFO]: 📄 PDF guardado temp: ticket_q2sXMGtJCZiZuk40bI8Y_1767125587951.pdf (Ticket: q2sXMGtJCZiZuk40bI8Y)
+2025-12-30T20:13:07.955Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-30T20:13:07.957Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-30T20:13:07.964Z [INFO]: 📥 Nuevo trabajo recibido: vvehAHyuKK4ukVx4ufYz
+2025-12-30T20:13:07.967Z [INFO]: 📄 PDF guardado temp: ticket_adoADY9WsFaXfq7rpzJ0_1767125587966.pdf (Ticket: adoADY9WsFaXfq7rpzJ0)
+2025-12-30T20:13:07.968Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-30T20:13:07.968Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-30T20:13:08.062Z [INFO]: 🧹 Cola de Windows limpia.
+2025-12-30T20:13:10.903Z [INFO]: ✅ Impresión confirmada.
+2025-12-30T20:13:10.904Z [INFO]: ✅ Impresión confirmada.
+2025-12-30T20:13:10.905Z [INFO]: ✅ Impresión confirmada.
+2025-12-30T20:13:10.906Z [INFO]: ✅ Impresión confirmada.
+2025-12-30T20:13:11.102Z [INFO]: ✅ Impresión confirmada.
+2025-12-30T20:13:11.103Z [INFO]: ✅ Impresión confirmada.
+2025-12-30T20:13:11.104Z [INFO]: ✅ Impresión confirmada.
+2025-12-30T20:13:11.106Z [INFO]: ✅ Impresión confirmada.
+2025-12-30T20:30:10.508Z [INFO]: 📥 Nuevo trabajo recibido: job-1767126608651-j5joe
+2025-12-30T20:30:10.512Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1767126610509.pdf (Ticket: TEST-PLAYGROUND)
+2025-12-30T20:30:10.513Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-30T20:30:10.514Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-30T20:30:13.634Z [INFO]: ✅ Impresión confirmada.
+2025-12-30T20:53:04.465Z [INFO]: 📥 Nuevo trabajo recibido: LKrPsMOlweWxcMo1tFdL
+2025-12-30T20:53:04.467Z [INFO]: 📄 PDF guardado temp: ticket_zhkHFrsmFVXJC9xPM8YR_1767127984466.pdf (Ticket: zhkHFrsmFVXJC9xPM8YR)
+2025-12-30T20:53:04.467Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2025-12-30T20:53:04.468Z [INFO]: 🖨️  Enviando trabajo a driver...
+2025-12-30T20:53:07.453Z [INFO]: ✅ Impresión confirmada.
+2025-12-30T21:13:07.262Z [INFO]: 💓 Agente activo.
+2026-01-02T16:10:28.020Z [INFO]: 🚀 Iniciando Print Agent v2.0 (Admin SDK + Logical Queues)
+2026-01-02T16:10:28.151Z [INFO]: 📡 Conectado a Firestore como: firebase-adminsdk-fbsvc@logistica-criterio.iam.gserviceaccount.com
+2026-01-02T16:10:28.175Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2026-01-02T16:10:31.710Z [INFO]: 📥 Nuevo trabajo recibido: sr9SPFLHuWHPtOLx9rRs
+2026-01-02T16:10:31.713Z [INFO]: 📄 PDF guardado temp: ticket_awZDoa4WBJOMzZrdWokM_1767370231711.pdf (Ticket: awZDoa4WBJOMzZrdWokM)
+2026-01-02T16:10:31.714Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2026-01-02T16:10:31.714Z [INFO]: 🖨️  Enviando trabajo a driver...
+2026-01-02T16:10:33.661Z [INFO]: 🧹 Cola de Windows limpia.
+2026-01-02T16:10:35.414Z [INFO]: ✅ Impresión confirmada.
+2026-01-02T16:52:42.693Z [INFO]: 📥 Nuevo trabajo recibido: job-1767372760712-b8b7o
+2026-01-02T16:52:42.696Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1767372762694.pdf (Ticket: TEST-PLAYGROUND)
+2026-01-02T16:52:42.696Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2026-01-02T16:52:42.696Z [INFO]: 🖨️  Enviando trabajo a driver...
+2026-01-02T16:52:44.808Z [INFO]: ✅ Impresión confirmada.
+2026-01-02T17:10:31.040Z [INFO]: 💓 Agente activo.
+2026-01-02T18:10:31.138Z [INFO]: 💓 Agente activo.
+2026-01-02T19:10:31.211Z [INFO]: 💓 Agente activo.
+2026-01-02T20:10:31.250Z [INFO]: 💓 Agente activo.
+2026-01-02T21:10:31.273Z [INFO]: 💓 Agente activo.
+2026-01-02T22:10:31.307Z [INFO]: 💓 Agente activo.
+2026-01-03T02:30:23.994Z [ERROR]: ❌ Error de conexión stream: undefined. Reintentando en 1s...
+2026-01-03T02:30:24.110Z [INFO]: 💓 Agente activo.
+2026-01-03T02:30:25.121Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2026-01-03T03:00:00.332Z [INFO]: ⏰ Ejecutando Cron Job: Reporte Diario
+2026-01-03T03:00:00.333Z [INFO]: 📅 Iniciando Reporte Diario...
+2026-01-03T03:00:04.563Z [INFO]: ✅ Reporte enviado: <34d8bfb2-7ae0-1dd5-874f-85b4e98b777c@criteriodigital.shop>
+2026-01-03T03:30:24.229Z [INFO]: 💓 Agente activo.
+2026-01-03T04:30:24.315Z [INFO]: 💓 Agente activo.
+2026-01-03T05:30:24.348Z [INFO]: 💓 Agente activo.
+2026-01-03T06:30:24.364Z [INFO]: 💓 Agente activo.
+2026-01-03T07:30:24.378Z [INFO]: 💓 Agente activo.
+2026-01-03T08:30:24.382Z [INFO]: 💓 Agente activo.
+2026-01-03T12:06:46.013Z [ERROR]: ❌ Error de conexión stream: undefined. Reintentando en 1s...
+2026-01-03T12:06:46.084Z [INFO]: 💓 Agente activo.
+2026-01-03T12:06:47.097Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2026-01-03T14:11:53.954Z [INFO]: 💓 Agente activo.
+2026-01-03T15:11:53.959Z [INFO]: 💓 Agente activo.
+2026-01-03T16:11:53.971Z [INFO]: 💓 Agente activo.
+2026-01-03T16:54:41.993Z [ERROR]: ❌ Error de conexión stream: undefined. Reintentando en 1s...
+2026-01-03T16:54:43.038Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2026-01-03T21:21:41.775Z [INFO]: 💓 Agente activo.
+2026-01-03T21:21:42.849Z [ERROR]: ❌ Error de conexión stream: undefined. Reintentando en 2s...
+2026-01-03T21:21:44.912Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2026-01-05T01:29:54.606Z [INFO]: 💓 Agente activo.
+2026-01-05T01:34:05.020Z [INFO]: 📥 Nuevo trabajo recibido: yqHF5YUr3IBPDX7zKvg1
+2026-01-05T01:34:05.029Z [INFO]: 📄 PDF guardado temp: ticket_PHdiN2AxhWVh2d7rPV9a_1767576845020.pdf (Ticket: PHdiN2AxhWVh2d7rPV9a)
+2026-01-05T01:34:05.030Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2026-01-05T01:34:05.030Z [INFO]: 🖨️  Enviando trabajo a driver...
+2026-01-05T01:34:07.555Z [INFO]: ✅ Impresión confirmada.
+2026-01-05T02:29:53.505Z [INFO]: 💓 Agente activo.
+2026-01-05T03:00:00.048Z [INFO]: ⏰ Ejecutando Cron Job: Reporte Diario
+2026-01-05T03:00:00.048Z [INFO]: 📅 Iniciando Reporte Diario...
+2026-01-05T03:00:04.111Z [INFO]: ✅ Reporte enviado: <bd958319-b6bf-4319-0bb9-c82593b0565e@criteriodigital.shop>
+2026-01-05T03:29:53.508Z [INFO]: 💓 Agente activo.
+2026-01-05T04:29:53.520Z [INFO]: 💓 Agente activo.
+2026-01-05T05:29:53.525Z [INFO]: 💓 Agente activo.
+2026-01-05T06:31:58.926Z [INFO]: 💓 Agente activo.
+2026-01-05T18:34:07.367Z [INFO]: 💓 Agente activo.
+2026-01-05T22:20:51.595Z [ERROR]: ❌ Error de conexión stream: undefined. Reintentando en 1s...
+2026-01-05T22:20:51.713Z [INFO]: 💓 Agente activo.
+2026-01-05T22:20:52.715Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2026-01-05T22:39:03.840Z [INFO]: 🚀 Iniciando Print Agent v2.0 (Admin SDK + Logical Queues)
+2026-01-05T22:39:03.948Z [INFO]: 📡 Conectado a Firestore como: firebase-adminsdk-fbsvc@logistica-criterio.iam.gserviceaccount.com
+2026-01-05T22:39:03.966Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2026-01-05T22:39:08.361Z [INFO]: 🧹 Cola de Windows limpia.
+2026-01-05T22:40:13.547Z [INFO]: 📥 Nuevo trabajo recibido: job-1767652809550-enxbx
+2026-01-05T22:40:13.582Z [INFO]: 📥 Nuevo trabajo recibido: job-1767652809550-enxbx
+2026-01-05T22:40:13.587Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1767652813583.pdf (Ticket: TEST-PLAYGROUND)
+2026-01-05T22:40:13.587Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2026-01-05T22:40:13.588Z [INFO]: 🖨️  Enviando trabajo a driver...
+2026-01-05T22:40:13.570Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1767652813556.pdf (Ticket: TEST-PLAYGROUND)
+2026-01-05T22:40:13.571Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2026-01-05T22:40:13.571Z [INFO]: 🖨️  Enviando trabajo a driver...
+2026-01-05T22:40:13.900Z [INFO]: 📥 Nuevo trabajo recibido: job-1767652809701-0hryz
+2026-01-05T22:40:13.904Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1767652813901.pdf (Ticket: TEST-PLAYGROUND)
+2026-01-05T22:40:13.905Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2026-01-05T22:40:13.906Z [INFO]: 🖨️  Enviando trabajo a driver...
+2026-01-05T22:40:14.030Z [INFO]: 📥 Nuevo trabajo recibido: job-1767652809701-0hryz
+2026-01-05T22:40:14.032Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1767652814031.pdf (Ticket: TEST-PLAYGROUND)
+2026-01-05T22:40:14.033Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2026-01-05T22:40:14.035Z [INFO]: 🖨️  Enviando trabajo a driver...
+2026-01-05T22:40:16.822Z [INFO]: ✅ Impresión confirmada.
+2026-01-05T22:40:16.872Z [INFO]: ✅ Impresión confirmada.
+2026-01-05T22:40:16.882Z [INFO]: ✅ Impresión confirmada.
+2026-01-05T22:40:16.926Z [INFO]: ✅ Impresión confirmada.
+2026-01-05T23:20:52.064Z [INFO]: 💓 Agente activo.
+2026-01-12T13:43:32.989Z [INFO]: 🚀 Iniciando Print Agent v2.0 (Admin SDK + Logical Queues)
+2026-01-12T13:43:33.089Z [INFO]: 📡 Conectado a Firestore como: firebase-adminsdk-fbsvc@logistica-criterio.iam.gserviceaccount.com
+2026-01-12T13:43:33.102Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2026-01-12T13:43:35.790Z [INFO]: 📥 Nuevo trabajo recibido: Et6tZNEGI0shxZUhFGq2
+2026-01-12T13:43:35.792Z [INFO]: 📄 PDF guardado temp: ticket_nL2tbjriNAH4JQRziVYv_1768225415791.pdf (Ticket: nL2tbjriNAH4JQRziVYv)
+2026-01-12T13:43:35.793Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2026-01-12T13:43:35.793Z [INFO]: 🖨️  Enviando trabajo a driver...
+2026-01-12T13:43:35.819Z [INFO]: 📥 Nuevo trabajo recibido: LumEur5Ikumbx4GkpkZ7
+2026-01-12T13:43:35.821Z [INFO]: 📄 PDF guardado temp: ticket_IUmrFdvu1jsIt5kvwMDX_1768225415819.pdf (Ticket: IUmrFdvu1jsIt5kvwMDX)
+2026-01-12T13:43:35.821Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2026-01-12T13:43:35.821Z [INFO]: 🖨️  Enviando trabajo a driver...
+2026-01-12T13:43:35.827Z [INFO]: 📥 Nuevo trabajo recibido: OaCEf4FQWfKZxL1SOVuT
+2026-01-12T13:43:35.828Z [INFO]: 📄 PDF guardado temp: ticket_64zJx3S7gNXYkJsFGYwG_1768225415827.pdf (Ticket: 64zJx3S7gNXYkJsFGYwG)
+2026-01-12T13:43:35.829Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2026-01-12T13:43:35.829Z [INFO]: 🖨️  Enviando trabajo a driver...
+2026-01-12T13:43:35.834Z [INFO]: 📥 Nuevo trabajo recibido: b6326W5oOHAVg1wRe6bW
+2026-01-12T13:43:35.837Z [INFO]: 📄 PDF guardado temp: ticket_YrjKSqeACfCl3ONNorzu_1768225415837.pdf (Ticket: YrjKSqeACfCl3ONNorzu)
+2026-01-12T13:43:35.838Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2026-01-12T13:43:35.838Z [INFO]: 🖨️  Enviando trabajo a driver...
+2026-01-12T13:43:35.844Z [INFO]: 📥 Nuevo trabajo recibido: hEXq3OUbQZ7o21Mu8XGT
+2026-01-12T13:43:35.845Z [INFO]: 📄 PDF guardado temp: ticket_39t9sfD5LuFWFIdIqNwF_1768225415844.pdf (Ticket: 39t9sfD5LuFWFIdIqNwF)
+2026-01-12T13:43:35.845Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2026-01-12T13:43:35.845Z [INFO]: 🖨️  Enviando trabajo a driver...
+2026-01-12T13:43:35.851Z [INFO]: 📥 Nuevo trabajo recibido: i3NyQae8nlzjYCtb10VH
+2026-01-12T13:43:35.856Z [INFO]: 📄 PDF guardado temp: ticket_LdEX93MIjbltaRaFtXZV_1768225415854.pdf (Ticket: LdEX93MIjbltaRaFtXZV)
+2026-01-12T13:43:35.856Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2026-01-12T13:43:35.856Z [INFO]: 🖨️  Enviando trabajo a driver...
+2026-01-12T13:43:35.862Z [INFO]: 📥 Nuevo trabajo recibido: job-1768177852353-gz9w3
+2026-01-12T13:43:35.863Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1768225415862.pdf (Ticket: TEST-PLAYGROUND)
+2026-01-12T13:43:35.864Z [INFO]: 🔀 Enrutando a COLA TÉCNICA (Xprinter XP-420B) por formato: 50x70
+2026-01-12T13:43:35.864Z [INFO]: 🖨️  Enviando trabajo a driver...
+2026-01-12T13:43:35.870Z [INFO]: 📥 Nuevo trabajo recibido: v2Wit4LqsgG4Oud7hpCY
+2026-01-12T13:43:35.875Z [INFO]: 📄 PDF guardado temp: ticket_bCNOgmQVRBwx03wjUbvk_1768225415874.pdf (Ticket: bCNOgmQVRBwx03wjUbvk)
+2026-01-12T13:43:35.877Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2026-01-12T13:43:35.877Z [INFO]: 🖨️  Enviando trabajo a driver...
+2026-01-12T13:43:36.008Z [INFO]: 🧹 Cola de Windows limpia.
+2026-01-12T13:43:37.988Z [INFO]: ✅ Impresión confirmada.
+2026-01-12T13:43:38.804Z [INFO]: ✅ Impresión confirmada.
+2026-01-12T13:43:38.805Z [INFO]: ✅ Impresión confirmada.
+2026-01-12T13:43:38.806Z [INFO]: ✅ Impresión confirmada.
+2026-01-12T13:43:38.823Z [INFO]: ✅ Impresión confirmada.
+2026-01-12T13:43:38.824Z [INFO]: ✅ Impresión confirmada.
+2026-01-12T13:43:38.825Z [INFO]: ✅ Impresión confirmada.
+2026-01-12T13:43:38.826Z [INFO]: ✅ Impresión confirmada.
+2026-01-12T13:47:34.838Z [INFO]: 📥 Nuevo trabajo recibido: Wv6ia8eWpxqmxEaigb6H
+2026-01-12T13:47:34.840Z [INFO]: 📄 PDF guardado temp: ticket_BATCH_1768225654839.pdf (Ticket: BATCH)
+2026-01-12T13:47:34.840Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2026-01-12T13:47:34.841Z [INFO]: 🖨️  Enviando trabajo a driver...
+2026-01-12T13:47:36.783Z [INFO]: ✅ Impresión confirmada.
+2026-01-12T13:52:00.878Z [INFO]: 📥 Nuevo trabajo recibido: ZpjSHN512NTcqXSuAFcX
+2026-01-12T13:52:00.880Z [INFO]: 📄 PDF guardado temp: ticket_BATCH_1768225920879.pdf (Ticket: BATCH)
+2026-01-12T13:52:00.880Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2026-01-12T13:52:00.881Z [INFO]: 🖨️  Enviando trabajo a driver...
+2026-01-12T13:52:02.313Z [INFO]: ✅ Impresión confirmada.
+2026-01-12T13:52:04.871Z [INFO]: 📥 Nuevo trabajo recibido: F2FJbBDHwyPnIS0NDTvy
+2026-01-12T13:52:04.872Z [INFO]: 📄 PDF guardado temp: ticket_BATCH_1768225924871.pdf (Ticket: BATCH)
+2026-01-12T13:52:04.873Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2026-01-12T13:52:04.873Z [INFO]: 🖨️  Enviando trabajo a driver...
+2026-01-12T13:52:05.894Z [INFO]: ✅ Impresión confirmada.
+2026-01-12T14:07:59.919Z [INFO]: 📥 Nuevo trabajo recibido: nUnYlfa9M2mF05O4KdNR
+2026-01-12T14:07:59.920Z [INFO]: 📄 PDF guardado temp: ticket_Wq5XT4sYbRMOmLkjLJ8Q_1768226879919.pdf (Ticket: Wq5XT4sYbRMOmLkjLJ8Q)
+2026-01-12T14:07:59.921Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2026-01-12T14:07:59.921Z [INFO]: 🖨️  Enviando trabajo a driver...
+2026-01-12T14:08:00.712Z [INFO]: 📥 Nuevo trabajo recibido: AzZM3AqJezc7aoXOiNKS
+2026-01-12T14:08:00.713Z [INFO]: 📄 PDF guardado temp: ticket_QHhDhz7q4UuaBg69KZGl_1768226880712.pdf (Ticket: QHhDhz7q4UuaBg69KZGl)
+2026-01-12T14:08:00.714Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2026-01-12T14:08:00.714Z [INFO]: 🖨️  Enviando trabajo a driver...
+2026-01-12T14:08:01.091Z [INFO]: ✅ Impresión confirmada.
+2026-01-12T14:08:01.603Z [INFO]: 📥 Nuevo trabajo recibido: OI6SfsO1sYIjlAm76IK2
+2026-01-12T14:08:01.604Z [INFO]: 📄 PDF guardado temp: ticket_nXvq9G0y4x8CoYQh8VZm_1768226881603.pdf (Ticket: nXvq9G0y4x8CoYQh8VZm)
+2026-01-12T14:08:01.605Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2026-01-12T14:08:01.605Z [INFO]: 🖨️  Enviando trabajo a driver...
+2026-01-12T14:08:02.030Z [INFO]: ✅ Impresión confirmada.
+2026-01-12T14:08:02.525Z [INFO]: 📥 Nuevo trabajo recibido: 9gAmw5vZ74c7PHTqTv3s
+2026-01-12T14:08:02.526Z [INFO]: 📄 PDF guardado temp: ticket_UPrjdfpejSKMMRzFDpEs_1768226882525.pdf (Ticket: UPrjdfpejSKMMRzFDpEs)
+2026-01-12T14:08:02.527Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2026-01-12T14:08:02.527Z [INFO]: 🖨️  Enviando trabajo a driver...
+2026-01-12T14:08:02.536Z [INFO]: ✅ Impresión confirmada.
+2026-01-12T14:08:03.755Z [INFO]: ✅ Impresión confirmada.
+2026-01-12T14:43:34.886Z [INFO]: 💓 Agente activo.
+2026-01-12T15:43:34.863Z [INFO]: 💓 Agente activo.
+2026-01-12T16:43:34.869Z [INFO]: 💓 Agente activo.
+2026-01-12T17:14:55.972Z [INFO]: 📥 Nuevo trabajo recibido: job-1768238095448-9c5uu
+2026-01-12T17:14:55.974Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1768238095972.pdf (Ticket: TEST-PLAYGROUND)
+2026-01-12T17:14:55.975Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2026-01-12T17:14:55.975Z [INFO]: 🖨️  Enviando trabajo a driver...
+2026-01-12T17:14:58.328Z [INFO]: ✅ Impresión confirmada.
+2026-01-12T17:27:06.843Z [INFO]: 📥 Nuevo trabajo recibido: job-1768238824677-h0k4r
+2026-01-12T17:27:06.845Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1768238826843.pdf (Ticket: TEST-PLAYGROUND)
+2026-01-12T17:27:06.845Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2026-01-12T17:27:06.845Z [INFO]: 🖨️  Enviando trabajo a driver...
+2026-01-12T17:27:09.259Z [INFO]: ✅ Impresión confirmada.
+2026-01-12T17:43:34.910Z [INFO]: 💓 Agente activo.
+2026-01-12T18:26:53.428Z [INFO]: 📥 Nuevo trabajo recibido: job-1768242411545-fnec4
+2026-01-12T18:26:53.430Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1768242413429.pdf (Ticket: TEST-PLAYGROUND)
+2026-01-12T18:26:53.431Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2026-01-12T18:26:53.431Z [INFO]: 🖨️  Enviando trabajo a driver...
+2026-01-12T18:26:55.591Z [INFO]: ✅ Impresión confirmada.
+2026-01-12T18:27:11.436Z [INFO]: 📥 Nuevo trabajo recibido: job-1768242430815-5k89f
+2026-01-12T18:27:11.438Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1768242431436.pdf (Ticket: TEST-PLAYGROUND)
+2026-01-12T18:27:11.438Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2026-01-12T18:27:11.438Z [INFO]: 🖨️  Enviando trabajo a driver...
+2026-01-12T18:27:12.454Z [INFO]: ✅ Impresión confirmada.
+2026-01-12T18:43:25.742Z [INFO]: 📥 Nuevo trabajo recibido: job-1768243403812-7ebu8
+2026-01-12T18:43:25.745Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1768243405743.pdf (Ticket: TEST-PLAYGROUND)
+2026-01-12T18:43:25.745Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2026-01-12T18:43:25.745Z [INFO]: 🖨️  Enviando trabajo a driver...
+2026-01-12T18:43:28.360Z [INFO]: ✅ Impresión confirmada.
+2026-01-12T18:43:35.008Z [INFO]: 💓 Agente activo.
+2026-01-12T18:43:42.123Z [INFO]: 📥 Nuevo trabajo recibido: job-1768243421598-ai6y3
+2026-01-12T18:43:42.126Z [INFO]: 📄 PDF guardado temp: ticket_TEST-PLAYGROUND_1768243422123.pdf (Ticket: TEST-PLAYGROUND)
+2026-01-12T18:43:42.126Z [INFO]: ⬇️ Enrutando a COLA ESTÁNDAR (Xprinter XP-420B).
+2026-01-12T18:43:42.127Z [INFO]: 🖨️  Enviando trabajo a driver...
+2026-01-12T18:43:45.033Z [INFO]: ✅ Impresión confirmada.
+2026-01-12T19:43:35.053Z [INFO]: 💓 Agente activo.
+2026-01-12T20:43:35.080Z [INFO]: 💓 Agente activo.
+2026-01-12T21:43:35.101Z [INFO]: 💓 Agente activo.
+2026-01-12T22:43:35.198Z [INFO]: 💓 Agente activo.
+2026-01-12T23:43:35.263Z [INFO]: 💓 Agente activo.
+2026-01-13T00:43:35.307Z [INFO]: 💓 Agente activo.
+2026-01-13T01:43:35.330Z [INFO]: 💓 Agente activo.
+2026-01-13T02:43:35.364Z [INFO]: 💓 Agente activo.
+2026-01-13T03:00:00.530Z [INFO]: ⏰ Ejecutando Cron Job: Reporte Diario
+2026-01-13T03:00:00.532Z [INFO]: 📅 Iniciando Reporte Diario...
+2026-01-13T03:00:13.878Z [INFO]: ✅ Reporte enviado: <b4630872-6eca-1c55-359d-71404ddd9e30@criteriodigital.shop>
+2026-01-13T03:43:35.439Z [INFO]: 💓 Agente activo.
+2026-01-13T04:43:35.478Z [INFO]: 💓 Agente activo.
+2026-01-13T05:43:35.502Z [INFO]: 💓 Agente activo.
+2026-01-13T06:43:35.522Z [INFO]: 💓 Agente activo.
+2026-01-13T07:43:35.583Z [INFO]: 💓 Agente activo.
+2026-01-13T08:43:35.644Z [INFO]: 💓 Agente activo.
+2026-01-13T09:43:35.679Z [INFO]: 💓 Agente activo.
+2026-01-13T10:43:35.709Z [INFO]: 💓 Agente activo.
+2026-01-13T11:43:35.746Z [INFO]: 💓 Agente activo.
+2026-01-13T12:43:35.810Z [INFO]: 💓 Agente activo.
+2026-01-13T13:43:35.845Z [INFO]: 💓 Agente activo.
+2026-01-13T14:43:35.877Z [INFO]: 💓 Agente activo.
+2026-01-13T16:29:47.386Z [INFO]: 🚀 Iniciando Print Agent v2.0 (Admin SDK + Logical Queues)
+2026-01-13T16:29:47.456Z [INFO]: 📡 Conectado a Firestore como: firebase-adminsdk-fbsvc@logistica-criterio.iam.gserviceaccount.com
+2026-01-13T16:29:47.468Z [INFO]: 🎧 Iniciando listener de trabajos pendientes...
+2026-01-13T16:29:49.884Z [INFO]: 🧹 Cola de Windows limpia.

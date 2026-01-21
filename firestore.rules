@@ -1,0 +1,120 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // 🔐 Helper Functions
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+    
+    function isAdmin() {
+      // Assuming we put role in custom claims or look it up in users collection
+      // For simplicity/MVP, checking user profile doc logic or strict admin claim.
+      // Here we will start with basic Authenticated checks for technicians.
+      return isAuthenticated(); 
+    }
+
+    // 👤 Users Collection
+    // - Users can read their own profile.
+    // - Admins (or authenticated for now) can read all.
+    // - Only Admins (via backend or specific logic) or the user themselves should edit.
+    match /users/{userId} {
+      allow read: if isAuthenticated();
+      // Allow create if auth matches OR if admin (handled via secondary app in backend logic, effectively admin)
+      // Since we use client SDK, we allow write if auth.
+      allow write: if isAuthenticated(); 
+    }
+
+    // 🎫 Tickets Collection
+    // - Core business data.
+    // - Technician/Admins can Read/Write.
+    match /tickets/{ticketId} {
+      allow read, write: if isAuthenticated();
+      
+      // History Subcollection (Log)
+      // - Append only ideally, but for now Read/Write if Authenticated.
+      match /history/{historyId} {
+        allow read, write: if isAuthenticated();
+      }
+    }
+
+    // 📦 Inventory Collection
+    match /inventory/{itemId} {
+      allow read, write: if isAuthenticated();
+    }
+    
+    // 🔢 Counters Collection (For Ticket IDs)
+    match /counters/{counterId} {
+      allow read, write: if isAuthenticated();
+    }
+
+    // 🖨️ Print Jobs (Cloud Print)
+    // - Web App creates jobs.
+    // - Node Server (authenticated as service account or special user) reads/deletes.
+    match /print_jobs/{jobId} {
+      allow read, write: if isAuthenticated();
+    }
+
+    // 🏷️ Label Templates
+    match /label_templates/{templateId} {
+      allow read, write: if isAuthenticated();
+    }
+
+    // ⚙️ Hardware Prices
+    match /hardware_prices/{priceId} {
+      allow read, write: if isAuthenticated();
+    }
+
+    // ⚙️ System Config
+    match /system_config/{configId} {
+      allow read, write: if isAuthenticated();
+    }
+
+    // 📋 Task Management
+    
+    // Helper to check project access
+    function hasProjectAccess(projectId) {
+      let project = get(/databases/$(database)/documents/projects/$(projectId)).data;
+      return request.auth.uid == project.ownerId || request.auth.uid in project.members;
+    }
+
+    match /tasks/{taskId} {
+      // Read: If user has access to Parent Project OR is assigned to this specific task
+      allow read: if isAuthenticated() && (
+        hasProjectAccess(resource.data.projectId) || 
+        request.auth.uid in resource.data.assignedTo
+      );
+      // Write: If user has access to Parent Project OR is assigned (can edit status/comments)
+      allow write: if isAuthenticated() && (
+         hasProjectAccess(request.resource.data.projectId) || 
+         hasProjectAccess(resource.data.projectId) ||
+         request.auth.uid in resource.data.assignedTo
+      );
+    }
+    
+    match /projects/{projectId} {
+      // Read/Write if Owner or Member
+      allow read: if isAuthenticated() && (
+        resource.data.ownerId == request.auth.uid || 
+        request.auth.uid in resource.data.members
+      );
+      allow create: if isAuthenticated();
+      allow update, delete: if isAuthenticated() && (
+        resource.data.ownerId == request.auth.uid || 
+        request.auth.uid in resource.data.members
+      );
+    }
+    
+    // Areas are shared publicly within the organization for simplicity, 
+    // or we can restrict them to only show if containing shared projects.
+    // For now, allow read to all auth to keep hierarchy visible.
+    match /project_areas/{areaId} {
+      allow read, write: if isAuthenticated();
+    }
+
+    // 🛡️ Default Block
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}
