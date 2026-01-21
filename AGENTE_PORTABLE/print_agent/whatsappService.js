@@ -77,7 +77,10 @@ const startQueueListener = () => {
 };
 
 const processMessage = async (msgId, data) => {
-    const { to, body } = data;
+    // SOPORTE HIBRIDO: 'body' (Backend) o 'message' (Frontend)
+    const to = data.to;
+    // IMPORTANTE: El frontend manda 'message', el backend 'body'. Aceptamos ambos.
+    const body = data.body || data.message || "⚠️ Contenido vacío";
 
     try {
         // 1. Sanitization: Remove ALL non-numeric characters (spaces, +, -, etc)
