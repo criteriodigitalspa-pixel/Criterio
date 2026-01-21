@@ -43,6 +43,11 @@ const start = (firestoreDb, appLogger) => {
         // Client typically reinitializes automatically or needs a restart logic depending on lib version
     });
 
+    client.on('message_ack', (msg, ack) => {
+        logger.info(`🔄 Actualización ACK para mensaje ${msg.id.id}: ${ack}`);
+        // 1=Server, 2=Device, 3=Read
+    });
+
     client.initialize();
 };
 
@@ -98,8 +103,7 @@ const processMessage = async (msgId, data) => {
 
         logger.info(`📨 Enviando WhatsApp a ${targetId}...`);
 
-        // Disable link preview to minimize issues
-        const sentMsg = await client.sendMessage(targetId, body, { linkPreview: false });
+        const sentMsg = await client.sendMessage(targetId, body);
 
         // Log the internal Acknowledgement status from WhatsApp
         // 0: Pending, 1: Server Ack, 2: Delivery Ack, 3: Read
