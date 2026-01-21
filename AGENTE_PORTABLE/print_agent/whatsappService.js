@@ -138,6 +138,14 @@ const processMessage = async (msgId, data) => {
 
     } catch (error) {
         logger.error(`❌ Error enviando mensaje ${msgId}: ${error.message}`);
+
+        // SELF-HEALING: Si el navegador se muere (Detached Frame), reiniciamos todo el proceso.
+        // El script .bat nos volverá a levantar en 3 segundos.
+        if (error.message.includes('detached Frame') || error.message.includes('Protocol error')) {
+            logger.error("💀 Error crítico del navegador detectado. Reiniciando servicio (Self-Healing)...");
+            process.exit(1);
+        }
+
         await db.collection('whatsapp_queue').doc(msgId).update({
             status: 'error',
             error: error.message,
