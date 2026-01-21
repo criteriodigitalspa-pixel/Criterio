@@ -77,6 +77,8 @@ const startQueueListener = () => {
 };
 
 const processMessage = async (msgId, data) => {
+    logger.info(`📦 PAYLOAD RECIBIDO: ${JSON.stringify(data)}`); // DEBUG SUPREMO
+
     // SOPORTE HIBRIDO: 'body' (Backend) o 'message' (Frontend)
     const to = data.to;
     // IMPORTANTE: El frontend manda 'message', el backend 'body'. Aceptamos ambos.
