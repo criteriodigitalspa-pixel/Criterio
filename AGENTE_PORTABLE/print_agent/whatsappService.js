@@ -97,14 +97,21 @@ const processMessage = async (msgId, data) => {
         }
 
         logger.info(`📨 Enviando WhatsApp a ${targetId}...`);
-        await client.sendMessage(targetId, body);
+
+        // Disable link preview to minimize issues
+        const sentMsg = await client.sendMessage(targetId, body, { linkPreview: false });
+
+        // Log the internal Acknowledgement status from WhatsApp
+        // 0: Pending, 1: Server Ack, 2: Delivery Ack, 3: Read
+        logger.info(`📝 Estado ACK inicial: ${sentMsg.ack} (ID: ${sentMsg.id._serialized})`);
 
         await db.collection('whatsapp_queue').doc(msgId).update({
             status: 'sent',
             sentAt: new Date(),
-            debug_target: targetId // Guardamos a quién se envió realmente
+            debug_target: targetId,
+            debug_ack: sentMsg.ack
         });
-        logger.info(`✅ Mensaje ${msgId} enviado correctamente.`);
+        logger.info(`✅ Mensaje enviado (Ack: ${sentMsg.ack}).`);
 
     } catch (error) {
         logger.error(`❌ Error enviando mensaje ${msgId}: ${error.message}`);
