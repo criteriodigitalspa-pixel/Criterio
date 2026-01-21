@@ -48,6 +48,22 @@ const start = (firestoreDb, appLogger) => {
         // 1=Server, 2=Device, 3=Read
     });
 
+    // --- REMOTE KILL SWITCH (AUTOPILOT) ---
+    // Escucha comandos de reinicio desde la web
+    db.collection('system').doc('agent_commands').onSnapshot((doc) => {
+        if (doc.exists) {
+            const cmd = doc.data();
+            if (cmd.restart === true) {
+                logger.warn("♻️ COMANDO DE REINICIO RECIBIDO. Apagando para actualizar...");
+                // Reseteamos el flag para no buclear infinito (opcional)
+                db.collection('system').doc('agent_commands').update({ restart: false });
+
+                // Matamos el proceso. El script .bat lo volverá a encender.
+                process.exit(0);
+            }
+        }
+    });
+
     client.initialize();
 };
 
