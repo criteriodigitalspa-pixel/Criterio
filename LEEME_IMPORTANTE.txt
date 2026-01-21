@@ -1,0 +1,38 @@
+===================================================================
+   DOCUMENTACIÓN CRÍTICA DEL SISTEMA - LOGÍSTICA CRITERIO
+===================================================================
+Fecha: 21/01/2026
+
+1. REPOSITORIO DE CÓDIGO (LA "NUBE")
+-------------------------------------------------------------------
+URL: https://github.com/criteriodigitalspa-pixel/Criterio
+Este es el lugar central donde vive todo el código.
+
+2. CÓMO ACTUALIZAR EL OTRO PC (EL REMOTO)
+-------------------------------------------------------------------
+Para que el computador de la impresora/agente reciba las mejoras:
+
+PASO A: Preparación (Solo una vez)
+1. Instalar Git en el PC remoto: https://git-scm.com/download/win
+2. Abrir una terminal (PowerShell o CMD) en el Escritorio.
+3. Ejecutar este comando para descargar todo por primera vez:
+   git clone https://github.com/criteriodigitalspa-pixel/Criterio.git
+
+PASO B: Actualizar día a día
+He creado un archivo llamado `ACTUALIZAR_SISTEMA.bat` (ver abajo).
+Solo tienes que copiar ese archivo al Escritorio del PC remoto.
+Al darle DOBLE CLICK, el sistema se actualizará solo.
+
+3. ARCHIVOS CLAVE DE ESTE PC
+-------------------------------------------------------------------
+- Proyecto: c:\Users\diego\.gemini\antigravity\scratch
+- Agente (Impresora): c:\Users\diego\.gemini\antigravity\scratch\AGENTE_PORTABLE
+- Credenciales: service-account.json (¡No borrar ni compartir!)
+
+4. COMANDOS ÚTILES
+-------------------------------------------------------------------
+- Para iniciar la web local: Doble click en `Iniciar_Localhost.bat`
+- Para iniciar la impresora: Doble click en `INICIAR_IMPRESORA.bat` (dentro de AGENTE_PORTABLE)
+- Para subir cambios a la nube (Web pública): `Actualizar_Sitio_Web.bat`
+
+===================================================================

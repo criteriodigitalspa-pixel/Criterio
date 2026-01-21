@@ -73,23 +73,39 @@ const startQueueListener = () => {
 
 const processMessage = async (msgId, data) => {
     const { to, body } = data;
-    // 'to' should be in format '569xxxxxxxx@c.us'
-    // If user provides just phone number, we format it.
-
-    let formattedTo = to;
-    if (!to.includes('@c.us')) {
-        formattedTo = `${to.replace('+', '')}@c.us`;
-    }
 
     try {
-        logger.info(`📨 Enviando WhatsApp a ${formattedTo}...`);
-        await client.sendMessage(formattedTo, body);
+        // 1. Sanitization: Remove ALL non-numeric characters (spaces, +, -, etc)
+        const numericPhone = to.replace(/\D/g, '');
+        let finalId = `${numericPhone}@c.us`;
+
+        logger.info(`🔍 Buscando usuario real para: ${numericPhone}...`);
+
+        // 2. Resolve the correct WhatsApp ID (Handles legacy formats if needed)
+        // This ensures the number is actually registered
+        let targetId = finalId;
+        try {
+            const contact = await client.getNumberId(finalId);
+            if (contact && contact._serialized) {
+                targetId = contact._serialized;
+                logger.info(`🎯 Usuario encontrado: ${targetId}`);
+            } else {
+                logger.warn(`⚠️ El número ${numericPhone} no parece estar registrado. Intentando envío directo...`);
+            }
+        } catch (e) {
+            logger.warn(`⚠️ No se pudo verificar el número (posible error de red), intentando directo.`);
+        }
+
+        logger.info(`📨 Enviando WhatsApp a ${targetId}...`);
+        await client.sendMessage(targetId, body);
 
         await db.collection('whatsapp_queue').doc(msgId).update({
             status: 'sent',
-            sentAt: new Date()
+            sentAt: new Date(),
+            debug_target: targetId // Guardamos a quién se envió realmente
         });
-        logger.info(`✅ Mensaje ${msgId} enviado.`);
+        logger.info(`✅ Mensaje ${msgId} enviado correctamente.`);
+
     } catch (error) {
         logger.error(`❌ Error enviando mensaje ${msgId}: ${error.message}`);
         await db.collection('whatsapp_queue').doc(msgId).update({
