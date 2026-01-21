@@ -15,7 +15,7 @@ const start = (firestoreDb, appLogger) => {
     client = new Client({
         authStrategy: new LocalAuth(),
         puppeteer: {
-            headless: true,
+            headless: false, // Visual Debugging Enabled
             args: ['--no-sandbox', '--disable-setuid-sandbox']
         }
     });
