@@ -13,6 +13,7 @@
         ]
     },
     "dependencies": {
+        "@google/generative-ai": "^0.24.1",
         "dotenv": "^16.0.0",
         "exceljs": "^4.4.0",
         "firebase-admin": "^13.6.0",
@@ -20,8 +21,8 @@
         "node-cron": "^4.2.1",
         "nodemailer": "^7.0.11",
         "pdf-to-printer": "^5.0.0",
-        "winston": "^3.19.0",
+        "qrcode-terminal": "^0.12.0",
         "whatsapp-web.js": "github:pedroslopez/whatsapp-web.js#main",
-        "qrcode-terminal": "^0.12.0"
+        "winston": "^3.19.0"
     }
 }

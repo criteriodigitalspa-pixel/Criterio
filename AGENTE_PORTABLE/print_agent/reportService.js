@@ -127,8 +127,39 @@ const runDailyReport = async () => {
     logger.info("📅 Iniciando Reporte Diario...");
 
     try {
-        if (!process.env.SMTP_HOST || !process.env.SMTP_USER) {
-            logger.warn("⚠️ No hay credenciales SMTP configuradas. Saltando reporte.");
+        // 1. Resolve Credentials (Env OR Firestore)
+        let smtpConfig = {
+            host: process.env.SMTP_HOST,
+            user: process.env.SMTP_USER,
+            pass: process.env.SMTP_PASS,
+            port: process.env.SMTP_PORT,
+            secure: process.env.SMTP_SECURE,
+            to: process.env.REPORT_EMAIL_TO
+        };
+
+        if (!smtpConfig.host || !smtpConfig.user) {
+            logger.info("🔍 Enviroment SMTP missing. Checking Firestore (system_config/smtp)...");
+            try {
+                const docSnap = await dbInstance.collection('system_config').doc('smtp').get();
+                if (docSnap.exists) {
+                    const dbData = docSnap.data();
+                    smtpConfig = {
+                        host: dbData.host || smtpConfig.host,
+                        user: dbData.user || smtpConfig.user,
+                        pass: dbData.pass || smtpConfig.pass,
+                        port: dbData.port || smtpConfig.port,
+                        secure: dbData.secure, // Boolean, don't fallback to undefined
+                        to: dbData.to || smtpConfig.to
+                    };
+                    logger.info("✅ Credentials loaded from Firestore.");
+                }
+            } catch (dbErr) {
+                logger.warn("⚠️ Failed to fetch SMTP from Firestore:", dbErr);
+            }
+        }
+
+        if (!smtpConfig.host || !smtpConfig.user) {
+            logger.warn("⚠️ No hay credenciales SMTP configuradas (Env ni Firestore). Saltando reporte.");
             return;
         }
 
@@ -138,19 +169,19 @@ const runDailyReport = async () => {
 
         // Setup Transporter
         const transporter = nodemailer.createTransport({
-            host: process.env.SMTP_HOST,
-            port: parseInt(process.env.SMTP_PORT || '587'),
-            secure: process.env.SMTP_SECURE === 'true', // true for 465, false for other ports
+            host: smtpConfig.host,
+            port: parseInt(smtpConfig.port || '587'),
+            secure: String(smtpConfig.secure) === 'true',
             auth: {
-                user: process.env.SMTP_USER,
-                pass: process.env.SMTP_PASS,
+                user: smtpConfig.user,
+                pass: smtpConfig.pass,
             },
         });
 
         // Send
         const info = await transporter.sendMail({
-            from: `"Sistema Criterio" <${process.env.SMTP_USER}>`,
-            to: process.env.REPORT_EMAIL_TO || process.env.SMTP_USER, // Default to self if not specified
+            from: `"Sistema Criterio" <${smtpConfig.user}>`,
+            to: smtpConfig.to || smtpConfig.user, // Default to self if not specified
             subject: `📊 Reporte Cierre - ${new Date().toLocaleDateString('es-CL')}`,
             text: summaryText, // Plain text body
             html: `<pre style="font-family: sans-serif; font-size: 14px;">${summaryText}</pre>`, // Simple HTML wrap
