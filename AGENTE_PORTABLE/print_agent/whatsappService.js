@@ -1,5 +1,6 @@
-const { Client, LocalAuth } = require('whatsapp-web.js');
+const { Client, LocalAuth, MessageMedia } = require('whatsapp-web.js');
 const qrcode = require('qrcode-terminal');
+const { aiService } = require('./aiService');
 
 let client;
 let db;
@@ -10,12 +11,12 @@ const start = (firestoreDb, appLogger) => {
     db = firestoreDb;
     logger = appLogger;
 
-    logger.info("📱 Iniciando Servicio WhatsApp...");
+    logger.info("📱 Iniciando Servicio WhatsApp (MODO DEBUG: VISUAL)...");
 
     client = new Client({
         authStrategy: new LocalAuth(),
         puppeteer: {
-            headless: true,
+            headless: false, // <--- VISIBLE BROWSER
             args: ['--no-sandbox', '--disable-setuid-sandbox']
         }
     });
@@ -33,6 +34,111 @@ const start = (firestoreDb, appLogger) => {
         startQueueListener();
     });
 
+    // --- DEBUG LISTENERS ---
+    client.on('loading_screen', (percent, message) => {
+        console.log('⏳ [DEBUG] Carga WhatsApp:', percent, message);
+    });
+
+    client.on('change_state', state => {
+        console.log('🔄 [DEBUG] Estado cambiado:', state);
+    });
+
+    client.on('authenticated', () => {
+        console.log('🔐 [DEBUG] Autenticado correctamente.');
+    });
+
+    // --- AI LISTENER (Idea Bot) ---
+    // [LOOP GUARD] Cache of bot-generated message IDs to prevent self-reply loops
+    const botMessageIds = new Set();
+
+    // Clean up old IDs periodically
+    setInterval(() => {
+        if (botMessageIds.size > 1000) botMessageIds.clear(); // Simple flush
+        // HEARTBEAT VISIBLE
+        // console.log(`💓 [HEARTBEAT] Bot activo. Memoria de IDs: ${botMessageIds.size}`);
+    }, 10000);
+
+    const handleIncomingMessage = async (msg) => {
+        // LOGUEO ABSOLUTO DE TODO
+        console.log(`📨 [RAW_EVENT] Type: ${msg.type} | From: ${msg.from} | To: ${msg.to} | Me: ${msg.fromMe} | Body: "${msg.body.substring(0, 50)}..."`);
+
+        try {
+            // 1. Loop Guard: Ignore messages sent by the bot itself
+            if (botMessageIds.has(msg.id.id)) {
+                // console.log("🔄 Ignorando mensaje propio (Cache Loop)");
+                return;
+            }
+
+            // 2. Ignore status updates / broadcast
+            if (msg.id.remote.includes('status') || msg.id.remote.includes('broadcast')) return;
+
+            // [SECURITY] WHITELIST CHECK
+            const adminNumbers = (process.env.ADMIN_NUMBER || "").split(',').map(n => n.trim());
+            const sender = msg.from.replace(/\D/g, ''); // Extract digits only
+
+            // Check if sender is in whitelist
+            const isAllowed = adminNumbers.some(admin => sender.includes(admin));
+
+            if (!isAllowed) {
+                // console.log(`⛔ [BLOCKED] Sender ${sender} not in whitelist`);
+                return;
+            }
+
+            logger.info(`📨 [PROCESANDO AI] Mensaje de: ${msg.from}`);
+
+            let text = msg.body;
+            let mediaBuffer = null;
+            let mimeType = null;
+
+            if (msg.hasMedia) {
+                try {
+                    const media = await msg.downloadMedia();
+                    if (media) {
+                        mediaBuffer = Buffer.from(media.data, 'base64');
+                        mimeType = media.mimetype;
+                        logger.info(`📎 Media detectado: ${mimeType}`);
+                    }
+                } catch (mediaErr) {
+                    logger.error(`Error downloading media: ${mediaErr.message}`);
+                }
+            }
+
+            // Only process if there is text or media
+            if (!text && !mediaBuffer) {
+                console.log("⚠️ Mensaje vacío o sin contenido procesable.");
+                return;
+            }
+
+            const analysis = await aiService.processIdea(text, mediaBuffer, mimeType);
+
+            if (analysis) {
+                const idea = analysis.idea_data || analysis;
+                const replyText = analysis.reply_text;
+
+                // SILENT MODE CHECK
+                if (!replyText) {
+                    logger.info("🤫 Modo Sigilo: IA decidió no responder.");
+                    return;
+                }
+
+                // Reply with Persona AND TRACK ID
+                // Usamos msg.reply y guardamos el ID
+                const sentReply = await msg.reply(replyText);
+                if (sentReply && sentReply.id) {
+                    botMessageIds.add(sentReply.id.id);
+                    logger.info(`🤖 Respuesta enviada (ID: ${sentReply.id.id})`);
+                }
+            }
+
+        } catch (err) {
+            logger.error(`Error AI Process: ${err.message}`);
+            console.error("❌ ERROR CRITICO EN HANDLER:", err);
+        }
+    };
+
+    // Usamos message_create para escuchar TODO (entrante y saliente)
+    client.on('message_create', handleIncomingMessage);
+
     client.on('auth_failure', (msg) => {
         logger.error(`❌ Error de autenticación WhatsApp: ${msg}`);
     });
@@ -40,12 +146,11 @@ const start = (firestoreDb, appLogger) => {
     client.on('disconnected', (reason) => {
         isReady = false;
         logger.warn(`⚠️ Cliente WhatsApp desconectado: ${reason}`);
-        // Client typically reinitializes automatically or needs a restart logic depending on lib version
     });
 
     client.on('message_ack', (msg, ack) => {
-        logger.info(`🔄 Actualización ACK para mensaje ${msg.id.id}: ${ack}`);
         // 1=Server, 2=Device, 3=Read
+        console.log(`✓ ACK Update: ${msg.id.id} -> ${ack}`);
     });
 
     // --- REMOTE KILL SWITCH (AUTOPILOT) ---
@@ -55,10 +160,7 @@ const start = (firestoreDb, appLogger) => {
             const cmd = doc.data();
             if (cmd.restart === true) {
                 logger.warn("♻️ COMANDO DE REINICIO RECIBIDO. Apagando para actualizar...");
-                // Reseteamos el flag para no buclear infinito (opcional)
                 db.collection('system').doc('agent_commands').update({ restart: false });
-
-                // Matamos el proceso. El script .bat lo volverá a encender.
                 process.exit(0);
             }
         }
@@ -68,7 +170,7 @@ const start = (firestoreDb, appLogger) => {
 };
 
 const startQueueListener = () => {
-    logger.info("🎧 Escuchando cola de mensajes de WhatsApp...");
+    logger.info("🎧 Escuchando cola de mensajes de WhatsApp (Queue)...");
 
     // Listen for 'pending' messages
     db.collection('whatsapp_queue')
@@ -95,54 +197,46 @@ const startQueueListener = () => {
 const processMessage = async (msgId, data) => {
     // SOPORTE HIBRIDO: 'body' (Backend) o 'message' (Frontend)
     const to = data.to;
-    // IMPORTANTE: El frontend manda 'message', el backend 'body'. Aceptamos ambos.
     const body = data.body || data.message || "⚠️ Contenido vacío";
 
     try {
-        // 1. Sanitization: Remove ALL non-numeric characters (spaces, +, -, etc)
         const numericPhone = to.replace(/\D/g, '');
         let finalId = `${numericPhone}@c.us`;
 
-        logger.info(`🔍 Buscando usuario real para: ${numericPhone}...`);
+        logger.info(`🔍 [QUEUE] Enviando mensaje a: ${numericPhone}...`);
 
-        // 2. Resolve the correct WhatsApp ID (Handles legacy formats if needed)
-        // This ensures the number is actually registered
         let targetId = finalId;
         try {
             const contact = await client.getNumberId(finalId);
             if (contact && contact._serialized) {
                 targetId = contact._serialized;
-                logger.info(`🎯 Usuario encontrado: ${targetId}`);
             } else {
-                logger.warn(`⚠️ El número ${numericPhone} no parece estar registrado. Intentando envío directo...`);
+                logger.warn(`⚠️ Número no registrado (probando envío directo)...`);
             }
         } catch (e) {
-            logger.warn(`⚠️ No se pudo verificar el número (posible error de red), intentando directo.`);
+            logger.warn(`⚠️ Error verificando número, enviando directo.`);
         }
 
-        logger.info(`📨 Enviando WhatsApp a ${targetId}...`);
-
-        const sentMsg = await client.sendMessage(targetId, body);
-
-        // Log the internal Acknowledgement status from WhatsApp
-        // 0: Pending, 1: Server Ack, 2: Delivery Ack, 3: Read
-        logger.info(`📝 Estado ACK inicial: ${sentMsg.ack} (ID: ${sentMsg.id._serialized})`);
+        let sentMsg;
+        if (data.media && data.media.data) {
+            const media = new MessageMedia(data.media.mimetype, data.media.data, data.media.filename);
+            sentMsg = await client.sendMessage(targetId, media, { caption: body });
+        } else {
+            sentMsg = await client.sendMessage(targetId, body);
+        }
 
         await db.collection('whatsapp_queue').doc(msgId).update({
             status: 'sent',
             sentAt: new Date(),
-            debug_target: targetId,
             debug_ack: sentMsg.ack
         });
-        logger.info(`✅ Mensaje enviado (Ack: ${sentMsg.ack}).`);
+        logger.info(`✅ [QUEUE] Mensaje enviado.`);
 
     } catch (error) {
         logger.error(`❌ Error enviando mensaje ${msgId}: ${error.message}`);
 
-        // SELF-HEALING: Si el navegador se muere (Detached Frame), reiniciamos todo el proceso.
-        // El script .bat nos volverá a levantar en 3 segundos.
         if (error.message.includes('detached Frame') || error.message.includes('Protocol error')) {
-            logger.error("💀 Error crítico del navegador detectado. Reiniciando servicio (Self-Healing)...");
+            logger.error("💀 Error crítico del navegador. Reiniciando...");
             process.exit(1);
         }
 
