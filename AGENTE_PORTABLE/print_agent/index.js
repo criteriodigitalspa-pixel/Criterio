@@ -10,8 +10,8 @@ const { exec, execFile } = require('child_process');
 
 // --- 1. CONFIGURATION ---
 const SERVICE_ACCOUNT_PATH = path.join(__dirname, 'service-account.json');
-const PRINTER_QUEUE_STD = process.env.PRINTER_STD || "Zebra_STD";
-const PRINTER_QUEUE_TECH = process.env.PRINTER_TECH || "Zebra_TECH";
+const PRINTER_QUEUE_STD = process.env.PRINTER_STD || "Xprinter XP-420B";
+const PRINTER_QUEUE_TECH = process.env.PRINTER_TECH || "Xprinter XP-420B";
 const TEMP_DIR = os.tmpdir();
 
 // --- 2. LOGGER SETUP (Winston) ---
