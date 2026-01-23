@@ -158,13 +158,20 @@ const start = (firestoreDb, appLogger) => {
 
     // --- REMOTE KILL SWITCH (AUTOPILOT) ---
     // Escucha comandos de reinicio desde la web
-    db.collection('system').doc('agent_commands').onSnapshot((doc) => {
+    db.collection('system').doc('agent_commands').onSnapshot(async (doc) => {
         if (doc.exists) {
             const cmd = doc.data();
             if (cmd.restart === true) {
                 logger.warn("♻️ COMANDO DE REINICIO RECIBIDO. Apagando para actualizar...");
-                db.collection('system').doc('agent_commands').update({ restart: false });
-                process.exit(0);
+                try {
+                    await db.collection('system').doc('agent_commands').update({ restart: false });
+                    logger.info("✅ Flag de reinicio reseteada. Saliendo...");
+                    // Give it a tiny buffer to flush logs
+                    setTimeout(() => process.exit(0), 500);
+                } catch (e) {
+                    logger.error("Error reseteando flag:", e);
+                    process.exit(1);
+                }
             }
         }
     });
