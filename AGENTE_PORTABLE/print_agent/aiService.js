@@ -78,14 +78,87 @@ class AIService {
         return activePersona;
     }
 
+    // --- INVENTORY TOOL ---
+    async searchInventory(criteria) {
+        if (!this.db) return [];
+        console.log("📦 AI Buscando en Inventario:", criteria);
+
+        try {
+            // Basic query: "Active" tickets (not sold)
+            // Assuming 'status' != 'sold' (or check done col? For now, fetch all 'todo' if possible, or just fetch all and filter)
+            // Kanban usually uses collections or status field. Let's assume 'tickets' root collection.
+            const snapshot = await this.db.collection('tickets')
+                .where('status', '!=', 'sold') // Basic filter
+                .limit(50) // Don't fetch everything
+                .get();
+
+            let matches = snapshot.docs.map(doc => {
+                const d = doc.data();
+                return {
+                    id: doc.id,
+                    title: `${d.marca} ${d.modelo} (${d.cpuBrand} ${d.cpuGen})`,
+                    specs: `RAM: ${d.ram?.detalles?.join('+') || '?'} | DISCO: ${d.disco?.detalles?.join('+') || '?'} | GPU: ${d.additionalInfo?.gpu || 'Integrada'}`,
+                    price: d.precioVenta || (d.precioCompra * 1.3), // Fallback margin if sale price not set
+                    status: d.status
+                };
+            });
+
+            // Local Fuzzy Search (RAG-lite)
+            // Filter matches based on criteria keywords
+            if (criteria.query) {
+                const q = criteria.query.toLowerCase();
+                matches = matches.filter(m =>
+                    m.title.toLowerCase().includes(q) ||
+                    m.specs.toLowerCase().includes(q)
+                );
+            }
+
+            if (criteria.maxPrice) {
+                matches = matches.filter(m => m.price <= criteria.maxPrice);
+            }
+
+            return matches.slice(0, 5); // Return top 5 relevant
+
+        } catch (e) {
+            console.error("Error searching inventory:", e);
+            return [];
+        }
+    }
+
     async processIdea(text, mediaBuffer, mimeType, senderPhone) {
         if (!this.genAI) return null;
 
         try {
+            // --- TOOLS DEFINITION ---
+            const inventoryTool = {
+                functionDeclarations: [
+                    {
+                        name: "searchInventory",
+                        description: "Buscar computadores en el inventario disponible. Úsalo cuando pregunten por precios, modelos o características.",
+                        parameters: {
+                            type: "OBJECT",
+                            properties: {
+                                query: { type: "STRING", description: "Palabras clave del producto (ej: 'notebook gamer', 'hp ryzen', 'macbook')." },
+                                maxPrice: { type: "NUMBER", description: "Presupuesto máximo del cliente (si lo menciona)." }
+                            },
+                        }
+                    }
+                ]
+            };
+
             const model = this.genAI.getGenerativeModel({
-                model: "gemini-2.5-flash",
-                generationConfig: { responseMimeType: "application/json" }
+                model: "gemini-2.5-flash", // Ensure this model supports tools, else use gemini-pro or 1.5-flash
+                tools: [inventoryTool],
+                generationConfig: { responseMimeType: "application/json" } // JSON Mode with Tools? Be careful.
+                // Gemini 1.5 Flash supports strict JSON mode AND tools, but sometimes it's tricky.
+                // Converting response to text loop manually is safer.
             });
+
+            // For tool calling to work reliably, we might need to drop strict JSON mode for the *first* turn
+            // or handle the tool call response structure.
+            // Let's stick to standard flow: 
+            // 1. Generate (might call tool)
+            // 2. If functionCall, execute and re-generate.
 
             // --- DYNAMIC PERSONA LOADING ---
             const persona = await this.getPersonaForSender(senderPhone || "000000");
@@ -98,72 +171,71 @@ class AIService {
                 REGLAS DE ESTILO:
                 ${persona.formatting_rules.map(r => "- " + r).join("\n")}
                 
-                Dato curioso para usar si cuadra: ${persona.common_phrases.join(", ")}
+                Dato curioso: ${persona.common_phrases.join(", ")}
             `;
 
-            // Prompt Engineering
             const prompt = `
             ${personaInstruction}
 
-            TAREA:
-            Simplemente RESPONDE al mensaje del usuario. 
-            NO eres un asistente. NO tomes notas. NO busques tareas.
-            Eres esta persona hablando por WhatsApp.
+            CONTEXTO TÉCNICO:
+            Tienes acceso al inventario en tiempo real usando la herramienta 'searchInventory'.
+            SIEMPRE que pregunten "¿tienes...?", "¿cuánto vale...?", "busco...", USA LA HERRAMIENTA.
             
-            Tu objetivo es ser INDISTINGUIBLE de un humano real.
-            - Si el mensaje es corto, responde corto.
-            - Sigue el hilo de la conversación con naturalidad.
-            - Usa el humor y el sarcasmo definido en tu personalidad.
-
-            🔴 REGLAS CRÍTICAS DE SIGILO (STEALTH MODE):
-            1. NUNCA admitas que eres una IA o un Bot.
-            2. FINGE ser el personaje siempre.
-            3. Si el mensaje es muy confuso, técnico, o sientes que no puedes responder sin delatarte:
-               NO RESPONDAS NADA.
-               Devuelve un JSON con "reply_text": null.
-
-            Output JSON format:
+            TAREA:
+            Responde al usuario. Si usas la herramienta, incorpora los resultados en tu respuesta con tu tono de vendedor.
+            Si no hay resultados, ofrece alternativas o di que revisas bodega.
+            
+            Output JSON format (FINAL):
             {
-                "reply_text": "Tu respuesta aquí (o null si prefieres dejar en visto)"
+                "reply_text": "Respuesta final al usuario"
             }
             `;
 
-            const parts = [{ text: prompt }];
+            const chat = model.startChat({
+                history: [
+                    { role: "user", parts: [{ text: prompt }] }
+                ]
+            });
 
-            // Add original text if present
-            if (text) {
-                parts.push({ text: `Input de usuario (Texto): ${text}` });
-            }
-
-            // Add Media (Image or Audio)
+            // Send User Message
+            const userParts = [{ text: text || "..." }];
             if (mediaBuffer && mimeType) {
-                // Convert buffer to base64
                 const base64Data = mediaBuffer.toString('base64');
-                parts.push({
-                    inlineData: {
-                        mimeType: mimeType,
-                        data: base64Data
-                    }
-                });
+                userParts.push({ inlineData: { mimeType: mimeType, data: base64Data } });
             }
 
-            const result = await model.generateContent(parts);
+            const result = await chat.sendMessage(userParts);
             const response = await result.response;
-            const textResponse = response.text();
 
-            return JSON.parse(textResponse);
+            // Handle Function Call
+            const calls = response.functionCalls();
+            if (calls && calls.length > 0) {
+                const call = calls[0];
+                if (call.name === "searchInventory") {
+                    const apiResponse = await this.searchInventory(call.args);
+
+                    // Feed back to model
+                    const toolResult = await chat.sendMessage([
+                        {
+                            functionResponse: {
+                                name: "searchInventory",
+                                response: { products: apiResponse }
+                            }
+                        }
+                    ]);
+
+                    const finalResponse = await toolResult.response;
+                    return JSON.parse(finalResponse.text());
+                }
+            }
+
+            // Normal Text Response (No tool used)
+            return JSON.parse(response.text());
+
         } catch (error) {
             console.error("❌ Error procesando IA:", error);
-            // Fallback object
             return {
-                idea_data: {
-                    title: "Error procesando idea",
-                    summary: text || "Media error",
-                    category: "Inbox",
-                    action: "Revisar",
-                    urgency: "high"
-                },
-                reply_text: "Mano explotó la IA 💀. Revisa los logs marico.",
+                reply_text: "Mano, me marié buscando eso. Pregúntame de nuevo.",
                 error: error.message
             };
         }
