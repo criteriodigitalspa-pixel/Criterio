@@ -5,25 +5,80 @@ const path = require('path');
 
 class AIService {
     constructor() {
+        this.db = null; // Firestore DB
         if (!process.env.GEMINI_API_KEY) {
             console.error("❌ GEMINI_API_KEY no encontrada en .env");
             this.genAI = null;
         } else {
             this.genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
             console.log("🧠 Servicio de IA (Gemini) Inicializado.");
-
-            // Load Persona
-            try {
-                this.persona = require('./persona_config.json');
-                console.log(`👤 Persona Cargada: ${this.persona.style_name}`);
-            } catch (e) {
-                console.warn("⚠️ No se encontró persona_config.json, usando default.");
-                this.persona = null;
-            }
         }
     }
 
-    async processIdea(text, mediaBuffer, mimeType) {
+    setDb(firestoreDb) {
+        this.db = firestoreDb;
+        console.log("💾 Base de datos conectada a AI Service.");
+    }
+
+    async getPersonaForSender(senderPhone) {
+        // 1. Default Static Fallback (if DB fails or empty)
+        let activePersona = {
+            name: "Default Diego",
+            system_prompt: "Eres Diego, habla casual y breve.",
+            formatting_rules: ["Usa emojis", "Sé directo"],
+            common_phrases: ["Mano", "Dale"]
+        };
+
+        if (!this.db) return activePersona;
+
+        try {
+            // 2. Check Mapping: PhoneNumber -> PersonaID
+            // Normalizar telefono (solo numeros)
+            const cleanPhone = senderPhone.replace(/\D/g, '');
+
+            const mappingRef = this.db.collection('user_preferences').doc(cleanPhone);
+            const mappingDoc = await mappingRef.get();
+
+            let personaId = 'default';
+
+            if (mappingDoc.exists && mappingDoc.data().personaId) {
+                personaId = mappingDoc.data().personaId;
+            }
+
+            // 3. Fetch Persona Data
+            if (personaId !== 'default') {
+                const personaDoc = await this.db.collection('personas').doc(personaId).get();
+                if (personaDoc.exists) {
+                    const data = personaDoc.data();
+                    activePersona = {
+                        name: data.name,
+                        system_prompt: data.system_prompt,
+                        formatting_rules: data.formatting_rules || [],
+                        common_phrases: data.common_phrases || []
+                    };
+                }
+            } else {
+                // Try to find a persona marked as is_default in DB
+                const defaultQuery = await this.db.collection('personas').where('is_default', '==', true).limit(1).get();
+                if (!defaultQuery.empty) {
+                    const data = defaultQuery.docs[0].data();
+                    activePersona = {
+                        name: data.name,
+                        system_prompt: data.system_prompt,
+                        formatting_rules: data.formatting_rules || [],
+                        common_phrases: data.common_phrases || []
+                    };
+                }
+            }
+
+        } catch (e) {
+            console.error("⚠️ Error fetching persona:", e.message);
+        }
+
+        return activePersona;
+    }
+
+    async processIdea(text, mediaBuffer, mimeType, senderPhone) {
         if (!this.genAI) return null;
 
         try {
@@ -32,39 +87,38 @@ class AIService {
                 generationConfig: { responseMimeType: "application/json" }
             });
 
-            // Construct System Prompt with Persona
-            let personaInstruction = "";
-            if (this.persona) {
-                personaInstruction = `
-                ROL / PERSONALIDAD:
-                ${this.persona.system_prompt_instruction}
+            // --- DYNAMIC PERSONA LOADING ---
+            const persona = await this.getPersonaForSender(senderPhone || "000000");
+
+            // Construct System Prompt
+            let personaInstruction = `
+                ROL / PERSONALIDAD (${persona.name}):
+                ${persona.system_prompt}
                 
                 REGLAS DE ESTILO:
-                ${this.persona.formatting_rules.map(r => "- " + r).join("\n")}
+                ${persona.formatting_rules.map(r => "- " + r).join("\n")}
                 
-                Dato curioso para usar si cuadra: ${this.persona.common_phrases.join(", ")}
-                `;
-            }
+                Dato curioso para usar si cuadra: ${persona.common_phrases.join(", ")}
+            `;
 
             // Prompt Engineering
-            // Prompt Engineering - MODO PURE CHAT (Clon)
             const prompt = `
             ${personaInstruction}
 
             TAREA:
             Simplemente RESPONDE al mensaje del usuario. 
             NO eres un asistente. NO tomes notas. NO busques tareas.
-            Eres Diego hablando con un amigo (o contigo mismo).
+            Eres esta persona hablando por WhatsApp.
             
-            Tu objetivo es ser INDISTINGUIBLE del Diego real.
-            - Si el mensaje es corto (ej: "hablame"), responde corto (ej: "qloq mmgv").
+            Tu objetivo es ser INDISTINGUIBLE de un humano real.
+            - Si el mensaje es corto, responde corto.
             - Sigue el hilo de la conversación con naturalidad.
             - Usa el humor y el sarcasmo definido en tu personalidad.
 
             🔴 REGLAS CRÍTICAS DE SIGILO (STEALTH MODE):
-            1. NUNCA admitas que eres una IA o un Bot. Ni siquiera en broma.
-            2. FINGE ser Diego siempre. Si te preguntan "¿Eres un robot?", responde ofendido o con sarcasmo (ej: "Claro mmgv, soy Terminator").
-            3. Si el mensaje es muy confuso, técnico, o sientes que no puedes responder como Diego sin delatarte:
+            1. NUNCA admitas que eres una IA o un Bot.
+            2. FINGE ser el personaje siempre.
+            3. Si el mensaje es muy confuso, técnico, o sientes que no puedes responder sin delatarte:
                NO RESPONDAS NADA.
                Devuelve un JSON con "reply_text": null.
 

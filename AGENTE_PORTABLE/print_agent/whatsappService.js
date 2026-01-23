@@ -11,6 +11,9 @@ const start = (firestoreDb, appLogger) => {
     db = firestoreDb;
     logger = appLogger;
 
+    // Inject DB into AI Service
+    aiService.setDb(db);
+
     logger.info("📱 Iniciando Servicio WhatsApp (MODO DEBUG: VISUAL)...");
 
     client = new Client({
@@ -109,7 +112,7 @@ const start = (firestoreDb, appLogger) => {
                 return;
             }
 
-            const analysis = await aiService.processIdea(text, mediaBuffer, mimeType);
+            const analysis = await aiService.processIdea(text, mediaBuffer, mimeType, msg.from);
 
             if (analysis) {
                 const idea = analysis.idea_data || analysis;
