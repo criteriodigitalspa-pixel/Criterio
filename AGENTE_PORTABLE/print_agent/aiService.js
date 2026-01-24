@@ -128,6 +128,19 @@ class AIService {
     async processIdea(text, mediaBuffer, mimeType, senderPhone) {
         if (!this.genAI) return null;
 
+        // 🛑 EMERGENCY KILL SWITCH CHECK
+        try {
+            const configDoc = await this.db.collection('system').doc('ai_config').get();
+            if (configDoc.exists && configDoc.data().enabled === false) {
+                console.log("🛑 AI DEACTIVATED GLOBALLY. Ignoring message.");
+                return { reply_text: null }; // Silent
+            }
+        } catch (e) {
+            console.error("Error checking AI config:", e); // Fail safe: continue? Or fail safe: stop? 
+            // Better fail safe: Stop if uncertain to avoid accidents.
+            // return { reply_text: null }; 
+        }
+
         try {
             // --- TOOLS DEFINITION ---
             const inventoryTool = {
