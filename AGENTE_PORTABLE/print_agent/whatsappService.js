@@ -14,7 +14,7 @@ const start = (firestoreDb, appLogger) => {
     // Inject DB into AI Service
     aiService.setDb(db);
 
-    logger.info("📱 Iniciando Servicio WhatsApp (MODO DEBUG: VISUAL)...");
+    logger.info("📱 Iniciando Servicio WhatsApp (MODO VISUAL FORZADO v3)...");
 
     client = new Client({
         authStrategy: new LocalAuth(),
