@@ -1,12 +1,11 @@
 @echo off
 cd /d "%~dp0"
-title AGENTE CRITERIO - INICIO (V4)
+title AGENTE CRITERIO - INICIO (V5 - FORCE UPDATE)
 color 0B
 
 echo ==================================================
-echo      AGENTE CRITERIO: INICIAR (V4)
-echo      Modo: OIDO ABSOLUTO + TELEMETRIA
-echo      Auto-Actualizable
+echo      AGENTE CRITERIO: INICIAR (V5)
+echo      Modo: ACTUALIZACION FORZADA
 echo ==================================================
 echo.
 
@@ -14,21 +13,33 @@ echo.
 cls
 echo [INFO] Directorio: %CD%
 
-:: 1. AUTO-ACTUALIZACION (Solo si hay internet y git)
-echo [GIT] Buscando actualizaciones...
+:: 1. AUTO-ACTUALIZACION FORZADA (V5)
+echo [GIT] Forzando sincronizacion con la nube...
+echo     1. Fetching...
+git fetch --all
+echo     2. Resetting hard to origin/main...
+git reset --hard origin/main
+echo     3. Pulling...
 git pull origin main
 
-:: 2. ENTRAR A LA ZONA
-if exist "print_agent" (
+:: 2. ENTRAR A LA ZONA (Búsqueda inteligente)
+if exist "print_agent\index.js" (
     cd "print_agent"
+) else if exist "index.js" (
+    echo [INFO] Ya estamos dentro de la carpeta.
 ) else (
+    echo [ERROR] No encuentro 'index.js' ni la carpeta 'print_agent'.
+    echo Directorio actual: %CD%
+    dir
+    pause
+    exit
+)
     echo [ERROR] No encuentro la carpeta 'print_agent'.
-    echo Asegurate de estar dentro de AGENTE_PORTABLE.
     pause
     exit
 )
 
-:: 3. VERIFICAR DEPENDENCIAS
+:: 3. VERIFICAR DEPENDENCIAS (Mantener igual)
 if not exist "node_modules" (
     echo [NPM] Instalando cerebros...
     call npm install
@@ -41,7 +52,7 @@ echo [INFO] NO CIERRES la ventana de Chrome que se abrira.
 color 0A
 node index.js
 
-:: 5. REINICIO AUTOMATICO
+:: 5. REINICIO
 color 0C
 echo.
 echo [CRASH] El agente se cerro. Reiniciando en 5s...
