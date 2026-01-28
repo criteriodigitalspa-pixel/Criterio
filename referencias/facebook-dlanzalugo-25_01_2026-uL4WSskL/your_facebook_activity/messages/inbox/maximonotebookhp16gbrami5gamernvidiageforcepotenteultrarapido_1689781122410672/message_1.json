@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Maximo Acosta"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756006824609,
+      "content": "Cuantoo ofrece?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maximo Acosta",
+      "timestamp_ms": 1756006812875,
+      "content": "Precio Conversable?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756006768439,
+      "content": "El equipo esta listo para usar.\nPuede probarlo y revisar con calma.\nEntrego en Mi domicilio en la comuna de La Florida o lugar a convenir.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756006766765,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maximo Acosta",
+      "timestamp_ms": 1756005926819,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maximo Acosta",
+      "timestamp_ms": 1756005925261,
+      "content": "\u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maximo Acosta",
+      "timestamp_ms": 1756005925052,
+      "content": "Maximo inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Maximo \u00c2\u00b7 Notebook HP / 16GB RAM / i5 / GAMER / NVIDIA GeForce / Potente ultra Rapido",
+  "is_still_participant": true,
+  "thread_path": "inbox/maximonotebookhp16gbrami5gamernvidiageforcepotenteultrarapido_1689781122410672",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

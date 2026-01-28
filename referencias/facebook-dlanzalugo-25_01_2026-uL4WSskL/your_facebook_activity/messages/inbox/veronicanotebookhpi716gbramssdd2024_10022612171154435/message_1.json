@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Veronica Vargas"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1749315717380,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1749252434436,
+      "content": "Entrego en mi domicilio en la comuna de la Florida o puedo acercar a  metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1749252432571,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Veronica Vargas",
+      "timestamp_ms": 1749252427164,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Veronica Vargas",
+      "timestamp_ms": 1749252422833,
+      "content": "\u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Veronica Vargas",
+      "timestamp_ms": 1749252422584,
+      "content": "Veronica inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Veronica \u00c2\u00b7 Notebook HP i7 / 16GB RAM / SSDD / 2024",
+  "is_still_participant": true,
+  "thread_path": "inbox/veronicanotebookhpi716gbramssdd2024_10022612171154435",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

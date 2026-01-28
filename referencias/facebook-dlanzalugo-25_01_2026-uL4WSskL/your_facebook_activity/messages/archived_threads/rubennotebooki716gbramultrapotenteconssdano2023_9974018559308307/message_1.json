@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Ruben Carrasco"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1747253445118,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1747145904596,
+      "content": "Puede venir a verlo a mi domicilio en la comuna de la Florida, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1747145904087,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ruben Carrasco",
+      "timestamp_ms": 1747145743778,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ruben Carrasco",
+      "timestamp_ms": 1747145737922,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ruben Carrasco",
+      "timestamp_ms": 1747145737673,
+      "content": "Ruben inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ruben \u00c2\u00b7 Notebook i7 / 16GB RAM Ultra Potente con SSD / A\u00c3\u00b1o 2023",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/rubennotebooki716gbramultrapotenteconssdano2023_9974018559308307",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

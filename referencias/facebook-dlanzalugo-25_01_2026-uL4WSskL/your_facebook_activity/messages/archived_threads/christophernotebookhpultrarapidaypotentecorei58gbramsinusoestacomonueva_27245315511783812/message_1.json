@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Christopher Lazo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728677355992,
+      "content": "Le intereso?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728663655432,
+      "content": "Si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Christopher Lazo",
+      "timestamp_ms": 1728661419750,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Christopher Lazo",
+      "timestamp_ms": 1728661415153,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Christopher Lazo",
+      "timestamp_ms": 1728661414803,
+      "content": "Christopher Lazo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Christopher Lazo",
+      "timestamp_ms": 1728661411707,
+      "content": "Christopher asign\u00c3\u00b3 al grupo el nombre \"Christopher \u00c2\u00b7 NOTEBOOK HP ULTRA RAPIDA Y POTENTE  CORE I5 8GB RAM, SIN USO ESTA COMO NUEVA\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Christopher Lazo",
+      "timestamp_ms": 1728661411707,
+      "content": "Christopher cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Christopher \u00c2\u00b7 NOTEBOOK HP ULTRA RAPIDA Y POTENTE  CORE I5 8GB RAM, SIN USO ESTA COMO NUEVA",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/christophernotebookhpultrarapidaypotentecorei58gbramsinusoestacomonueva_27245315511783812",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

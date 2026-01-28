@@ -1,0 +1,224 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Ivan Carrera"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740436804327,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ivan Carrera",
+      "timestamp_ms": 1740434461116,
+      "content": "Si llego a juntar m\u00c3\u00a1s le aviso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740434283401,
+      "content": "Muchas gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740434280703,
+      "content": "Paso amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ivan Carrera",
+      "timestamp_ms": 1740434261100,
+      "content": "130",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740420352376,
+      "content": "El de esta publicacion tiene 16gb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740420342047,
+      "content": "Ese de 100mil tiene solo 8 gb de ram",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740420266623,
+      "content": "Tendra otras caracteristicas imagino",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740420256955,
+      "content": "Aaah no amigo no se cual publicacion es esa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ivan Carrera",
+      "timestamp_ms": 1740419610461,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/ivannotebooki516gbramultrapotenteconssd_9283875118337790/photos/2816015495238034.jpg",
+          "creation_timestamp": 1740419609
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ivan Carrera",
+      "timestamp_ms": 1740419597031,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/ivannotebooki516gbramultrapotenteconssd_9283875118337790/audio/1813255496176749.mp4",
+          "creation_timestamp": 1740419595
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740412271253,
+      "content": "Esa esas son las caracteristicas de esta publicacion",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740412237550,
+      "content": "Osea la foto que me pasaste es la descripcion de esta publicacion",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ivan Carrera",
+      "timestamp_ms": 1740412085873,
+      "content": "O me equivoco",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ivan Carrera",
+      "timestamp_ms": 1740412077208,
+      "content": "Sii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740411651654,
+      "content": "160mil te parece?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740411641839,
+      "content": "Como los mismos modelos amigo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ivan Carrera",
+      "timestamp_ms": 1740411509677,
+      "content": "Son los mismo modelos o me equivoco",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ivan Carrera",
+      "timestamp_ms": 1740411499632,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/ivannotebooki516gbramultrapotenteconssd_9283875118337790/photos/1979364032588768.jpg",
+          "creation_timestamp": 1740411498
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ivan Carrera",
+      "timestamp_ms": 1740411473374,
+      "content": "\u00c3\u009altimo precio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740410832314,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740410831822,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740365065038,
+      "content": "S\u00c3\u00ad, buenas noches",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ivan Carrera",
+      "timestamp_ms": 1740362639918,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ivan Carrera",
+      "timestamp_ms": 1740362635252,
+      "content": "Buenas noches. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ivan Carrera",
+      "timestamp_ms": 1740362634814,
+      "content": "Ivan inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ivan \u00c2\u00b7 Notebook i5 16GB RAM Ultra Potente con SSD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/ivannotebooki516gbramultrapotenteconssd_9283875118337790",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

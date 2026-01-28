@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Alan Alfaro"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740927047944,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740921544608,
+      "content": "Si amigo hoy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740921536261,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alan Alfaro",
+      "timestamp_ms": 1740918836169,
+      "content": "Puede entregar hoy ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alan Alfaro",
+      "timestamp_ms": 1740918815357,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alan Alfaro",
+      "timestamp_ms": 1740918810992,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alan Alfaro",
+      "timestamp_ms": 1740918810697,
+      "content": "Alan inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Alan \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/alannotebooki710thultrarapida202316gbramssdd_9730630356949731",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "participants": [
+    {
+      "name": "Raul Jofre"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734646780292,
+      "content": "Estimado le intereso?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Raul Jofre",
+      "timestamp_ms": 1734630120516,
+      "content": "Gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734630113104,
+      "content": "994919000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734630109948,
+      "content": "Si claro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Raul Jofre",
+      "timestamp_ms": 1734630074652,
+      "content": "Te confirmo en un rato para ver si coordinamos, tienes tu wasap?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Raul Jofre",
+      "timestamp_ms": 1734624540117,
+      "content": "Raul reaccion\u00c3\u00b3 \u00f0\u009f\u0091\u008d a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734622887317,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734622879655,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Raul Jofre",
+          "timestamp": 1734624540
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734622878670,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Raul Jofre",
+      "timestamp_ms": 1734622549460,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Raul Jofre",
+      "timestamp_ms": 1734622545260,
+      "content": "Buenas tardes. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Raul Jofre",
+      "timestamp_ms": 1734622544820,
+      "content": "Raul Jofre",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Raul Jofre",
+      "timestamp_ms": 1734622542860,
+      "content": "Raul asign\u00c3\u00b3 al grupo el nombre \"Raul \u00c2\u00b7 Notebook Potente ultra Rapido con Grafica Dedicada AMD y Ryzen 5 12GB RAM y SSD\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Raul Jofre",
+      "timestamp_ms": 1734622542860,
+      "content": "Raul cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Raul \u00c2\u00b7 Notebook Potente ultra Rapido con Grafica Dedicada AMD y Ryzen 5 12GB RAM y SSD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/raulnotebookpotenteultrarapidocongraficadedicadaamdyryzen512gbramyssd_9378160468881605",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

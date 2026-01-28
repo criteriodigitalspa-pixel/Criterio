@@ -1,0 +1,152 @@
+{
+  "participants": [
+    {
+      "name": "Nacho Mu\u00c3\u00b1oz"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nacho Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1738271739266,
+      "content": "Nacho vendi\u00c3\u00b3 Ram 8GB DDR4 3200 Mhz.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nacho Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1738204335582,
+      "content": "Nacho marc\u00c3\u00b3 la publicaci\u00c3\u00b3n como Disponible.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nacho Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1738090745450,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nacho Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1738090743690,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738090706753,
+      "content": "Bueno gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738090700815,
+      "content": "Uff es que santa ana me queda muy lejos y a esa hora me complica",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nacho Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1738090561112,
+      "content": "Ando en la pega ahora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nacho Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1738090557414,
+      "content": "Tendria que ser tipo 18:30",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738090483786,
+      "content": "Podrias tipo 5.15?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738090470743,
+      "content": "A que hora puedes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nacho Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1738090295757,
+      "content": "En Santa Ana podria ser",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738090258540,
+      "content": "Entregarias en metro macul amigo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nacho Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1738090238595,
+      "content": "26",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nacho Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1738090232002,
+      "content": "S\u00c3\u00ad. \u00c2\u00bfTe interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738089625691,
+      "content": "Lo otro, podria entregar en metro macul?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738089584589,
+      "content": "Cuanto por las 4 amigo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738089575736,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738089575579,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Ram 8GB DDR4 3200 Mhz",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegoram8gbddr43200mhz_9331316480222583",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/9004870219623059.jpg",
+    "creation_timestamp": 1738089571
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

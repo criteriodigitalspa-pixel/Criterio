@@ -1,0 +1,85 @@
+{
+  "participants": [
+    {
+      "name": "Ac Stefano"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754345230015,
+      "content": "Es un intel grafics hd 600",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754345219131,
+      "content": "Hola soy de la florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ac Stefano",
+      "timestamp_ms": 1754319367576,
+      "content": "Te leo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ac Stefano",
+      "timestamp_ms": 1754314780240,
+      "content": "De d\u00c3\u00b3nde eres? Y cu\u00c3\u00a9ntame, que gr\u00c3\u00a1fica usa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754314420754,
+      "content": "Hola, s\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ac Stefano",
+      "timestamp_ms": 1754312787889,
+      "content": "Tiene algun detalle o algo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ac Stefano",
+      "timestamp_ms": 1754312775708,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ac Stefano",
+      "timestamp_ms": 1754312773410,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ac Stefano",
+      "timestamp_ms": 1754312773153,
+      "content": "Stefano inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Stefano \u00c2\u00b7 Notebook i5 16GB RAM Ultra Potente con SSD PROBOOK",
+  "is_still_participant": true,
+  "thread_path": "inbox/stefanonotebooki516gbramultrapotenteconssdprobook_24280576904892060",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Marcelo Ignacio Virgilio"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767177538820,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767053770071,
+      "content": "Estacion de metro Macul",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelo Ignacio Virgilio",
+      "timestamp_ms": 1767052519703,
+      "content": "Cerca del metro?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767052396802,
+      "content": "Estoy en La Florida. Te acomoda la comuna o preferir\u00c3\u00adas que coordinemos en otro punto a convenir?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelo Ignacio Virgilio",
+      "timestamp_ms": 1767052062631,
+      "content": "O donde lo puedo probar y eso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelo Ignacio Virgilio",
+      "timestamp_ms": 1767052056623,
+      "content": "Donde entregas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767051646077,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelo Ignacio Virgilio",
+      "timestamp_ms": 1767051517964,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelo Ignacio Virgilio",
+      "timestamp_ms": 1767051513552,
+      "content": "Disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelo Ignacio Virgilio",
+      "timestamp_ms": 1767051513162,
+      "content": "Marcelo inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Marcelo \u00c2\u00b7 Notebook Ultra Rapida Dell Vostro / 12GB RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/marcelonotebookultrarapidadellvostro12gbramssdd_2834785363380021",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "participants": [
+    {
+      "name": "FI Fl"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1747591913159,
+      "content": "Igual gracias por lanoferta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1747591905533,
+      "content": "Hola estimado, el precio es 140mil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "FI Fl",
+      "timestamp_ms": 1747589443074,
+      "content": "Buen d\u00c3\u00ada @Diego Lanza \n\nDe acuerdo a las caracter\u00c3\u00adsticas indicadas y precio de mercado por face $100.000 pesos efectivo  estimado,",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1747579283783,
+      "content": "Puede venir a verlo a mi domicilio en la comuna de la Florida, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1747579282759,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1747579282178,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "FI Fl",
+      "timestamp_ms": 1747537911252,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "FI Fl",
+      "timestamp_ms": 1747537906092,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "FI Fl",
+      "timestamp_ms": 1747537905805,
+      "content": "FI inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "FI \u00c2\u00b7 Notebook i5 8GB RAM Ultra Potente con SSD ENCIENDE EN SEGUNDOS\n PROBOOK",
+  "is_still_participant": true,
+  "thread_path": "inbox/finotebooki58gbramultrapotenteconssdenciendeensegundosprobook_9921865597873334",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

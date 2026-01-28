@@ -1,0 +1,97 @@
+{
+  "participants": [
+    {
+      "name": "Catta Escobar"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741101223160,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Catta Escobar",
+      "timestamp_ms": 1741101075887,
+      "content": "Aviso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Catta Escobar",
+      "timestamp_ms": 1741101074411,
+      "content": "Yo le avuso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Catta Escobar",
+      "timestamp_ms": 1741101072641,
+      "content": "Okei!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741101014370,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741101013831,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741101013438,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Catta Escobar",
+      "timestamp_ms": 1741099349661,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Catta Escobar",
+      "timestamp_ms": 1741099344985,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Catta Escobar",
+      "timestamp_ms": 1741099344627,
+      "content": "Catta inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Catta \u00c2\u00b7 Notebook i7-8th / 16GB RAM/ SSD + 1TB Ultra Potente / PROBOOK / Enciende en segundos!",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/cattanotebooki78th16gbramssd1tbultrapotenteprobookenciendeensegundos_9374238552658563",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

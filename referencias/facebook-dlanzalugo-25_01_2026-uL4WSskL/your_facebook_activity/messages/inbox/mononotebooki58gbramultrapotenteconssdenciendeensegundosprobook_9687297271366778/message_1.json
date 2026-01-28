@@ -1,0 +1,99 @@
+{
+  "participants": [
+    {
+      "name": "Mono Dev"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1747228665502,
+      "content": "Le intereso el equipo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1747097459040,
+      "content": "No se si prefiere coordinar en mi domicilio o algun metro?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1747097448882,
+      "content": "Aah buenisimo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mono Dev",
+      "timestamp_ms": 1747094331124,
+      "content": "igual vivo cerca, vivo en el 19 de la florida, en rojas magallanes, cerca del outlet",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1747093207225,
+      "content": "Detras del lider de departamental",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mono Dev",
+      "timestamp_ms": 1747092961110,
+      "content": "en qu\u00c3\u00a9 parte de la florida?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1747091545640,
+      "content": "Puede venir a verlo a mi domicilio en la comuna de la Florida, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1747091545173,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mono Dev",
+      "timestamp_ms": 1747089801666,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mono Dev",
+      "timestamp_ms": 1747089796207,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mono Dev",
+      "timestamp_ms": 1747089796003,
+      "content": "Mono inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mono \u00c2\u00b7 Notebook i5 8GB RAM Ultra Potente con SSD ENCIENDE EN SEGUNDOS\n PROBOOK",
+  "is_still_participant": true,
+  "thread_path": "inbox/mononotebooki58gbramultrapotenteconssdenciendeensegundosprobook_9687297271366778",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

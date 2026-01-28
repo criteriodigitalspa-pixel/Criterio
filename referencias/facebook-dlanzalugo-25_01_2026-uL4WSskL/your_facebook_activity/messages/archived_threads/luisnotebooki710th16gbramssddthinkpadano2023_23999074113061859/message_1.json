@@ -1,0 +1,85 @@
+{
+  "participants": [
+    {
+      "name": "Luis Castillo Estrada"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1751385535880,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1751171745352,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Disponible.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750087764067,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1749999452971,
+      "content": "Le intereso el equipo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1749992922522,
+      "content": "Entrego en mi domicilio en la comuna de la Florida o puedo acercar a  metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1749992919256,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Castillo Estrada",
+      "timestamp_ms": 1749974460607,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Castillo Estrada",
+      "timestamp_ms": 1749974449001,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Castillo Estrada",
+      "timestamp_ms": 1749974448605,
+      "content": "Luis inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Luis \u00c2\u00b7 Notebook i7-10Th / 16GB RAM / SSDD / Thinkpad / a\u00c3\u00b1o 2023",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/luisnotebooki710th16gbramssddthinkpadano2023_23999074113061859",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

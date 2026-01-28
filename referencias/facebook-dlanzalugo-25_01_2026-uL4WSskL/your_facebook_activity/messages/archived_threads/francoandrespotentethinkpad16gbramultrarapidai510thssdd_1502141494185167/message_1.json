@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Franco Andres Rivas"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766801380025,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766747706707,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Andres Rivas",
+      "timestamp_ms": 1766740774909,
+      "content": "Franco Andres est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Andres Rivas",
+      "timestamp_ms": 1766718666283,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Andres Rivas",
+      "timestamp_ms": 1766718660887,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Andres Rivas",
+      "timestamp_ms": 1766718660527,
+      "content": "Franco Andres inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Franco Andres \u00c2\u00b7 Potente Thinkpad 16GB RAM / Ultra Rapida / i5-10TH / SSDD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/francoandrespotentethinkpad16gbramultrarapidai510thssdd_1502141494185167",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

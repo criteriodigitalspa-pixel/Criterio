@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Nicol\u00c3\u00a1s Machuca Sandoval"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767890440310,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767826659099,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicol\u00c3\u00a1s Machuca Sandoval",
+      "timestamp_ms": 1767820966203,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicol\u00c3\u00a1s Machuca Sandoval",
+      "timestamp_ms": 1767820961377,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicol\u00c3\u00a1s Machuca Sandoval",
+      "timestamp_ms": 1767820961114,
+      "content": "Nicol\u00c3\u00a1s inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nicol\u00c3\u00a1s \u00c2\u00b7 Thinkpad Full i7 con NVIDIA /24GB RAM / SSDD /",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/nicolasthinkpadfulli7connvidia24gbramssdd_756909090174819",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

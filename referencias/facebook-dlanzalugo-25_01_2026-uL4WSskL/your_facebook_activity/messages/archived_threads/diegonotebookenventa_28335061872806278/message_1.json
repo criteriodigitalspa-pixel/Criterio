@@ -1,0 +1,158 @@
+{
+  "participants": [
+    {
+      "name": "Humber Miranda"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738360871878,
+      "content": "Vale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738360857021,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Humber Miranda",
+      "timestamp_ms": 1738360699340,
+      "content": "Imposible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738359545689,
+      "content": "Lo podrias acercar hasta estacion Metro Macul?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Humber Miranda",
+      "timestamp_ms": 1738355837659,
+      "content": "110mil y es tuyo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Humber Miranda",
+      "timestamp_ms": 1738355823992,
+      "content": "Bater\u00c3\u00ada 2.5h",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Humber Miranda",
+      "timestamp_ms": 1738355778848,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/diegonotebookenventa_28335061872806278/photos/636834035453775.jpg",
+          "creation_timestamp": 1738355777
+        },
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/diegonotebookenventa_28335061872806278/photos/2012692465899562.jpg",
+          "creation_timestamp": 1738355777
+        },
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/diegonotebookenventa_28335061872806278/photos/3952269331710738.jpg",
+          "creation_timestamp": 1738355777
+        },
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/diegonotebookenventa_28335061872806278/photos/1602201067070136.jpg",
+          "creation_timestamp": 1738355777
+        },
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/diegonotebookenventa_28335061872806278/photos/476927055467412.jpg",
+          "creation_timestamp": 1738355777
+        },
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/diegonotebookenventa_28335061872806278/photos/1978870605944066.jpg",
+          "creation_timestamp": 1738355777
+        },
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/diegonotebookenventa_28335061872806278/photos/509945858785518.jpg",
+          "creation_timestamp": 1738355777
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Humber Miranda",
+      "timestamp_ms": 1738355766644,
+      "content": "S\u00c3\u00ad. \u00c2\u00bfTe interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738355526704,
+      "content": "Me aceptas 100mil?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738355519975,
+      "content": "Tiene algun detalle o falla?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738355515595,
+      "content": "Cuanto dura la bateria?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738355510991,
+      "content": "Hola, Humber. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738355510093,
+      "content": "Hola amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738355509859,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook en venta",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebookenventa_28335061872806278",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1322944529160993.jpg",
+    "creation_timestamp": 1738355507
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

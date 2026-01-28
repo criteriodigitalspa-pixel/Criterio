@@ -1,0 +1,90 @@
+{
+  "participants": [
+    {
+      "name": "Leon J Pozo"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754244173554,
+      "content": "Vale si tiene alguna duda estare atento",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leon J Pozo",
+      "timestamp_ms": 1754244103689,
+      "content": "Est\u00c3\u00a1 bueno, igual estoy cotizando y viendo precios",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754241731981,
+      "content": "Le intereso el equipo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754228864078,
+      "content": "El equipo esta listo para usar.\nPuede probarlo y revisar con calma.\nEntrego en:\nMi domicilio en comuna la florida.\n\nDespacho a domicilio 10mil adicional (dependiendo de la comuna).\n\nEstacion de metro a convenir sin costo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754223037068,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754223035364,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leon J Pozo",
+      "timestamp_ms": 1754221071187,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leon J Pozo",
+      "timestamp_ms": 1754221068210,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leon J Pozo",
+      "timestamp_ms": 1754221067940,
+      "content": "Leon J inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Leon J \u00c2\u00b7 Notebook i5 16GB RAM Ultra Potente con SSD PROBOOK",
+  "is_still_participant": true,
+  "thread_path": "inbox/leonjnotebooki516gbramultrapotenteconssdprobook_25201526202770396",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

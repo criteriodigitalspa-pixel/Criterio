@@ -1,0 +1,125 @@
+{
+  "participants": [
+    {
+      "name": "Patricio Alvear"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735066111941,
+      "content": "Estimado le intereso?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734982925670,
+      "content": "Le intereso?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734952493486,
+      "content": "Es el Probook 440 G5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734952489135,
+      "content": "Lo estaba buscando",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Alvear",
+      "timestamp_ms": 1734952074733,
+      "content": "Que n\u00c3\u00bamero?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Alvear",
+      "timestamp_ms": 1734952068064,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734952042817,
+      "content": "Es una Hp Probook",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Alvear",
+      "timestamp_ms": 1734952015145,
+      "content": "Que modelo es?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734951746168,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734951743711,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734951740554,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Alvear",
+      "timestamp_ms": 1734951577109,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Alvear",
+      "timestamp_ms": 1734951573782,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Alvear",
+      "timestamp_ms": 1734951573608,
+      "content": "Patricio inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Patricio \u00c2\u00b7 Potente Notebook i7 16GB RAM Ultra Rapida Probook con 500GB SSD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/patriciopotentenotebooki716gbramultrarapidaprobookcon500gbssd_28976069208658965",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

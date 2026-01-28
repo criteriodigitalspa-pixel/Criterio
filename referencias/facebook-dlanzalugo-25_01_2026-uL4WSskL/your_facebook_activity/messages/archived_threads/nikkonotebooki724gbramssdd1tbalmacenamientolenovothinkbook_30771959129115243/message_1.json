@@ -1,0 +1,106 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Nikko Barber"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754231257751,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753882176066,
+      "content": "Le intereso el equipo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753822146654,
+      "content": "440 podria estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nikko Barber",
+      "timestamp_ms": 1753822076958,
+      "content": "Cuanto lo dejas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753807407217,
+      "content": "Esta nuevo practicamente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753807382331,
+      "content": "Y se uso 6 meses",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753807374702,
+      "content": "Se compro el a\u00c3\u00b1o pasado a mitad de a\u00c3\u00b1o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nikko Barber",
+      "timestamp_ms": 1753807267541,
+      "content": "Cuanto tiemponde uso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753791796644,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nikko Barber",
+      "timestamp_ms": 1753771437283,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nikko Barber",
+      "timestamp_ms": 1753771433664,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nikko Barber",
+      "timestamp_ms": 1753771433412,
+      "content": "Nikko inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nikko \u00c2\u00b7 Notebook i7/24GB RAM / SSDD / 1TB almacenamiento/Lenovo ThinkBook",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/nikkonotebooki724gbramssdd1tbalmacenamientolenovothinkbook_30771959129115243",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

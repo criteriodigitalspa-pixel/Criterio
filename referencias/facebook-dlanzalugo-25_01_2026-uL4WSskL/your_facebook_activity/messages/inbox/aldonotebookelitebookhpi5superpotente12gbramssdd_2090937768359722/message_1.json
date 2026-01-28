@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Aldo Contreras"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768747974085,
+      "content": "Estoy en La Florida. Te acomoda la comuna o preferir\u00c3\u00adas que coordinemos en otro punto a convenir?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768730475387,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aldo Contreras",
+      "timestamp_ms": 1768729181591,
+      "content": "Aldo est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aldo Contreras",
+      "timestamp_ms": 1768703740125,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aldo Contreras",
+      "timestamp_ms": 1768703736154,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aldo Contreras",
+      "timestamp_ms": 1768703735948,
+      "content": "Aldo inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Aldo \u00c2\u00b7 Notebook Elitebook HP i5 Super Potente/ 12GB RAM / SSDD /",
+  "is_still_participant": true,
+  "thread_path": "inbox/aldonotebookelitebookhpi5superpotente12gbramssdd_2090937768359722",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

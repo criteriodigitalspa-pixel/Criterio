@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Elias De Jesus Tr"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1769135804382,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768168732576,
+      "content": "Nvidea quadro estimada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Elias De Jesus Tr",
+      "timestamp_ms": 1768168132345,
+      "content": "Que tarjeta grafica tiene?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768166913826,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Elias De Jesus Tr",
+      "timestamp_ms": 1768166549002,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Elias De Jesus Tr",
+      "timestamp_ms": 1768166545268,
+      "content": "\u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Elias De Jesus Tr",
+      "timestamp_ms": 1768166545045,
+      "content": "Elias inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Elias \u00c2\u00b7 Thinkpad P14s i7 vPRO + NVIDIA / 24GB RAM / SSDD / Notebook Lenovo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/eliasthinkpadp14si7vpronvidia24gbramssddnotebooklenovo_1418584649629149",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

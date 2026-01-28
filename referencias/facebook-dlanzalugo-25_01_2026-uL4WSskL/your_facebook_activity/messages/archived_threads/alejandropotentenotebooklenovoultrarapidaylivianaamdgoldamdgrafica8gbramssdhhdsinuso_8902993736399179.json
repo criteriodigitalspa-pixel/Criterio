@@ -1,0 +1,239 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Alejandro Peraza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alejandro Peraza",
+      "timestamp_ms": 1729257377971,
+      "content": "Mi n\u00c3\u00bamero de celular",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Diego Lanza",
+          "timestamp": 1729257425
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Peraza",
+      "timestamp_ms": 1729257374644,
+      "content": "959610290",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729257354546,
+      "content": "Vale excelente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Peraza",
+      "timestamp_ms": 1729257347489,
+      "content": "Si me parece muy bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729257330943,
+      "content": "No se si te parece vicente valdez en la combinacion tipo 7pm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Peraza",
+      "timestamp_ms": 1729257325205,
+      "content": "A qu\u00c3\u00a9 hora sale usted",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729257309982,
+      "content": "Yo tambien ando trabajando ahora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729257305605,
+      "content": "Al salir de la pega",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729257297942,
+      "content": "Podria acercarlo a algun metro L4",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Peraza",
+      "timestamp_ms": 1729257260171,
+      "content": "Soy de puente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Peraza",
+      "timestamp_ms": 1729257255611,
+      "content": "Porque hoy estoy full en la trabajo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Peraza",
+      "timestamp_ms": 1729257245197,
+      "content": "C\u00c3\u00b3mo hacemos para comprarla",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Peraza",
+      "timestamp_ms": 1729257241494,
+      "content": "Me interesa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729257166081,
+      "content": "Sip",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Peraza",
+      "timestamp_ms": 1729257163248,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Peraza",
+      "timestamp_ms": 1729257161992,
+      "content": "Tiene su cargador",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729257155020,
+      "content": "Te lo puedo dejar con el 11 si quieres porque me ofrecio actualizacion pero la rechace, seria cuestion de actualizarlo no mas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Peraza",
+      "timestamp_ms": 1729257152206,
+      "content": "Perfecto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729257126472,
+      "content": "Si windows 10",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Peraza",
+      "timestamp_ms": 1729257110711,
+      "content": "Y tiene Windows ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729257055686,
+      "content": "Osea en realidad, tiene un m.2 de 80gb y un disco duro de 500",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729257034710,
+      "content": "Tiene 2 disco duros, un ssd de 80gb para el windows, y el otro es un disco duro de 500 para almacenamiento",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Peraza",
+      "timestamp_ms": 1729256873145,
+      "content": "Y de disco duro cuanto tiene ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729256835489,
+      "content": "El procesador es una maquina, equivale a un i5-8tha en potencia, el notebook enciente en 6-7 segundos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729256803760,
+      "content": "130mil amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Peraza",
+      "timestamp_ms": 1729256450062,
+      "content": "Precio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729245498596,
+      "content": "Hola, si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Peraza",
+      "timestamp_ms": 1729229028203,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Peraza",
+      "timestamp_ms": 1729229024039,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Peraza",
+      "timestamp_ms": 1729229023737,
+      "content": "Alejandro inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Alejandro \u00c2\u00b7 Potente Notebook Lenovo ultra Rapida y Liviana AMD Gold + AMD Grafica + 8gb RAM + SSD + HHD SIN USO",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/alejandropotentenotebooklenovoultrarapidaylivianaamdgoldamdgrafica8gbramssdhhdsinuso_8902993736399179",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Walter Martin Deledesma Vega"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1745965481838,
+      "content": "130mil ultimo precio estimDo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1745965472685,
+      "content": "Puede venir a verlo a mi domicilio en la comuna de la Florida, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1745965472251,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Walter Martin Deledesma Vega",
+      "timestamp_ms": 1745965390113,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Walter Martin Deledesma Vega",
+      "timestamp_ms": 1745965385720,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible? ULTIMO PRECIO Y DONDE ENTREGAS",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Walter Martin Deledesma Vega",
+      "timestamp_ms": 1745965385546,
+      "content": "Walter inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Walter \u00c2\u00b7 Notebook i5 8GB RAM Ultra Potente con SSD ENCIENDE EN SEGUNDOS\n PROBOOK",
+  "is_still_participant": true,
+  "thread_path": "inbox/walternotebooki58gbramultrapotenteconssdenciendeensegundosprobook_9889824274402715",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

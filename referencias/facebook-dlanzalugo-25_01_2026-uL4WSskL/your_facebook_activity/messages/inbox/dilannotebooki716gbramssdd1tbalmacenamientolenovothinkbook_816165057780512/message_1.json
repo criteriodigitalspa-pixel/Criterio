@@ -1,0 +1,80 @@
+{
+  "participants": [
+    {
+      "name": "Dilan Rodriguez"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1761480701727,
+      "content": "Abandonaste el grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1761480691497,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dilan Rodriguez",
+      "timestamp_ms": 1761480664625,
+      "content": "Bueno actualmente ya no estoy interesado amigo pero igualmente muchas gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1761480623508,
+      "content": "Estoy en La Florida. Te acomoda la comuna o preferir\u00c3\u00adas que coordinemos en otro punto a convenir?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1761480622275,
+      "content": "Hola. S\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para que lo pruebes con toda la calma del mundo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dilan Rodriguez",
+      "timestamp_ms": 1761477085742,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dilan Rodriguez",
+      "timestamp_ms": 1761477080419,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dilan Rodriguez",
+      "timestamp_ms": 1761477080131,
+      "content": "Dilan inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dilan \u00c2\u00b7 Notebook i7/16GB RAM / SSDD / 1TB almacenamiento/Lenovo ThinkBook",
+  "is_still_participant": false,
+  "thread_path": "inbox/dilannotebooki716gbramssdd1tbalmacenamientolenovothinkbook_816165057780512",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

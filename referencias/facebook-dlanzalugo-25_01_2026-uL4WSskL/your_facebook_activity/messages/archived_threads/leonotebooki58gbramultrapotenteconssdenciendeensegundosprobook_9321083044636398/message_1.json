@@ -1,0 +1,85 @@
+{
+  "participants": [
+    {
+      "name": "Oli Faria"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742323983039,
+      "content": "De preferencia transferencia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742323972736,
+      "content": "Efectivo o transferencia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742323960823,
+      "content": "140mil es lo minimo estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oli Faria",
+      "timestamp_ms": 1742323922660,
+      "content": "Amigo hace precio en Efectivo ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742323858119,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme al metro, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742323856968,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oli Faria",
+      "timestamp_ms": 1742323272478,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oli Faria",
+      "timestamp_ms": 1742323266783,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oli Faria",
+      "timestamp_ms": 1742323266438,
+      "content": "Faria inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "L\u00c3\u00a9o \u00c2\u00b7 Notebook i5 8GB RAM Ultra Potente con SSD ENCIENDE EN SEGUNDOS\n PROBOOK",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/leonotebooki58gbramultrapotenteconssdenciendeensegundosprobook_9321083044636398",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

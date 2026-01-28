@@ -1,0 +1,496 @@
+{
+  "participants": [
+    {
+      "name": "Francisco Ramos"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735063648342,
+      "content": "Esperame alli",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735063643578,
+      "content": "Voy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Ramos",
+      "timestamp_ms": 1735063640481,
+      "content": "Estas por fuera?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Ramos",
+      "timestamp_ms": 1735063637024,
+      "content": "Del xs market",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Ramos",
+      "timestamp_ms": 1735063629626,
+      "content": "Estoy en el lado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Ramos",
+      "timestamp_ms": 1735063625464,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/franciscopotentenotebooki716gbramultrarapidaprobookcon500gbssd_8710306955733286/photos/600882148964563.jpg",
+          "creation_timestamp": 1735063624
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735063617918,
+      "content": "Estoy con polera blanca, short mostaza y cabello largo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735063584664,
+      "content": "O dime ene que salida estas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735063572920,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/franciscopotentenotebooki716gbramultrarapidaprobookcon500gbssd_8710306955733286/photos/575238061789115.jpg",
+          "creation_timestamp": 1735063571
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735063558769,
+      "content": "Si quieres ve a los torniquetes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Ramos",
+      "timestamp_ms": 1735063558646,
+      "content": "Ah buena",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Ramos",
+      "timestamp_ms": 1735063550945,
+      "content": "Si quieres te espero hasta las 15:20",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735063549482,
+      "content": "Estoy aca en el metro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Ramos",
+      "timestamp_ms": 1735063540753,
+      "content": "Para ir mientras",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735063534659,
+      "content": "Estoy aca igual",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Ramos",
+      "timestamp_ms": 1735063532694,
+      "content": "Dime donde nos juntamos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735063528152,
+      "content": "Vale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Ramos",
+      "timestamp_ms": 1735063527247,
+      "content": "Jajaja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Ramos",
+      "timestamp_ms": 1735063526309,
+      "content": "Ya llegu\u00c3\u00a9 a b de la florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Ramos",
+      "timestamp_ms": 1735063507723,
+      "content": "Ya llegu\u00c3\u00a9 a b.de la florida",
+      "share": {
+        "link": "https://www.binance.com/",
+        "share_text": "Binance is the largest cryptocurrency exchange by trading volume, serving 185M+ users across 180+ countries. With over 350 listed Altcoins, it is the world\u00e2\u0080\u0099s leading crypto exchange."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Ramos",
+      "timestamp_ms": 1735063499451,
+      "content": "Genial",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735062097583,
+      "content": "La idea es lo pruebes y todo con calma y veas que funcione, tranquilo con eso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Ramos",
+      "timestamp_ms": 1735062041290,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735061799987,
+      "content": "Vale sin problema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735061792533,
+      "content": "Si amigo claro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Ramos",
+      "timestamp_ms": 1735061764647,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Ramos",
+      "timestamp_ms": 1735061762338,
+      "content": "Ah\u00c3\u00ad podre probarlo y todo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Ramos",
+      "timestamp_ms": 1735061754757,
+      "content": "Francisco reaccion\u00c3\u00b3 \u00f0\u009f\u0091\u008d a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735061749286,
+      "content": "Vale buena",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Francisco Ramos",
+          "timestamp": 1735061754
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Ramos",
+      "timestamp_ms": 1735061746838,
+      "content": "Holaa, a las 15:20 estar\u00c3\u00a9 en bellavista de la Florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Ramos",
+      "timestamp_ms": 1735059485890,
+      "content": "Yap",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735059270476,
+      "content": "Te parece si nos juntamos en metro bellavista?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Ramos",
+      "timestamp_ms": 1735059240949,
+      "content": "En cual metro me conviene bajar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Ramos",
+      "timestamp_ms": 1735059234424,
+      "content": "Vale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Ramos",
+      "timestamp_ms": 1735059233096,
+      "content": ":)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Ramos",
+      "timestamp_ms": 1735059231688,
+      "content": "Tipo 3:30 deber\u00c3\u00ada estar alla",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735059225845,
+      "content": "Vale amigo me avisas cuando estes cerca",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Ramos",
+      "timestamp_ms": 1735059212547,
+      "content": "Tomar\u00c3\u00a9 el metro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Ramos",
+      "timestamp_ms": 1735059202769,
+      "content": "Voy partiendo desde maipu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735058388710,
+      "content": "Si no, tendria que ser a las 5.30",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735058372951,
+      "content": "Porfa tengo que salir, aviseme antes de las 2 para organizarme",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735058351429,
+      "content": "Estimado?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735055582634,
+      "content": "Me confirma por favor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735053747856,
+      "content": "Vale amigo sin problema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Ramos",
+      "timestamp_ms": 1735053077493,
+      "content": "Como a las 16:30 aprox. Se puede?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Ramos",
+      "timestamp_ms": 1735053058336,
+      "content": "Hola buenas!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734982612185,
+      "content": "O si tiene alguna consulta digame no mas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734982597158,
+      "content": "Si gusta puede venir a verlos y conversamos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734978516767,
+      "content": "Como se ve en la ultima foto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734978496614,
+      "content": "Esta esta mas economico porque tiene desgaste en teclado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734978489036,
+      "content": "La diferencia es principalmente la estetica",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734978481939,
+      "content": "Venga no mas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734978478944,
+      "content": "Si amigo sin problema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Ramos",
+      "timestamp_ms": 1734978239675,
+      "content": "Y proyectos personales",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Ramos",
+      "timestamp_ms": 1734978232350,
+      "content": "Necesito un buen notebook para trabajo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Ramos",
+      "timestamp_ms": 1734978184121,
+      "content": "Puedo ir a probarlo a su domicilio por favor?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Ramos",
+      "timestamp_ms": 1734978164075,
+      "content": "Buen\u00c3\u00adsimo, nos juntamos hoy m\u00c3\u00a1s tarde?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734978050985,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734978049539,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Ramos",
+      "timestamp_ms": 1734977857456,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Ramos",
+      "timestamp_ms": 1734977852630,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Ramos",
+      "timestamp_ms": 1734977852221,
+      "content": "Francisco Ramos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Ramos",
+      "timestamp_ms": 1734977849785,
+      "content": "Francisco asign\u00c3\u00b3 al grupo el nombre \"Francisco \u00c2\u00b7 Potente Notebook i7 16GB RAM Ultra Rapida Probook con 500GB SSD\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Ramos",
+      "timestamp_ms": 1734977849785,
+      "content": "Francisco cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Francisco \u00c2\u00b7 Potente Notebook i7 16GB RAM Ultra Rapida Probook con 500GB SSD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/franciscopotentenotebooki716gbramultrarapidaprobookcon500gbssd_8710306955733286",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

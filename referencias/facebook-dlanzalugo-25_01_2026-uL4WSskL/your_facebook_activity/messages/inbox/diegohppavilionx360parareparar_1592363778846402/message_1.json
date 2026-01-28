@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Alex Morales"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alex Morales",
+      "timestamp_ms": 1765965077850,
+      "content": "Alex cambi\u00c3\u00b3 la descripci\u00c3\u00b3n de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Morales",
+      "timestamp_ms": 1765533154326,
+      "content": "Solo en cerrillos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765510326613,
+      "content": "Hola disculpa entregarias en metro Linea 6?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Morales",
+      "timestamp_ms": 1765396827801,
+      "content": "Alex respondi\u00c3\u00b3 tu mensaje sobre Hp pavilion x360 para reparar.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Morales",
+      "timestamp_ms": 1765385316522,
+      "content": "Disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765374415821,
+      "content": "Buenos d\u00c3\u00adas. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765374415619,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Hp pavilion x360 para reparar",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegohppavilionx360parareparar_1592363778846402",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/734514402463319.jpg",
+    "creation_timestamp": 1765374413
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

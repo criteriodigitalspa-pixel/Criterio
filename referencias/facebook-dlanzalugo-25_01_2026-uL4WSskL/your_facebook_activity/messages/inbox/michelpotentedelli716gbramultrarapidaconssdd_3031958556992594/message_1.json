@@ -1,0 +1,85 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Michel Santos"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768255097252,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768092037705,
+      "content": "8th estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Michel Santos",
+      "timestamp_ms": 1768092002767,
+      "content": "Q generaci\u00c3\u00b3n es",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768091956431,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Michel Santos",
+      "timestamp_ms": 1768091941592,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Michel Santos",
+      "timestamp_ms": 1768091937619,
+      "content": "Buenas noches. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Michel Santos",
+      "timestamp_ms": 1768091937166,
+      "content": "Michel Santos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Michel Santos",
+      "timestamp_ms": 1768091935172,
+      "content": "Michel asign\u00c3\u00b3 al grupo el nombre \"Michel \u00c2\u00b7 Potente Dell i7 / 16GB RAM / Ultra Rapida / con SSDD\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Michel Santos",
+      "timestamp_ms": 1768091935172,
+      "content": "Michel cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Michel \u00c2\u00b7 Potente Dell i7 / 16GB RAM / Ultra Rapida / con SSDD",
+  "is_still_participant": true,
+  "thread_path": "inbox/michelpotentedelli716gbramultrarapidaconssdd_3031958556992594",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

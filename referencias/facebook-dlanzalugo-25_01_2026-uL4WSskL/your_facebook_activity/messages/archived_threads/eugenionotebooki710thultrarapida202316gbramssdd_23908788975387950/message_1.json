@@ -1,0 +1,62 @@
+{
+  "participants": [
+    {
+      "name": "Eugenio Vidal Rosas"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Eugenio Vidal Rosas",
+      "timestamp_ms": 1741114111375,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741114100829,
+      "content": "Intel graphics 620 Uhd",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eugenio Vidal Rosas",
+      "timestamp_ms": 1741113548208,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eugenio Vidal Rosas",
+      "timestamp_ms": 1741113543705,
+      "content": "que tarjeta grafica tiene",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eugenio Vidal Rosas",
+      "timestamp_ms": 1741113543325,
+      "content": "Eugenio inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Eugenio \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/eugenionotebooki710thultrarapida202316gbramssdd_23908788975387950",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

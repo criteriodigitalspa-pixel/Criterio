@@ -1,0 +1,489 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Jorge Ramirez"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jorge Ramirez",
+      "timestamp_ms": 1738362053044,
+      "content": "Jorge vendi\u00c3\u00b3 Vendo Notebook hp EliteBook 830 g3.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Ramirez",
+      "timestamp_ms": 1738362051237,
+      "content": "Jorge vendi\u00c3\u00b3 Vendo Notebook hp EliteBook 830 g3.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Ramirez",
+      "timestamp_ms": 1738362042058,
+      "content": "Jorge marc\u00c3\u00b3 el art\u00c3\u00adculo como vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738356840191,
+      "content": "Es que la otra salida hay que dar la.media vuelta por fuera",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738356831904,
+      "content": "Puedes ir a salida Av Departamental porfa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738356824283,
+      "content": "Aah debees estar por la otra salida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Ramirez",
+      "timestamp_ms": 1738356809744,
+      "content": "Macul",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738356799176,
+      "content": "Me parece estas en otra",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738356794162,
+      "content": "Eso es estacion Macul?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Ramirez",
+      "timestamp_ms": 1738356793955,
+      "content": "O estoy de jean negro y polera roja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Ramirez",
+      "timestamp_ms": 1738356771443,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/diegovendonotebookhpelitebook830g3_8995360550511207/photos/1810661809682836.jpg",
+          "creation_timestamp": 1738356770
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738356769838,
+      "content": "Voy con short negros y polera azul oscuro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Ramirez",
+      "timestamp_ms": 1738356744777,
+      "content": "Jorge reaccion\u00c3\u00b3 \u00e2\u009d\u00a4 a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738356703325,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/diegovendonotebookhpelitebook830g3_8995360550511207/photos/3451514775144735.jpg",
+          "creation_timestamp": 1738356701
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Jorge Ramirez",
+          "timestamp": 1738356744
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738356694059,
+      "content": "Estoy aca",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Ramirez",
+      "timestamp_ms": 1738356399880,
+      "content": "Estoy en los torniquetes de cambio de and\u00c3\u00a9n",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738356090889,
+      "content": "Dale estoy a 8 minutos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Ramirez",
+      "timestamp_ms": 1738356006306,
+      "content": "Estoy a 3 estaciones",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738354884467,
+      "content": "Vale vale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Ramirez",
+      "timestamp_ms": 1738354850356,
+      "content": "30 40 minutos aproximadamente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738354784760,
+      "content": "Vale, a cuanto estas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Ramirez",
+      "timestamp_ms": 1738354768440,
+      "content": "Voy en camino",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Ramirez",
+      "timestamp_ms": 1738348220701,
+      "content": "Perfecto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738348077216,
+      "content": "Entonces a las 18 en metro macul",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738348070320,
+      "content": "Dale listo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Ramirez",
+      "timestamp_ms": 1738348054038,
+      "content": "A las 18 le parece?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738344070346,
+      "content": "Ojala no muy tarde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738344067312,
+      "content": "Dime tu no mas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738344006074,
+      "content": "Cualquier hora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Ramirez",
+      "timestamp_ms": 1738343998484,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Ramirez",
+      "timestamp_ms": 1738343995900,
+      "content": "Ok, a cual hora aproximada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738337371204,
+      "content": "Si puedes hoy en metro Macul",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738337368566,
+      "content": "Si amigo buenas tardes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Ramirez",
+      "timestamp_ms": 1738270141238,
+      "content": "Buenas tardes amigo quer\u00c3\u00ada saber si a\u00c3\u00ban estaba interesado en la Notebook",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738234006393,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738234004181,
+      "content": "Podrias mas tarde.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738233996129,
+      "content": "Se me esta complicando me citaron a una reu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738233980958,
+      "content": "Jorge buem dia bro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Ramirez",
+      "timestamp_ms": 1738216406276,
+      "content": "Perfecto a las 8 y media nos juntamos en los torniquetes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738201466147,
+      "content": "Me confirma por favor para ordenarme",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738193889465,
+      "content": "Si puedes 8.30 en metro macul, genial",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738193871336,
+      "content": "Vale estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Ramirez",
+      "timestamp_ms": 1738192731104,
+      "content": "Este es el reporte del estado de la bater\u00c3\u00ada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Ramirez",
+      "timestamp_ms": 1738192716667,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/diegovendonotebookhpelitebook830g3_8995360550511207/photos/623234213528688.jpg",
+          "creation_timestamp": 1738192715
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Ramirez",
+      "timestamp_ms": 1738184851987,
+      "content": "Yo estar\u00c3\u00a9 disponible desde las 8am , usted me avisa cuando pueda y salgo para el metro Macul, mi CEL es 56967368275",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738184614482,
+      "content": "Cualquier hora estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Ramirez",
+      "timestamp_ms": 1738184177959,
+      "content": "A cual hora de la ma\u00c3\u00b1ana le conviene amigo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738167459815,
+      "content": "Si es metro macul, cuando mas le acomode no mas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Ramirez",
+      "timestamp_ms": 1738167442225,
+      "content": "O si quiere ma\u00c3\u00b1ana temprano?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Ramirez",
+      "timestamp_ms": 1738167425731,
+      "content": "Despues de las 20",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738167168545,
+      "content": "Cuando podria amigo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Ramirez",
+      "timestamp_ms": 1738165939875,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Ramirez",
+      "timestamp_ms": 1738165929450,
+      "content": "Todo en perfecto estado, 2 horas aproximadamente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738151534466,
+      "content": "Cuanto le dura la bateria?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Ramirez",
+      "timestamp_ms": 1738149651797,
+      "content": "ninguno",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738149621058,
+      "content": "Tiene algun fallo el equipo? Mouse teclado cargador algo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Ramirez",
+      "timestamp_ms": 1738149539346,
+      "content": "isi podria",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Ramirez",
+      "timestamp_ms": 1738149529422,
+      "content": "buenos dias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738149512628,
+      "content": "Entregaria en metro Macul?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738149496774,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Ramirez",
+      "timestamp_ms": 1738149440136,
+      "content": "Jorge cambi\u00c3\u00b3 el precio de Vendo Notebook hp EliteBook 830 g3.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738037966886,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738037966747,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Vendo Notebook hp EliteBook 830 g3",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegovendonotebookhpelitebook830g3_8995360550511207",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/965822285050205.jpg",
+    "creation_timestamp": 1738037963
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

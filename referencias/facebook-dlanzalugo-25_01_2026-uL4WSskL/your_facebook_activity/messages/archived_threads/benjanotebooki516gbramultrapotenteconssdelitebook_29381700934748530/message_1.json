@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Benja Aranda Pacheco"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Benja Aranda Pacheco",
+      "timestamp_ms": 1742270008898,
+      "content": "a mi me pagan el 19, existe la posibilidad de esperar a ese d\u00c3\u00ada? me comprometo 100%",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742173327010,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benja Aranda Pacheco",
+      "timestamp_ms": 1742170107859,
+      "content": "hola buenas noches",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benja Aranda Pacheco",
+      "timestamp_ms": 1742170062445,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benja Aranda Pacheco",
+      "timestamp_ms": 1742170058359,
+      "content": "me interesa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benja Aranda Pacheco",
+      "timestamp_ms": 1742170058095,
+      "content": "Benja inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Benja \u00c2\u00b7 Notebook i5 16GB RAM Ultra Potente con SSD ELITEBOOK",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/benjanotebooki516gbramultrapotenteconssdelitebook_29381700934748530",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

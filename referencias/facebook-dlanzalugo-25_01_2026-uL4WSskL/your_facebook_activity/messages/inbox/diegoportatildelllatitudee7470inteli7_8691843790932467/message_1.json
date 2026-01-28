@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Vitomm Citomm"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731895107006,
+      "content": "Ver publicaciones similares",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731765504222,
+      "content": "Buenos d\u00c3\u00adas. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731765501965,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Portatil DELL Latitude E7470 Intel-i7\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731765501965,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Portatil DELL Latitude E7470 Intel-i7",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegoportatildelllatitudee7470inteli7_8691843790932467",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/2292811694438822.jpg",
+    "creation_timestamp": 1731765500
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

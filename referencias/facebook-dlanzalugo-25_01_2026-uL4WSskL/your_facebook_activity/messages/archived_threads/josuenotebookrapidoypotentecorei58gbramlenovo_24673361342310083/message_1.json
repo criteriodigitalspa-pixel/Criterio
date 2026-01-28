@@ -1,0 +1,96 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Josue Moreno"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703375055169,
+      "content": "Solo para trabajo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703375054001,
+      "content": "No la he usado para jugar compa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josue Moreno",
+      "timestamp_ms": 1703371416809,
+      "content": "ya bro y que tal corre los juegos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703338254702,
+      "content": "Josue buenas, aceptaria 100mil como minimo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703330745392,
+      "content": "Hola buen dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josue Moreno",
+      "timestamp_ms": 1703329398172,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josue Moreno",
+      "timestamp_ms": 1703329393506,
+      "content": "Hola, Sigue Disponible ? cuanto es lo menos q aceptas bro?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josue Moreno",
+      "timestamp_ms": 1703329393267,
+      "content": "Josue Moreno",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josue Moreno",
+      "timestamp_ms": 1703329391378,
+      "content": "Josue cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Josue Moreno",
+      "timestamp_ms": 1703329390710,
+      "content": "Josue asign\u00c3\u00b3 al grupo el nombre \"Josue \u00c2\u00b7 Notebook Rapido y Potente Core I5 8GB RAM Lenovo\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Josue \u00c2\u00b7 Notebook Rapido y Potente Core I5 8GB RAM Lenovo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/josuenotebookrapidoypotentecorei58gbramlenovo_24673361342310083",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1288827425120905.jpg",
+    "creation_timestamp": 1703329389
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

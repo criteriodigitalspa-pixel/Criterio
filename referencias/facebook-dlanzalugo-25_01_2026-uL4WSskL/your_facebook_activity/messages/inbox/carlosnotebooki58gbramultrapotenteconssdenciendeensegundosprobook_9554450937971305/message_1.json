@@ -1,0 +1,99 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Carlos Oyarzo Espinoza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743435397962,
+      "content": "Lago pirihueico 6502, la florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos Oyarzo Espinoza",
+      "timestamp_ms": 1743434627417,
+      "content": "Deme la direccion",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743434574923,
+      "content": "Despues de las 2pm puede pasar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743434563393,
+      "content": "Si 140mil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos Oyarzo Espinoza",
+      "timestamp_ms": 1743434516368,
+      "content": "Lo tienes 140?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos Oyarzo Espinoza",
+      "timestamp_ms": 1743434378905,
+      "content": "A que hora puedo ir a verlo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743433944713,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme al metro, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743433944213,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos Oyarzo Espinoza",
+      "timestamp_ms": 1743433171724,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos Oyarzo Espinoza",
+      "timestamp_ms": 1743433163814,
+      "content": "Buenos d\u00c3\u00adas. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos Oyarzo Espinoza",
+      "timestamp_ms": 1743433163434,
+      "content": "Carlos inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Carlos \u00c2\u00b7 Notebook i5 8GB RAM Ultra Potente con SSD ENCIENDE EN SEGUNDOS\n PROBOOK",
+  "is_still_participant": true,
+  "thread_path": "inbox/carlosnotebooki58gbramultrapotenteconssdenciendeensegundosprobook_9554450937971305",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

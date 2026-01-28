@@ -1,0 +1,106 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Nicolas Inostroza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766759792265,
+      "content": "+56 9 94919000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766759790043,
+      "content": "Escribeme al whatsapp",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766759785240,
+      "content": "Si pasa que me estan escribiendo demasiadas personas no me paran de llegar mensajes por este equipo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Inostroza",
+      "timestamp_ms": 1766759715938,
+      "content": "Me aparece como vendido",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Inostroza",
+      "timestamp_ms": 1766759614986,
+      "content": "Perd\u00c3\u00b3n, Office",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766759613453,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766759601936,
+      "content": "Windows 11",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766759599332,
+      "content": "Si estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766759596345,
+      "content": "Holaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Inostroza",
+      "timestamp_ms": 1766757867660,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Inostroza",
+      "timestamp_ms": 1766757860967,
+      "content": "Hola buenas. Trae Windows?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Inostroza",
+      "timestamp_ms": 1766757860773,
+      "content": "Nicolas inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nicolas \u00c2\u00b7 Notebook Ultra Rapida Thinkpad  / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "inbox/nicolasnotebookultrarapidathinkpad16gbramssdd_4185587231757960",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

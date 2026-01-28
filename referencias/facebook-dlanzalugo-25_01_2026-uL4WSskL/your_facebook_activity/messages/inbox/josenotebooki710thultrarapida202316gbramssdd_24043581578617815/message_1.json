@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Jose Alexander Flores"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754250901484,
+      "content": "Intel graphics UHD 620",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Alexander Flores",
+      "timestamp_ms": 1754250633677,
+      "content": "Qu\u00c3\u00a9 gr\u00c3\u00a1fica tiene ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754250613669,
+      "content": "El equipo esta listo para usar.\nPuede probarlo y revisar con calma.\nEntrego en:\nMi domicilio en comuna la florida.\n\nDespacho a domicilio 10mil adicional (dependiendo de la comuna).\n\nEstacion de metro a convenir sin costo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754250612225,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Alexander Flores",
+      "timestamp_ms": 1754250553388,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Alexander Flores",
+      "timestamp_ms": 1754250551466,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Alexander Flores",
+      "timestamp_ms": 1754250551171,
+      "content": "Jose inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jose \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "inbox/josenotebooki710thultrarapida202316gbramssdd_24043581578617815",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

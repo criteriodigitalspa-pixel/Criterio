@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Enzo Sebastian"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753848446750,
+      "content": "De momento no estimado, a partir del 15-Agosto si estare publicando por mercado libre",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Enzo Sebastian",
+      "timestamp_ms": 1753848402209,
+      "content": "Soy de Regi\u00c3\u00b3n estimado. Consulta Ud publica por Mercado libre para comprar en cuotas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753848288828,
+      "content": "El equipo esta listo para usar.\nPuede probarlo y revisar con calma.\nEntrego en:\nMi domicilio en comuna la florida.\n\nDespacho a domicilio 10mil adicional (dependiendo de la comuna).\n\nEstacion de metro a convenir sin costo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753848287324,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Enzo Sebastian",
+      "timestamp_ms": 1753845729413,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Enzo Sebastian",
+      "timestamp_ms": 1753845726513,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Enzo Sebastian",
+      "timestamp_ms": 1753845726340,
+      "content": "Enzo inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Enzo \u00c2\u00b7 Notebook i5 16GB RAM Ultra Potente con SSD PROBOOK",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/enzonotebooki516gbramultrapotenteconssdprobook_25065543099701444",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

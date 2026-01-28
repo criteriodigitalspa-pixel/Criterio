@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "B Reynaldo M Le\u00c3\u00b3n"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766706452774,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766176840976,
+      "content": "Estoy en La Florida. Te acomoda la comuna o preferir\u00c3\u00adas que coordinemos en otro punto a convenir?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766169405383,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "B Reynaldo M Le\u00c3\u00b3n",
+      "timestamp_ms": 1766169198125,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "B Reynaldo M Le\u00c3\u00b3n",
+      "timestamp_ms": 1766169193115,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "B Reynaldo M Le\u00c3\u00b3n",
+      "timestamp_ms": 1766169192743,
+      "content": "B Reynaldo inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "B Reynaldo \u00c2\u00b7 Potente Notebook 16GB RAM /  Ultra Rapida / i5-11th HP",
+  "is_still_participant": true,
+  "thread_path": "inbox/breynaldopotentenotebook16gbramultrarapidai511thhp_851514614510024",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "participants": [
+    {
+      "name": "Yerko Agustin Lara"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734906955644,
+      "content": "Estimado buenas tardes, el equipo lo vendi; si le interesa igual tengo otros disponibles, puede revisar mi perfil y ver las otras opciones o consulte por aca",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734876072610,
+      "content": "Estimado buen dia. Le intereso el equipo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734818729999,
+      "videos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/yerkonotebookultrarapidadelli5con16gbrammuypotenteconm2256gbenciendeen7segundos_28001578786122315/videos/1325182498838220.mp4",
+          "creation_timestamp": 1734818729
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734757944259,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734757939756,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734757936543,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yerko Agustin Lara",
+      "timestamp_ms": 1734757570169,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yerko Agustin Lara",
+      "timestamp_ms": 1734757565899,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yerko Agustin Lara",
+      "timestamp_ms": 1734757565411,
+      "content": "Yerko Agustin Lara",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yerko Agustin Lara",
+      "timestamp_ms": 1734757562595,
+      "content": "Yerko asign\u00c3\u00b3 al grupo el nombre \"Yerko \u00c2\u00b7 Notebook Ultra Rapida Dell i5 con 16GB RAM Muy Potente Con M2 256GB ENCIENDE EN 7 SEGUNDOS!\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yerko Agustin Lara",
+      "timestamp_ms": 1734757562595,
+      "content": "Yerko cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Yerko \u00c2\u00b7 Notebook Ultra Rapida Dell i5 con 16GB RAM Muy Potente Con M2 256GB ENCIENDE EN 7 SEGUNDOS!",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/yerkonotebookultrarapidadelli5con16gbrammuypotenteconm2256gbenciendeen7segundos_28001578786122315",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

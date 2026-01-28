@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Luis Castillo Estrada"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1749999469291,
+      "content": "Le intereso el equipo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1749992911408,
+      "content": "Entrego en mi domicilio en la comuna de la Florida o puedo acercar a  metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1749992909295,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Castillo Estrada",
+      "timestamp_ms": 1749989789497,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Castillo Estrada",
+      "timestamp_ms": 1749989784359,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Castillo Estrada",
+      "timestamp_ms": 1749989783995,
+      "content": "Luis inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Luis \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/luisnotebooki710thultrarapida202316gbramssdd_30597999116458136",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "participants": [
+    {
+      "name": "Marcelo Diaz S"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Marcelo Diaz S",
+      "timestamp_ms": 1737836155066,
+      "content": "Marcelo vendi\u00c3\u00b3 Notebook HP i5 7th Gen 1TB 8GB Ram.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelo Diaz S",
+      "timestamp_ms": 1737821236730,
+      "content": "Esta tal cual como se aprecia en la publicacion, esta llegar y usarlo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelo Diaz S",
+      "timestamp_ms": 1737821207190,
+      "content": "No tiene golpes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737821189805,
+      "content": "Vale amigo y esteticamente algun golpe o algo que no se aprecie en la foto?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelo Diaz S",
+      "timestamp_ms": 1737821113325,
+      "content": "No tiene detalles, la bateria es nueva, lo vendo solo por no uso, se ocupo en epoca de pandemia solo para realizar trabajos.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737821045082,
+      "content": "Bateria? Todo ok?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737821039625,
+      "content": "Amigo tiene algun detalle?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelo Diaz S",
+      "timestamp_ms": 1737820946698,
+      "content": "Si, aun esta disponible.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737798268396,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737798268286,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook HP i5 7th Gen 1TB 8GB Ram",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebookhpi57thgen1tb8gbram_8471054322996001",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1108307254095109.jpg",
+    "creation_timestamp": 1737798265
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Alonzo Huarachi Mario"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730116829464,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730116827005,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro, puede revisarlo y probarlo con calma, sin compromiso. Solo si le gusta se lo lleva",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730116825636,
+      "content": "Hola si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alonzo Huarachi Mario",
+      "timestamp_ms": 1730115908702,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alonzo Huarachi Mario",
+      "timestamp_ms": 1730115904616,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alonzo Huarachi Mario",
+      "timestamp_ms": 1730115904227,
+      "content": "Alonzo Huarachi Mario",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alonzo Huarachi Mario",
+      "timestamp_ms": 1730115901679,
+      "content": "Mario asign\u00c3\u00b3 al grupo el nombre \"Mario \u00c2\u00b7 Ultra Rapida Notebook Potente i7 con 12gb Ram y SSD ENCIENDE EN 10 SEGUNDOS\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alonzo Huarachi Mario",
+      "timestamp_ms": 1730115901679,
+      "content": "Mario cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mario \u00c2\u00b7 Ultra Rapida Notebook Potente i7 con 12gb Ram y SSD ENCIENDE EN 10 SEGUNDOS",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/marioultrarapidanotebookpotentei7con12gbramyssdenciendeen10segundos_27372840669027239",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

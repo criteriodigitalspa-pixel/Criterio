@@ -1,0 +1,95 @@
+{
+  "participants": [
+    {
+      "name": "Seba Cerda"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Seba Cerda",
+      "timestamp_ms": 1738760664762,
+      "content": "Lo vi! Gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738757844516,
+      "content": "En la foto esta el modelo exacto amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Seba Cerda",
+      "timestamp_ms": 1738757361724,
+      "content": "Eso es un i3, i5? AMD Ryzen 3, 5?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738757237659,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/sebanotebookfull8ramano2024750gbssd_8898688416845552/photos/2976095832548103.jpg",
+          "creation_timestamp": 1738757236
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738757233726,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738757232395,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Seba Cerda",
+      "timestamp_ms": 1738756991125,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Seba Cerda",
+      "timestamp_ms": 1738756984400,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible? Que procesador tiene?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Seba Cerda",
+      "timestamp_ms": 1738756984106,
+      "content": "Seba inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Seba \u00c2\u00b7 Notebook Full / 8 RAM / a\u00c3\u00b1o 2024 / 750gb SSD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/sebanotebookfull8ramano2024750gbssd_8898688416845552",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

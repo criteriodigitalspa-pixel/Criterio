@@ -1,0 +1,83 @@
+{
+  "participants": [
+    {
+      "name": "Cristian Hugo Garc\u00c3\u00ada"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740927216056,
+      "content": "Le intereso el equipo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740881013087,
+      "videos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/cristiannotebooki312gbramultrarapidaconssdhp_10071575989538218/videos/1144963060288212.mp4",
+          "creation_timestamp": 1740880999
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740877338163,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740877337575,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740877337161,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristian Hugo Garc\u00c3\u00ada",
+      "timestamp_ms": 1740876950532,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristian Hugo Garc\u00c3\u00ada",
+      "timestamp_ms": 1740876943346,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristian Hugo Garc\u00c3\u00ada",
+      "timestamp_ms": 1740876943115,
+      "content": "Cristian inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cristian \u00c2\u00b7 Notebook i3 12GB RAM Ultra Rapida con SSD HP",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/cristiannotebooki312gbramultrarapidaconssdhp_10071575989538218",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

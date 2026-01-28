@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Claudia A. Vargas L."
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750565736914,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750532873380,
+      "content": "Entrego en mi domicilio en la comuna de la Florida o puedo acercar a  metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750532871740,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Claudia A. Vargas L.",
+      "timestamp_ms": 1750530228181,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Claudia A. Vargas L.",
+      "timestamp_ms": 1750530222704,
+      "content": "Buenas tardes. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Claudia A. Vargas L.",
+      "timestamp_ms": 1750530222452,
+      "content": "Claudia inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Claudia \u00c2\u00b7 Notebook RYZEN 5 / RADEN VEGA / 16GB RAM / GAMER / Potente ultra Rapido",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/claudianotebookryzen5radenvega16gbramgamerpotenteultrarapido_24260125343605634",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

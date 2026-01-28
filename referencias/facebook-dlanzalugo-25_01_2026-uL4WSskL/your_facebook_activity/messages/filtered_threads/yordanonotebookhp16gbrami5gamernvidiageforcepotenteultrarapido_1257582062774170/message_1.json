@@ -1,0 +1,233 @@
+{
+  "participants": [
+    {
+      "name": "Yordano Meyer"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756265622471,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756265622035,
+      "content": "Vale el jueves entonces",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yordano Meyer",
+      "timestamp_ms": 1756260984697,
+      "content": "Trabajo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yordano Meyer",
+      "timestamp_ms": 1756260981960,
+      "content": "En la tarde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yordano Meyer",
+      "timestamp_ms": 1756260980114,
+      "content": "Pucha el jueves tengo libre recien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756259807378,
+      "content": "Puedes ma\u00c3\u00b1ana en metro \u00c3\u00b1uble?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756259791853,
+      "content": "Si si es buen equipo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yordano Meyer",
+      "timestamp_ms": 1756259750644,
+      "content": "Seg\u00c3\u00ban la IA va bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yordano Meyer",
+      "timestamp_ms": 1756259748023,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yordano Meyer",
+      "timestamp_ms": 1756259744846,
+      "content": "Ya pregunt\u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756259722420,
+      "content": "Podria ma\u00c3\u00b1ana en metro \u00c3\u00b1uble",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756259713809,
+      "content": "Roblox lo correra bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756259701116,
+      "content": "Corre muchos juegos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756259696683,
+      "content": "Vale amigo entiendo, esta tiene una tarjeta de video nvidia geforce y 16gb de ram",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yordano Meyer",
+      "timestamp_ms": 1756259509845,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/filtered_threads/yordanonotebookhp16gbrami5gamernvidiageforcepotenteultrarapido_1257582062774170/audio/1459158928560836.mp4",
+          "creation_timestamp": 1756259508
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yordano Meyer",
+      "timestamp_ms": 1756259442379,
+      "content": "En que metro puede",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yordano Meyer",
+      "timestamp_ms": 1756259431160,
+      "content": "Aaa ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756259307651,
+      "content": "Solo entrega presencial",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756259303444,
+      "content": "Y no no hago delivery",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756259298634,
+      "content": "Esta complicado mostrarle el juego porque tendria que agregarle mi cuenta y todo el tema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756259278533,
+      "content": "El equipo esta recien formateado amigo, llegar y usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yordano Meyer",
+      "timestamp_ms": 1756259229876,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/filtered_threads/yordanonotebookhp16gbrami5gamernvidiageforcepotenteultrarapido_1257582062774170/audio/764959379578986.mp4",
+          "creation_timestamp": 1756259228
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yordano Meyer",
+      "timestamp_ms": 1756259205710,
+      "content": "No hace delivery por alg\u00c3\u00ban precio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756259171035,
+      "content": "El equipo esta listo para usar.\nPuede probarlo y revisar con calma.\nEntrego en Mi domicilio en la comuna de La Florida o lugar a convenir.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756259169241,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yordano Meyer",
+      "timestamp_ms": 1756259150632,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yordano Meyer",
+      "timestamp_ms": 1756259148351,
+      "content": "Buenas noches. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yordano Meyer",
+      "timestamp_ms": 1756259148116,
+      "content": "Yordano inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Yordano \u00c2\u00b7 Notebook HP / 16GB RAM / i5 / GAMER / NVIDIA GeForce / Potente ultra Rapido",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/yordanonotebookhp16gbrami5gamernvidiageforcepotenteultrarapido_1257582062774170",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

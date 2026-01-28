@@ -1,0 +1,151 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Carlos Bolivar Cabello"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743178814277,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743178813883,
+      "content": "El equipo nunca fallo, mouse, pantalla, sonido, wifi, etc, funcionando impecable",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743107024073,
+      "content": "Piedes tener videos, musica, whatsap, correo, word abierto y anda buen",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743107004871,
+      "content": "Si tiene sus a\u00c3\u00b1os pero es buena maquina",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743106996224,
+      "content": "Sii el equipo vuela",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos Bolivar Cabello",
+      "timestamp_ms": 1743103584578,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/carlosnotebooki58gbramultrapotenteconssdenciendeensegundosprobook_9128992450557277/audio/1310879720020575.mp4",
+          "creation_timestamp": 1743103583
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos Bolivar Cabello",
+      "timestamp_ms": 1743103580416,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/carlosnotebooki58gbramultrapotenteconssdenciendeensegundosprobook_9128992450557277/audio/619704051057194.mp4",
+          "creation_timestamp": 1743103579
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos Bolivar Cabello",
+      "timestamp_ms": 1743103554697,
+      "content": "Y hacer informes tampoco se necesita tanta m\u00c3\u00a1quina",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos Bolivar Cabello",
+      "timestamp_ms": 1743103544598,
+      "content": "Es para ocupar ofice y correos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos Bolivar Cabello",
+      "timestamp_ms": 1743103530209,
+      "content": "Igual en todo caso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743102929074,
+      "content": "6th amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos Bolivar Cabello",
+      "timestamp_ms": 1743102917525,
+      "content": "Consulta qu\u00c3\u00a9 generaci\u00c3\u00b3n es el procesador ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743102860929,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme al metro, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743102860569,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos Bolivar Cabello",
+      "timestamp_ms": 1743102857465,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos Bolivar Cabello",
+      "timestamp_ms": 1743102848752,
+      "content": "Buenas tardes. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos Bolivar Cabello",
+      "timestamp_ms": 1743102848472,
+      "content": "Carlos inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Carlos \u00c2\u00b7 Notebook i5 8GB RAM Ultra Potente con SSD ENCIENDE EN SEGUNDOS\n PROBOOK",
+  "is_still_participant": true,
+  "thread_path": "inbox/carlosnotebooki58gbramultrapotenteconssdenciendeensegundosprobook_9128992450557277",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

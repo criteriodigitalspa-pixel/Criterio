@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Andres Bernardo Serrano Pailamilla"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703430466198,
+      "content": "Cuentame Andres, le intereso?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703351174205,
+      "content": "Si Andres sigue disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Bernardo Serrano Pailamilla",
+      "timestamp_ms": 1703351054788,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Bernardo Serrano Pailamilla",
+      "timestamp_ms": 1703351048872,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Bernardo Serrano Pailamilla",
+      "timestamp_ms": 1703351048509,
+      "content": "Andres Bernardo Serrano Pailamilla",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Bernardo Serrano Pailamilla",
+      "timestamp_ms": 1703351046525,
+      "content": "Andres Bernardo cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Bernardo Serrano Pailamilla",
+      "timestamp_ms": 1703351045237,
+      "content": "Andres Bernardo asign\u00c3\u00b3 al grupo el nombre \"Andres Bernardo \u00c2\u00b7 Notebook i5 16gb Ram con SSD, super rapido, corre todo\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Andres Bernardo \u00c2\u00b7 Notebook i5 16gb Ram con SSD, super rapido, corre todo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/andresbernardonotebooki516gbramconssdsuperrapidocorretodo_7100492150039326",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/714985733918348.jpg",
+    "creation_timestamp": 1703351041
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

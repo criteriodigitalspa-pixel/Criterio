@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Gustavo Valenzuela Caro"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gustavo Valenzuela Caro",
+      "timestamp_ms": 1738365592426,
+      "content": "Gustavo vendi\u00c3\u00b3 Se vende notebook.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gustavo Valenzuela Caro",
+      "timestamp_ms": 1738349295640,
+      "content": "La mayor parte lo ocupaba con teclado por y mause inal\u00c3\u00a1mbrico por comodidad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gustavo Valenzuela Caro",
+      "timestamp_ms": 1738349259768,
+      "content": "Un poco y lo otro suciedad que hace rato que no ocupaba el notebook",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738349015511,
+      "content": "Consulta, lo de mousepad es desgaste?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gustavo Valenzuela Caro",
+      "timestamp_ms": 1738348913449,
+      "content": "Hola, s\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738348849536,
+      "content": "Hola, Gustavo. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738348849326,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Se vende notebook",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegosevendenotebook_9155601171199178",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/637673625855054.jpg",
+    "creation_timestamp": 1738348847
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

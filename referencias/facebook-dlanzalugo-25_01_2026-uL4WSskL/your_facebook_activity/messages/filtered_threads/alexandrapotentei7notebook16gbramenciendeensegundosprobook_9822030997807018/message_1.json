@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Alexandra Cassandra"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alexandra Cassandra",
+      "timestamp_ms": 1742119083330,
+      "content": "Alexandra est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexandra Cassandra",
+      "timestamp_ms": 1742085952048,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible este art\u00c3\u00adculo? \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexandra Cassandra",
+      "timestamp_ms": 1742085951839,
+      "content": "Alexandra inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Alexandra \u00c2\u00b7 Potente i7 Notebook 16GB RAM enciende en Segundos Probook",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/alexandrapotentei7notebook16gbramenciendeensegundosprobook_9822030997807018",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

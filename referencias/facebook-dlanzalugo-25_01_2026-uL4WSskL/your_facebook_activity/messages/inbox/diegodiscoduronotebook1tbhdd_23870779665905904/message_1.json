@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Arturo Towers"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Arturo Towers",
+      "timestamp_ms": 1750606397936,
+      "content": "\u00c2\u00bfA\u00c3\u00ban te interesa? Responde a: S\u00c3\u00ad. \u00c2\u00bfTe interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Arturo Towers",
+      "timestamp_ms": 1750600443173,
+      "content": "Meta podr\u00c3\u00ada usar tecnolog\u00c3\u00ada para revisar los mensajes de Marketplace con el fin de detectar y reducir las estafas y el fraude.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Arturo Towers",
+      "timestamp_ms": 1750600440966,
+      "content": "S\u00c3\u00ad. \u00c2\u00bfTe interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750566349268,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750566349096,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Disco Duro Notebook 1TB HDD.",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegodiscoduronotebook1tbhdd_23870779665905904",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1775816659681440.jpg",
+    "creation_timestamp": 1750566345
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

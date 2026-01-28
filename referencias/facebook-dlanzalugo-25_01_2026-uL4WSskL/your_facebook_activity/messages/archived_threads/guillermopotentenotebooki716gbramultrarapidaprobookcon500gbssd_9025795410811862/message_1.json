@@ -1,0 +1,85 @@
+{
+  "participants": [
+    {
+      "name": "Guillermo Yiimii Araya"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735066060715,
+      "content": "Estimado le intereso?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734984821667,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734984819904,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734984818940,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Guillermo Yiimii Araya",
+      "timestamp_ms": 1734984543741,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Guillermo Yiimii Araya",
+      "timestamp_ms": 1734984539327,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Guillermo Yiimii Araya",
+      "timestamp_ms": 1734984538886,
+      "content": "Guillermo Yiimii Araya",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Guillermo Yiimii Araya",
+      "timestamp_ms": 1734984536274,
+      "content": "Guillermo asign\u00c3\u00b3 al grupo el nombre \"Guillermo \u00c2\u00b7 Potente Notebook i7 16GB RAM Ultra Rapida Probook con 500GB SSD\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Guillermo Yiimii Araya",
+      "timestamp_ms": 1734984536274,
+      "content": "Guillermo cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Guillermo \u00c2\u00b7 Potente Notebook i7 16GB RAM Ultra Rapida Probook con 500GB SSD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/guillermopotentenotebooki716gbramultrarapidaprobookcon500gbssd_9025795410811862",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

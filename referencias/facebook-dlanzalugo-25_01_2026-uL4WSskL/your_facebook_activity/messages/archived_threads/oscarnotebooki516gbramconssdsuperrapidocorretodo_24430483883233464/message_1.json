@@ -1,0 +1,124 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Martines Aron"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703430531338,
+      "content": "Oscar como esta? Le intereso?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703363593443,
+      "content": "Cuentame*",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703363589650,
+      "content": "Hola. Uentame",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Martines Aron",
+      "timestamp_ms": 1703356521300,
+      "content": "Amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Martines Aron",
+      "timestamp_ms": 1703356519395,
+      "content": "Holaaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703351042602,
+      "content": "130mil amigo, lo minimo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Martines Aron",
+      "timestamp_ms": 1703347043331,
+      "content": "Cual seria el \u00c3\u00baltimo  precio as\u00c3\u00ad voy ahora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703346648193,
+      "content": "Hola, si esta disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Martines Aron",
+      "timestamp_ms": 1703343973767,
+      "content": "Holaaa a\u00c3\u00ban est\u00c3\u00a1 disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Martines Aron",
+      "timestamp_ms": 1703343961837,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Martines Aron",
+      "timestamp_ms": 1703343957299,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Martines Aron",
+      "timestamp_ms": 1703343956972,
+      "content": "Martines Aron",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Martines Aron",
+      "timestamp_ms": 1703343954220,
+      "content": "Aron cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Martines Aron",
+      "timestamp_ms": 1703343953866,
+      "content": "Aron asign\u00c3\u00b3 al grupo el nombre \"Oscar \u00c2\u00b7 Notebook i5 16gb Ram con SSD, super rapido, corre todo\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Oscar \u00c2\u00b7 Notebook i5 16gb Ram con SSD, super rapido, corre todo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/oscarnotebooki516gbramconssdsuperrapidocorretodo_24430483883233464",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/360521683289296.jpg",
+    "creation_timestamp": 1703343951
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

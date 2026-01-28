@@ -1,0 +1,164 @@
+{
+  "participants": [
+    {
+      "name": "Daniel Alvarez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Daniel Alvarez",
+      "timestamp_ms": 1768073832802,
+      "content": "Para que lo arregle si gusta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Alvarez",
+      "timestamp_ms": 1768073825759,
+      "content": "X eso se lo dejo tan barato",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Alvarez",
+      "timestamp_ms": 1768073812475,
+      "content": "Malas malas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768073792530,
+      "content": "Oye y las letras malas malas o reconoce aveces si aveces no?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Alvarez",
+      "timestamp_ms": 1768073787512,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Alvarez",
+      "timestamp_ms": 1768073786206,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768073780903,
+      "content": "Aah oka",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Alvarez",
+      "timestamp_ms": 1768073771473,
+      "content": "Solo es uno",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Alvarez",
+      "timestamp_ms": 1768073768735,
+      "content": "Nop",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768073758982,
+      "content": "A si tienes otro notebook igual",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Alvarez",
+      "timestamp_ms": 1768073746876,
+      "content": "O te refieres a otra cosa???",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Alvarez",
+      "timestamp_ms": 1768073733944,
+      "content": "Tiene 2 teclas malas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768073721926,
+      "content": "O solo es 1?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768073711357,
+      "content": "Tienes 2?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Alvarez",
+      "timestamp_ms": 1768073180926,
+      "content": "Si aun le interesa sin problemas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Alvarez",
+      "timestamp_ms": 1768073170940,
+      "content": "Tiene un \u00c3\u00banico detalle de que no le funciona no la tecla del 5 y 6",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Alvarez",
+      "timestamp_ms": 1768073142526,
+      "content": "Eeeeeh",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768073114321,
+      "content": "Amigo 120mil puedo ir a buscarla",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768073106402,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Laptop HP elitebook 840 g5",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegolaptophpelitebook840g5_1195823659399779",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/874473738677375.jpg",
+    "creation_timestamp": 1768073101
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

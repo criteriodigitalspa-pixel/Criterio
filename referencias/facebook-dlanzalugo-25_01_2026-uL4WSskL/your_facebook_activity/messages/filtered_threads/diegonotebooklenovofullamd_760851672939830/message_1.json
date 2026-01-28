@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Diego Alejandro"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765984418834,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Alejandro",
+      "timestamp_ms": 1764882981835,
+      "content": "Diego est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Alejandro",
+      "timestamp_ms": 1764859943661,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Alejandro",
+      "timestamp_ms": 1764859939354,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Alejandro",
+      "timestamp_ms": 1764859939124,
+      "content": "Diego inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook Lenovo Full AMD",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/diegonotebooklenovofullamd_760851672939830",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

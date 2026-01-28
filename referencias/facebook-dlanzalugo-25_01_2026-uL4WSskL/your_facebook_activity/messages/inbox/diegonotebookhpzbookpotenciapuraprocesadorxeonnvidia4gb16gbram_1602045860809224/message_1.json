@@ -1,0 +1,111 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Diego Godoy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Godoy",
+      "timestamp_ms": 1766288739346,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766259950896,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766159873956,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Godoy",
+      "timestamp_ms": 1766159815419,
+      "content": "Gracias, lo considerar\u00c3\u00a9, depende de c\u00c3\u00b3mo me va con las dem\u00c3\u00a1s alternativas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766159589353,
+      "content": "Mira si cerramos en 340 te los puedo acetar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Godoy",
+      "timestamp_ms": 1766159499845,
+      "content": "Pero en ese caso, estoy viendo otras opciones",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Godoy",
+      "timestamp_ms": 1766159488231,
+      "content": "Probablemente usando aritm\u00c3\u00a9tica ({390+300}/2) = 345 \u00e2\u0089\u0088 350",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766159301056,
+      "content": "Hola Bro, e agradezco la oferta pero como podriamos lelgar a un precio que nos convenga mas a los 2",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Godoy",
+      "timestamp_ms": 1766159134037,
+      "content": "Hola, te ofrezco 300",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Godoy",
+      "timestamp_ms": 1766159125702,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Godoy",
+      "timestamp_ms": 1766159122494,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Godoy",
+      "timestamp_ms": 1766159122262,
+      "content": "Diego inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook HP ZBook / Potencia Pura (Procesador Xeon + Nvidia 4GB + 16GB RAM)",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebookhpzbookpotenciapuraprocesadorxeonnvidia4gb16gbram_1602045860809224",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

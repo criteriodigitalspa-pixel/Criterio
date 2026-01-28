@@ -1,0 +1,617 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Mauricio Perez"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743626533231,
+      "content": "Mi numero\n994919000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743626459051,
+      "content": "Diego Lanza\n26.503.138-2\nBanco de Chile\nCuenta Vista\n00-008-10250-45\ndixtal98@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743626313191,
+      "content": "Eres de la camioneta roja?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743626295926,
+      "content": "En la entrada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743626293142,
+      "content": "Estoy abajo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743626162293,
+      "content": "Llege",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743625973945,
+      "content": "Voy en departamenta\u00c3\u00b1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743625172504,
+      "content": "Vale Mauricio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743625148816,
+      "content": "Mauricio P\u00c3\u00a9rez",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743624994249,
+      "content": "Cual es su nombre disculpe?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743624987179,
+      "content": "Oka okaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743624978415,
+      "content": "5 y media m\u00c3\u00a1s o menos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743624958546,
+      "content": "Valee",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743624875383,
+      "content": "En camino",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743620948539,
+      "content": "Me avisas cuando estes llegando",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743620938816,
+      "content": "Le espero no mas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743620557199,
+      "content": "Ojala 5.30",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743620552884,
+      "content": "Dalee",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743620230833,
+      "content": "O 6",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743620229142,
+      "content": "C\u00c3\u00b3mo las 5 y media",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743620211395,
+      "content": "A que hora seria estimado?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743619536307,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743619534954,
+      "content": "Estar\u00c3\u00a1s ,",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743619533310,
+      "content": "Puedo pasar hoy?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743619241975,
+      "content": "Si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743619240193,
+      "content": "Hola amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743617076002,
+      "content": "A\u00c3\u00ban tienes el note a la venta?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743617066486,
+      "content": "Hola amigo buen dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743460990151,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743460850492,
+      "content": "En la tardecita",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743460846957,
+      "content": "Ya ya ma\u00c3\u00b1ana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743460829512,
+      "content": "Hola amigo estoy fuera de mi casa ahora llego como en 3 horas mas. Pero para ma\u00c3\u00b1ana dime una hora no mas, si es a las 20.00hr me sirve o mas temprano igual, dime no mas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743460692762,
+      "content": "Del trabajo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743460687526,
+      "content": "Voy reci\u00c3\u00a9n saliendo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743460676278,
+      "content": "O es muy tarde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743460672652,
+      "content": "Amigo est\u00c3\u00a1s en tu casa ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743434061956,
+      "content": "Pero de alli estare en casa el resto del dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743434052483,
+      "content": "Dale, yo llego a mi casa a las 2pm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743434035166,
+      "content": "Ya ya si estoy corriendo en el trabajo para poder ir temprano",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743434022624,
+      "content": "Jajajaj",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743434021373,
+      "content": "Buen d\u00c3\u00ada.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743434018900,
+      "content": "Holaaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743433869097,
+      "content": "Le hago un descuento por lo de ayer",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743433860720,
+      "content": "Despues de las 2",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743433857872,
+      "content": "Si pase no mas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743433855422,
+      "content": "Hola estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743431191704,
+      "content": "Buen d\u00c3\u00ada estimado estar\u00c3\u00a1s hoy?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743385132345,
+      "content": "Para ver si est\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743385129297,
+      "content": "Ma\u00c3\u00b1ana le hablar\u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743385125089,
+      "content": "Ya amigo entiendo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743378590381,
+      "content": "Recien voy llegando a mi casa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743378581832,
+      "content": "Hola amigo disculpeme, tuve una urgencia familiar, sali muy rapido y deje mi telefono",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743356083771,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743354331242,
+      "content": "??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743353978156,
+      "content": "Estar\u00c3\u00ada abajo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743353970127,
+      "content": "Llege estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743353827002,
+      "content": "Llegando",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743352734003,
+      "content": "Lleg\u00c3\u00b3 a las 2 pasadito",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743351860176,
+      "content": "C\u00c3\u00b3mo las 2 y media",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743351854053,
+      "content": "Saliendo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743341443711,
+      "content": "Gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743341441713,
+      "content": "Le aviso cuando valla en camino",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743341435346,
+      "content": "Perfecto amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743341422809,
+      "content": "Lago pirihueico 6502, la florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743340731581,
+      "content": "Por favor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743340722457,
+      "content": "Env\u00c3\u00ademe su direcci\u00c3\u00b3n",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743340713385,
+      "content": "Perfecto .",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743340674632,
+      "content": "Si es tipo 2pm mejor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743340670377,
+      "content": "Si claro sin problema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743340656974,
+      "content": "M\u00c3\u00a1s o menos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743340652866,
+      "content": "Se envi\u00c3\u00b3 tu calificaci\u00c3\u00b3n",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743340651224,
+      "content": "Le acomoda a medio d\u00c3\u00ada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743340635217,
+      "content": "Si claro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743340628575,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743340624986,
+      "content": "Puedo ir a  su domicilio .",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743340607479,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme al metro, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743340604150,
+      "content": "Si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743340584145,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743340582319,
+      "content": "A\u00c3\u00ban est\u00c3\u00a1 disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743340577315,
+      "content": "Hola estimado buen d\u00c3\u00ada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743340558764,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme al metro, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743340555099,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743340534672,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743340529818,
+      "content": "\u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Perez",
+      "timestamp_ms": 1743340529567,
+      "content": "Mauricio inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Speed \u00c2\u00b7 Notebook i5-8th 16GB RAM Ultra Potente con SSD ENCIENDE EN SEGUNDOS\n PROBOOK",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/speednotebooki58th16gbramultrapotenteconssdenciendeensegundosprobook_9211325188994639",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

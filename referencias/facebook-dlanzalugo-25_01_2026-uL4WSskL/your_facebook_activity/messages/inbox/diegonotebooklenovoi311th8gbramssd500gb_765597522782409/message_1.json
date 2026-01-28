@@ -1,0 +1,108 @@
+{
+  "participants": [
+    {
+      "name": "Maria J\u00c3\u00b3se Valenzuela Arancibia"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757024590235,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/diegonotebooklenovoi311th8gbramssd500gb_765597522782409/photos/1466736547967926.jpg",
+          "creation_timestamp": 1757024588
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757024551710,
+      "content": "En la descripcion dice que esta desgastada, pero justo no hay foto de la tapa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria J\u00c3\u00b3se Valenzuela Arancibia",
+      "timestamp_ms": 1757024447906,
+      "content": "Que necesitas de la tapa el modelo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria J\u00c3\u00b3se Valenzuela Arancibia",
+      "timestamp_ms": 1757024436748,
+      "content": "Hola diego como estas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756998869030,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria J\u00c3\u00b3se Valenzuela Arancibia",
+      "timestamp_ms": 1756998847451,
+      "content": "Meta podr\u00c3\u00ada usar tecnolog\u00c3\u00ada para revisar los mensajes de Marketplace con el fin de detectar y reducir las estafas y el fraude.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria J\u00c3\u00b3se Valenzuela Arancibia",
+      "timestamp_ms": 1756998844630,
+      "content": "S\u00c3\u00ad. \u00c2\u00bfTe interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756921086711,
+      "content": "Consulta, el desgaste en la tapa cual es? No hay foto de la tapa trasera",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756921073115,
+      "content": "Buenas tardes. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756921071812,
+      "content": "Buenas tardes. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756921071584,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook Lenovo I3 11th 8gb ram ssd 500gb",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebooklenovoi311th8gbramssd500gb_765597522782409",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1654628981872916.jpg",
+    "creation_timestamp": 1756921068
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

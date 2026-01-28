@@ -1,6 +1,5 @@
 const { GoogleGenerativeAI } = require("@google/generative-ai");
 const fs = require('fs');
-
 const path = require('path');
 
 class AIService {
@@ -13,6 +12,11 @@ class AIService {
             this.genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
             console.log("🧠 Servicio de IA (Gemini) Inicializado.");
         }
+
+        // TOOL REGISTRY (Hardcoded implementations for now)
+        this.toolRegistry = {
+            searchInventory: this.searchInventory.bind(this)
+        };
     }
 
     setDb(firestoreDb) {
@@ -20,237 +24,398 @@ class AIService {
         console.log("💾 Base de datos conectada a AI Service.");
     }
 
-    async getPersonaForSender(senderPhone) {
-        // 1. Default Static Fallback (if DB fails or empty)
-        let activePersona = {
-            name: "Default Diego",
-            system_prompt: "Eres Diego, habla casual y breve.",
-            formatting_rules: ["Usa emojis", "Sé directo"],
-            common_phrases: ["Mano", "Dale"]
+    /**
+     * V12: Modular User Config (Persona + Actions)
+     */
+    async getUserConfig(senderPhone) {
+        // Default Configuration
+        let config = {
+            persona: {
+                name: "Default Agent",
+                system_prompt: "Eres un asistente útil.",
+                formatting_rules: [],
+                common_phrases: []
+            },
+            actions: [] // List of Tool Definitions
         };
 
-        if (!this.db) return activePersona;
+        if (!this.db) return config;
 
         try {
-            // 2. Check Mapping: PhoneNumber -> PersonaID
-            // Normalizar telefono (solo numeros)
             const cleanPhone = senderPhone.replace(/\D/g, '');
+            console.log(`🔍 Buscando configuración para: ${cleanPhone}`);
 
-            const mappingRef = this.db.collection('user_preferences').doc(cleanPhone);
-            const mappingDoc = await mappingRef.get();
+            // 1. Look up User Matrix
+            // We search by ID (phone number) if we set it as Doc ID in UserMatrix, 
+            // OR query if field is phoneNumber. UserMatrix sets 'phoneNumber' field, but let's check how we saved it.
+            // UserMatrix uses addDoc (auto ID) but stores phoneNumber field.
+
+            const mappingQuery = await this.db.collection('user_mappings')
+                .where('phoneNumber', '==', cleanPhone)
+                .limit(1)
+                .get();
 
             let personaId = 'default';
+            let actionIds = [];
 
-            if (mappingDoc.exists && mappingDoc.data().personaId) {
-                personaId = mappingDoc.data().personaId;
+            if (!mappingQuery.empty) {
+                const mapData = mappingQuery.docs[0].data();
+                personaId = mapData.personaId;
+                actionIds = mapData.actionIds || [];
+                console.log(`✅ Usuario encontrado: ${mapData.name} -> Persona: ${personaId}, Actions: ${actionIds.length}`);
+            } else {
+                console.log("⚠️ Usuario no mapeado. Usando defaults.");
+                // Try legacy lookup
+                const oldPref = await this.db.collection('user_preferences').doc(cleanPhone).get();
+                if (oldPref.exists) personaId = oldPref.data().personaId;
             }
 
-            // 3. Fetch Persona Data
-            if (personaId !== 'default') {
-                const personaDoc = await this.db.collection('personas').doc(personaId).get();
-                if (personaDoc.exists) {
-                    const data = personaDoc.data();
-                    activePersona = {
-                        name: data.name,
-                        system_prompt: data.system_prompt,
-                        formatting_rules: data.formatting_rules || [],
-                        common_phrases: data.common_phrases || []
-                    };
+            // 2. Fetch Persona
+            if (personaId && personaId !== 'default') {
+                const pDoc = await this.db.collection('personas').doc(personaId).get();
+                if (pDoc.exists) {
+                    config.persona = pDoc.data();
                 }
             } else {
-                // Try to find a persona marked as is_default in DB
-                const defaultQuery = await this.db.collection('personas').where('is_default', '==', true).limit(1).get();
-                if (!defaultQuery.empty) {
-                    const data = defaultQuery.docs[0].data();
-                    activePersona = {
-                        name: data.name,
-                        system_prompt: data.system_prompt,
-                        formatting_rules: data.formatting_rules || [],
-                        common_phrases: data.common_phrases || []
-                    };
-                }
+                // Fetch Global Default
+                const defQ = await this.db.collection('personas').where('is_default', '==', true).limit(1).get();
+                if (!defQ.empty) config.persona = defQ.docs[0].data();
+            }
+
+            // 3. Fetch Actions
+            if (actionIds.length > 0) {
+                // Firestore 'in' query supports up to 10 items. Safest to fetch all actions or fetch individually.
+                // Since this runs locally, let's fetch all active actions globally for cache or just query 'in' if small.
+                // Let's do simple Promise.all
+                const actionDocs = await Promise.all(actionIds.map(id => this.db.collection('actions').doc(id).get()));
+
+                config.actions = actionDocs
+                    .filter(d => d.exists && d.data().enabled)
+                    .map(d => {
+                        const data = d.data();
+                        return {
+                            name: data.trigger, // function name
+                            description: data.description,
+                            parameters: JSON.parse(data.schema || '{}') // Ensure valid JSON Schema
+                        };
+                    });
             }
 
         } catch (e) {
-            console.error("⚠️ Error fetching persona:", e.message);
+            console.error("⚠️ Error loading user config:", e);
         }
 
-        return activePersona;
+        return config;
     }
 
-    // --- INVENTORY TOOL ---
+    /**
+     * Checks if the user is authorized in the App (User Matrix)
+     */
+    async isUserAllowed(phone) {
+        if (!this.db) return false;
+        try {
+            const cleanPhone = phone.replace(/\D/g, '');
+            // 1. Check User Matrix (The Source of Truth)
+            const mappingQuery = await this.db.collection('user_mappings')
+                .where('phoneNumber', '==', cleanPhone)
+                .limit(1)
+                .get();
+
+            if (!mappingQuery.empty) return true;
+
+            // 2. Fallback: Check Legacy Preferences (Optional, for backward compat)
+            const oldPref = await this.db.collection('user_preferences').doc(cleanPhone).get();
+            if (oldPref.exists) return true;
+
+            // 3. Last Resort: Check if it's a Super Admin in .env (Emergency Access)
+            const adminNumbers = (process.env.ADMIN_NUMBER || "").split(',').map(n => n.trim());
+            return adminNumbers.includes(cleanPhone);
+
+        } catch (e) {
+            console.error("Error checking auth:", e);
+            return false;
+        }
+    }
+
+    // --- TOOL IMPLEMENTATIONS ---
     async searchInventory(criteria) {
         if (!this.db) return [];
-        console.log("📦 AI Buscando en Inventario:", criteria);
+        console.log("📦 EJECUTANDO TOOL: Inventory Search", criteria);
 
         try {
-            // Basic query: "Active" tickets (not sold)
-            // Assuming 'status' != 'sold' (or check done col? For now, fetch all 'todo' if possible, or just fetch all and filter)
-            // Kanban usually uses collections or status field. Let's assume 'tickets' root collection.
             const snapshot = await this.db.collection('tickets')
-                .where('status', '!=', 'sold') // Basic filter
-                .limit(50) // Don't fetch everything
+                .where('status', '!=', 'sold')
+                .limit(100)
                 .get();
 
             let matches = snapshot.docs.map(doc => {
                 const d = doc.data();
+
+                // Robust Field Extraction
+                const cpu = d.additionalInfo?.cpuBrand || d.cpuBrand || '';
+                const gen = d.additionalInfo?.cpuGen || d.cpuGen || '';
+                const ram = (d.ram?.detalles || []).join(' + ') || d.additionalInfo?.ram || '?';
+                const disk = (d.disco?.detalles || []).join(' + ') || d.additionalInfo?.disco || '?';
+                const gpu = d.additionalInfo?.gpuModel || d.gpuModel || d.additionalInfo?.gpu || 'Integrada';
+                const vram = d.additionalInfo?.vram ? `(${d.additionalInfo.vram})` : '';
+
+                const specs = `CPU: ${cpu} ${gen} | RAM: ${ram} | DISCO: ${disk} | GPU: ${gpu} ${vram}`;
+                const title = `${d.marca} ${d.modelo}`;
+
                 return {
                     id: doc.id,
-                    title: `${d.marca} ${d.modelo} (${d.cpuBrand} ${d.cpuGen})`,
-                    specs: `RAM: ${d.ram?.detalles?.join('+') || '?'} | DISCO: ${d.disco?.detalles?.join('+') || '?'} | GPU: ${d.additionalInfo?.gpu || 'Integrada'}`,
-                    price: d.precioVenta || (d.precioCompra * 1.3), // Fallback margin if sale price not set
-                    status: d.status
+                    title: title,
+                    specs: specs,
+                    price: d.precioVenta || (d.precioCompra ? Math.round(d.precioCompra * 1.35) : 0),
+                    searchStr: `${title} ${specs} ${d.additionalInfo?.serialNumber || ''}`.toLowerCase()
                 };
             });
 
-            // Local Fuzzy Search (RAG-lite)
-            // Filter matches based on criteria keywords
             if (criteria.query) {
                 const q = criteria.query.toLowerCase();
-                matches = matches.filter(m =>
-                    m.title.toLowerCase().includes(q) ||
-                    m.specs.toLowerCase().includes(q)
-                );
+                matches = matches.filter(m => m.searchStr.includes(q));
             }
 
             if (criteria.maxPrice) {
                 matches = matches.filter(m => m.price <= criteria.maxPrice);
             }
 
-            return matches.slice(0, 5); // Return top 5 relevant
+            return matches.slice(0, 5).map(m => ({
+                title: m.title,
+                specs: m.specs,
+                price: m.price
+            })); // Clean output for LLM
 
         } catch (e) {
             console.error("Error searching inventory:", e);
-            return [];
+            return [{ error: "Error de base de datos al buscar inventario." }];
         }
     }
 
+    /**
+     * COMMAND SYSTEM - Handle "/" commands
+     */
+    async handleCommand(text, senderPhone) {
+        const parts = text.slice(1).trim().split(' '); // Remove "/" and split
+        const command = parts[0].toLowerCase();
+        const args = parts.slice(1);
+
+        console.log(`🎮 [COMANDO] "${command}" ejecutado por ${senderPhone}`);
+
+        try {
+            switch (command) {
+                case 'reset':
+                    return await this.commandReset(senderPhone);
+
+                case 'rasgolist':
+                case 'rasgos':
+                    return await this.commandRasgoList(senderPhone);
+
+                case 'help':
+                case 'ayuda':
+                    return this.commandHelp();
+
+                default:
+                    return `❌ Comando desconocido: "/${command}"\n\nUsa /help para ver comandos disponibles.`;
+            }
+        } catch (e) {
+            console.error(`Error ejecutando comando /${command}:`, e);
+            return `⚠️ Error al ejecutar /${command}: ${e.message}`;
+        }
+    }
+
+    /**
+     * /reset - Clear conversation history
+     */
+    async commandReset(senderPhone) {
+        // Reset is handled by creating a new chat session
+        // For WhatsApp, we don't store session state, so just confirm
+        return `🔄 *Conversación reiniciada*\n\nHistorial borrado. Empecemos de nuevo.`;
+    }
+
+    /**
+     * /RasgoList - Show active/inactive traits
+     */
+    async commandRasgoList(senderPhone) {
+        const userConfig = await this.getUserConfig(senderPhone);
+        const { persona } = userConfig;
+
+        if (!persona || !persona.traits || persona.traits.length === 0) {
+            return `📋 *Rasgos Psicológicos*\n\n⚠️ No hay rasgos configurados para esta identidad.`;
+        }
+
+        // Format active traits
+        const traitsList = persona.traits.map((t, i) => `${i + 1}. ✅ ${t}`).join('\n');
+
+        return `📋 *Rasgos Psicológicos Activos*\n\n${traitsList}\n\n_Total: ${persona.traits.length} rasgos_`;
+    }
+
+    /**
+     * /help - Show available commands
+     */
+    commandHelp() {
+        return `🎮 *Comandos Disponibles*\n\n` +
+            `*Gestión:*\n` +
+            `/reset - Reiniciar conversación\n` +
+            `/RasgoList - Ver rasgos activos\n` +
+            `/help - Mostrar esta ayuda\n\n` +
+            `_Escribe el comando con "/" para ejecutarlo_`;
+    }
+
+    // --- MAIN PROCESSOR ---
     async processIdea(text, mediaBuffer, mimeType, senderPhone) {
         if (!this.genAI) return null;
 
-        // 🛑 EMERGENCY KILL SWITCH CHECK
-        try {
-            const configDoc = await this.db.collection('system').doc('ai_config').get();
-            if (configDoc.exists && configDoc.data().enabled === false) {
-                console.log("🛑 AI DEACTIVATED GLOBALLY. Ignoring message.");
-                return { reply_text: null }; // Silent
-            }
-        } catch (e) {
-            console.error("Error checking AI config:", e); // Fail safe: continue? Or fail safe: stop? 
-            // Better fail safe: Stop if uncertain to avoid accidents.
-            // return { reply_text: null }; 
+        // 0. COMMAND SYSTEM - Intercept "/" commands before AI
+        if (text.trim().startsWith('/')) {
+            return await this.handleCommand(text.trim(), senderPhone);
         }
 
+        // 1. Load User Context
+        const userConfig = await this.getUserConfig(senderPhone);
+        const { persona, actions } = userConfig;
+
         try {
-            // --- TOOLS DEFINITION ---
-            const inventoryTool = {
-                functionDeclarations: [
-                    {
-                        name: "searchInventory",
-                        description: "Buscar computadores en el inventario disponible. Úsalo cuando pregunten por precios, modelos o características.",
+            // 2. Prepare Tools
+            // Map actions definitions to Gemini Tool Format
+            let toolsConfig = [];
+            if (actions.length > 0) {
+                toolsConfig = [{
+                    functionDeclarations: actions.map(a => ({
+                        name: a.name,
+                        description: a.description,
                         parameters: {
                             type: "OBJECT",
-                            properties: {
-                                query: { type: "STRING", description: "Palabras clave del producto (ej: 'notebook gamer', 'hp ryzen', 'macbook')." },
-                                maxPrice: { type: "NUMBER", description: "Presupuesto máximo del cliente (si lo menciona)." }
-                            },
+                            properties: a.parameters.properties || {},
+                            required: a.parameters.required || []
                         }
-                    }
-                ]
+                    }))
+                }];
+                console.log(`🛠️ Herramientas activas para este chat: ${actions.map(a => a.name).join(', ')}`);
+            }
+
+            // 3. Initialize Model (Hybrid Strategy - User Controlled)
+            // 3. Initialize Model (Hybrid Strategy - User Controlled)
+            // Using Gemini 2.0 Flash (aka "2.5") and Gemini 2.0 Pro (aka "3.0")
+            const FLASH_MODEL = "gemini-2.0-flash-exp";
+            const PRO_MODEL = "gemini-2.0-pro-exp-02-05";
+
+
+            // Get User Preference (Default 30% if not set)
+            const intelligenceLevel = (persona.intelligence_level !== undefined) ? persona.intelligence_level : 30;
+
+            // Heuristic A: Critical Complexity (Force Pro unless level is near zero)
+            const isCritical = (text) => {
+                if (!text) return false;
+                const len = text.length;
+                const complexKeywords = ["analiza", "crea", "plan", "lista", "resumen", "explica", "por qué", "estrategia", "código", "diferencia", "ayuda con"];
+                const hasKeyword = complexKeywords.some(k => text.toLowerCase().includes(k));
+                return len > 200 || hasKeyword;
             };
 
-            const model = this.genAI.getGenerativeModel({
-                model: "gemini-2.5-flash", // Ensure this model supports tools, else use gemini-pro or 1.5-flash
-                tools: [inventoryTool],
-                generationConfig: { responseMimeType: "application/json" } // JSON Mode with Tools? Be careful.
-                // Gemini 1.5 Flash supports strict JSON mode AND tools, but sometimes it's tricky.
-                // Converting response to text loop manually is safer.
-            });
+            const isCriticalInput = isCritical(text);
+            const randomChance = Math.random() * 100;
 
-            // For tool calling to work reliably, we might need to drop strict JSON mode for the *first* turn
-            // or handle the tool call response structure.
-            // Let's stick to standard flow: 
-            // 1. Generate (might call tool)
-            // 2. If functionCall, execute and re-generate.
+            // DECISION LOGIC:
+            // 1. Critical Input + Level > 10 -> Force PRO (Safety net for functionality)
+            // 2. Random Chance < Level -> Use PRO (User defined sensitivity/budget)
+            // 3. Else -> FLASH
+            let selectedModelName = FLASH_MODEL;
+            let reason = "Economy Mode";
 
-            // --- DYNAMIC PERSONA LOADING ---
-            const persona = await this.getPersonaForSender(senderPhone || "000000");
-
-            // Construct System Prompt
-            let personaInstruction = `
-                ROL / PERSONALIDAD (${persona.name}):
-                ${persona.system_prompt}
-                
-                REGLAS DE ESTILO:
-                ${persona.formatting_rules.map(r => "- " + r).join("\n")}
-                
-                Dato curioso: ${persona.common_phrases.join(", ")}
-            `;
-
-            const prompt = `
-            ${personaInstruction}
-
-            CONTEXTO TÉCNICO:
-            Tienes acceso al inventario en tiempo real usando la herramienta 'searchInventory'.
-            SIEMPRE que pregunten "¿tienes...?", "¿cuánto vale...?", "busco...", USA LA HERRAMIENTA.
-            
-            TAREA:
-            Responde al usuario. Si usas la herramienta, incorpora los resultados en tu respuesta con tu tono de vendedor.
-            Si no hay resultados, ofrece alternativas o di que revisas bodega.
-            
-            Output JSON format (FINAL):
-            {
-                "reply_text": "Respuesta final al usuario"
+            if (isCriticalInput && intelligenceLevel > 10) {
+                selectedModelName = PRO_MODEL;
+                reason = "Critical Complexity";
+            } else if (randomChance < intelligenceLevel) {
+                selectedModelName = PRO_MODEL;
+                reason = `User Sensitivity (${intelligenceLevel}%)`;
             }
-            `;
 
-            const chat = model.startChat({
-                history: [
-                    { role: "user", parts: [{ text: prompt }] }
-                ]
+            console.log(`🧠 AI Router: [${selectedModelName}] selected. | Reason: ${reason} | Level: ${intelligenceLevel}%`);
+
+            const model = this.genAI.getGenerativeModel({
+                model: selectedModelName,
+                tools: toolsConfig.length > 0 ? toolsConfig : undefined,
+                // Create a system prompt that includes Persona + Tool Instructions
+                systemInstruction: {
+                    parts: [{
+                        text: `
+                        IDENTITY (OVERRIDES):
+                        Nombre: CRIDA
+                        Rol: Asistente Ejecutiva de Criterio Digital (y tu mano derecha).
+                        Idioma: ESPAÑOL (Siempre, salvo que te hablen en otro idioma).
+                        Personalidad: ${persona.base_mood || "Amable, eficiente, profesional pero cercana (chilena/latina)"}.
+                        
+                        CONTEXTO:
+                        ${persona.system_prompt || "Eres Crida, la IA central de Criterio Digital. Ayudas a gestionar el taller, inventario y ventas. Responde corto y al pie."}
+
+                        FORMATTING RULES:
+                        ${(persona.formatting_rules || []).join('\n')}
+                        - Usa emojis ocasionalmente 🚀.
+                        - No seas robótica. Habla como una compañera de equipo.
+                        - Si no sabes algo, pregunta.
+
+                        AVAILABLE TOOLS:
+                        ${actions.length > 0 ? "You have access to tools. USE THEM when explicitly requested or needed to answer." : "No tools available."}
+                        
+                        RESPONSE FORMAT:
+                        Return ONLY a raw JSON object with this structure:
+                        { "reply_text": "TU_RESPUESTA_EN_ESPAÑOL" }
+                    ` }],
+                    role: "system"
+                },
+                generationConfig: { responseMimeType: "application/json" }
             });
 
-            // Send User Message
+            // 4. Chat Session
+            const chat = model.startChat({ history: [] });
+
+            // Prepare Input
             const userParts = [{ text: text || "..." }];
             if (mediaBuffer && mimeType) {
-                const base64Data = mediaBuffer.toString('base64');
-                userParts.push({ inlineData: { mimeType: mimeType, data: base64Data } });
+                userParts.push({ inlineData: { mimeType: mimeType, data: mediaBuffer.toString('base64') } });
             }
 
+            console.log("📤 Sending to AI...");
             const result = await chat.sendMessage(userParts);
             const response = await result.response;
 
-            // Handle Function Call
+            // 5. Handle Tool Calls
+            // Gemini 1.5/2.0 returns functionCalls in the response candidates
             const calls = response.functionCalls();
+
             if (calls && calls.length > 0) {
                 const call = calls[0];
-                if (call.name === "searchInventory") {
-                    const apiResponse = await this.searchInventory(call.args);
+                console.log(`📞 AI wants to call: ${call.name} with args:`, call.args);
 
-                    // Feed back to model
-                    const toolResult = await chat.sendMessage([
-                        {
-                            functionResponse: {
-                                name: "searchInventory",
-                                response: { products: apiResponse }
-                            }
+                if (this.toolRegistry[call.name]) {
+                    // Execute
+                    const toolResult = await this.toolRegistry[call.name](call.args);
+
+                    // Feed back
+                    console.log("📥 Feeding back tool result...");
+                    const nextResult = await chat.sendMessage([{
+                        functionResponse: {
+                            name: call.name,
+                            response: { result: toolResult }
                         }
-                    ]);
+                    }]);
 
-                    const finalResponse = await toolResult.response;
-                    return JSON.parse(finalResponse.text());
+                    const finalResp = await nextResult.response;
+                    const finalJson = JSON.parse(finalResp.text());
+                    return finalJson;
+                } else {
+                    console.warn(`⚠️ Tool ${call.name} not found in Local Registry.`);
+                    return { reply_text: "Intente usar una herramienta que no tengo instalada." };
                 }
             }
 
-            // Normal Text Response (No tool used)
+            // No Tool Call
             return JSON.parse(response.text());
 
         } catch (error) {
-            console.error("❌ Error procesando IA:", error);
-            return {
-                reply_text: "Mano, me marié buscando eso. Pregúntame de nuevo.",
-                error: error.message
-            };
+            console.error("❌ Error critical AI:", error);
+            return { reply_text: null, error: error.message };
         }
     }
 }

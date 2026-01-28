@@ -1,0 +1,119 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Luciano Serpa"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1769135810319,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768831049395,
+      "content": "Nos vemos en metro ines de suarez",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768831024459,
+      "content": "Hola estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luciano Serpa",
+      "timestamp_ms": 1768580466908,
+      "content": "Luciano reaccion\u00c3\u00b3 \u00e2\u009d\u00a4 a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768574085638,
+      "content": "Claro yo a esa hora estare el lunes en providencia haciendo un trabajo en un centro comercial peque\u00c3\u00b1o, si puediese acercarce en ese horario lo puedo recibir y lo revisa con calma",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Luciano Serpa"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luciano Serpa",
+      "timestamp_ms": 1768573848962,
+      "content": "Si el lunes entre las 11 am y las 12 am. Es posible coordinar ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768573803095,
+      "content": "Aah pero estara en santiago?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luciano Serpa",
+      "timestamp_ms": 1768573488852,
+      "content": "Llego a Chile este lunes en principio al aeropuerto de Santiago y despu\u00c3\u00a9s estar\u00c3\u00a9 en la zona conc\u00c3\u00b3n",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luciano Serpa",
+      "timestamp_ms": 1768573476708,
+      "content": "Bueno me alegro un mont\u00c3\u00b3n me encantar\u00c3\u00ada compr\u00c3\u00a1rtela",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768485333842,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luciano Serpa",
+      "timestamp_ms": 1768484463195,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luciano Serpa",
+      "timestamp_ms": 1768484458869,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luciano Serpa",
+      "timestamp_ms": 1768484458616,
+      "content": "Luciano inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Luciano \u00c2\u00b7 Thinkpad P14s i7 vPRO + NVIDIA / 24GB RAM / SSDD / Notebook Lenovo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/lucianothinkpadp14si7vpronvidia24gbramssddnotebooklenovo_872759212009764",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

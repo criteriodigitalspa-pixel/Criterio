@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Diego Molina Rencoret"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737798631025,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook HP EliteBook 840 G4",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebookhpelitebook840g4_9190639671056245",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/594275439986880.jpg",
+    "creation_timestamp": 1737798628
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "J'ai Hvh"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "J'ai Hvh",
+      "timestamp_ms": 1762053886121,
+      "content": "Cu\u00c3\u00a1nto sale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1762022833510,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1761877689569,
+      "content": "Estoy en La Florida. Te acomoda la comuna o preferir\u00c3\u00adas que coordinemos en otro punto a convenir?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1761877687629,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "J'ai Hvh",
+      "timestamp_ms": 1761875036332,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "J'ai Hvh",
+      "timestamp_ms": 1761875031769,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "J'ai Hvh",
+      "timestamp_ms": 1761875031375,
+      "content": "J'ai inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "J'ai \u00c2\u00b7 All in one HP / 16gb RAM / 1TB SSDD / 2GB tarjeta Grafica A\u00c3\u00b1o 2024",
+  "is_still_participant": true,
+  "thread_path": "inbox/jaiallinonehp16gbram1tbssdd2gbtarjetagraficaano2024_1378301547041933",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

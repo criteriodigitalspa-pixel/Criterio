@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Jade O\u00c3\u00b1ate"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740410901681,
+      "content": "Le intereso el equipo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739964431352,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.Si tiene alguna duda me avisa",
+      "share": {
+        "link": "http://calma.si/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739964427198,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jade O\u00c3\u00b1ate",
+      "timestamp_ms": 1739947321078,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jade O\u00c3\u00b1ate",
+      "timestamp_ms": 1739947315833,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jade O\u00c3\u00b1ate",
+      "timestamp_ms": 1739947315555,
+      "content": "Jade inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jade \u00c2\u00b7 Notebook Full / 8 RAM / a\u00c3\u00b1o 2023 / 1000GB",
+  "is_still_participant": true,
+  "thread_path": "inbox/jadenotebookfull8ramano20231000gb_9247412035347058",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

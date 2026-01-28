@@ -1,0 +1,120 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Claudio Videla"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766836637808,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766434527308,
+      "content": "Si la bateria esta buena dura varias horas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766434520176,
+      "content": "Estoy en La Florida. Te acomoda la comuna o preferir\u00c3\u00adas que coordinemos en otro punto a convenir?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Claudio Videla",
+      "timestamp_ms": 1766433233271,
+      "content": "La bater\u00c3\u00ada esta en buen estado ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Claudio Videla",
+      "timestamp_ms": 1766433221896,
+      "content": "Que parte exactamente? Nos podr\u00c3\u00adamos reunir en el plaza oeste o la estaci\u00c3\u00b3n central ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766432841609,
+      "content": "Aah esto es santiago",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Claudio Videla",
+      "timestamp_ms": 1766432555325,
+      "content": "Yo soy de isla de maipo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Claudio Videla",
+      "timestamp_ms": 1766432491841,
+      "content": "De donde es ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Claudio Videla",
+      "timestamp_ms": 1766432488475,
+      "content": "Aun lo tiene ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Claudio Videla",
+      "timestamp_ms": 1766432483501,
+      "content": "Si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766431781956,
+      "content": "S\u00c3\u00ad. \u00c2\u00bfTe interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Claudio Videla",
+      "timestamp_ms": 1766431372092,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Claudio Videla",
+      "timestamp_ms": 1766431369470,
+      "content": "\u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Claudio Videla",
+      "timestamp_ms": 1766431369362,
+      "content": "Claudio inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Claudio \u00c2\u00b7 Notebook Elitebook HP i7 Super Potente/ 16GB RAM / SSDD /",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/claudionotebookelitebookhpi7superpotente16gbramssdd_885731287438663",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

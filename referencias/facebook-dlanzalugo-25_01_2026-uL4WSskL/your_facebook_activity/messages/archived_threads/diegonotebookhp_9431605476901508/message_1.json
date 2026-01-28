@@ -1,0 +1,702 @@
+{
+  "participants": [
+    {
+      "name": "Tiendita Solmar"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739048501534,
+      "content": "Perrin me habias dicho 3lks el g? Estas haciendo delivery?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1739044803174,
+      "content": "Tiendita vendi\u00c3\u00b3 notebook hp.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1739044801846,
+      "content": "Tiendita marc\u00c3\u00b3 el art\u00c3\u00adculo como vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738964705612,
+      "content": "fue un gusto",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Diego Lanza"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738964700928,
+      "content": "no te preocupes amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738964683855,
+      "content": "Y disculpa haberte hecho venir de tan lejos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738964659546,
+      "content": "Muchas graciaas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738964306298,
+      "content": "esas la contrase\u00c3\u00b1a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738964301613,
+      "content": "2529",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738964041336,
+      "content": "Parado junto a torniquetes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738964031312,
+      "content": "Polera azul marino, pantalon beige y zapatillas blancas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738964014275,
+      "content": "como estas vestido",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738964010787,
+      "content": "donde estas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738963826258,
+      "content": "En que oarte estas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738963802803,
+      "content": "llegue",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738963592278,
+      "content": "Okaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738963551248,
+      "content": "la torre",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738963527281,
+      "content": "Por cual estacion vas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738963313764,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/diegonotebookhp_9431605476901508/photos/2638139229705950.jpg",
+          "creation_timestamp": 1738963312
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738963303885,
+      "content": "Estoy junto a boletaria",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738963299379,
+      "content": "Dale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738962876184,
+      "content": "me queda 3 estaciones",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738962233939,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/diegonotebookhp_9431605476901508/audio/1323017005791713.mp4",
+          "creation_timestamp": 1738962232
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738962231989,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/diegonotebookhp_9431605476901508/audio/2000679017076930.mp4",
+          "creation_timestamp": 1738962231
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738962230424,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/diegonotebookhp_9431605476901508/audio/1550758935606310.mp4",
+          "creation_timestamp": 1738962229
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738962145352,
+      "content": "dame un momentito",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738962137602,
+      "content": "voy directo para aya",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738962131279,
+      "content": "ya amigo muchas gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738962074961,
+      "content": "Porque la otra salida queda al otro lado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738961949894,
+      "content": "Aalida departamental",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738961946471,
+      "content": "Valeee",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738961681381,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738961647812,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/diegonotebookhp_9431605476901508/audio/993249692689603.mp4",
+          "creation_timestamp": 1738961646
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738961622024,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/diegonotebookhp_9431605476901508/audio/630664082809344.mp4",
+          "creation_timestamp": 1738961620
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738960602210,
+      "content": "ya amigo muchas gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738960587921,
+      "content": "Aprovechare de comprar al lider",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738960582977,
+      "content": "Si si tranqui",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738960453517,
+      "content": "compa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738960415104,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738960394146,
+      "content": "es k vivo lejos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738960371181,
+      "content": "por k ya estoy en camino",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738960364878,
+      "content": "me esperas ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738960352552,
+      "content": "Vale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738960351166,
+      "content": "Shuta estas lejos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738960345409,
+      "content": "por la demora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738960338997,
+      "content": "perdon",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738960335892,
+      "content": "si llego amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738960327532,
+      "content": "toy en los h\u00c3\u00a9roes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738960077415,
+      "content": "En cuanto llegas aprox?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738960070334,
+      "content": "Ya estoy aca",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738959906916,
+      "content": "yo voy a tomar el metro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738959859838,
+      "content": "yap",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738959138317,
+      "content": "Voy saliendo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738959136305,
+      "content": "Dale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738958848302,
+      "content": "voy en camino",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738957663744,
+      "videos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/diegonotebookhp_9431605476901508/videos/1138845347722472.mp4",
+          "creation_timestamp": 1738957650
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738957397783,
+      "content": "estare atento",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738957392933,
+      "content": "yap",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738957312361,
+      "content": "Pago en efectivo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738957308999,
+      "content": "17.30 en metro macul, nos vemos en torniquetes decla salida Departamental",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738957303584,
+      "content": "sip niun problema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738957290953,
+      "content": "Puedes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738957282192,
+      "content": "Si a esa hora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738957267763,
+      "content": "a esa hora ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738957245512,
+      "content": "Le parece 17.30?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738957229141,
+      "content": "ahora mismo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738957226928,
+      "content": "mire le mando video",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738957215288,
+      "content": "A que hora puedes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738957210762,
+      "content": "Vale, y esteticamente algun golpe o algo que no se vea en la foto?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738957198831,
+      "content": "esta impecable",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738957194712,
+      "content": "y no tiene ning\u00c3\u00ban problema de maus teclado nada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738957185852,
+      "content": "Vale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738957182109,
+      "content": "hasta casi la noche",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738957177630,
+      "content": "dura casi todo el dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738957163092,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738957161447,
+      "content": "mira si esta al 100%",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738957159395,
+      "content": "Tiene algun fallo? Camara, teclado, mousepad, puertos, sonido, wifi? Algo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738957141702,
+      "content": "digame",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738957141290,
+      "content": "Cuanto dura la bateria?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738957134373,
+      "content": "Consulta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738957131338,
+      "content": "Si no hay problema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738957126787,
+      "content": "no me atrevo hacerlo yo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738957121006,
+      "content": "pero nada mas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738957114779,
+      "content": "usted lo formatea tiene un par de cosas como foto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738957095962,
+      "content": "yap sip",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738957068398,
+      "content": "Si estimado en metro Macul",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738957051089,
+      "content": "puedes hoy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738957047323,
+      "content": "acepto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiendita Solmar",
+      "timestamp_ms": 1738957042484,
+      "content": "Tiendita acept\u00c3\u00b3 tu oferta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738957022404,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 notebook hp",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebookhp_9431605476901508",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/627109499816795.jpg",
+    "creation_timestamp": 1738957020
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

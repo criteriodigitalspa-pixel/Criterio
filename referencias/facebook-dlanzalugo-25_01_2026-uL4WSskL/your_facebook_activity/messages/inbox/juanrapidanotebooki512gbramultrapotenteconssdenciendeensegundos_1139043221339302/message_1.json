@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Juan Cataleya"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765296122952,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764621351309,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Cataleya",
+      "timestamp_ms": 1764621157662,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Cataleya",
+      "timestamp_ms": 1764621154531,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Cataleya",
+      "timestamp_ms": 1764621153941,
+      "content": "Juan Cataleya",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Cataleya",
+      "timestamp_ms": 1764621151301,
+      "content": "Juan asign\u00c3\u00b3 al grupo el nombre \"Juan \u00c2\u00b7 Rapida Notebook i5 / 12GB RAM Ultra Potente con SSD ENCIENDE EN SEGUNDOS\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Cataleya",
+      "timestamp_ms": 1764621151301,
+      "content": "Juan cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Juan \u00c2\u00b7 Rapida Notebook i5 / 12GB RAM Ultra Potente con SSD ENCIENDE EN SEGUNDOS",
+  "is_still_participant": true,
+  "thread_path": "inbox/juanrapidanotebooki512gbramultrapotenteconssdenciendeensegundos_1139043221339302",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

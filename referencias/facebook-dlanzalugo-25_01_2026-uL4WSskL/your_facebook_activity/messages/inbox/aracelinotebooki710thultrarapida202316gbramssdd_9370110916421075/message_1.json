@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Araceli Salgado"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Araceli Salgado",
+      "timestamp_ms": 1744983901602,
+      "content": "A\u00c3\u00ban disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Araceli Salgado",
+      "timestamp_ms": 1744983898837,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Araceli Salgado",
+      "timestamp_ms": 1744800476097,
+      "content": "Araceli est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Araceli Salgado",
+      "timestamp_ms": 1744759309597,
+      "content": "Araceli te ofreci\u00c3\u00b3 $250.000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Araceli \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "inbox/aracelinotebooki710thultrarapida202316gbramssdd_9370110916421075",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

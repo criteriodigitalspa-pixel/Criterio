@@ -1,0 +1,99 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Usuario de Facebook"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1702763143186,
+      "content": "De sexta amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usuario de Facebook",
+      "timestamp_ms": 1702762928125,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usuario de Facebook",
+      "timestamp_ms": 1702761829794,
+      "content": "Si pero que generaci\u00c3\u00b3n el i5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1702761806446,
+      "content": "Tiene un procedador intel core i5, 8gb de ram, 500gb de espacio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usuario de Facebook",
+      "timestamp_ms": 1702761774564,
+      "content": "Que proce tiene bro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1702761752170,
+      "content": "Hola si sigue disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usuario de Facebook",
+      "timestamp_ms": 1702761264353,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usuario de Facebook",
+      "timestamp_ms": 1702761259977,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usuario de Facebook",
+      "timestamp_ms": 1702761259700,
+      "content": "Usuario de Facebook envi\u00c3\u00b3 un archivo adjunto.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usuario de Facebook",
+      "timestamp_ms": 1702761257845,
+      "content": "Un contacto cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usuario de Facebook",
+      "timestamp_ms": 1702761257305,
+      "content": "Un contacto asign\u00c3\u00b3 al grupo el nombre \"Cspower \u00c2\u00b7 Notebook I5 Pontente y Rapido en Perfectas Condiciones, Corre todo\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cspower \u00c2\u00b7 Notebook I5 Pontente y Rapido en Perfectas Condiciones, Corre todo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/cspowernotebooki5pontenteyrapidoenperfectascondicionescorretodo_6939296809479668",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

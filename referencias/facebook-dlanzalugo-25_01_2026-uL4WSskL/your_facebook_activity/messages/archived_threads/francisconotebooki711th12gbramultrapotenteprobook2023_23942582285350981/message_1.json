@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Francisco Tomas"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753816300277,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1751464002650,
+      "content": "Entrego en mi domicilio en la comuna de la Florida o puedo acercar a  metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1751464001238,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Tomas",
+      "timestamp_ms": 1751453249465,
+      "content": "Francisco est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Tomas",
+      "timestamp_ms": 1751426613345,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Tomas",
+      "timestamp_ms": 1751426605433,
+      "content": "\u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Tomas",
+      "timestamp_ms": 1751426605163,
+      "content": "Francisco inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Francisco \u00c2\u00b7 Notebook i7-11Th / 12GB RAM Ultra Potente / Probook/ 2023",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/francisconotebooki711th12gbramultrapotenteprobook2023_23942582285350981",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

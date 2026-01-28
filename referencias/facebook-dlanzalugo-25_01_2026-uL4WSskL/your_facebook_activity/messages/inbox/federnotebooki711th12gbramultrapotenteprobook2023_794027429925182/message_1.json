@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Feder Sahaj"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Feder Sahaj",
+      "timestamp_ms": 1759589574226,
+      "content": "Feder envi\u00c3\u00b3 un archivo adjunto.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Feder Sahaj",
+      "timestamp_ms": 1759589571806,
+      "content": "Buenas 270mil x ac\u00c3\u00a1 gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Feder Sahaj",
+      "timestamp_ms": 1759589571369,
+      "content": "Feder inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Feder \u00c2\u00b7 Notebook i7-11Th / 12GB RAM Ultra Potente / Probook/ 2023",
+  "is_still_participant": true,
+  "thread_path": "inbox/federnotebooki711th12gbramultrapotenteprobook2023_794027429925182",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

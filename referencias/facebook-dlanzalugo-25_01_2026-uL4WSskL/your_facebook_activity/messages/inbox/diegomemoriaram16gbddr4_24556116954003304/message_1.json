@@ -1,0 +1,382 @@
+{
+  "participants": [
+    {
+      "name": "Alvaro Nu\u00c3\u00b1ez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alvaro Nu\u00c3\u00b1ez",
+      "timestamp_ms": 1703190639726,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alvaro Nu\u00c3\u00b1ez",
+      "timestamp_ms": 1703190638661,
+      "content": "Qu\u00c3\u00a9 bueno",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703190433789,
+      "content": "Compita todo excelente con las ram gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703173705963,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/diegomemoriaram16gbddr4_24556116954003304/photos/1421084612117508.jpg",
+          "creation_timestamp": 1703173704
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alvaro Nu\u00c3\u00b1ez",
+      "timestamp_ms": 1703173275585,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703173267482,
+      "content": "Dale yo estoy a 4 estaciones",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alvaro Nu\u00c3\u00b1ez",
+      "timestamp_ms": 1703173253122,
+      "content": "Ando con jeans y camisa rayada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alvaro Nu\u00c3\u00b1ez",
+      "timestamp_ms": 1703173229377,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/diegomemoriaram16gbddr4_24556116954003304/photos/1332886374092173.jpg",
+          "creation_timestamp": 1703173228
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alvaro Nu\u00c3\u00b1ez",
+      "timestamp_ms": 1703173219046,
+      "content": "Es la salida que dice o los militares o F\u00c3\u00a9lix de amesti",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alvaro Nu\u00c3\u00b1ez",
+      "timestamp_ms": 1703173206184,
+      "content": "Llegue",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alvaro Nu\u00c3\u00b1ez",
+      "timestamp_ms": 1703172079119,
+      "content": "Valee",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703172068707,
+      "content": "Compita*",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703172061103,
+      "content": "Vompita llego en 25 min",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alvaro Nu\u00c3\u00b1ez",
+      "timestamp_ms": 1703167873773,
+      "content": "Oka",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703167830301,
+      "content": "Dale, me vendes las 2",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alvaro Nu\u00c3\u00b1ez",
+      "timestamp_ms": 1703167782838,
+      "content": "En la salida de los militares",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alvaro Nu\u00c3\u00b1ez",
+      "timestamp_ms": 1703167777702,
+      "content": "Bueno",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703167659651,
+      "content": "Para no salir",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703167654194,
+      "content": "Ok ok, oye pero puede ser en el metro?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alvaro Nu\u00c3\u00b1ez",
+      "timestamp_ms": 1703167629426,
+      "content": "Las necesito vender r\u00c3\u00a1pido",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alvaro Nu\u00c3\u00b1ez",
+      "timestamp_ms": 1703167614858,
+      "content": "Las ten\u00c3\u00ada a 30 cada una",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alvaro Nu\u00c3\u00b1ez",
+      "timestamp_ms": 1703167607181,
+      "content": "Pucha no",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703167598335,
+      "content": "Por 2 me haces precio? \u00f0\u009f\u0098\u0081",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alvaro Nu\u00c3\u00b1ez",
+      "timestamp_ms": 1703167542259,
+      "content": "Vas a querer una o dos al final ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alvaro Nu\u00c3\u00b1ez",
+      "timestamp_ms": 1703167073303,
+      "content": "Ojal\u00c3\u00a1 en el omnium si puedes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703167061280,
+      "content": "Oka buena",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alvaro Nu\u00c3\u00b1ez",
+      "timestamp_ms": 1703167054365,
+      "content": "En escuela militar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alvaro Nu\u00c3\u00b1ez",
+      "timestamp_ms": 1703167051261,
+      "content": "Sisi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703167035604,
+      "content": "Amigo, podria tipo 1pm?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alvaro Nu\u00c3\u00b1ez",
+      "timestamp_ms": 1703155983963,
+      "content": "Oka",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703155970089,
+      "content": "Buenisimo, durante la ma\u00c3\u00b1ana te confirmo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alvaro Nu\u00c3\u00b1ez",
+      "timestamp_ms": 1703155554303,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alvaro Nu\u00c3\u00b1ez",
+      "timestamp_ms": 1703155551217,
+      "content": "Jaja si es lo mismo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alvaro Nu\u00c3\u00b1ez",
+      "timestamp_ms": 1703155548963,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/diegomemoriaram16gbddr4_24556116954003304/photos/1357906035097914.jpg",
+          "creation_timestamp": 1703155548
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703155546131,
+      "content": "Ya te confirmo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703155542787,
+      "content": "Si tiene la foto publicada jeje",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703155537032,
+      "content": "Ah no no tranqui",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alvaro Nu\u00c3\u00b1ez",
+      "timestamp_ms": 1703155525167,
+      "content": "Altiro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703155506461,
+      "content": "Y me podria mandar una foto porfa, de la etiqueta para comprobar que me sirva",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alvaro Nu\u00c3\u00b1ez",
+      "timestamp_ms": 1703155491500,
+      "content": "Durante la ma\u00c3\u00b1ana estoy ah\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alvaro Nu\u00c3\u00b1ez",
+      "timestamp_ms": 1703155484227,
+      "content": "Escuela militar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703155472015,
+      "content": "Vale, donde entrega?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alvaro Nu\u00c3\u00b1ez",
+      "timestamp_ms": 1703154550317,
+      "content": "Ntb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alvaro Nu\u00c3\u00b1ez",
+      "timestamp_ms": 1703154546489,
+      "content": "De mtb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alvaro Nu\u00c3\u00b1ez",
+      "timestamp_ms": 1703154544325,
+      "content": "Hola sii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703132880225,
+      "content": "Holaa, son de notebook cierto?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703132877152,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703132876685,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Memoria ram 16gb ddr4\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Memoria ram 16gb ddr4",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegomemoriaram16gbddr4_24556116954003304",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/922431456226012.jpg",
+    "creation_timestamp": 1703132874
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

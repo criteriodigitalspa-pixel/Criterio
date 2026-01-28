@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Bastian Gabriel Bastias"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1746617485654,
+      "content": "Puede venir a verlo a mi domicilio en la comuna de la Florida, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1746617485279,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bastian Gabriel Bastias",
+      "timestamp_ms": 1746587558744,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bastian Gabriel Bastias",
+      "timestamp_ms": 1746587551836,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bastian Gabriel Bastias",
+      "timestamp_ms": 1746587551546,
+      "content": "Bastian inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bastian \u00c2\u00b7 Notebook i7-10Th / 12GB RAM Ultra Potente // a\u00c3\u00b1o 2023",
+  "is_still_participant": true,
+  "thread_path": "inbox/bastiannotebooki710th12gbramultrapotenteano2023_9662082083903217",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

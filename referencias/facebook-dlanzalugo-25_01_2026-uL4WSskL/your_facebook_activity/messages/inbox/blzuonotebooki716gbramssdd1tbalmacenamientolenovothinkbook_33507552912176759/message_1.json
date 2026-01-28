@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Blzuo Zetto"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764538599288,
+      "content": "El precio es el publicado, pero estoy abierto a una oferta razonable, que tenias en mente?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Blzuo Zetto",
+      "timestamp_ms": 1764538473079,
+      "content": "Cual es el \u00c3\u00baltimo precio amigo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763481813442,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Blzuo Zetto",
+      "timestamp_ms": 1763481069342,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Blzuo Zetto",
+      "timestamp_ms": 1763481067140,
+      "content": "\u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Blzuo Zetto",
+      "timestamp_ms": 1763481066966,
+      "content": "Blzuo inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Blzuo \u00c2\u00b7 Notebook i7/16GB RAM / SSDD / 1TB almacenamiento/Lenovo ThinkBook",
+  "is_still_participant": true,
+  "thread_path": "inbox/blzuonotebooki716gbramssdd1tbalmacenamientolenovothinkbook_33507552912176759",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

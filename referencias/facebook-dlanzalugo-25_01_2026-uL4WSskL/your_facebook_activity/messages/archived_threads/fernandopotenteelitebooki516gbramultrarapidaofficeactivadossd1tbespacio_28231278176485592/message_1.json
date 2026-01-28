@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Fernando Rodrigo Ulloa Esparza"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735383653253,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735383651444,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735383648996,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Rodrigo Ulloa Esparza",
+      "timestamp_ms": 1735356597345,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Rodrigo Ulloa Esparza",
+      "timestamp_ms": 1735356593054,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Rodrigo Ulloa Esparza",
+      "timestamp_ms": 1735356592843,
+      "content": "Fernando inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Fernando \u00c2\u00b7 Potente Elitebook i5 16GB Ram Ultra Rapida Office Activado SSD +1TB Espacio",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/fernandopotenteelitebooki516gbramultrarapidaofficeactivadossd1tbespacio_28231278176485592",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

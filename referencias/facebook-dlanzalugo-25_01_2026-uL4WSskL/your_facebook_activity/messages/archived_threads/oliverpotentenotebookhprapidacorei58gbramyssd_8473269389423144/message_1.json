@@ -1,0 +1,120 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Oliver Riquelme"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728955193619,
+      "content": "Le interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliver Riquelme",
+      "timestamp_ms": 1728955170182,
+      "content": "Bueno gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728955035812,
+      "content": "Si claro, puedo acercarlo a cualquier metro o puede verlo en la comuna la florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliver Riquelme",
+      "timestamp_ms": 1728954993842,
+      "content": "Donde se encuentra amigo? Se puede ver ma\u00c3\u00b1ana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728954985580,
+      "content": "Porque esta impecable",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728954981327,
+      "content": "Regaladisimo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728954955129,
+      "content": "100mil lo minimo amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliver Riquelme",
+      "timestamp_ms": 1728954403351,
+      "content": "Me puede indicar el \u00c3\u00baltimo precio algo conversable?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728951967857,
+      "content": "Si amigo disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliver Riquelme",
+      "timestamp_ms": 1728951950256,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliver Riquelme",
+      "timestamp_ms": 1728951946400,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliver Riquelme",
+      "timestamp_ms": 1728951946030,
+      "content": "Oliver Riquelme",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliver Riquelme",
+      "timestamp_ms": 1728951944044,
+      "content": "Oliver asign\u00c3\u00b3 al grupo el nombre \"Oliver \u00c2\u00b7 POTENTE NOTEBOOK HP RAPIDA CORE I5 8GB RAM Y SSD\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oliver Riquelme",
+      "timestamp_ms": 1728951944044,
+      "content": "Oliver cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Oliver \u00c2\u00b7 POTENTE NOTEBOOK HP RAPIDA CORE I5 8GB RAM Y SSD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/oliverpotentenotebookhprapidacorei58gbramyssd_8473269389423144",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Lorena Valeska Saravia Carroza"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703363614072,
+      "content": "Hola si sigue disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lorena Valeska Saravia Carroza",
+      "timestamp_ms": 1703358074213,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lorena Valeska Saravia Carroza",
+      "timestamp_ms": 1703358074212,
+      "content": "Lorena Valeska Saravia Carroza",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lorena Valeska Saravia Carroza",
+      "timestamp_ms": 1703358072276,
+      "content": "Lorena Valeska asign\u00c3\u00b3 al grupo el nombre \"Lorena Valeska \u00c2\u00b7 Notebook Core i5, 12GB Ram Muy potente y rapido, thinkpad\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lorena Valeska Saravia Carroza",
+      "timestamp_ms": 1703358072276,
+      "content": "Lorena Valeska cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lorena Valeska Saravia Carroza",
+      "timestamp_ms": 1703358072276,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lorena Valeska \u00c2\u00b7 Notebook Core i5, 12GB Ram Muy potente y rapido, thinkpad",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/lorenavaleskanotebookcorei512gbrammuypotenteyrapidothinkpad_6963096987113486",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

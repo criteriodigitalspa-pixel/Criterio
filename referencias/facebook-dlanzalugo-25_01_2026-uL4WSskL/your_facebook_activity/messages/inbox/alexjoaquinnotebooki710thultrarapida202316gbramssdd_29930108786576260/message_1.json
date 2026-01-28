@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Alex Joaqu\u00c3\u00adn Aquino Coro"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1745345679381,
+      "content": "Hola, s\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Joaqu\u00c3\u00adn Aquino Coro",
+      "timestamp_ms": 1745345626017,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Joaqu\u00c3\u00adn Aquino Coro",
+      "timestamp_ms": 1745345621497,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Joaqu\u00c3\u00adn Aquino Coro",
+      "timestamp_ms": 1745345621240,
+      "content": "Alex Joaqu\u00c3\u00adn inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Alex Joaqu\u00c3\u00adn \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "inbox/alexjoaquinnotebooki710thultrarapida202316gbramssdd_29930108786576260",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

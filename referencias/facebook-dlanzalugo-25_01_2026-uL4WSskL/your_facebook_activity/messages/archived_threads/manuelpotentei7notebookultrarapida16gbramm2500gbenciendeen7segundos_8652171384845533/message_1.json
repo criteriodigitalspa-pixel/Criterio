@@ -1,0 +1,116 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Manuel Rozas"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730561271454,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730516242367,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/manuelpotentei7notebookultrarapida16gbramm2500gbenciendeen7segundos_8652171384845533/photos/1093541885889164.jpg",
+          "creation_timestamp": 1730516241
+        },
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/manuelpotentei7notebookultrarapida16gbramm2500gbenciendeen7segundos_8652171384845533/photos/1251442409331786.jpg",
+          "creation_timestamp": 1730516241
+        },
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/manuelpotentei7notebookultrarapida16gbramm2500gbenciendeen7segundos_8652171384845533/photos/1071556754378643.jpg",
+          "creation_timestamp": 1730516241
+        },
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/manuelpotentei7notebookultrarapida16gbramm2500gbenciendeen7segundos_8652171384845533/photos/1230488598229732.jpg",
+          "creation_timestamp": 1730516241
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730490454336,
+      "content": "Le interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730442369784,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730442367235,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro, puede revisarlo y probarlo con calma, sin compromiso. Solo si le gusta se lo lleva",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730441299428,
+      "content": "Hola, si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Rozas",
+      "timestamp_ms": 1730441044818,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Rozas",
+      "timestamp_ms": 1730441040114,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Rozas",
+      "timestamp_ms": 1730441039765,
+      "content": "Manuel Rozas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Rozas",
+      "timestamp_ms": 1730441037392,
+      "content": "Manuel asign\u00c3\u00b3 al grupo el nombre \"Manuel \u00c2\u00b7 Potente i7 Notebook Ultra Rapida 16GB RAM M.2-500GB ENCIENDE EN 7 SEGUNDOS!\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Rozas",
+      "timestamp_ms": 1730441037392,
+      "content": "Manuel cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Manuel \u00c2\u00b7 Potente i7 Notebook Ultra Rapida 16GB RAM M.2-500GB ENCIENDE EN 7 SEGUNDOS!",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/manuelpotentei7notebookultrarapida16gbramm2500gbenciendeen7segundos_8652171384845533",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

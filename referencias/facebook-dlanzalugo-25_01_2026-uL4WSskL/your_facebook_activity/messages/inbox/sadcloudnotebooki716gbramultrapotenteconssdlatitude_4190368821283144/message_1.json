@@ -1,0 +1,120 @@
+{
+  "participants": [
+    {
+      "name": "Sad Cloud St"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757853472010,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sad Cloud St",
+      "timestamp_ms": 1756870295736,
+      "content": "923859993",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756870280033,
+      "content": "Perfecto dejame tu numero para estar en contacto ma\u00c3\u00b1ana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sad Cloud St",
+      "timestamp_ms": 1756870206528,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sad Cloud St",
+      "timestamp_ms": 1756870203374,
+      "content": "5 de la tarde podria ser?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756869931455,
+      "content": "Si claro, en que horario puedes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sad Cloud St",
+      "timestamp_ms": 1756869818265,
+      "content": "Podriamos coordinar para ma\u00c3\u00b1ana?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sad Cloud St",
+      "timestamp_ms": 1756869806480,
+      "content": "Me acomoda",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756869774017,
+      "content": "Estoy en La Florida. Te acomoda la comuna o preferir\u00c3\u00adas que coordinemos en otro punto a convenir?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sad Cloud St",
+      "timestamp_ms": 1756869741612,
+      "content": "Hola, donde entrega",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756869663941,
+      "content": "Hola si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sad Cloud St",
+      "timestamp_ms": 1756869536390,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sad Cloud St",
+      "timestamp_ms": 1756869534597,
+      "content": "\u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sad Cloud St",
+      "timestamp_ms": 1756869534270,
+      "content": "Sad Cloud inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sad Cloud \u00c2\u00b7 Notebook i7 / 16GB RAM Ultra Potente con SSD Latitude",
+  "is_still_participant": true,
+  "thread_path": "inbox/sadcloudnotebooki716gbramultrapotenteconssdlatitude_4190368821283144",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

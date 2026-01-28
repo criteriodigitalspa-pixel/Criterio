@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Juan Carlos Gomez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1747253431507,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Carlos Gomez",
+      "timestamp_ms": 1747179423249,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Carlos Gomez",
+      "timestamp_ms": 1747179417655,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Carlos Gomez",
+      "timestamp_ms": 1747179417395,
+      "content": "Juan Carlos inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Juan Carlos \u00c2\u00b7 Notebook i7 / 16GB RAM Ultra Potente con SSD / A\u00c3\u00b1o 2023",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/juancarlosnotebooki716gbramultrapotenteconssdano2023_30666831079582743",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

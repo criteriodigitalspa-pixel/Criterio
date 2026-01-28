@@ -1,0 +1,295 @@
+{
+  "participants": [
+    {
+      "name": "Jonathan Pinto"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jonathan Pinto",
+      "timestamp_ms": 1703375351238,
+      "content": "Oka, ando con una polera negra con monos rosados, ando con mi hija",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703375344258,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/jonathannotebookrapidoypotentecorei58gbramlenovo_24480044418276742/photos/2593288744187020.jpg",
+          "creation_timestamp": 1703375342
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703375278547,
+      "content": "Voy entrando, voy de beige, con gorra negra y lentes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703375267318,
+      "content": "Estoy en estacionamiento",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Pinto",
+      "timestamp_ms": 1703374991385,
+      "content": "Esta abierto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703374981494,
+      "content": "O se puede ingresar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703374977560,
+      "content": "Vale, esta cerrado el super?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Pinto",
+      "timestamp_ms": 1703374786617,
+      "content": "Estoy en la entrada del super",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703374757993,
+      "content": "Donde te veo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703374755372,
+      "content": "Voy llegando",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Pinto",
+      "timestamp_ms": 1703374007017,
+      "content": "Okales, salgo en cinco",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703373858929,
+      "content": "Sii estoy a 10 min",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Pinto",
+      "timestamp_ms": 1703373468276,
+      "content": "Okas, en el supermercado lider de departamental con Vespucio cierto?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703373095459,
+      "content": "Amigo ya estoy de camino",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703369512322,
+      "content": "Si claroo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Pinto",
+      "timestamp_ms": 1703369446887,
+      "content": "Me voy a ir como las nueve, podr\u00c3\u00a1s antes de esa hora?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Pinto",
+      "timestamp_ms": 1703369426895,
+      "content": "Oka, no hay problema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703369414595,
+      "content": "Te aviso apenas pueda",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703369402559,
+      "content": "Jonathan shuta recien va terminando el cumplea\u00c3\u00b1os jaja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Pinto",
+      "timestamp_ms": 1703366344548,
+      "content": "Me avisa si puede \u00f0\u009f\u00a5\u00b9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Pinto",
+      "timestamp_ms": 1703353146121,
+      "content": "Super, me avisas la hora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703352847459,
+      "content": "Perfecto me parece",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Pinto",
+      "timestamp_ms": 1703351469775,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/jonathannotebookrapidoypotentecorei58gbramlenovo_24480044418276742/audio/1499280534247014.mp4",
+          "creation_timestamp": 1703351465
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703351358716,
+      "content": "Si no, despues de esa hora podemos acordar en un mall de aca de la florida como prefieras",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703351332279,
+      "content": "Alli estare hasta las 17:30, que estare en un cumplea\u00c3\u00b1os de mi sobrino, pero puedes ir y la pruebas con calma igual",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703351305186,
+      "content": "Parque deportivo Araucana Walker Martinez, entrada por Geronimo de Aldarete - La florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703351130277,
+      "content": "Dame un seg y te doy la direccion",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Pinto",
+      "timestamp_ms": 1703350011274,
+      "content": "Amigo, me dice d\u00c3\u00b3nde?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Pinto",
+      "timestamp_ms": 1703347103043,
+      "content": "Si voy, salgo en un ratillo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703346886700,
+      "content": "Si claro, confirmeme no mas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Pinto",
+      "timestamp_ms": 1703346748656,
+      "content": "Ya amigo, pero de verdad? \nVoy desde Buin",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703346664955,
+      "content": "Amigo si la viene a buscar hoy te la acepto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Pinto",
+      "timestamp_ms": 1703345187313,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Pinto",
+      "timestamp_ms": 1703345183815,
+      "content": "Hola amigo, acepta 90? \u00f0\u009f\u00a5\u00ba\u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Pinto",
+      "timestamp_ms": 1703345183441,
+      "content": "Jonathan Pinto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Pinto",
+      "timestamp_ms": 1703345182044,
+      "content": "Jonathan cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Pinto",
+      "timestamp_ms": 1703345181679,
+      "content": "Jonathan asign\u00c3\u00b3 al grupo el nombre \"Jonathan \u00c2\u00b7 Notebook Rapido y Potente Core I5 8GB RAM Lenovo\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jonathan \u00c2\u00b7 Notebook Rapido y Potente Core I5 8GB RAM Lenovo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/jonathannotebookrapidoypotentecorei58gbramlenovo_24480044418276742",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/3503362476660664.jpg",
+    "creation_timestamp": 1703345179
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Abraham Francisco"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732278900654,
+      "content": "Le intereso el equipo? Quisiera coorinar o tiene alguna duda?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732203826839,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732154571058,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732154296658,
+      "content": "Hola Si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Abraham Francisco",
+      "timestamp_ms": 1732153294904,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Abraham Francisco",
+      "timestamp_ms": 1732153291517,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Abraham Francisco",
+      "timestamp_ms": 1732153291318,
+      "content": "Abraham inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Abraham \u00c2\u00b7 Notebook Ultra Rapida Dell i5 con 16GB RAM Muy Potente Con M2 256GB ENCIENDE EN 7 SEGUNDOS!",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/abrahamnotebookultrarapidadelli5con16gbrammuypotenteconm2256gbenciendeen7segundos_7836101726493436",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

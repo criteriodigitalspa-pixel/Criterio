@@ -1,0 +1,85 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Clau Crochet"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731547645141,
+      "content": "Le interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731538419213,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731538387034,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731538328077,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Clau Crochet",
+      "timestamp_ms": 1731537713019,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Clau Crochet",
+      "timestamp_ms": 1731537711363,
+      "content": "Buenas noches. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Clau Crochet",
+      "timestamp_ms": 1731537710962,
+      "content": "Clau Crochet",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Clau Crochet",
+      "timestamp_ms": 1731537707971,
+      "content": "Clau asign\u00c3\u00b3 al grupo el nombre \"Clau \u00c2\u00b7 Potente Notebook Ultra Rapida i5 16GB RAM  Enciende en 6 Segundos, con 700GB SSD\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Clau Crochet",
+      "timestamp_ms": 1731537707971,
+      "content": "Clau cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Clau \u00c2\u00b7 Potente Notebook Ultra Rapida i5 16GB RAM  Enciende en 6 Segundos, con 700GB SSD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/claupotentenotebookultrarapidai516gbramenciendeen6segundoscon700gbssd_8610837105701143",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

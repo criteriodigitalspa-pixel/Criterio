@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Patricio Alejandro Robert Munizaga"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764440420401,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764330617241,
+      "content": "150mil y es tuyo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764261893999,
+      "content": "Rechazaste la oferta de Patricio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Alejandro Robert Munizaga",
+      "timestamp_ms": 1764261065140,
+      "content": "Patricio te ofreci\u00c3\u00b3 $120.000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Patricio \u00c2\u00b7 Notebook i5 16GB RAM Ultra Potente con SSD PROBOOK",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/patricionotebooki516gbramultrapotenteconssdprobook_859800973272125",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

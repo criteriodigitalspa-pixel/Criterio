@@ -1,0 +1,132 @@
+{
+  "participants": [
+    {
+      "name": "Jaime Morales Rios"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jaime Morales Rios",
+      "timestamp_ms": 1749060070300,
+      "content": "A qu\u00c3\u00a9 hora puedo ir",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jaime Morales Rios",
+      "timestamp_ms": 1749060061247,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jaime Morales Rios",
+      "timestamp_ms": 1749060057781,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1749043493153,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jaime Morales Rios",
+      "timestamp_ms": 1748994135155,
+      "content": "Gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1748994114690,
+      "content": "Vale estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1748994111829,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jaime Morales Rios",
+      "timestamp_ms": 1748993824038,
+      "content": "A qu\u00c3\u00a9 hora puedo ir",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jaime Morales Rios",
+      "timestamp_ms": 1748993803398,
+      "content": "Mira te confirmo ma\u00c3\u00b1ana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jaime Morales Rios",
+      "timestamp_ms": 1748993793857,
+      "content": "Ya",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1748993777743,
+      "content": "Puede venir a verlo a mi domicilio en la comuna de la Florida, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1748993777396,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jaime Morales Rios",
+      "timestamp_ms": 1748992911781,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jaime Morales Rios",
+      "timestamp_ms": 1748992906183,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jaime Morales Rios",
+      "timestamp_ms": 1748992905768,
+      "content": "Jaime inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jaime \u00c2\u00b7 Notebook Ultra Rapida Dell i5 con 16GB RAM Muy Potente Con M2 256GB ENCIENDE EN 7 SEGUNDOS!",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/jaimenotebookultrarapidadelli5con16gbrammuypotenteconm2256gbenciendeen7segundos_24014910474809130",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

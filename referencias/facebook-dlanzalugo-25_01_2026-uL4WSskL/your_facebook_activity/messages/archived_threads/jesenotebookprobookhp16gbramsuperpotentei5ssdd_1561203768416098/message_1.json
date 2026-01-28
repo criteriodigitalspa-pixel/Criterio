@@ -1,0 +1,90 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Jese Allendes"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767890868980,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jese Allendes",
+      "timestamp_ms": 1767890842496,
+      "content": "Muchas gracias amigo, necesito un poco de tiempo,te hablo cualquier cosa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767890761614,
+      "content": "Todos los puertos, pantalla, Teclas, sonido, wifi, todo funcionando perfecto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767890760060,
+      "content": "Hola, buenas. Si te quedo alguna duda o no estas seguro si el equipo te sirve para lo que buscas dime nomas y te ayudo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767868681694,
+      "content": "2 a 3 horas de uso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767868673065,
+      "content": "Holaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jese Allendes",
+      "timestamp_ms": 1767847339412,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jese Allendes",
+      "timestamp_ms": 1767847335025,
+      "content": "Hola amigo consulta....como anda de bater\u00c3\u00ada??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jese Allendes",
+      "timestamp_ms": 1767847334622,
+      "content": "Jese inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jese \u00c2\u00b7 Notebook Probook HP 16GB RAM Super Potente/ I5 / SSDD /",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/jesenotebookprobookhp16gbramsuperpotentei5ssdd_1561203768416098",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

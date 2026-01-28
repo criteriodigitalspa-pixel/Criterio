@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Triellage Vnts"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754744576127,
+      "content": "El equipo nunca fallo, mouse, pantalla, sonido, wifi, etc, funcionando impecable",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Triellage Vnts",
+      "timestamp_ms": 1754744330906,
+      "content": "Detalles?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754724546449,
+      "content": "El equipo esta listo para usar.\nPuede probarlo y revisar con calma.\nEntrego en Mi domicilio en la comuna de La Florida o lugar a convenir.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754724544693,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Triellage Vnts",
+      "timestamp_ms": 1754717406351,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Triellage Vnts",
+      "timestamp_ms": 1754717402480,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Triellage Vnts",
+      "timestamp_ms": 1754717402197,
+      "content": "Triellage inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Triellage \u00c2\u00b7 Notebook i5 16GB RAM Ultra Potente con SSD PROBOOK",
+  "is_still_participant": true,
+  "thread_path": "inbox/triellagenotebooki516gbramultrapotenteconssdprobook_24467101116219337",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

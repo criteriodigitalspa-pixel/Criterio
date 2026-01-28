@@ -1,0 +1,125 @@
+{
+  "participants": [
+    {
+      "name": "DjFernandez Chil"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1761068162724,
+      "content": "Cuentame quisieras probar el notebook?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1761068153118,
+      "content": "Hola estimado buenas tardes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1760959281109,
+      "content": "Jajajaja me imagino, yo este modelo te lo recomiendo 100% y no deberias tener problemas varios a\u00c3\u00b1os",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "DjFernandez Chil",
+      "timestamp_ms": 1760958562365,
+      "content": "Genial!\n\nLo que pasa que yo fui a un evento el s\u00c3\u00a1bado y se me pegaba el programa de mezclas por que se actualiz\u00c3\u00b3 la \u00c3\u00baltima versi\u00c3\u00b3n y qued\u00c3\u00a9 corto... La gente bailando no not\u00c3\u00b3 nada por que jam\u00c3\u00a1s se peg\u00c3\u00b3 la m\u00c3\u00basica pero si se pegaba el pc al cargar los temas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1760958482812,
+      "content": "Menos lo de gpu, pero el gpu para programas de dj no sera tan necesario porque este tiene un procesador i7 que suple esa potencia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1760958434430,
+      "content": "Hola, si claro para programas de dj tendras de sobra. Y con respecto a la imagen cumple con todo de sobra",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "DjFernandez Chil",
+      "timestamp_ms": 1760958320654,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/djfernandeznotebooki710thultrarapida202316gbramssdd_657635433867962/photos/1486967136767041.jpg",
+          "creation_timestamp": 1760958320
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "DjFernandez Chil",
+      "timestamp_ms": 1760958316861,
+      "content": "Ud sabe de conpitador es?\n\nEs que yo no s\u00c3\u00a9 mucho y lo \u00c3\u00banico que s\u00c3\u00a9 es que mi pc qued\u00c3\u00b3 peque\u00c3\u00b1o.\n\nYo soy DJ y ando en busca de un computador que supere esto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1760957854891,
+      "content": "Estoy en La Florida. Te acomoda la comuna o preferir\u00c3\u00adas que coordinemos en otro punto a convenir?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1760957852127,
+      "content": "Hola. S\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para que lo pruebes con toda la calma del mundo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "DjFernandez Chil",
+      "timestamp_ms": 1760956512808,
+      "content": "DjFernandez est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "DjFernandez Chil",
+      "timestamp_ms": 1760933420255,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "DjFernandez Chil",
+      "timestamp_ms": 1760933418844,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "DjFernandez Chil",
+      "timestamp_ms": 1760933418600,
+      "content": "DjFernandez inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "DjFernandez \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "inbox/djfernandeznotebooki710thultrarapida202316gbramssdd_657635433867962",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

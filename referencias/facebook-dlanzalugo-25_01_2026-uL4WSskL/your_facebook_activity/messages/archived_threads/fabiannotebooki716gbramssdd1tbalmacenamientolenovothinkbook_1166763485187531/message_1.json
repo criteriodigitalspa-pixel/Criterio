@@ -1,0 +1,85 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Fabian Aranda"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767184687441,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabian Aranda",
+      "timestamp_ms": 1766253890961,
+      "content": "Que a\u00c3\u00b1o es",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabian Aranda",
+      "timestamp_ms": 1766253876673,
+      "content": "Es tactil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766243230265,
+      "content": "440mil amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabian Aranda",
+      "timestamp_ms": 1766242709134,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabian Aranda",
+      "timestamp_ms": 1766242705490,
+      "content": "Valor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabian Aranda",
+      "timestamp_ms": 1766242705164,
+      "content": "Fabian Aranda",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabian Aranda",
+      "timestamp_ms": 1766242703621,
+      "content": "Fabian asign\u00c3\u00b3 al grupo el nombre \"Fabian \u00c2\u00b7 Notebook i7/16GB RAM / SSDD / 1TB almacenamiento/Lenovo ThinkBook\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabian Aranda",
+      "timestamp_ms": 1766242703621,
+      "content": "Fabian cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Fabian \u00c2\u00b7 Notebook i7/16GB RAM / SSDD / 1TB almacenamiento/Lenovo ThinkBook",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/fabiannotebooki716gbramssdd1tbalmacenamientolenovothinkbook_1166763485187531",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Fabiola Rivera Addona"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737307217688,
+      "content": "Enviaste un archivo adjunto.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Fabiola Rivera Addona",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/fabiolariveraaddona_1164587016945026",
+  "magic_words": [
+    
+  ]
+}

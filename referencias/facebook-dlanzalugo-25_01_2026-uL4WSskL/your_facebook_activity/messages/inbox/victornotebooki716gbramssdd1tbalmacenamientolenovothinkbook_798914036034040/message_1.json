@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Victor Mamani Ch"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763463648166,
+      "content": "2 a\u00c3\u00b1os amigo, esta impecable",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763463631673,
+      "content": "Holaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Mamani Ch",
+      "timestamp_ms": 1763457529178,
+      "content": "Victor est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Mamani Ch",
+      "timestamp_ms": 1763435744819,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Mamani Ch",
+      "timestamp_ms": 1763435741267,
+      "content": "Cuanto tiempo de uso tiene?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Mamani Ch",
+      "timestamp_ms": 1763435741036,
+      "content": "Victor inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Victor \u00c2\u00b7 Notebook i7/16GB RAM / SSDD / 1TB almacenamiento/Lenovo ThinkBook",
+  "is_still_participant": true,
+  "thread_path": "inbox/victornotebooki716gbramssdd1tbalmacenamientolenovothinkbook_798914036034040",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

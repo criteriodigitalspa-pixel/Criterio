@@ -1,0 +1,329 @@
+{
+  "participants": [
+    {
+      "name": "Ra\u00c3\u00bal Tobar Troncoso"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ra\u00c3\u00bal Tobar Troncoso",
+      "timestamp_ms": 1741882444525,
+      "content": "Vale. Yo estoy en la universidad.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ra\u00c3\u00bal Tobar Troncoso",
+      "timestamp_ms": 1741882431127,
+      "content": "Pero no me registra tu numero.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ra\u00c3\u00bal Tobar Troncoso",
+      "timestamp_ms": 1741882420225,
+      "content": "Te escrib\u00c3\u00ad al wsp.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741882412466,
+      "content": "Buenas tardes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741882410197,
+      "content": "Amigo voy de camino",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ra\u00c3\u00bal Tobar Troncoso",
+      "timestamp_ms": 1741882409397,
+      "content": "Buenas Diego.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741832638776,
+      "content": "994919000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741832633892,
+      "content": "Te dejo mi wsp",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ra\u00c3\u00bal Tobar Troncoso",
+      "timestamp_ms": 1741828031116,
+      "content": "Me queda perfecto. Salgo a colaci\u00c3\u00b3n a esa hora.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Diego Lanza"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741826076816,
+      "content": "Puedes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741826072420,
+      "content": "Consulta, ma\u00c3\u00b1ana pedi permiso, me lo dieron a las 14.00",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741822750158,
+      "content": "Graax",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ra\u00c3\u00bal Tobar Troncoso",
+      "timestamp_ms": 1741822744183,
+      "content": "Es para ma\u00c3\u00b1ana no m\u00c3\u00a1s",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ra\u00c3\u00bal Tobar Troncoso",
+      "timestamp_ms": 1741822732414,
+      "content": "Si no te preocupes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ra\u00c3\u00bal Tobar Troncoso",
+      "timestamp_ms": 1741822698770,
+      "content": "Ufff compa. Yo juraba que hab\u00c3\u00adamos acordado para ma\u00c3\u00b1ana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741817554823,
+      "content": "Pasa que shuta pense iba a salir pero sabes que se me esta complicando la pega",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741817540288,
+      "content": "Amigo podria ser ma\u00c3\u00b1ana?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741817406613,
+      "content": "Yo creo llego 20.30 hr",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741817401067,
+      "content": "Y voy para alla",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741817398544,
+      "content": "Amigo salgo en 30 min",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ra\u00c3\u00bal Tobar Troncoso",
+      "timestamp_ms": 1741810318265,
+      "content": "Ah perfecto. Muchas gracias.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ra\u00c3\u00bal Tobar Troncoso",
+      "timestamp_ms": 1741804191266,
+      "content": "Super. Me parece.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741804173194,
+      "content": "Para tratar de hacerlo antes de la noche",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741804161416,
+      "content": "Ya buenisimo, dejame ver si pido permiso y voy mas temprano",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ra\u00c3\u00bal Tobar Troncoso",
+      "timestamp_ms": 1741803722772,
+      "content": "Osea. Pudiendo tu llegar a la estaci\u00c3\u00b3n yo te puedo ir a ver a la misma a la hora que quieras dentro de todo ese rango del d\u00c3\u00ada.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741803624766,
+      "content": "Me decias sales de la pega a las 9, yo salgo como a las 8, te parece si quedamos a las 9 en ese metro?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741803599344,
+      "content": "Sin problemas alli lo pruebas todo esta impecable",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ra\u00c3\u00bal Tobar Troncoso",
+      "timestamp_ms": 1741803561401,
+      "content": "Mas que nada que est\u00c3\u00a9 operativo no m\u00c3\u00a1s. Poder conectarme a una red Wifi, que el cargador este funcional y ese tipo de cositas del notebook.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741803528943,
+      "content": "Pasa que puedo en la tarde noche, y salir del metro me da un poco de inseguridad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741803504346,
+      "content": "Necesites*",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741803498303,
+      "content": "Sii osea la idea es pruebes todo lo que mecesites",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ra\u00c3\u00bal Tobar Troncoso",
+      "timestamp_ms": 1741803427853,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ra\u00c3\u00bal Tobar Troncoso",
+      "timestamp_ms": 1741803426141,
+      "content": "Osea, s\u00c3\u00ad se puede probar en la estaci\u00c3\u00b3n, tanto mejor.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741803382068,
+      "content": "Podria ser en el mismo metro los heroes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ra\u00c3\u00bal Tobar Troncoso",
+      "timestamp_ms": 1741802928998,
+      "content": "Podr\u00c3\u00adamos probarlo aqu\u00c3\u00ad tambi\u00c3\u00a9n s\u00c3\u00ad te parece.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ra\u00c3\u00bal Tobar Troncoso",
+      "timestamp_ms": 1741802917786,
+      "content": "Yo trabajo en la universidad que est\u00c3\u00a1 a la salida de Los H\u00c3\u00a9roes.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741799249109,
+      "content": "Vale, si gusta podria ser ma\u00c3\u00b1ana en la ma\u00c3\u00b1ana, o si viajas en metro en la noche podriamos encontrarnos en algun punto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ra\u00c3\u00bal Tobar Troncoso",
+      "timestamp_ms": 1741799207980,
+      "content": "Perfecto. Solo me complica el hecho de trabajar de lunes a viernes de 13:00 a 21:00.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741799056885,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme al metro, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741799056473,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ra\u00c3\u00bal Tobar Troncoso",
+      "timestamp_ms": 1741798934036,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ra\u00c3\u00bal Tobar Troncoso",
+      "timestamp_ms": 1741798927638,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ra\u00c3\u00bal Tobar Troncoso",
+      "timestamp_ms": 1741798927271,
+      "content": "Ra\u00c3\u00bal inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ra\u00c3\u00bal \u00c2\u00b7 Notebook i5-10Th / 12GB RAM Ultra Potente/ 2023",
+  "is_still_participant": true,
+  "thread_path": "inbox/raulnotebooki510th12gbramultrapotente2023_9383520921763501",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

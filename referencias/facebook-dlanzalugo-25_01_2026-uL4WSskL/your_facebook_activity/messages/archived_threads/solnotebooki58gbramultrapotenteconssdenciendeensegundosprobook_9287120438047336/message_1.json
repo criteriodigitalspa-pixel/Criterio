@@ -1,0 +1,343 @@
+{
+  "participants": [
+    {
+      "name": "Sol Aguilera"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sol Aguilera",
+      "timestamp_ms": 1742403791521,
+      "content": "Dame un segundo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sol Aguilera",
+      "timestamp_ms": 1742403787177,
+      "content": "Oka",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742403766140,
+      "videos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/solnotebooki58gbramultrapotenteconssdenciendeensegundosprobook_9287120438047336/videos/1607447379973840.mp4",
+          "creation_timestamp": 1742403759
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742403763918,
+      "content": "Estoy aca",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742403686622,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sol Aguilera",
+      "timestamp_ms": 1741191028666,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/solnotebooki58gbramultrapotenteconssdenciendeensegundosprobook_9287120438047336/audio/1822748181872716.mp4",
+          "creation_timestamp": 1741191027
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741190862007,
+      "content": "Voy para alla",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741190860173,
+      "content": "Nos vemos en el cambio de anden de arriba",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741190847134,
+      "content": "Okaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sol Aguilera",
+      "timestamp_ms": 1741190602513,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/solnotebooki58gbramultrapotenteconssdenciendeensegundosprobook_9287120438047336/audio/1320257539018782.mp4",
+          "creation_timestamp": 1741190600
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741190589862,
+      "content": "Vale en cuanto tiempo llega?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741190585348,
+      "content": "Holaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sol Aguilera",
+      "timestamp_ms": 1741190517534,
+      "content": "+56 9 5091 6903",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sol Aguilera",
+      "timestamp_ms": 1741190459938,
+      "content": "Porfa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sol Aguilera",
+      "timestamp_ms": 1741190458159,
+      "content": "Me avisas a que hora podr\u00c3\u00adas estar ah\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sol Aguilera",
+      "timestamp_ms": 1741190415794,
+      "content": "Voy camino a Vicente valdez",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sol Aguilera",
+      "timestamp_ms": 1741190404130,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sol Aguilera",
+      "timestamp_ms": 1741179125565,
+      "content": "Te aviso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sol Aguilera",
+      "timestamp_ms": 1741179113980,
+      "content": "Ya",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741179083080,
+      "content": "Me avisas cuando estes de camino no nas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741179057635,
+      "content": "Si transferencia esta bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sol Aguilera",
+      "timestamp_ms": 1741178491941,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/solnotebooki58gbramultrapotenteconssdenciendeensegundosprobook_9287120438047336/audio/637979339168246.mp4",
+          "creation_timestamp": 1741178490
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sol Aguilera",
+      "timestamp_ms": 1741178449329,
+      "content": "Ya",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741178448338,
+      "content": "Si puedes ahora puedo igual",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741178438833,
+      "content": "Si claro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sol Aguilera",
+      "timestamp_ms": 1741178228117,
+      "content": "O a que hora tu puedes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sol Aguilera",
+      "timestamp_ms": 1741178217500,
+      "content": "No se si tu podr\u00c3\u00adas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sol Aguilera",
+      "timestamp_ms": 1741178211377,
+      "content": "Estar\u00c3\u00a9 en en centro m\u00c3\u00a1s menos hasta las 1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sol Aguilera",
+      "timestamp_ms": 1741178200513,
+      "content": "Se envi\u00c3\u00b3 tu calificaci\u00c3\u00b3n",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sol Aguilera",
+      "timestamp_ms": 1741178199150,
+      "content": "Mira yo tengo que ir ahora al centro a hacer un tramite",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741178156348,
+      "content": "Que hora?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741178154475,
+      "content": "Si claro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sol Aguilera",
+      "timestamp_ms": 1741178131663,
+      "content": "Hoy podr\u00c3\u00adas??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741178092247,
+      "content": "O Vicente Valdes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741178089467,
+      "content": "Estacion metro Macul",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sol Aguilera",
+      "timestamp_ms": 1741177766300,
+      "content": "En que estaci\u00c3\u00b3n ser\u00c3\u00ada?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sol Aguilera",
+      "timestamp_ms": 1741177758631,
+      "content": "Oka",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741177727010,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741177726652,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741177726189,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sol Aguilera",
+      "timestamp_ms": 1741177607787,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sol Aguilera",
+      "timestamp_ms": 1741177602073,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sol Aguilera",
+      "timestamp_ms": 1741177601894,
+      "content": "Sol inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sol \u00c2\u00b7 Notebook i5 8GB RAM Ultra Potente con SSD ENCIENDE EN SEGUNDOS\n PROBOOK",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/solnotebooki58gbramultrapotenteconssdenciendeensegundosprobook_9287120438047336",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

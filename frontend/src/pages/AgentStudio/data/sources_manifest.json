@@ -1,0 +1,1922 @@
+{
+  "generatedAt": "2026-01-26T20:04:59.576Z",
+  "sources": [
+    {
+      "id": "chat_clean_2023.json",
+      "name": "chat_clean_2023.json",
+      "type": "processed_json",
+      "size": 13313789,
+      "sizeLabel": "12.7 MB",
+      "lastModified": "2026-01-24T18:36:03.590Z",
+      "status": "ready"
+    },
+    {
+      "id": "chat_clean_2024.json",
+      "name": "chat_clean_2024.json",
+      "type": "processed_json",
+      "size": 13016506,
+      "sizeLabel": "12.41 MB",
+      "lastModified": "2026-01-24T18:36:03.801Z",
+      "status": "ready"
+    },
+    {
+      "id": "chat_clean_2022.json",
+      "name": "chat_clean_2022.json",
+      "type": "processed_json",
+      "size": 7926939,
+      "sizeLabel": "7.56 MB",
+      "lastModified": "2026-01-24T18:36:03.368Z",
+      "status": "ready"
+    },
+    {
+      "id": "chat_clean_2025.json",
+      "name": "chat_clean_2025.json",
+      "type": "processed_json",
+      "size": 7900879,
+      "sizeLabel": "7.53 MB",
+      "lastModified": "2026-01-24T18:36:03.922Z",
+      "status": "ready"
+    },
+    {
+      "id": "chat_clean_2021.json",
+      "name": "chat_clean_2021.json",
+      "type": "processed_json",
+      "size": 5385063,
+      "sizeLabel": "5.14 MB",
+      "lastModified": "2026-01-24T18:36:03.242Z",
+      "status": "ready"
+    },
+    {
+      "id": "chat_clean_2019.json",
+      "name": "chat_clean_2019.json",
+      "type": "processed_json",
+      "size": 4403830,
+      "sizeLabel": "4.2 MB",
+      "lastModified": "2026-01-24T18:36:03.095Z",
+      "status": "ready"
+    },
+    {
+      "id": "chat_clean_2020.json",
+      "name": "chat_clean_2020.json",
+      "type": "processed_json",
+      "size": 2892284,
+      "sizeLabel": "2.76 MB",
+      "lastModified": "2026-01-24T18:36:03.148Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Fabi",
+      "name": "Chat de WhatsApp con Fabi",
+      "type": "whatsapp_txt",
+      "size": 1115737,
+      "sizeLabel": "1.06 MB",
+      "lastModified": "2026-01-24T03:19:34.297Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Fabi (1)",
+      "name": "Chat de WhatsApp con Fabi (1)",
+      "type": "whatsapp_txt",
+      "size": 1115737,
+      "sizeLabel": "1.06 MB",
+      "lastModified": "2026-01-24T03:29:00.031Z",
+      "status": "ready"
+    },
+    {
+      "id": "chat_clean_2026.json",
+      "name": "chat_clean_2026.json",
+      "type": "processed_json",
+      "size": 480111,
+      "sizeLabel": "468.86 KB",
+      "lastModified": "2026-01-24T18:36:03.932Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Adolfo",
+      "name": "Chat de WhatsApp con Adolfo",
+      "type": "whatsapp_txt",
+      "size": 331925,
+      "sizeLabel": "324.15 KB",
+      "lastModified": "2026-01-24T16:29:42.109Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Pablo Redes",
+      "name": "Chat de WhatsApp con Pablo Redes",
+      "type": "whatsapp_txt",
+      "size": 260733,
+      "sizeLabel": "254.62 KB",
+      "lastModified": "2026-01-24T15:51:18.567Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Andres Santibañez",
+      "name": "Chat de WhatsApp con Andres Santibañez",
+      "type": "whatsapp_txt",
+      "size": 248176,
+      "sizeLabel": "242.36 KB",
+      "lastModified": "2026-01-24T15:35:03.415Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con TECHNOGROUP",
+      "name": "Chat de WhatsApp con TECHNOGROUP",
+      "type": "whatsapp_txt",
+      "size": 235310,
+      "sizeLabel": "229.79 KB",
+      "lastModified": "2026-01-24T17:04:34.753Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Gus Personal",
+      "name": "Chat de WhatsApp con Gus Personal",
+      "type": "whatsapp_txt",
+      "size": 228022,
+      "sizeLabel": "222.68 KB",
+      "lastModified": "2026-01-24T15:19:07.625Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Roberto Araya (1)",
+      "name": "Chat de WhatsApp con Roberto Araya (1)",
+      "type": "whatsapp_txt",
+      "size": 191633,
+      "sizeLabel": "187.14 KB",
+      "lastModified": "2026-01-24T15:31:44.297Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Roberto Araya",
+      "name": "Chat de WhatsApp con Roberto Araya",
+      "type": "whatsapp_txt",
+      "size": 191628,
+      "sizeLabel": "187.14 KB",
+      "lastModified": "2026-01-24T02:06:02.144Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con adolfo hormazabal",
+      "name": "Chat de WhatsApp con adolfo hormazabal",
+      "type": "whatsapp_txt",
+      "size": 172222,
+      "sizeLabel": "168.19 KB",
+      "lastModified": "2026-01-24T15:13:49.061Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Jose Gregorio",
+      "name": "Chat de WhatsApp con Jose Gregorio",
+      "type": "whatsapp_txt",
+      "size": 165754,
+      "sizeLabel": "161.87 KB",
+      "lastModified": "2026-01-24T04:43:32.316Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Pablo",
+      "name": "Chat de WhatsApp con Pablo",
+      "type": "whatsapp_txt",
+      "size": 134908,
+      "sizeLabel": "131.75 KB",
+      "lastModified": "2026-01-24T15:49:58.864Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Control e Inteligencia",
+      "name": "Chat de WhatsApp con Control e Inteligencia",
+      "type": "whatsapp_txt",
+      "size": 134756,
+      "sizeLabel": "131.6 KB",
+      "lastModified": "2026-01-24T17:03:17.301Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Vivian",
+      "name": "Chat de WhatsApp con Vivian",
+      "type": "whatsapp_txt",
+      "size": 123395,
+      "sizeLabel": "120.5 KB",
+      "lastModified": "2026-01-24T15:12:29.391Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Inteligencia + Operaciones",
+      "name": "Chat de WhatsApp con Inteligencia + Operaciones",
+      "type": "whatsapp_txt",
+      "size": 121382,
+      "sizeLabel": "118.54 KB",
+      "lastModified": "2026-01-24T17:06:45.417Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con TI Technogroup",
+      "name": "Chat de WhatsApp con TI Technogroup",
+      "type": "whatsapp_txt",
+      "size": 113242,
+      "sizeLabel": "110.59 KB",
+      "lastModified": "2026-01-24T17:02:53.856Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Carlos Gutierrez Redes",
+      "name": "Chat de WhatsApp con Carlos Gutierrez Redes",
+      "type": "whatsapp_txt",
+      "size": 108021,
+      "sizeLabel": "105.49 KB",
+      "lastModified": "2026-01-24T16:41:44.219Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Familia Lanza núcleo",
+      "name": "Chat de WhatsApp con Familia Lanza núcleo",
+      "type": "whatsapp_txt",
+      "size": 99535,
+      "sizeLabel": "97.2 KB",
+      "lastModified": "2026-01-24T16:53:13.891Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Diego Filgueira",
+      "name": "Chat de WhatsApp con Diego Filgueira",
+      "type": "whatsapp_txt",
+      "size": 79278,
+      "sizeLabel": "77.42 KB",
+      "lastModified": "2026-01-24T16:50:05.118Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Macarena Céspedes",
+      "name": "Chat de WhatsApp con Macarena Céspedes",
+      "type": "whatsapp_txt",
+      "size": 72699,
+      "sizeLabel": "71 KB",
+      "lastModified": "2026-01-24T15:37:02.972Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 6123 4561",
+      "name": "Chat de WhatsApp con +56 9 6123 4561",
+      "type": "whatsapp_txt",
+      "size": 72174,
+      "sizeLabel": "70.48 KB",
+      "lastModified": "2026-01-24T16:35:26.480Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Cristian Lanza",
+      "name": "Chat de WhatsApp con Cristian Lanza",
+      "type": "whatsapp_txt",
+      "size": 71759,
+      "sizeLabel": "70.08 KB",
+      "lastModified": "2026-01-24T04:39:02.596Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Luis Makina",
+      "name": "Chat de WhatsApp con Luis Makina",
+      "type": "whatsapp_txt",
+      "size": 69844,
+      "sizeLabel": "68.21 KB",
+      "lastModified": "2026-01-24T15:15:08.689Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Fernando Lobos",
+      "name": "Chat de WhatsApp con Fernando Lobos",
+      "type": "whatsapp_txt",
+      "size": 60564,
+      "sizeLabel": "59.14 KB",
+      "lastModified": "2026-01-24T14:53:14.688Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Gustavo Cruzat",
+      "name": "Chat de WhatsApp con Gustavo Cruzat",
+      "type": "whatsapp_txt",
+      "size": 54725,
+      "sizeLabel": "53.44 KB",
+      "lastModified": "2026-01-24T16:36:45.408Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Angie Lanza",
+      "name": "Chat de WhatsApp con Angie Lanza",
+      "type": "whatsapp_txt",
+      "size": 53638,
+      "sizeLabel": "52.38 KB",
+      "lastModified": "2026-01-24T04:39:32.516Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Daniel Vargas",
+      "name": "Chat de WhatsApp con Daniel Vargas",
+      "type": "whatsapp_txt",
+      "size": 46692,
+      "sizeLabel": "45.6 KB",
+      "lastModified": "2026-01-24T16:28:24.816Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Abrahan Horta",
+      "name": "Chat de WhatsApp con Abrahan Horta",
+      "type": "whatsapp_txt",
+      "size": 45154,
+      "sizeLabel": "44.1 KB",
+      "lastModified": "2026-01-24T16:51:22.163Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Nicolas TQW",
+      "name": "Chat de WhatsApp con Nicolas TQW",
+      "type": "whatsapp_txt",
+      "size": 39757,
+      "sizeLabel": "38.83 KB",
+      "lastModified": "2026-01-24T15:31:04.444Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Inteligencia operacional",
+      "name": "Chat de WhatsApp con Inteligencia operacional",
+      "type": "whatsapp_txt",
+      "size": 39074,
+      "sizeLabel": "38.16 KB",
+      "lastModified": "2026-01-24T17:08:35.224Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con German",
+      "name": "Chat de WhatsApp con German",
+      "type": "whatsapp_txt",
+      "size": 39044,
+      "sizeLabel": "38.13 KB",
+      "lastModified": "2026-01-24T16:32:48.004Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Agustin Gomez",
+      "name": "Chat de WhatsApp con Agustin Gomez",
+      "type": "whatsapp_txt",
+      "size": 38788,
+      "sizeLabel": "37.88 KB",
+      "lastModified": "2026-01-24T16:32:34.642Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Carlo Gutierrez New",
+      "name": "Chat de WhatsApp con Carlo Gutierrez New",
+      "type": "whatsapp_txt",
+      "size": 38090,
+      "sizeLabel": "37.2 KB",
+      "lastModified": "2026-01-24T15:40:22.116Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Ricardo Espina",
+      "name": "Chat de WhatsApp con Ricardo Espina",
+      "type": "whatsapp_txt",
+      "size": 37888,
+      "sizeLabel": "37 KB",
+      "lastModified": "2026-01-24T16:50:27.818Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 5811 2027",
+      "name": "Chat de WhatsApp con +56 9 5811 2027",
+      "type": "whatsapp_txt",
+      "size": 36972,
+      "sizeLabel": "36.11 KB",
+      "lastModified": "2026-01-24T16:47:00.379Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Monica Miranda",
+      "name": "Chat de WhatsApp con Monica Miranda",
+      "type": "whatsapp_txt",
+      "size": 35723,
+      "sizeLabel": "34.89 KB",
+      "lastModified": "2026-01-24T15:41:01.897Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Jendri Urbina",
+      "name": "Chat de WhatsApp con Jendri Urbina",
+      "type": "whatsapp_txt",
+      "size": 35311,
+      "sizeLabel": "34.48 KB",
+      "lastModified": "2026-01-24T16:49:50.446Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Caro Lazo",
+      "name": "Chat de WhatsApp con Caro Lazo",
+      "type": "whatsapp_txt",
+      "size": 34622,
+      "sizeLabel": "33.81 KB",
+      "lastModified": "2026-01-24T16:25:44.519Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Daniel Orrego",
+      "name": "Chat de WhatsApp con Daniel Orrego",
+      "type": "whatsapp_txt",
+      "size": 33786,
+      "sizeLabel": "32.99 KB",
+      "lastModified": "2026-01-24T17:09:54.451Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Papa",
+      "name": "Chat de WhatsApp con Papa",
+      "type": "whatsapp_txt",
+      "size": 31878,
+      "sizeLabel": "31.13 KB",
+      "lastModified": "2026-01-24T03:45:21.061Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con En camino al Bigdata",
+      "name": "Chat de WhatsApp con En camino al Bigdata",
+      "type": "whatsapp_txt",
+      "size": 31584,
+      "sizeLabel": "30.84 KB",
+      "lastModified": "2026-01-24T17:06:14.213Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Nicole Personal",
+      "name": "Chat de WhatsApp con Nicole Personal",
+      "type": "whatsapp_txt",
+      "size": 28254,
+      "sizeLabel": "27.59 KB",
+      "lastModified": "2026-01-24T15:39:42.276Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Dubraska",
+      "name": "Chat de WhatsApp con Dubraska",
+      "type": "whatsapp_txt",
+      "size": 28021,
+      "sizeLabel": "27.36 KB",
+      "lastModified": "2026-01-24T16:58:36.037Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 5423 0189",
+      "name": "Chat de WhatsApp con +56 9 5423 0189",
+      "type": "whatsapp_txt",
+      "size": 26283,
+      "sizeLabel": "25.67 KB",
+      "lastModified": "2026-01-24T16:43:16.661Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Jose Huaiquiman",
+      "name": "Chat de WhatsApp con Jose Huaiquiman",
+      "type": "whatsapp_txt",
+      "size": 25366,
+      "sizeLabel": "24.77 KB",
+      "lastModified": "2026-01-24T15:34:23.574Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Stephany Mujica",
+      "name": "Chat de WhatsApp con Stephany Mujica",
+      "type": "whatsapp_txt",
+      "size": 23374,
+      "sizeLabel": "22.83 KB",
+      "lastModified": "2026-01-24T04:45:02.212Z",
+      "status": "ready"
+    },
+    {
+      "id": "chat_clean_2018.json",
+      "name": "chat_clean_2018.json",
+      "type": "processed_json",
+      "size": 21420,
+      "sizeLabel": "20.92 KB",
+      "lastModified": "2026-01-24T18:36:02.987Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Rafael Cisternas",
+      "name": "Chat de WhatsApp con Rafael Cisternas",
+      "type": "whatsapp_txt",
+      "size": 19650,
+      "sizeLabel": "19.19 KB",
+      "lastModified": "2026-01-24T16:48:56.485Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Jhondrick Loroño",
+      "name": "Chat de WhatsApp con Jhondrick Loroño",
+      "type": "whatsapp_txt",
+      "size": 19104,
+      "sizeLabel": "18.66 KB",
+      "lastModified": "2026-01-24T16:19:21.806Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con APP TG",
+      "name": "Chat de WhatsApp con APP TG",
+      "type": "whatsapp_txt",
+      "size": 18338,
+      "sizeLabel": "17.91 KB",
+      "lastModified": "2026-01-24T17:05:17.010Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 9775 8459",
+      "name": "Chat de WhatsApp con +56 9 9775 8459",
+      "type": "whatsapp_txt",
+      "size": 16725,
+      "sizeLabel": "16.33 KB",
+      "lastModified": "2026-01-24T16:18:22.807Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con German Damian",
+      "name": "Chat de WhatsApp con German Damian",
+      "type": "whatsapp_txt",
+      "size": 16615,
+      "sizeLabel": "16.23 KB",
+      "lastModified": "2026-01-24T17:03:38.327Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Mauricio Arriagada",
+      "name": "Chat de WhatsApp con Mauricio Arriagada",
+      "type": "whatsapp_txt",
+      "size": 15309,
+      "sizeLabel": "14.95 KB",
+      "lastModified": "2026-01-24T16:37:15.187Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Fabian Gutierrez",
+      "name": "Chat de WhatsApp con Fabian Gutierrez",
+      "type": "whatsapp_txt",
+      "size": 15286,
+      "sizeLabel": "14.93 KB",
+      "lastModified": "2026-01-24T15:20:27.391Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Fabi trabajo",
+      "name": "Chat de WhatsApp con Fabi trabajo",
+      "type": "whatsapp_txt",
+      "size": 14988,
+      "sizeLabel": "14.64 KB",
+      "lastModified": "2026-01-24T16:40:55.852Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Gustavo FITIT",
+      "name": "Chat de WhatsApp con Gustavo FITIT",
+      "type": "whatsapp_txt",
+      "size": 14462,
+      "sizeLabel": "14.12 KB",
+      "lastModified": "2026-01-24T16:24:14.651Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Oscar Mejias A",
+      "name": "Chat de WhatsApp con Oscar Mejias A",
+      "type": "whatsapp_txt",
+      "size": 14008,
+      "sizeLabel": "13.68 KB",
+      "lastModified": "2026-01-24T16:43:35.939Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Kevin FITIT",
+      "name": "Chat de WhatsApp con Kevin FITIT",
+      "type": "whatsapp_txt",
+      "size": 13687,
+      "sizeLabel": "13.37 KB",
+      "lastModified": "2026-01-24T16:30:10.961Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 7142 8557",
+      "name": "Chat de WhatsApp con +56 9 7142 8557",
+      "type": "whatsapp_txt",
+      "size": 12969,
+      "sizeLabel": "12.67 KB",
+      "lastModified": "2026-01-24T16:52:19.210Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Daniel Vargas Nuevo",
+      "name": "Chat de WhatsApp con Daniel Vargas Nuevo",
+      "type": "whatsapp_txt",
+      "size": 12781,
+      "sizeLabel": "12.48 KB",
+      "lastModified": "2026-01-24T15:49:19.021Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con APP TECHNOGROUP   PILOTO",
+      "name": "Chat de WhatsApp con APP TECHNOGROUP   PILOTO",
+      "type": "whatsapp_txt",
+      "size": 12639,
+      "sizeLabel": "12.34 KB",
+      "lastModified": "2026-01-24T17:06:58.618Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Miguel Savedra",
+      "name": "Chat de WhatsApp con Miguel Savedra",
+      "type": "whatsapp_txt",
+      "size": 12274,
+      "sizeLabel": "11.99 KB",
+      "lastModified": "2026-01-24T16:41:20.887Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Victor Rubilar",
+      "name": "Chat de WhatsApp con Victor Rubilar",
+      "type": "whatsapp_txt",
+      "size": 11454,
+      "sizeLabel": "11.19 KB",
+      "lastModified": "2026-01-24T16:17:43.409Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Pablo Perez Soporte Nuevo",
+      "name": "Chat de WhatsApp con Pablo Perez Soporte Nuevo",
+      "type": "whatsapp_txt",
+      "size": 10407,
+      "sizeLabel": "10.16 KB",
+      "lastModified": "2026-01-24T16:13:05.284Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Renata",
+      "name": "Chat de WhatsApp con Renata",
+      "type": "whatsapp_txt",
+      "size": 10143,
+      "sizeLabel": "9.91 KB",
+      "lastModified": "2026-01-24T16:17:17.322Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Arnaldo Rojas Technogroup",
+      "name": "Chat de WhatsApp con Arnaldo Rojas Technogroup",
+      "type": "whatsapp_txt",
+      "size": 9762,
+      "sizeLabel": "9.53 KB",
+      "lastModified": "2026-01-24T16:17:06.760Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Guillermo Cari",
+      "name": "Chat de WhatsApp con Guillermo Cari",
+      "type": "whatsapp_txt",
+      "size": 9726,
+      "sizeLabel": "9.5 KB",
+      "lastModified": "2026-01-24T16:28:00.290Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Manuel Mora",
+      "name": "Chat de WhatsApp con Manuel Mora",
+      "type": "whatsapp_txt",
+      "size": 9468,
+      "sizeLabel": "9.25 KB",
+      "lastModified": "2026-01-24T15:32:24.061Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con JOSÉ MANRIQUE",
+      "name": "Chat de WhatsApp con JOSÉ MANRIQUE",
+      "type": "whatsapp_txt",
+      "size": 9305,
+      "sizeLabel": "9.09 KB",
+      "lastModified": "2026-01-24T16:23:43.259Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Jean Jara",
+      "name": "Chat de WhatsApp con Jean Jara",
+      "type": "whatsapp_txt",
+      "size": 9232,
+      "sizeLabel": "9.02 KB",
+      "lastModified": "2026-01-24T16:48:14.470Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Sergio Muñoz",
+      "name": "Chat de WhatsApp con Sergio Muñoz",
+      "type": "whatsapp_txt",
+      "size": 9118,
+      "sizeLabel": "8.9 KB",
+      "lastModified": "2026-01-24T16:19:44.403Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Carlo Gutierrez Perso",
+      "name": "Chat de WhatsApp con Carlo Gutierrez Perso",
+      "type": "whatsapp_txt",
+      "size": 9097,
+      "sizeLabel": "8.88 KB",
+      "lastModified": "2026-01-24T15:15:48.491Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Rodolfo Tapia",
+      "name": "Chat de WhatsApp con Rodolfo Tapia",
+      "type": "whatsapp_txt",
+      "size": 9042,
+      "sizeLabel": "8.83 KB",
+      "lastModified": "2026-01-24T16:49:38.572Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Marluy Araujo",
+      "name": "Chat de WhatsApp con Marluy Araujo",
+      "type": "whatsapp_txt",
+      "size": 8470,
+      "sizeLabel": "8.27 KB",
+      "lastModified": "2026-01-24T16:27:03.556Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Dalmiro",
+      "name": "Chat de WhatsApp con Dalmiro",
+      "type": "whatsapp_txt",
+      "size": 8396,
+      "sizeLabel": "8.2 KB",
+      "lastModified": "2026-01-24T16:46:42.351Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Roberto Toro",
+      "name": "Chat de WhatsApp con Roberto Toro",
+      "type": "whatsapp_txt",
+      "size": 7708,
+      "sizeLabel": "7.53 KB",
+      "lastModified": "2026-01-24T16:15:52.333Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Marcelo Encina",
+      "name": "Chat de WhatsApp con Marcelo Encina",
+      "type": "whatsapp_txt",
+      "size": 7455,
+      "sizeLabel": "7.28 KB",
+      "lastModified": "2026-01-24T15:16:28.336Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Erwin Nuevo",
+      "name": "Chat de WhatsApp con Erwin Nuevo",
+      "type": "whatsapp_txt",
+      "size": 7262,
+      "sizeLabel": "7.09 KB",
+      "lastModified": "2026-01-24T03:31:26.146Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Alexis Leyton",
+      "name": "Chat de WhatsApp con Alexis Leyton",
+      "type": "whatsapp_txt",
+      "size": 7261,
+      "sizeLabel": "7.09 KB",
+      "lastModified": "2026-01-24T16:26:41.139Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Diego Baron",
+      "name": "Chat de WhatsApp con Diego Baron",
+      "type": "whatsapp_txt",
+      "size": 7165,
+      "sizeLabel": "7 KB",
+      "lastModified": "2026-01-24T16:49:16.777Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con APP Techno Group (by TG)",
+      "name": "Chat de WhatsApp con APP Techno Group (by TG)",
+      "type": "whatsapp_txt",
+      "size": 7043,
+      "sizeLabel": "6.88 KB",
+      "lastModified": "2026-01-24T17:07:12.689Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Luis Alvarado Polifuncional",
+      "name": "Chat de WhatsApp con Luis Alvarado Polifuncional",
+      "type": "whatsapp_txt",
+      "size": 6953,
+      "sizeLabel": "6.79 KB",
+      "lastModified": "2026-01-24T16:51:34.492Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 9909 6416",
+      "name": "Chat de WhatsApp con +56 9 9909 6416",
+      "type": "whatsapp_txt",
+      "size": 6866,
+      "sizeLabel": "6.71 KB",
+      "lastModified": "2026-01-24T16:45:29.571Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Rodrigo FITIT",
+      "name": "Chat de WhatsApp con Rodrigo FITIT",
+      "type": "whatsapp_txt",
+      "size": 6820,
+      "sizeLabel": "6.66 KB",
+      "lastModified": "2026-01-24T16:24:45.576Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Fernanda Salmeron Vet",
+      "name": "Chat de WhatsApp con Fernanda Salmeron Vet",
+      "type": "whatsapp_txt",
+      "size": 6651,
+      "sizeLabel": "6.5 KB",
+      "lastModified": "2026-01-24T12:41:59.993Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Paz",
+      "name": "Chat de WhatsApp con Paz",
+      "type": "whatsapp_txt",
+      "size": 6570,
+      "sizeLabel": "6.42 KB",
+      "lastModified": "2026-01-24T16:25:22.302Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Marluy Araujo Pega",
+      "name": "Chat de WhatsApp con Marluy Araujo Pega",
+      "type": "whatsapp_txt",
+      "size": 6431,
+      "sizeLabel": "6.28 KB",
+      "lastModified": "2026-01-24T16:32:23.561Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Roberto Loyola",
+      "name": "Chat de WhatsApp con Roberto Loyola",
+      "type": "whatsapp_txt",
+      "size": 6275,
+      "sizeLabel": "6.13 KB",
+      "lastModified": "2026-01-24T16:13:59.226Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Adrian",
+      "name": "Chat de WhatsApp con Adrian",
+      "type": "whatsapp_txt",
+      "size": 6120,
+      "sizeLabel": "5.98 KB",
+      "lastModified": "2026-01-24T14:48:29.829Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Rodrigo Fuenzalida",
+      "name": "Chat de WhatsApp con Rodrigo Fuenzalida",
+      "type": "whatsapp_txt",
+      "size": 6090,
+      "sizeLabel": "5.95 KB",
+      "lastModified": "2026-01-24T16:49:27.977Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Robero Ramirez Tg",
+      "name": "Chat de WhatsApp con Robero Ramirez Tg",
+      "type": "whatsapp_txt",
+      "size": 6014,
+      "sizeLabel": "5.87 KB",
+      "lastModified": "2026-01-24T16:25:13.747Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Francisco Salazar Informatico",
+      "name": "Chat de WhatsApp con Francisco Salazar Informatico",
+      "type": "whatsapp_txt",
+      "size": 5926,
+      "sizeLabel": "5.79 KB",
+      "lastModified": "2026-01-24T16:14:35.434Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Fernando Vega",
+      "name": "Chat de WhatsApp con Fernando Vega",
+      "type": "whatsapp_txt",
+      "size": 5203,
+      "sizeLabel": "5.08 KB",
+      "lastModified": "2026-01-24T16:17:35.611Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Oscar Mejia",
+      "name": "Chat de WhatsApp con Oscar Mejia",
+      "type": "whatsapp_txt",
+      "size": 5152,
+      "sizeLabel": "5.03 KB",
+      "lastModified": "2026-01-24T16:19:12.041Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Marcelo Flores TG",
+      "name": "Chat de WhatsApp con Marcelo Flores TG",
+      "type": "whatsapp_txt",
+      "size": 5129,
+      "sizeLabel": "5.01 KB",
+      "lastModified": "2026-01-24T16:18:01.727Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Enrique Farias",
+      "name": "Chat de WhatsApp con Enrique Farias",
+      "type": "whatsapp_txt",
+      "size": 5072,
+      "sizeLabel": "4.95 KB",
+      "lastModified": "2026-01-24T16:23:31.646Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Angela Lugo",
+      "name": "Chat de WhatsApp con Angela Lugo",
+      "type": "whatsapp_txt",
+      "size": 4826,
+      "sizeLabel": "4.71 KB",
+      "lastModified": "2026-01-24T15:11:09.763Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Victor Petit",
+      "name": "Chat de WhatsApp con Victor Petit",
+      "type": "whatsapp_txt",
+      "size": 4773,
+      "sizeLabel": "4.66 KB",
+      "lastModified": "2026-01-24T16:26:30.447Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con William",
+      "name": "Chat de WhatsApp con William",
+      "type": "whatsapp_txt",
+      "size": 4655,
+      "sizeLabel": "4.55 KB",
+      "lastModified": "2026-01-24T16:31:56.968Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Rodrigo Proveedor Notebooks Basura",
+      "name": "Chat de WhatsApp con Rodrigo Proveedor Notebooks Basura",
+      "type": "whatsapp_txt",
+      "size": 4570,
+      "sizeLabel": "4.46 KB",
+      "lastModified": "2026-01-24T06:32:45.040Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 8298 0320",
+      "name": "Chat de WhatsApp con +56 9 8298 0320",
+      "type": "whatsapp_txt",
+      "size": 4520,
+      "sizeLabel": "4.41 KB",
+      "lastModified": "2026-01-24T16:25:05.122Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Arnaldo Rojas",
+      "name": "Chat de WhatsApp con Arnaldo Rojas",
+      "type": "whatsapp_txt",
+      "size": 4347,
+      "sizeLabel": "4.25 KB",
+      "lastModified": "2026-01-24T16:45:50.645Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Marcelo Gomez",
+      "name": "Chat de WhatsApp con Marcelo Gomez",
+      "type": "whatsapp_txt",
+      "size": 4326,
+      "sizeLabel": "4.22 KB",
+      "lastModified": "2026-01-24T16:44:41.166Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 3340 1320",
+      "name": "Chat de WhatsApp con +56 9 3340 1320",
+      "type": "whatsapp_txt",
+      "size": 4302,
+      "sizeLabel": "4.2 KB",
+      "lastModified": "2026-01-24T17:10:33.704Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 9674 2079",
+      "name": "Chat de WhatsApp con +56 9 9674 2079",
+      "type": "whatsapp_txt",
+      "size": 3909,
+      "sizeLabel": "3.82 KB",
+      "lastModified": "2026-01-24T16:40:45.238Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 8281 3359",
+      "name": "Chat de WhatsApp con +56 9 8281 3359",
+      "type": "whatsapp_txt",
+      "size": 3841,
+      "sizeLabel": "3.75 KB",
+      "lastModified": "2026-01-24T16:18:51.371Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Pamela Nielsen",
+      "name": "Chat de WhatsApp con Pamela Nielsen",
+      "type": "whatsapp_txt",
+      "size": 3823,
+      "sizeLabel": "3.73 KB",
+      "lastModified": "2026-01-24T16:41:55.470Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Manuel Banco santander",
+      "name": "Chat de WhatsApp con Manuel Banco santander",
+      "type": "whatsapp_txt",
+      "size": 3789,
+      "sizeLabel": "3.7 KB",
+      "lastModified": "2026-01-24T16:43:52.584Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 6141 4527",
+      "name": "Chat de WhatsApp con +56 9 6141 4527",
+      "type": "whatsapp_txt",
+      "size": 3681,
+      "sizeLabel": "3.59 KB",
+      "lastModified": "2026-01-24T16:43:26.295Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Elinaa",
+      "name": "Chat de WhatsApp con Elinaa",
+      "type": "whatsapp_txt",
+      "size": 3437,
+      "sizeLabel": "3.36 KB",
+      "lastModified": "2026-01-24T14:47:00.569Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Piloto autoinventario",
+      "name": "Chat de WhatsApp con Piloto autoinventario",
+      "type": "whatsapp_txt",
+      "size": 3377,
+      "sizeLabel": "3.3 KB",
+      "lastModified": "2026-01-24T17:09:41.981Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Otixe Proveedor I7-11 180mil",
+      "name": "Chat de WhatsApp con Otixe Proveedor I7-11 180mil",
+      "type": "whatsapp_txt",
+      "size": 3355,
+      "sizeLabel": "3.28 KB",
+      "lastModified": "2026-01-24T04:37:32.940Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Actualizaciones TG",
+      "name": "Chat de WhatsApp con Actualizaciones TG",
+      "type": "whatsapp_txt",
+      "size": 3325,
+      "sizeLabel": "3.25 KB",
+      "lastModified": "2026-01-24T17:07:31.172Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Cesar Leiva",
+      "name": "Chat de WhatsApp con Cesar Leiva",
+      "type": "whatsapp_txt",
+      "size": 3115,
+      "sizeLabel": "3.04 KB",
+      "lastModified": "2026-01-24T16:48:04.203Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 3387 9027",
+      "name": "Chat de WhatsApp con +56 9 3387 9027",
+      "type": "whatsapp_txt",
+      "size": 2878,
+      "sizeLabel": "2.81 KB",
+      "lastModified": "2026-01-24T16:21:25.088Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Maureen Parra",
+      "name": "Chat de WhatsApp con Maureen Parra",
+      "type": "whatsapp_txt",
+      "size": 2864,
+      "sizeLabel": "2.8 KB",
+      "lastModified": "2026-01-24T16:16:57.960Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con HumanTech Ti-Proyectos",
+      "name": "Chat de WhatsApp con HumanTech Ti-Proyectos",
+      "type": "whatsapp_txt",
+      "size": 2823,
+      "sizeLabel": "2.76 KB",
+      "lastModified": "2026-01-24T17:05:41.231Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 8309 8249",
+      "name": "Chat de WhatsApp con +56 9 8309 8249",
+      "type": "whatsapp_txt",
+      "size": 2778,
+      "sizeLabel": "2.71 KB",
+      "lastModified": "2026-01-24T16:25:54.133Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 5417 0940",
+      "name": "Chat de WhatsApp con +56 9 5417 0940",
+      "type": "whatsapp_txt",
+      "size": 2772,
+      "sizeLabel": "2.71 KB",
+      "lastModified": "2026-01-24T17:10:19.694Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Barbara Y Michael Proveedor NOTEBOOKS",
+      "name": "Chat de WhatsApp con Barbara Y Michael Proveedor NOTEBOOKS",
+      "type": "whatsapp_txt",
+      "size": 2767,
+      "sizeLabel": "2.7 KB",
+      "lastModified": "2026-01-24T03:46:51.882Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Hector Lizama",
+      "name": "Chat de WhatsApp con Hector Lizama",
+      "type": "whatsapp_txt",
+      "size": 2731,
+      "sizeLabel": "2.67 KB",
+      "lastModified": "2026-01-24T16:18:29.905Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 9751 5770",
+      "name": "Chat de WhatsApp con +56 9 9751 5770",
+      "type": "whatsapp_txt",
+      "size": 2729,
+      "sizeLabel": "2.67 KB",
+      "lastModified": "2026-01-24T16:26:02.051Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Jano Parra TG",
+      "name": "Chat de WhatsApp con Jano Parra TG",
+      "type": "whatsapp_txt",
+      "size": 2722,
+      "sizeLabel": "2.66 KB",
+      "lastModified": "2026-01-24T16:33:30.581Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Abraham Horta Technogroup",
+      "name": "Chat de WhatsApp con Abraham Horta Technogroup",
+      "type": "whatsapp_txt",
+      "size": 2718,
+      "sizeLabel": "2.65 KB",
+      "lastModified": "2026-01-24T16:20:38.086Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Juan Gonzales INFOR",
+      "name": "Chat de WhatsApp con Juan Gonzales INFOR",
+      "type": "whatsapp_txt",
+      "size": 2713,
+      "sizeLabel": "2.65 KB",
+      "lastModified": "2026-01-24T16:24:32.480Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Óscar Mella",
+      "name": "Chat de WhatsApp con Óscar Mella",
+      "type": "whatsapp_txt",
+      "size": 2576,
+      "sizeLabel": "2.52 KB",
+      "lastModified": "2026-01-24T16:32:05.093Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Guillermo Valenzuel",
+      "name": "Chat de WhatsApp con Guillermo Valenzuel",
+      "type": "whatsapp_txt",
+      "size": 2496,
+      "sizeLabel": "2.44 KB",
+      "lastModified": "2026-01-24T16:24:54.988Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Francisco Soto",
+      "name": "Chat de WhatsApp con Francisco Soto",
+      "type": "whatsapp_txt",
+      "size": 2469,
+      "sizeLabel": "2.41 KB",
+      "lastModified": "2026-01-24T15:47:19.429Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Luis Farias",
+      "name": "Chat de WhatsApp con Luis Farias",
+      "type": "whatsapp_txt",
+      "size": 2456,
+      "sizeLabel": "2.4 KB",
+      "lastModified": "2026-01-24T16:46:04.095Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 8279 4755",
+      "name": "Chat de WhatsApp con +56 9 8279 4755",
+      "type": "whatsapp_txt",
+      "size": 2397,
+      "sizeLabel": "2.34 KB",
+      "lastModified": "2026-01-24T16:19:55.769Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Sebastian Contreras NIELSEN",
+      "name": "Chat de WhatsApp con Sebastian Contreras NIELSEN",
+      "type": "whatsapp_txt",
+      "size": 2379,
+      "sizeLabel": "2.32 KB",
+      "lastModified": "2026-01-24T16:31:12.645Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Javier Bermudez",
+      "name": "Chat de WhatsApp con Javier Bermudez",
+      "type": "whatsapp_txt",
+      "size": 2354,
+      "sizeLabel": "2.3 KB",
+      "lastModified": "2026-01-24T16:48:42.525Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 4565 8628",
+      "name": "Chat de WhatsApp con +56 9 4565 8628",
+      "type": "whatsapp_txt",
+      "size": 2280,
+      "sizeLabel": "2.23 KB",
+      "lastModified": "2026-01-24T16:44:13.569Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Ruby Cortes",
+      "name": "Chat de WhatsApp con Ruby Cortes",
+      "type": "whatsapp_txt",
+      "size": 2242,
+      "sizeLabel": "2.19 KB",
+      "lastModified": "2026-01-24T04:42:02.382Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Diego Filgueira Personal",
+      "name": "Chat de WhatsApp con Diego Filgueira Personal",
+      "type": "whatsapp_txt",
+      "size": 2154,
+      "sizeLabel": "2.1 KB",
+      "lastModified": "2026-01-24T16:35:03.654Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 8281 6735",
+      "name": "Chat de WhatsApp con +56 9 8281 6735",
+      "type": "whatsapp_txt",
+      "size": 2089,
+      "sizeLabel": "2.04 KB",
+      "lastModified": "2026-01-24T16:26:09.112Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Hermano Ignacio Araya",
+      "name": "Chat de WhatsApp con Hermano Ignacio Araya",
+      "type": "whatsapp_txt",
+      "size": 2059,
+      "sizeLabel": "2.01 KB",
+      "lastModified": "2026-01-24T16:23:56.753Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Luis Gómez Technogr Redes",
+      "name": "Chat de WhatsApp con Luis Gómez Technogr Redes",
+      "type": "whatsapp_txt",
+      "size": 2005,
+      "sizeLabel": "1.96 KB",
+      "lastModified": "2026-01-24T16:21:05.400Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Carlos Maldonado TG",
+      "name": "Chat de WhatsApp con Carlos Maldonado TG",
+      "type": "whatsapp_txt",
+      "size": 1991,
+      "sizeLabel": "1.94 KB",
+      "lastModified": "2026-01-24T16:33:17.395Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 4014 2737",
+      "name": "Chat de WhatsApp con +56 9 4014 2737",
+      "type": "whatsapp_txt",
+      "size": 1919,
+      "sizeLabel": "1.87 KB",
+      "lastModified": "2026-01-24T16:34:25.328Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 4877 7263",
+      "name": "Chat de WhatsApp con +56 9 4877 7263",
+      "type": "whatsapp_txt",
+      "size": 1919,
+      "sizeLabel": "1.87 KB",
+      "lastModified": "2026-01-24T16:47:32.089Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Jean Proveedor Maipu",
+      "name": "Chat de WhatsApp con Jean Proveedor Maipu",
+      "type": "whatsapp_txt",
+      "size": 1918,
+      "sizeLabel": "1.87 KB",
+      "lastModified": "2026-01-24T15:13:09.305Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Francisco Encargado Rrhh",
+      "name": "Chat de WhatsApp con Francisco Encargado Rrhh",
+      "type": "whatsapp_txt",
+      "size": 1791,
+      "sizeLabel": "1.75 KB",
+      "lastModified": "2026-01-24T16:30:44.401Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Bárbara",
+      "name": "Chat de WhatsApp con Bárbara",
+      "type": "whatsapp_txt",
+      "size": 1632,
+      "sizeLabel": "1.59 KB",
+      "lastModified": "2026-01-24T16:29:08.880Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Baldomero",
+      "name": "Chat de WhatsApp con Baldomero",
+      "type": "whatsapp_txt",
+      "size": 1611,
+      "sizeLabel": "1.57 KB",
+      "lastModified": "2026-01-24T16:17:27.354Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 8328 4112",
+      "name": "Chat de WhatsApp con +56 9 8328 4112",
+      "type": "whatsapp_txt",
+      "size": 1606,
+      "sizeLabel": "1.57 KB",
+      "lastModified": "2026-01-24T16:21:40.278Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 3020 9767",
+      "name": "Chat de WhatsApp con +56 9 3020 9767",
+      "type": "whatsapp_txt",
+      "size": 1585,
+      "sizeLabel": "1.55 KB",
+      "lastModified": "2026-01-24T16:33:06.247Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Patricio Servietti",
+      "name": "Chat de WhatsApp con Patricio Servietti",
+      "type": "whatsapp_txt",
+      "size": 1549,
+      "sizeLabel": "1.51 KB",
+      "lastModified": "2026-01-24T16:26:17.720Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Mijhaly",
+      "name": "Chat de WhatsApp con Mijhaly",
+      "type": "whatsapp_txt",
+      "size": 1538,
+      "sizeLabel": "1.5 KB",
+      "lastModified": "2026-01-24T16:38:35.144Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 4263 5756",
+      "name": "Chat de WhatsApp con +56 9 4263 5756",
+      "type": "whatsapp_txt",
+      "size": 1522,
+      "sizeLabel": "1.49 KB",
+      "lastModified": "2026-01-24T16:22:04.649Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 8331 4987",
+      "name": "Chat de WhatsApp con +56 9 8331 4987",
+      "type": "whatsapp_txt",
+      "size": 1519,
+      "sizeLabel": "1.48 KB",
+      "lastModified": "2026-01-24T16:44:31.271Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 5867 1871",
+      "name": "Chat de WhatsApp con +56 9 5867 1871",
+      "type": "whatsapp_txt",
+      "size": 1509,
+      "sizeLabel": "1.47 KB",
+      "lastModified": "2026-01-24T16:33:51.823Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Diego Cuevas",
+      "name": "Chat de WhatsApp con Diego Cuevas",
+      "type": "whatsapp_txt",
+      "size": 1494,
+      "sizeLabel": "1.46 KB",
+      "lastModified": "2026-01-24T16:51:44.878Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Francisco Sandoval",
+      "name": "Chat de WhatsApp con Francisco Sandoval",
+      "type": "whatsapp_txt",
+      "size": 1460,
+      "sizeLabel": "1.43 KB",
+      "lastModified": "2026-01-24T16:37:31.159Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Claudia Conserje",
+      "name": "Chat de WhatsApp con Claudia Conserje",
+      "type": "whatsapp_txt",
+      "size": 1391,
+      "sizeLabel": "1.36 KB",
+      "lastModified": "2026-01-24T15:11:49.644Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Raúl Allen",
+      "name": "Chat de WhatsApp con Raúl Allen",
+      "type": "whatsapp_txt",
+      "size": 1382,
+      "sizeLabel": "1.35 KB",
+      "lastModified": "2026-01-24T16:44:49.870Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Daniel Proveedor Nitebook Factura",
+      "name": "Chat de WhatsApp con Daniel Proveedor Nitebook Factura",
+      "type": "whatsapp_txt",
+      "size": 1362,
+      "sizeLabel": "1.33 KB",
+      "lastModified": "2026-01-24T12:42:13.360Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 8394 0184",
+      "name": "Chat de WhatsApp con +56 9 8394 0184",
+      "type": "whatsapp_txt",
+      "size": 1348,
+      "sizeLabel": "1.32 KB",
+      "lastModified": "2026-01-24T16:26:51.190Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Osvaldo Parra. P. I",
+      "name": "Chat de WhatsApp con Osvaldo Parra. P. I",
+      "type": "whatsapp_txt",
+      "size": 1345,
+      "sizeLabel": "1.31 KB",
+      "lastModified": "2026-01-24T16:51:05.453Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 5705 1879",
+      "name": "Chat de WhatsApp con +56 9 5705 1879",
+      "type": "whatsapp_txt",
+      "size": 1329,
+      "sizeLabel": "1.3 KB",
+      "lastModified": "2026-01-24T16:47:48.873Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Diegoo Proveedor Ram 16gb 20mil",
+      "name": "Chat de WhatsApp con Diegoo Proveedor Ram 16gb 20mil",
+      "type": "whatsapp_txt",
+      "size": 1328,
+      "sizeLabel": "1.3 KB",
+      "lastModified": "2026-01-24T12:42:58.265Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Juan Pablo",
+      "name": "Chat de WhatsApp con Juan Pablo",
+      "type": "whatsapp_txt",
+      "size": 1320,
+      "sizeLabel": "1.29 KB",
+      "lastModified": "2026-01-24T16:44:02.473Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Mama Nuevo",
+      "name": "Chat de WhatsApp con Mama Nuevo",
+      "type": "whatsapp_txt",
+      "size": 1319,
+      "sizeLabel": "1.29 KB",
+      "lastModified": "2026-01-24T16:50:13.632Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Rafael",
+      "name": "Chat de WhatsApp con Rafael",
+      "type": "whatsapp_txt",
+      "size": 1250,
+      "sizeLabel": "1.22 KB",
+      "lastModified": "2026-01-24T12:42:29.062Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 8278 9686",
+      "name": "Chat de WhatsApp con +56 9 8278 9686",
+      "type": "whatsapp_txt",
+      "size": 1235,
+      "sizeLabel": "1.21 KB",
+      "lastModified": "2026-01-24T16:31:02.479Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 7615 5575",
+      "name": "Chat de WhatsApp con +56 9 7615 5575",
+      "type": "whatsapp_txt",
+      "size": 1234,
+      "sizeLabel": "1.21 KB",
+      "lastModified": "2026-01-24T16:46:33.042Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 5768 8879",
+      "name": "Chat de WhatsApp con +56 9 5768 8879",
+      "type": "whatsapp_txt",
+      "size": 1204,
+      "sizeLabel": "1.18 KB",
+      "lastModified": "2026-01-24T16:24:25.070Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con A ponerle fecha",
+      "name": "Chat de WhatsApp con A ponerle fecha",
+      "type": "whatsapp_txt",
+      "size": 1194,
+      "sizeLabel": "1.17 KB",
+      "lastModified": "2026-01-24T16:53:55.227Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con I&C Claro",
+      "name": "Chat de WhatsApp con I&C Claro",
+      "type": "whatsapp_txt",
+      "size": 1164,
+      "sizeLabel": "1.14 KB",
+      "lastModified": "2026-01-24T17:10:08.702Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 8279 7254",
+      "name": "Chat de WhatsApp con +56 9 8279 7254",
+      "type": "whatsapp_txt",
+      "size": 1147,
+      "sizeLabel": "1.12 KB",
+      "lastModified": "2026-01-24T16:18:10.808Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Loreto Sánchez TG",
+      "name": "Chat de WhatsApp con Loreto Sánchez TG",
+      "type": "whatsapp_txt",
+      "size": 1093,
+      "sizeLabel": "1.07 KB",
+      "lastModified": "2026-01-24T16:19:02.898Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 8298 3984",
+      "name": "Chat de WhatsApp con +56 9 8298 3984",
+      "type": "whatsapp_txt",
+      "size": 1057,
+      "sizeLabel": "1.03 KB",
+      "lastModified": "2026-01-24T16:16:41.021Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Cristian Toledo",
+      "name": "Chat de WhatsApp con Cristian Toledo",
+      "type": "whatsapp_txt",
+      "size": 1051,
+      "sizeLabel": "1.03 KB",
+      "lastModified": "2026-01-24T16:48:31.688Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 4460 2093",
+      "name": "Chat de WhatsApp con +56 9 4460 2093",
+      "type": "whatsapp_txt",
+      "size": 1019,
+      "sizeLabel": "1019 Bytes",
+      "lastModified": "2026-01-24T16:20:21.154Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Fernando Vicuña",
+      "name": "Chat de WhatsApp con Fernando Vicuña",
+      "type": "whatsapp_txt",
+      "size": 1015,
+      "sizeLabel": "1015 Bytes",
+      "lastModified": "2026-01-24T16:50:36.393Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 3745 8015",
+      "name": "Chat de WhatsApp con +56 9 3745 8015",
+      "type": "whatsapp_txt",
+      "size": 992,
+      "sizeLabel": "992 Bytes",
+      "lastModified": "2026-01-24T16:14:18.270Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Mauricio Proveedor Ram",
+      "name": "Chat de WhatsApp con Mauricio Proveedor Ram",
+      "type": "whatsapp_txt",
+      "size": 913,
+      "sizeLabel": "913 Bytes",
+      "lastModified": "2026-01-24T04:19:17.140Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Dasboard TG",
+      "name": "Chat de WhatsApp con Dasboard TG",
+      "type": "whatsapp_txt",
+      "size": 908,
+      "sizeLabel": "908 Bytes",
+      "lastModified": "2026-01-24T17:09:18.331Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Implementacion APP Redes",
+      "name": "Chat de WhatsApp con Implementacion APP Redes",
+      "type": "whatsapp_txt",
+      "size": 894,
+      "sizeLabel": "894 Bytes",
+      "lastModified": "2026-01-24T17:08:52.942Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 3020 0651",
+      "name": "Chat de WhatsApp con +56 9 3020 0651",
+      "type": "whatsapp_txt",
+      "size": 883,
+      "sizeLabel": "883 Bytes",
+      "lastModified": "2026-01-24T16:20:04.029Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 8453 3678",
+      "name": "Chat de WhatsApp con +56 9 8453 3678",
+      "type": "whatsapp_txt",
+      "size": 875,
+      "sizeLabel": "875 Bytes",
+      "lastModified": "2026-01-24T16:32:15.353Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Leandro Torres Personal",
+      "name": "Chat de WhatsApp con Leandro Torres Personal",
+      "type": "whatsapp_txt",
+      "size": 848,
+      "sizeLabel": "848 Bytes",
+      "lastModified": "2026-01-24T16:50:47.025Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 8281 8130",
+      "name": "Chat de WhatsApp con +56 9 8281 8130",
+      "type": "whatsapp_txt",
+      "size": 841,
+      "sizeLabel": "841 Bytes",
+      "lastModified": "2026-01-24T16:15:33.122Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 4871 4875",
+      "name": "Chat de WhatsApp con +56 9 4871 4875",
+      "type": "whatsapp_txt",
+      "size": 825,
+      "sizeLabel": "825 Bytes",
+      "lastModified": "2026-01-24T15:09:50.157Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 7212 2274",
+      "name": "Chat de WhatsApp con +56 9 7212 2274",
+      "type": "whatsapp_txt",
+      "size": 825,
+      "sizeLabel": "825 Bytes",
+      "lastModified": "2026-01-24T16:23:22.277Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Constanza",
+      "name": "Chat de WhatsApp con Constanza",
+      "type": "whatsapp_txt",
+      "size": 812,
+      "sizeLabel": "812 Bytes",
+      "lastModified": "2026-01-24T16:23:00.813Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 7246 7079",
+      "name": "Chat de WhatsApp con +56 9 7246 7079",
+      "type": "whatsapp_txt",
+      "size": 763,
+      "sizeLabel": "763 Bytes",
+      "lastModified": "2026-01-24T15:18:27.897Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con janoparra",
+      "name": "Chat de WhatsApp con janoparra",
+      "type": "whatsapp_txt",
+      "size": 756,
+      "sizeLabel": "756 Bytes",
+      "lastModified": "2026-01-24T16:52:08.036Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 9751 0321",
+      "name": "Chat de WhatsApp con +56 9 9751 0321",
+      "type": "whatsapp_txt",
+      "size": 736,
+      "sizeLabel": "736 Bytes",
+      "lastModified": "2026-01-24T16:14:26.742Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 3543 7546",
+      "name": "Chat de WhatsApp con +56 9 3543 7546",
+      "type": "whatsapp_txt",
+      "size": 716,
+      "sizeLabel": "716 Bytes",
+      "lastModified": "2026-01-24T16:27:38.702Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 8280 1671",
+      "name": "Chat de WhatsApp con +56 9 8280 1671",
+      "type": "whatsapp_txt",
+      "size": 698,
+      "sizeLabel": "698 Bytes",
+      "lastModified": "2026-01-24T16:16:48.749Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Jean Proveedor HP I7-8 100MIL",
+      "name": "Chat de WhatsApp con Jean Proveedor HP I7-8 100MIL",
+      "type": "whatsapp_txt",
+      "size": 658,
+      "sizeLabel": "658 Bytes",
+      "lastModified": "2026-01-24T16:12:31.995Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Jose Manrique",
+      "name": "Chat de WhatsApp con Jose Manrique",
+      "type": "whatsapp_txt",
+      "size": 642,
+      "sizeLabel": "642 Bytes",
+      "lastModified": "2026-01-24T16:20:56.179Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 8281 4886",
+      "name": "Chat de WhatsApp con +56 9 8281 4886",
+      "type": "whatsapp_txt",
+      "size": 638,
+      "sizeLabel": "638 Bytes",
+      "lastModified": "2026-01-24T16:20:12.746Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 7317 9311",
+      "name": "Chat de WhatsApp con +56 9 7317 9311",
+      "type": "whatsapp_txt",
+      "size": 622,
+      "sizeLabel": "622 Bytes",
+      "lastModified": "2026-01-24T16:44:23.578Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 9225 1966",
+      "name": "Chat de WhatsApp con +56 9 9225 1966",
+      "type": "whatsapp_txt",
+      "size": 620,
+      "sizeLabel": "620 Bytes",
+      "lastModified": "2026-01-24T16:27:22.934Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 7990 1353",
+      "name": "Chat de WhatsApp con +56 9 7990 1353",
+      "type": "whatsapp_txt",
+      "size": 616,
+      "sizeLabel": "616 Bytes",
+      "lastModified": "2026-01-24T16:12:08.459Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 3865 0547",
+      "name": "Chat de WhatsApp con +56 9 3865 0547",
+      "type": "whatsapp_txt",
+      "size": 599,
+      "sizeLabel": "599 Bytes",
+      "lastModified": "2026-01-24T15:17:48.000Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Felipe Prado",
+      "name": "Chat de WhatsApp con Felipe Prado",
+      "type": "whatsapp_txt",
+      "size": 581,
+      "sizeLabel": "581 Bytes",
+      "lastModified": "2026-01-24T16:47:18.586Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Dalmiro Bravo G",
+      "name": "Chat de WhatsApp con Dalmiro Bravo G",
+      "type": "whatsapp_txt",
+      "size": 573,
+      "sizeLabel": "573 Bytes",
+      "lastModified": "2026-01-24T16:45:42.046Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 9703 0564",
+      "name": "Chat de WhatsApp con +56 9 9703 0564",
+      "type": "whatsapp_txt",
+      "size": 572,
+      "sizeLabel": "572 Bytes",
+      "lastModified": "2026-01-24T16:12:19.978Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con Omayr",
+      "name": "Chat de WhatsApp con Omayr",
+      "type": "whatsapp_txt",
+      "size": 553,
+      "sizeLabel": "553 Bytes",
+      "lastModified": "2026-01-24T15:14:28.833Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 8279 6907",
+      "name": "Chat de WhatsApp con +56 9 8279 6907",
+      "type": "whatsapp_txt",
+      "size": 517,
+      "sizeLabel": "517 Bytes",
+      "lastModified": "2026-01-24T16:18:40.975Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 4967 6944",
+      "name": "Chat de WhatsApp con +56 9 4967 6944",
+      "type": "whatsapp_txt",
+      "size": 515,
+      "sizeLabel": "515 Bytes",
+      "lastModified": "2026-01-24T16:19:35.450Z",
+      "status": "ready"
+    },
+    {
+      "id": "Chat de WhatsApp con +56 9 7655 8626",
+      "name": "Chat de WhatsApp con +56 9 7655 8626",
+      "type": "whatsapp_txt",
+      "size": 514,
+      "sizeLabel": "514 Bytes",
+      "lastModified": "2026-01-24T16:22:49.929Z",
+      "status": "ready"
+    }
+  ]
+}

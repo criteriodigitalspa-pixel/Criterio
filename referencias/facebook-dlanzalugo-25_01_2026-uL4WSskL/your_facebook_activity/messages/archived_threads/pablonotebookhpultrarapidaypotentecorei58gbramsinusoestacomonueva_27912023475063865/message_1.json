@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Pablo Thieme Hales"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728604776095,
+      "content": "Abandonaste el grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728594246144,
+      "content": "Estimado buenas tardes, le intereso el equipo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728497582451,
+      "content": "1366 x 768\nEsa es la resolucion",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728497563780,
+      "content": "Hola buenas tardes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pablo Thieme Hales",
+      "timestamp_ms": 1728497381703,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pablo Thieme Hales",
+      "timestamp_ms": 1728497377808,
+      "content": "Hola, Diego. Es HD o full HD?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pablo Thieme Hales",
+      "timestamp_ms": 1728497377635,
+      "content": "Pablo inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Pablo \u00c2\u00b7 NOTEBOOK HP ULTRA RAPIDA Y POTENTE  CORE I5 8GB RAM, SIN USO ESTA COMO NUEVA",
+  "is_still_participant": false,
+  "thread_path": "archived_threads/pablonotebookhpultrarapidaypotentecorei58gbramsinusoestacomonueva_27912023475063865",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

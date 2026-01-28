@@ -1,0 +1,144 @@
+{
+  "participants": [
+    {
+      "name": "Pablo Royo Arenas"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730550110815,
+      "content": "Vale amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pablo Royo Arenas",
+      "timestamp_ms": 1730548558447,
+      "content": "Lo toy viendo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730547501140,
+      "content": "Le interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730516200066,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/pablopotentei7notebookultrarapida16gbramm2500gbenciendeen7segundos_8713967082062541/photos/453380197319675.jpg",
+          "creation_timestamp": 1730516198
+        },
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/pablopotentei7notebookultrarapida16gbramm2500gbenciendeen7segundos_8713967082062541/photos/1242143883739026.jpg",
+          "creation_timestamp": 1730516198
+        },
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/pablopotentei7notebookultrarapida16gbramm2500gbenciendeen7segundos_8713967082062541/photos/1102095281499060.jpg",
+          "creation_timestamp": 1730516198
+        },
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/pablopotentei7notebookultrarapida16gbramm2500gbenciendeen7segundos_8713967082062541/photos/1719144095544973.jpg",
+          "creation_timestamp": 1730516198
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730513150669,
+      "content": "Esta en excelente condiciones",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730513142304,
+      "content": "El equipo tiene aprox 2 a\u00c3\u00b1os de uso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pablo Royo Arenas",
+      "timestamp_ms": 1730512871788,
+      "content": "Hola cuanto tiempo lo tienes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730512853844,
+      "content": "Las fotos son las del equipo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730512847864,
+      "content": "Si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730512835520,
+      "content": "Hola amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pablo Royo Arenas",
+      "timestamp_ms": 1730510423802,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pablo Royo Arenas",
+      "timestamp_ms": 1730510419565,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?tienes fotos reales",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pablo Royo Arenas",
+      "timestamp_ms": 1730510419108,
+      "content": "Pablo Royo Arenas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pablo Royo Arenas",
+      "timestamp_ms": 1730510416757,
+      "content": "Pablo asign\u00c3\u00b3 al grupo el nombre \"Pablo \u00c2\u00b7 Potente i7 Notebook Ultra Rapida 16GB RAM M.2-500GB ENCIENDE EN 7 SEGUNDOS!\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pablo Royo Arenas",
+      "timestamp_ms": 1730510416757,
+      "content": "Pablo cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Pablo \u00c2\u00b7 Potente i7 Notebook Ultra Rapida 16GB RAM M.2-500GB ENCIENDE EN 7 SEGUNDOS!",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/pablopotentei7notebookultrarapida16gbramm2500gbenciendeen7segundos_8713967082062541",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

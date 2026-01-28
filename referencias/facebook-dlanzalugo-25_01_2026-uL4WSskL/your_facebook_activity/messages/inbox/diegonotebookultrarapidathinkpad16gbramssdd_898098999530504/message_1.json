@@ -1,0 +1,92 @@
+{
+  "participants": [
+    {
+      "name": "Diego Fuentes L\u00c3\u00b3pez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767891888625,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766879144049,
+      "content": "Lago pirihueico 6502, la florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Fuentes L\u00c3\u00b3pez",
+      "timestamp_ms": 1766877698404,
+      "content": "Y en qu\u00c3\u00a9 parte de la Florida est\u00c3\u00a1s? Aprox?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766876850566,
+      "content": "Bateria dura 5 horas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766876841131,
+      "content": "Es de 14\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766876837895,
+      "content": "Cargsdor original",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766876833741,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Fuentes L\u00c3\u00b3pez",
+      "timestamp_ms": 1766875373179,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Fuentes L\u00c3\u00b3pez",
+      "timestamp_ms": 1766875369655,
+      "content": "Buenas noches. \u00c2\u00bfSigue disponible? Cu\u00c3\u00a1nto dura la bater\u00c3\u00ada? Tiene cargador original? De cu\u00c3\u00a1ntas pulgadas es la pantalla? Gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Fuentes L\u00c3\u00b3pez",
+      "timestamp_ms": 1766875369301,
+      "content": "Diego inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook Ultra Rapida Thinkpad  / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebookultrarapidathinkpad16gbramssdd_898098999530504",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

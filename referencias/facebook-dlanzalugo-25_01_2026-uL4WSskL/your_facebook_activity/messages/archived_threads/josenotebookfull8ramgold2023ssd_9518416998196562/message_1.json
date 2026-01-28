@@ -1,0 +1,120 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Jose Aviation Mendoza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740607696755,
+      "content": "Le intereso el equipo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740600420884,
+      "content": "La verdad no se que generacion es",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740600412112,
+      "content": "Ese es el procesador amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740600401008,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/josenotebookfull8ramgold2023ssd_9518416998196562/photos/1225360889590135.jpg",
+          "creation_timestamp": 1740600400
+        },
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/josenotebookfull8ramgold2023ssd_9518416998196562/photos/1547156419216477.jpg",
+          "creation_timestamp": 1740600400
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740600395514,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/josenotebookfull8ramgold2023ssd_9518416998196562/photos/937743854825474.jpg",
+          "creation_timestamp": 1740600393
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Aviation Mendoza",
+      "timestamp_ms": 1740600098943,
+      "content": "Que generaci\u00c3\u00b3n es?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740600077409,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740600077111,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740600076768,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Aviation Mendoza",
+      "timestamp_ms": 1740600042888,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Aviation Mendoza",
+      "timestamp_ms": 1740600039332,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Aviation Mendoza",
+      "timestamp_ms": 1740600039103,
+      "content": "Jose inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jose \u00c2\u00b7 Notebook Full / 8 RAM / Gold / 2023 /  SSD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/josenotebookfull8ramgold2023ssd_9518416998196562",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

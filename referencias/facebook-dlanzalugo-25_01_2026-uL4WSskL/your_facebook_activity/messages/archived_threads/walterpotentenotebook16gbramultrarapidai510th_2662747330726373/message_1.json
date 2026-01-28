@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Walter Brezeau"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764654293625,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764526772854,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Disponible.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764515665695,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Walter Brezeau",
+      "timestamp_ms": 1764515433217,
+      "content": "Walter Brezeau te envi\u00c3\u00b3 un mensaje sobre tu publicaci\u00c3\u00b3n: Potente Notebook 16GB RAM /  Ultra Rapida / i5-10th.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Walter Brezeau",
+      "timestamp_ms": 1764515428934,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Walter Brezeau",
+      "timestamp_ms": 1764515428610,
+      "content": "Walter inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Walter \u00c2\u00b7 Potente Notebook 16GB RAM /  Ultra Rapida / i5-10th",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/walterpotentenotebook16gbramultrarapidai510th_2662747330726373",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

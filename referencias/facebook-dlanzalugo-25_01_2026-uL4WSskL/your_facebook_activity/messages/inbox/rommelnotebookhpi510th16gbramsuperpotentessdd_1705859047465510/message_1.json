@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Rommel Abreu"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1769098100128,
+      "content": "El tama\u00c3\u00b1o estandar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1769098095108,
+      "content": "Es de 14\" estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rommel Abreu",
+      "timestamp_ms": 1769097900233,
+      "content": "Cuantas pulgadas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1769097337900,
+      "content": "Hola, buenas. Si te quedo alguna duda o no estas seguro si el equipo te sirve para lo que buscas dime nomas y te ayudo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1769086706530,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rommel Abreu",
+      "timestamp_ms": 1769086591386,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rommel Abreu",
+      "timestamp_ms": 1769086586108,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rommel Abreu",
+      "timestamp_ms": 1769086585832,
+      "content": "Rommel inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rommel \u00c2\u00b7 Notebook HP i5-10th 16GB RAM Super Potente / SSDD /",
+  "is_still_participant": true,
+  "thread_path": "inbox/rommelnotebookhpi510th16gbramsuperpotentessdd_1705859047465510",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

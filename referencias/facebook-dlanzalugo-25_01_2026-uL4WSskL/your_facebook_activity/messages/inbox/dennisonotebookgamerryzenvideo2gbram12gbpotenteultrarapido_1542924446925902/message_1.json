@@ -1,0 +1,85 @@
+{
+  "participants": [
+    {
+      "name": "Denniso Medina"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763176581503,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Disponible.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763176578431,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Disponible.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1760527846641,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Denniso Medina",
+      "timestamp_ms": 1758111671280,
+      "content": "Ok dime",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1758071012427,
+      "content": "Como podriamos llegar a un precio que nos acomode a ambos?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1758070995900,
+      "content": "Hola, muchas gracias por la oferta pero es muy poco",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Denniso Medina",
+      "timestamp_ms": 1758067637378,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Denniso Medina",
+      "timestamp_ms": 1758067632721,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible? Aceptas 200",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Denniso Medina",
+      "timestamp_ms": 1758067632430,
+      "content": "Denniso inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Denniso \u00c2\u00b7 Notebook Gamer RYZEN  / Video 2GB / RAM 12GB/  Potente ultra Rapido",
+  "is_still_participant": true,
+  "thread_path": "inbox/dennisonotebookgamerryzenvideo2gbram12gbpotenteultrarapido_1542924446925902",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

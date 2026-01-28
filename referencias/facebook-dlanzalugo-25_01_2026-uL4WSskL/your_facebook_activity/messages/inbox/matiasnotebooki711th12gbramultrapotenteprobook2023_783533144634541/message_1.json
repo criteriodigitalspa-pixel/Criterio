@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Matias Vilches"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757429308038,
+      "content": "Es de 14 pulgadas amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matias Vilches",
+      "timestamp_ms": 1757428621427,
+      "content": "de cuantas pulgadas es?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matias Vilches",
+      "timestamp_ms": 1757428618138,
+      "content": "super",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757384535428,
+      "content": "Estoy en La Florida. Te acomoda la comuna o preferir\u00c3\u00adas que coordinemos en otro punto a convenir?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757384533546,
+      "content": "Hola. S\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para que lo pruebes con toda la calma del mundo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matias Vilches",
+      "timestamp_ms": 1757384364586,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matias Vilches",
+      "timestamp_ms": 1757384363053,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matias Vilches",
+      "timestamp_ms": 1757384362749,
+      "content": "Matias inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Matias \u00c2\u00b7 Notebook i7-11Th / 12GB RAM Ultra Potente / Probook/ 2023",
+  "is_still_participant": true,
+  "thread_path": "inbox/matiasnotebooki711th12gbramultrapotenteprobook2023_783533144634541",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

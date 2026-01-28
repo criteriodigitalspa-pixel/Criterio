@@ -1,0 +1,141 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Macro PC"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Macro PC",
+      "timestamp_ms": 1760662777328,
+      "content": "Frecuencia 3200",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Macro PC",
+      "timestamp_ms": 1760662768365,
+      "content": "33900 ma IVA cualquiera",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Macro PC",
+      "timestamp_ms": 1760662754340,
+      "content": "S\u00c3\u00b3lo 2 disponibles. Micron y Crucial",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1760662719362,
+      "content": "5 necesito",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Macro PC",
+      "timestamp_ms": 1760662714044,
+      "content": "Factura m\u00c3\u00a1s IVA",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Macro PC",
+      "timestamp_ms": 1760662690769,
+      "content": "Cuantas necesita",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Macro PC",
+      "timestamp_ms": 1760662685309,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/diegomemoriaramddr416gb3200mhzsodimmkingstonnuevasellada_4184310005172843/photos/1509359346850979.jpg",
+          "creation_timestamp": 1760662685
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Macro PC",
+      "timestamp_ms": 1760662683856,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/diegomemoriaramddr416gb3200mhzsodimmkingstonnuevasellada_4184310005172843/photos/840670235005275.jpg",
+          "creation_timestamp": 1760662683
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Macro PC",
+      "timestamp_ms": 1760662681851,
+      "content": "Meta podr\u00c3\u00ada usar tecnolog\u00c3\u00ada para revisar los mensajes de Marketplace con el fin de detectar y reducir las estafas y el fraude.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Macro PC",
+      "timestamp_ms": 1760662680245,
+      "content": "Hola Si. Se entrega en av. vicu\u00c3\u00b1a mackenna poniente 6299 - La Florida - a 1 cuadra de metro mirador. De Lunes a Domingo de 8am a 23p.m. - PREVIA COORDINACION . Se acepta efectivo, transferencia.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1760662657258,
+      "content": "Entrega factura?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1760662651218,
+      "content": "Consulta, cuantas tiene disponibles?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1760662643921,
+      "content": "Holaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1760662643582,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1760662643424,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Memoria Ram DDr4 16Gb 3200MHz Sodimm KINGSTON - nueva sellada",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegomemoriaramddr416gb3200mhzsodimmkingstonnuevasellada_4184310005172843",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1278900127610403.jpg",
+    "creation_timestamp": 1760662641
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "participants": [
+    {
+      "name": "Branco D\u00c3\u00adaz"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1760403375940,
+      "content": "El equipo nunca fallo, mouse, pantalla, sonido, wifi, etc, funcionando impecable",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1760403373337,
+      "content": "Hola estimado, justamente solo uso de oficina",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Branco D\u00c3\u00adaz",
+      "timestamp_ms": 1760403351520,
+      "content": "cosulta era notebook de empresa ??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Branco D\u00c3\u00adaz",
+      "timestamp_ms": 1760403343838,
+      "content": "hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1760403290184,
+      "content": "Estoy en La Florida. Te acomoda la comuna o preferir\u00c3\u00adas que coordinemos en otro punto a convenir?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1760403288960,
+      "content": "Hola. S\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para que lo pruebes con toda la calma del mundo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Branco D\u00c3\u00adaz",
+      "timestamp_ms": 1760402242778,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Branco D\u00c3\u00adaz",
+      "timestamp_ms": 1760402237920,
+      "content": "Buenas noches. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Branco D\u00c3\u00adaz",
+      "timestamp_ms": 1760402237757,
+      "content": "Branco inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Branco \u00c2\u00b7 Notebook i7/24GB RAM / SSDD / 1TB almacenamiento/Lenovo ThinkBook",
+  "is_still_participant": true,
+  "thread_path": "inbox/branconotebooki724gbramssdd1tbalmacenamientolenovothinkbook_1441405880295256",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

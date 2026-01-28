@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "El\u00c3\u00adas Quintin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728779389174,
+      "content": "Tiene alguna duda?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728774263936,
+      "content": "Hola, si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "El\u00c3\u00adas Quintin",
+      "timestamp_ms": 1728773920533,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "El\u00c3\u00adas Quintin",
+      "timestamp_ms": 1728773916566,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "El\u00c3\u00adas Quintin",
+      "timestamp_ms": 1728773916232,
+      "content": "El\u00c3\u00adas Quintin",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "El\u00c3\u00adas Quintin",
+      "timestamp_ms": 1728773913376,
+      "content": "El\u00c3\u00adas asign\u00c3\u00b3 al grupo el nombre \"El\u00c3\u00adas \u00c2\u00b7 Potente Notebook i5 16GB Ram y disco SSD\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "El\u00c3\u00adas Quintin",
+      "timestamp_ms": 1728773913376,
+      "content": "El\u00c3\u00adas cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "El\u00c3\u00adas \u00c2\u00b7 Potente Notebook i5 16GB Ram y disco SSD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/eliaspotentenotebooki516gbramydiscossd_9288638577817699",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

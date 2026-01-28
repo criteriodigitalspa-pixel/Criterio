@@ -1,0 +1,99 @@
+{
+  "participants": [
+    {
+      "name": "Ricardo Andres Campos Molina"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750552845984,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750431667464,
+      "content": "200mil podria menos no",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750431663406,
+      "content": "Paso amigo gracias igual",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ricardo Andres Campos Molina",
+      "timestamp_ms": 1750431527552,
+      "content": "Dej\u00c3\u00a9moslo en 170 y lo paso a buscar el lunes en el horario que t\u00c3\u00ba me indiques",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750428401890,
+      "content": "200 y es tuyo amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ricardo Andres Campos Molina",
+      "timestamp_ms": 1750416526658,
+      "content": "Ricardo est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ricardo Andres Campos Molina",
+      "timestamp_ms": 1750393424262,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ricardo Andres Campos Molina",
+      "timestamp_ms": 1750393417804,
+      "content": "Hola. me interesa \nTe puedo ofrecer 150 mil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ricardo Andres Campos Molina",
+      "timestamp_ms": 1750393417410,
+      "content": "Ricardo Andres Campos Molina",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ricardo Andres Campos Molina",
+      "timestamp_ms": 1750393415328,
+      "content": "Ricardo asign\u00c3\u00b3 al grupo el nombre \"Ricardo \u00c2\u00b7 All in one HP / AMD Graphics / 16gb RAM / 1200GB Almacenamiento SSDD / A\u00c3\u00b1o 2024\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ricardo Andres Campos Molina",
+      "timestamp_ms": 1750393415328,
+      "content": "Ricardo cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ricardo \u00c2\u00b7 All in one HP / AMD Graphics / 16gb RAM / 1200GB Almacenamiento SSDD / A\u00c3\u00b1o 2024",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/ricardoallinonehpamdgraphics16gbram1200gbalmacenamientossddano2024_23999708666334176",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

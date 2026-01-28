@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Matias Navarro"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Matias Navarro",
+      "timestamp_ms": 1718429300680,
+      "content": "Matias elimin\u00c3\u00b3 el art\u00c3\u00adculo de Marketplace.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matias Navarro",
+      "timestamp_ms": 1718212881613,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matias Navarro",
+      "timestamp_ms": 1718204379694,
+      "content": "Matias acept\u00c3\u00b3 tu oferta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718158947432,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718158944402,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718158944115,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Notebook acer aspire 3\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook acer aspire 3",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebookaceraspire3_7477892805591256",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/378649415220946.jpg",
+    "creation_timestamp": 1718158941
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

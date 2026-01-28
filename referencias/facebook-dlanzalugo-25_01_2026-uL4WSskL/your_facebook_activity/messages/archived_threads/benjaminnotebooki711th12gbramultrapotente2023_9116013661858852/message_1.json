@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Benjam\u00c3\u00adn D\u00c3\u00adaz"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741716901822,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741709463433,
+      "content": "270mil si vienes hoy a buscarla",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741709386862,
+      "content": "Aceptaste la oferta de Benjam\u00c3\u00adn",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjam\u00c3\u00adn D\u00c3\u00adaz",
+      "timestamp_ms": 1741708729687,
+      "content": "Benjam\u00c3\u00adn te ofreci\u00c3\u00b3 $270.000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Benjam\u00c3\u00adn \u00c2\u00b7 Notebook i7-11Th / 12GB RAM Ultra Potente / 2023",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/benjaminnotebooki711th12gbramultrapotente2023_9116013661858852",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

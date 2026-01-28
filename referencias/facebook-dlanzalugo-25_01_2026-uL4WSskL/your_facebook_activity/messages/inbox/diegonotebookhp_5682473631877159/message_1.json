@@ -1,0 +1,145 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Aravena Mauricio"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aravena Mauricio",
+      "timestamp_ms": 1705277617638,
+      "content": "Aravena vendi\u00c3\u00b3 Notebook HP.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aravena Mauricio",
+      "timestamp_ms": 1705259072626,
+      "content": "Aravena cambi\u00c3\u00b3 la descripci\u00c3\u00b3n de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aravena Mauricio",
+      "timestamp_ms": 1705086055952,
+      "content": "Aravena cambi\u00c3\u00b3 la descripci\u00c3\u00b3n de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aravena Mauricio",
+      "timestamp_ms": 1704825906025,
+      "content": "Aravena cambi\u00c3\u00b3 la descripci\u00c3\u00b3n de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aravena Mauricio",
+      "timestamp_ms": 1704825905663,
+      "content": "Aravena baj\u00c3\u00b3 el precio de Notebook HP a 40\u00c2\u00a0$.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aravena Mauricio",
+      "timestamp_ms": 1704209736776,
+      "content": "Aravena cambi\u00c3\u00b3 el precio de Notebook HP.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aravena Mauricio",
+      "timestamp_ms": 1704198465146,
+      "content": "Aravena baj\u00c3\u00b3 el precio de Notebook HP a 50\u00c2\u00a0$.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aravena Mauricio",
+      "timestamp_ms": 1703789174042,
+      "content": "Para organizar mis tiempos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aravena Mauricio",
+      "timestamp_ms": 1703789167365,
+      "content": "Av\u00c3\u00adsame",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aravena Mauricio",
+      "timestamp_ms": 1703786903058,
+      "content": "Tendr\u00c3\u00adas que venir a buscar el notebook a metro las rejas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aravena Mauricio",
+      "timestamp_ms": 1703786887328,
+      "content": "De donde eres",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703786880541,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aravena Mauricio",
+      "timestamp_ms": 1703786861634,
+      "content": "Hola amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aravena Mauricio",
+      "timestamp_ms": 1703786516958,
+      "content": "Aravena rechaz\u00c3\u00b3 tu oferta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703770856356,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703770854497,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703770854228,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Notebook HP\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook HP",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebookhp_5682473631877159",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/905265384324266.jpg",
+    "creation_timestamp": 1703770852
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

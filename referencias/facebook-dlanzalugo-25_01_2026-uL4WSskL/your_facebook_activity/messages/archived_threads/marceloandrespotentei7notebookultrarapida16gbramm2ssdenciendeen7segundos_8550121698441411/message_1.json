@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Marcelo Andres Moreno Chavez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731112383763,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma, sin compromiso. Solo si le gusta se lo lleva",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731112380845,
+      "content": "Hola Marcelo, si esta disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelo Andres Moreno Chavez",
+      "timestamp_ms": 1731111152802,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelo Andres Moreno Chavez",
+      "timestamp_ms": 1731111149196,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelo Andres Moreno Chavez",
+      "timestamp_ms": 1731111148825,
+      "content": "Marcelo Andres Moreno Chavez",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelo Andres Moreno Chavez",
+      "timestamp_ms": 1731111146224,
+      "content": "Marcelo Andres asign\u00c3\u00b3 al grupo el nombre \"Marcelo Andres \u00c2\u00b7 Potente i7 Notebook Ultra Rapida 16GB RAM M.2-SSD ENCIENDE EN 7 SEGUNDOS!\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelo Andres Moreno Chavez",
+      "timestamp_ms": 1731111146224,
+      "content": "Marcelo Andres cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Marcelo Andres \u00c2\u00b7 Potente i7 Notebook Ultra Rapida 16GB RAM M.2-SSD ENCIENDE EN 7 SEGUNDOS!",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/marceloandrespotentei7notebookultrarapida16gbramm2ssdenciendeen7segundos_8550121698441411",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

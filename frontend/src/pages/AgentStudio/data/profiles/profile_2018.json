@@ -1,0 +1,129 @@
+{
+  "year": "2018",
+  "stats": {
+    "totaldMsgs": 176,
+    "myMsgs": 91,
+    "topWords": [
+      "<multimedia",
+      "omitido>",
+      "esta",
+      "comida",
+      "para",
+      "pero",
+      "mama",
+      "cada",
+      "porque",
+      "jajajajjaa",
+      "deposito",
+      "caja",
+      "bonito",
+      "mañana",
+      "cuñada",
+      "nada",
+      "papa",
+      "tienes",
+      "dudas",
+      "pago",
+      "debes",
+      "cotorro",
+      "total",
+      "200mil",
+      "gasto",
+      "sobraron",
+      "alquiler",
+      "usan",
+      "falta",
+      "algo",
+      "papaa",
+      "casa?",
+      "estabamos",
+      "pendientes",
+      "pregunta",
+      "procesador?",
+      "cargador",
+      "original",
+      "listoo",
+      "escribi",
+      "👍🏻👍🏻",
+      "ricoo",
+      "feliz",
+      "fernanda",
+      "fue?",
+      "echa",
+      "chisme",
+      "mira",
+      "alla",
+      "graciaaas"
+    ],
+    "topEmojis": [
+      "😂",
+      "👍",
+      "🏻"
+    ],
+    "topContacts": [
+      "Stephany Mujica",
+      "Papa"
+    ],
+    "peakHour": "19"
+  },
+  "psyche": {
+    "traits": [
+      "Pragmático-Transaccional",
+      "Evitador de Conflicto Emocional",
+      "Dependiente del Eje Familiar",
+      "Micro-gestor de lo Cotidiano",
+      "Observador Social Indirecto"
+    ],
+    "summary_of_self": "DIEGO_SOURCE en 2018 parece operar bajo una persona fuertemente pragmática y orientada a la gestión de asuntos concretos, especialmente de índole financiera y logística dentro del núcleo familiar. Su comunicación, predominantemente transaccional y funcional, sugiere una tendencia a la intelectualización de la experiencia, donde las emociones profundas son subsumidas o externalizadas en tareas y responsabilidades. El uso frecuente del humor (\"jajajajjaa\", 😂) y emojis positivos actúa como un mecanismo de defensa, una máscara social para mantener un tono ligero y probablemente para desviar la atención de posibles ansiedades subyacentes o para evitar una confrontación emocional directa. Esta inclinación a mantener las interacciones superficiales y centradas en el \"hacer\" más que en el \"sentir\" podría indicar una represión de aspectos emocionales más complejos, donde la \"resiliencia\" percibida es, en realidad, una habilidad para gestionar el entorno externo sin procesar adecuadamente el impacto interno.\n\nLa principal fuente de estrés parece derivar de la constante necesidad de gestionar obligaciones económicas y logísticas, un patrón que lo sitúa en un rol de responsabilidad dentro de su dinámica familiar. La profunda interconexión con sus figuras parentales y familiares clave (Papa, Stephany Mujica) revela una estructura de apoyo y dependencia que, si bien funcional, podría estar frenando un proceso de individuación más autónomo. Su madurez se manifiesta en la capacidad de asumir y ejecutar responsabilidades prácticas, pero hay una contradicción entre esta competencia externa y la aparente evitación de la introspección emocional, sugiriendo que su crecimiento psíquico está más enfocado en la adaptación al colectivo que en la integración de su sombra personal.",
+    "canonical_events": [
+      {
+        "event": "Gestión y Cumplimiento de Obligaciones Financieras con el Padre",
+        "person": "Papa (Padre / Father)",
+        "sentiment": "Neutral",
+        "description": "Diego participa activamente en el manejo de pagos, depósitos y gastos, indicando una relación de co-gestión o dependencia financiera con su padre."
+      },
+      {
+        "event": "Intercambio de Noticias y Vida Social Familiar con Stephany",
+        "person": "Stephany Mujica (Familiar - Sister/Cousin?)",
+        "sentiment": "Positive",
+        "description": "Mantiene una comunicación cercana con Stephany, compartiendo detalles informales de su vida o la de terceros."
+      },
+      {
+        "event": "Búsqueda y Resolución de Problemas Logísticos o Tecnológicos",
+        "person": "Empleado / Colega",
+        "sentiment": "Neutral",
+        "description": "Demuestra un enfoque práctico para resolver necesidades materiales o técnicas, buscando información o asistencia, probablemente con colegas o en un contexto laboral."
+      }
+    ]
+  },
+  "social": {
+    "summary": "Diego opera dentro de un círculo social íntimo y altamente funcional, centrado principalmente en la familia. Las dinámicas de poder y afecto parecen girar en torno a la co-dependencia y la gestión de responsabilidades compartidas, especialmente financieras, con su padre (\"Papa\"). La relación con \"Stephany Mujica\" parece ser de cercanía y confianza, donde se comparten aspectos más ligeros y sociales. La ausencia de interacciones significativas con las parejas románticas (\"Fabi\", \"Fabiola\") en estos datos de chat sugiere que estas relaciones, si existen, operan en un canal diferente, son menos centrales en su vida práctica diaria comunicada por este medio, o tienen una dinámica de comunicación distinta y menos integrada con el resto de su vida funcional. La interacción con \"Empleados/Colegas\" se infiere principalmente a través de la naturaleza transaccional de las conversaciones, apoyando la imagen de alguien inmerso en la gestión de asuntos prácticos y laborales, lo que podría diluir las fronteras entre lo personal y lo funcional."
+  },
+  "samples": [
+    "Y 50 de comida",
+    "Feliz porque no esta fernanda",
+    "Son 150 a mi mama",
+    "Eso pega con todo",
+    "Ajjjajaja de nada cuñada buenas noches",
+    "Y para comida son",
+    "Y son 150 cada uno de alquiler",
+    "Papaa ya en casa?",
+    "Pero lo tengo en efectivoo",
+    "En total son 200mil cada uno",
+    "Que se usan por si falta algo",
+    "Dejame lo deposito en caja vecina",
+    "Cuñada que netflix estam usando ustedes?",
+    "Ya esta aqui la caja",
+    "Mi mama y que no sabia nada y no lo quizo recicir",
+    "Jajajajjaa pero porque se fue?",
+    "Se gasto 140 en comida",
+    "Si no le gusta bueno me lo quedo yo 😂",
+    "Papa si tienes dudas del pago",
+    "Sii si esta bonito",
+    "Que se los debes a cotorro",
+    "No me recordaste nadaa",
+    "Mira que no voy para alla",
+    "Si esta un poco fuerte",
+    "Ya llega el martes creo"
+  ]
+}

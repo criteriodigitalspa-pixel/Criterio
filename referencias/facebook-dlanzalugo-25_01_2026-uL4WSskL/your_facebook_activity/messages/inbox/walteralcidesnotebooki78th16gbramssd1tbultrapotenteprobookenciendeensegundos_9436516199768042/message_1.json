@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Walter Alcides Casera Ubilla"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741133924182,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741133923763,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741133923415,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Walter Alcides Casera Ubilla",
+      "timestamp_ms": 1741133917612,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Walter Alcides Casera Ubilla",
+      "timestamp_ms": 1741133913585,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Walter Alcides Casera Ubilla",
+      "timestamp_ms": 1741133913384,
+      "content": "Walter Alcides inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Walter Alcides \u00c2\u00b7 Notebook i7-8th / 16GB RAM/ SSD + 1TB Ultra Potente / PROBOOK / Enciende en segundos!",
+  "is_still_participant": true,
+  "thread_path": "inbox/walteralcidesnotebooki78th16gbramssd1tbultrapotenteprobookenciendeensegundos_9436516199768042",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

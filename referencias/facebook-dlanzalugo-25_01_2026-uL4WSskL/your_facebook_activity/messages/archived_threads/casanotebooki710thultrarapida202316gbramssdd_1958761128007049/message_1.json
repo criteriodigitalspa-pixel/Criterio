@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Casa Manquehue"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767457817407,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Casa Manquehue",
+      "timestamp_ms": 1766567658165,
+      "content": "Casa est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Casa Manquehue",
+      "timestamp_ms": 1766523917885,
+      "content": "Casa Manquehue te envi\u00c3\u00b3 un mensaje sobre tu publicaci\u00c3\u00b3n: Notebook i7-10th Ultra Rapida / 2023 / 16gb RAM / SSDD.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Casa Manquehue",
+      "timestamp_ms": 1766523916051,
+      "content": "Hola muy buenas, permutar\u00c3\u00ada por una PS4 con mando y juego + un Lenovo IdeaPad 1 + 60 mil ? Art\u00c3\u00adculos en excelente estado los entrego probados y garantizados",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Casa Manquehue",
+      "timestamp_ms": 1766523915771,
+      "content": "Casa inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Casa \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/casanotebooki710thultrarapida202316gbramssdd_1958761128007049",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

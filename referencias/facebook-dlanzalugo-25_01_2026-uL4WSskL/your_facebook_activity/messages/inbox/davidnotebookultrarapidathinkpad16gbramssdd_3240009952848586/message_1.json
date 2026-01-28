@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "David Vargas"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767891888624,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "David Vargas",
+      "timestamp_ms": 1767471737208,
+      "content": "David est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "David Vargas",
+      "timestamp_ms": 1767448490860,
+      "content": "David Vargas te envi\u00c3\u00b3 un mensaje sobre tu publicaci\u00c3\u00b3n: Notebook Ultra Rapida Thinkpad  / 16gb RAM / SSDD.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "David Vargas",
+      "timestamp_ms": 1767448485923,
+      "content": "Hola. \u00c2\u00bfSigue disponible? Vendes por mercado libre ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "David Vargas",
+      "timestamp_ms": 1767448485632,
+      "content": "David inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "David \u00c2\u00b7 Notebook Ultra Rapida Thinkpad  / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "inbox/davidnotebookultrarapidathinkpad16gbramssdd_3240009952848586",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

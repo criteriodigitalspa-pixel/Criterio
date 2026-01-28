@@ -1,0 +1,120 @@
+{
+  "participants": [
+    {
+      "name": "Usuario de Facebook"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Usuario de Facebook",
+      "timestamp_ms": 1732401598192,
+      "content": "Nuevamente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usuario de Facebook",
+      "timestamp_ms": 1732401596102,
+      "content": "Aun lo acabo de llamar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732398805812,
+      "content": "Estoy conel cel en la mano pero no me llega nada jajaja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732398751059,
+      "content": "A ver dame tu numero",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usuario de Facebook",
+      "timestamp_ms": 1732398728746,
+      "content": "Lo estoy llamando pero sale ocupado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732398688033,
+      "content": "994919000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732398684969,
+      "content": "Si amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usuario de Facebook",
+      "timestamp_ms": 1732398669495,
+      "content": "Tienes alguna contacto estoi interesado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732398645863,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usuario de Facebook",
+      "timestamp_ms": 1732398608289,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usuario de Facebook",
+      "timestamp_ms": 1732398604758,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usuario de Facebook",
+      "timestamp_ms": 1732398604424,
+      "content": "Usuario",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usuario de Facebook",
+      "timestamp_ms": 1732398602797,
+      "content": "Un contacto asign\u00c3\u00b3 al grupo el nombre \"Juan \u00c2\u00b7 Notebook i7-10th Ultra Rapida y potente HP Envy 13\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usuario de Facebook",
+      "timestamp_ms": 1732398602797,
+      "content": "Un contacto cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Juan \u00c2\u00b7 Notebook i7-10th Ultra Rapida y potente HP Envy 13",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/juannotebooki710thultrarapidaypotentehpenvy13_8822494291162659",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

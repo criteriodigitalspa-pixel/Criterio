@@ -1,0 +1,99 @@
+{
+  "participants": [
+    {
+      "name": "Rodrigo Polanco"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756996441363,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756855981667,
+      "content": "Estimado si le intereso el negocio?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756849657442,
+      "content": "Lago pirihueico 6502, la florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756849648507,
+      "content": "Comuna la florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Polanco",
+      "timestamp_ms": 1756849567379,
+      "content": "D\u00c3\u00b3nde est\u00c3\u00a1s ubicado?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756849451655,
+      "content": "Jajaja vale te lo acepto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Polanco",
+      "timestamp_ms": 1756849369654,
+      "content": "Como en el precio de la historia jajaja, que tal 135 y lo paso a buscar ahora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756848116874,
+      "content": "Hola Rodrigo, agradezco tu oferta, te parece si cerramos en 140?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Polanco",
+      "timestamp_ms": 1756847657338,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Polanco",
+      "timestamp_ms": 1756847653516,
+      "content": "130?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Polanco",
+      "timestamp_ms": 1756847653294,
+      "content": "Rodrigo inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rodrigo \u00c2\u00b7 Notebook Ultra Rapida Dell i5 con 16GB RAM Muy Potente Con M2 256GB ENCIENDE EN 7 SEGUNDOS!",
+  "is_still_participant": true,
+  "thread_path": "inbox/rodrigonotebookultrarapidadelli5con16gbrammuypotenteconm2256gbenciendeen7segundos_783612160815719",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

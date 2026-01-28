@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Jesuss Salvattore"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768068866466,
+      "content": "Hola, buenas. Si te quedo alguna duda o no estas seguro si el equipo te sirve para lo que buscas dime nomas y te ayudo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767782121464,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jesuss Salvattore",
+      "timestamp_ms": 1767759408530,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jesuss Salvattore",
+      "timestamp_ms": 1767759403959,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jesuss Salvattore",
+      "timestamp_ms": 1767759403625,
+      "content": "Jesuss Salvattore",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jesuss Salvattore",
+      "timestamp_ms": 1767759401260,
+      "content": "Jesuss asign\u00c3\u00b3 al grupo el nombre \"Jesuss \u00c2\u00b7 Ultra Potente Thinkpad i7 /16GB RAM / SSDD / Corre Todo\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jesuss Salvattore",
+      "timestamp_ms": 1767759401260,
+      "content": "Jesuss cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jesuss \u00c2\u00b7 Ultra Potente Thinkpad i7 /16GB RAM / SSDD / Corre Todo",
+  "is_still_participant": true,
+  "thread_path": "inbox/jesussultrapotentethinkpadi716gbramssddcorretodo_1404908974761099",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

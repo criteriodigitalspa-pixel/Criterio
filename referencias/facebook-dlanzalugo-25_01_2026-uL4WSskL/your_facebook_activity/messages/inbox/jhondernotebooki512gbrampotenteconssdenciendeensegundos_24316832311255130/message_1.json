@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Jhonder Mendoza"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1751071319578,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jhonder Mendoza",
+      "timestamp_ms": 1750991132047,
+      "content": "No llego",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750983341253,
+      "content": "140mil podria ser",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jhonder Mendoza",
+      "timestamp_ms": 1750977753249,
+      "content": "Donde se puede ver?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jhonder Mendoza",
+      "timestamp_ms": 1750977743625,
+      "content": "Aceptas 120?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jhonder Mendoza",
+      "timestamp_ms": 1750977719678,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jhonder Mendoza",
+      "timestamp_ms": 1750977713925,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jhonder Mendoza",
+      "timestamp_ms": 1750977713637,
+      "content": "Jhonder inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jhonder \u00c2\u00b7 Notebook i5 12GB RAM Potente con SSD ENCIENDE EN SEGUNDOS",
+  "is_still_participant": true,
+  "thread_path": "inbox/jhondernotebooki512gbrampotenteconssdenciendeensegundos_24316832311255130",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

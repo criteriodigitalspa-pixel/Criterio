@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Frank Ivan Davila Pi\u00c3\u00b1eda"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729423688762,
+      "content": "Le interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729395449052,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729391853143,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Frank Ivan Davila Pi\u00c3\u00b1eda",
+      "timestamp_ms": 1729390880154,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Frank Ivan Davila Pi\u00c3\u00b1eda",
+      "timestamp_ms": 1729390877102,
+      "content": "\u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Frank Ivan Davila Pi\u00c3\u00b1eda",
+      "timestamp_ms": 1729390876904,
+      "content": "Frank inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Frank \u00c2\u00b7 Notebook Potente Dell i5 con 8GB Ram y 1TB de almacenamiento",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/franknotebookpotentedelli5con8gbramy1tbdealmacenamiento_8994957870523393",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

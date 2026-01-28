@@ -1,0 +1,96 @@
+{
+  "participants": [
+    {
+      "name": "Nicolas Rodrigo Escobar Garrido"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703623273462,
+      "content": "De sexta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Rodrigo Escobar Garrido",
+      "timestamp_ms": 1703622445196,
+      "content": "De que generacion es el intel core?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703430409791,
+      "content": "Nicolas cuentame, le intereso?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703340494528,
+      "content": "Si sigue disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703340488950,
+      "content": "Hola Nicolas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Rodrigo Escobar Garrido",
+      "timestamp_ms": 1703339963534,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Rodrigo Escobar Garrido",
+      "timestamp_ms": 1703339959334,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Rodrigo Escobar Garrido",
+      "timestamp_ms": 1703339959096,
+      "content": "Nicolas Rodrigo Escobar Garrido",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Rodrigo Escobar Garrido",
+      "timestamp_ms": 1703339957674,
+      "content": "Nicolas Rodrigo cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Rodrigo Escobar Garrido",
+      "timestamp_ms": 1703339957092,
+      "content": "Nicolas Rodrigo asign\u00c3\u00b3 al grupo el nombre \"Nicolas Rodrigo \u00c2\u00b7 Notebook i5 16gb Ram con SSD, super rapido, corre todo\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nicolas Rodrigo \u00c2\u00b7 Notebook i5 16gb Ram con SSD, super rapido, corre todo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/nicolasrodrigonotebooki516gbramconssdsuperrapidocorretodo_7627808063915290",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/734541101534250.jpg",
+    "creation_timestamp": 1703339954
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

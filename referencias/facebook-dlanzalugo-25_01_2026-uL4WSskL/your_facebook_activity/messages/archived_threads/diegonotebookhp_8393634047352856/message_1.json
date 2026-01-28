@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Benja Maas"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Benja Maas",
+      "timestamp_ms": 1729132567694,
+      "content": "Benja baj\u00c3\u00b3 el precio de notebook hp a $60,000.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benja Maas",
+      "timestamp_ms": 1728604221408,
+      "content": "\u00c2\u00bfA\u00c3\u00ban te interesa? Responde a: \u00c2\u00bfA\u00c3\u00ban te interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benja Maas",
+      "timestamp_ms": 1728598805634,
+      "content": "\u00c2\u00bfA\u00c3\u00ban te interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728520442305,
+      "content": "Ver publicaciones similares",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728390839883,
+      "content": "Buenos d\u00c3\u00adas. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728390836703,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 notebook hp\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728390836703,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 notebook hp",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebookhp_8393634047352856",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1059551739136620.jpg",
+    "creation_timestamp": 1728390835
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

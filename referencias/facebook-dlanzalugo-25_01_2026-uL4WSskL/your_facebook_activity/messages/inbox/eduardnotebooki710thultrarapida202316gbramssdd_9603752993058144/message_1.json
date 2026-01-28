@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Eduard Martin"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753359206981,
+      "content": "El equipo esta listo para usar.\nPuede probarlo y revisar con calma.\nEntrego en:\nMi domicilio en comuna la florida.\n\nDespacho a domicilio 10mil adicional (dependiendo de la comuna).\n\nEstacion de metro a convenir sin costo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753359204988,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eduard Martin",
+      "timestamp_ms": 1753355162354,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eduard Martin",
+      "timestamp_ms": 1753355160462,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eduard Martin",
+      "timestamp_ms": 1753355160263,
+      "content": "Eduard inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Eduard \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "inbox/eduardnotebooki710thultrarapida202316gbramssdd_9603752993058144",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

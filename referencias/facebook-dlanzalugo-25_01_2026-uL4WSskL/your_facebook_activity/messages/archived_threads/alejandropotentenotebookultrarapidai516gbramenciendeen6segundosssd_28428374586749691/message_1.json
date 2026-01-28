@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Alejandro Arancibia Gonzalez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732072596030,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732072580615,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Arancibia Gonzalez",
+      "timestamp_ms": 1732071165799,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Arancibia Gonzalez",
+      "timestamp_ms": 1732071161351,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Arancibia Gonzalez",
+      "timestamp_ms": 1732071161118,
+      "content": "Alejandro inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Alejandro \u00c2\u00b7 Potente Notebook Ultra Rapida i5 16GB RAM  Enciende en 6 Segundos SSD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/alejandropotentenotebookultrarapidai516gbramenciendeen6segundosssd_28428374586749691",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

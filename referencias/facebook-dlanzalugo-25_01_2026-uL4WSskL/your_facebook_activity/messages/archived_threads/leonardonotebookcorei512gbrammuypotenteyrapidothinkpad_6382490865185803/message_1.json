@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Leonardo Vargas"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703301416171,
+      "content": "Con los 12gb de ram 115 lo minimo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703301376787,
+      "content": "Confirmame y te lo paso a llevar al metro que te acomode ma\u00c3\u00b1ana a primera hora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703301254211,
+      "content": "Hola Leonardo, claro con 8gb de ram te lo acepto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leonardo Vargas",
+      "timestamp_ms": 1703301197875,
+      "content": "Leonardo Vargas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leonardo Vargas",
+      "timestamp_ms": 1703301197872,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leonardo Vargas",
+      "timestamp_ms": 1703301194108,
+      "content": "Leonardo asign\u00c3\u00b3 al grupo el nombre \"Leonardo \u00c2\u00b7 Notebook Core i5, 12GB Ram Muy potente y rapido, thinkpad\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leonardo Vargas",
+      "timestamp_ms": 1703301194108,
+      "content": "Leonardo cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leonardo Vargas",
+      "timestamp_ms": 1703301194108,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?aceptas 100 para ma\u00c3\u00b1ana ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Leonardo \u00c2\u00b7 Notebook Core i5, 12GB Ram Muy potente y rapido, thinkpad",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/leonardonotebookcorei512gbrammuypotenteyrapidothinkpad_6382490865185803",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

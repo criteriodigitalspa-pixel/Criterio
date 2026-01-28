@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Martin Alcazar"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Martin Alcazar",
+      "timestamp_ms": 1768439718458,
+      "content": "Martin cambi\u00c3\u00b3 la descripci\u00c3\u00b3n de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Martin Alcazar",
+      "timestamp_ms": 1768439717921,
+      "content": "Martin baj\u00c3\u00b3 el precio de Cargadores notebook HP 120W / Cargador HP 65W. a $10.000.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Martin Alcazar",
+      "timestamp_ms": 1768157583426,
+      "content": "Martin cambi\u00c3\u00b3 el t\u00c3\u00adtulo de la publicaci\u00c3\u00b3n a Cargadores notebook HP 120W / Cargador HP 65W.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Martin Alcazar",
+      "timestamp_ms": 1768092854291,
+      "content": "Martin respondi\u00c3\u00b3 tu mensaje sobre Cargadores notebook HP 120W / Cargador HP 65W.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Martin Alcazar",
+      "timestamp_ms": 1768084890529,
+      "content": "Cu\u00c3\u00a1l necesitas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Martin Alcazar",
+      "timestamp_ms": 1768084872649,
+      "content": "Disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768080091071,
+      "content": "Buenas noches. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768080090781,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Cargador HP 120W / Cargador HP 65W.",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegocargadorhp120wcargadorhp65w_1195476945537744",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/888718040680850.jpg",
+    "creation_timestamp": 1768080087
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

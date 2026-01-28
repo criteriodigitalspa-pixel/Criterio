@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Eduardo Andres Ladino"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Eduardo Andres Ladino",
+      "timestamp_ms": 1768645607346,
+      "content": "Eduardo vendi\u00c3\u00b3 Memorias ram Ddr4 y DDR3.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731892858970,
+      "content": "Publicaciones similares a \"Memorias ram Ddr4 y DDR3\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731763255446,
+      "content": "Buenos d\u00c3\u00adas. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731763252562,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Memorias ram Ddr4 y DDR3\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731763252562,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Memorias ram Ddr4 y DDR3",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegomemoriasramddr4yddr3_8816103855141680",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/3647805652195092.jpg",
+    "creation_timestamp": 1731763251
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -32,3 +32,18 @@ yarn-error.log*
 .firebase/
 firebase-debug.log
 service-account.json
+
+# User Data (Massive/Private)
+Mirror_Private/
+!Mirror_Private/remote_watcher_v2.js
+!Mirror_Private/remote_bridge.js
+!Mirror_Private/.env.example
+
+# Heavies
+*.mp4
+*.exe
+*.zip
+*.iso
+*.avi
+*.mov
+*.msi

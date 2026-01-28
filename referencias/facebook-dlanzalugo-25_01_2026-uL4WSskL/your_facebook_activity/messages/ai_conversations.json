@@ -1,0 +1,297 @@
+{
+  "title": "Meta AI",
+  "timestamp": 1754672733,
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Mensajes fijados",
+      "vec": [
+        
+      ]
+    },
+    {
+      "label": "Resumen",
+      "value": ""
+    },
+    {
+      "label": "Efectos de texto",
+      "vec": [
+        
+      ]
+    },
+    {
+      "label": "Imagen"
+    },
+    {
+      "label": "\u00c2\u00bfEres administrador?",
+      "value": "Falso"
+    },
+    {
+      "label": "Enlace para unirse",
+      "dict": [
+        {
+          "label": "Enlace",
+          "value": "",
+          "href": ""
+        },
+        {
+          "label": "Privacidad",
+          "value": "Privado"
+        }
+      ]
+    },
+    {
+      "dict": [
+        
+      ],
+      "title": "Participantes anteriores"
+    },
+    {
+      "dict": [
+        
+      ],
+      "title": "Art\u00c3\u00adculo de Marketplace"
+    },
+    {
+      "dict": [
+        {
+          "dict": [
+            {
+              "label": "Mensaje"
+            },
+            {
+              "label": "Sticker"
+            },
+            {
+              "label": "Direcci\u00c3\u00b3n IP"
+            },
+            {
+              "label": "Mensaje",
+              "value": "La conjuntivitis en beb\u00c3\u00a9s puede ser causada por bacterias, virus o alergias. Aqu\u00c3\u00ad te dejo algunos consejos para cuidar a un beb\u00c3\u00a9 con conjuntivitis:\n\n1. Limpia los ojos suavemente con un pa\u00c3\u00b1o h\u00c3\u00bamedo y tibio para eliminar secreciones.\n2. Aplica gotas o ung\u00c3\u00bcentos oft\u00c3\u00a1lmicos recetados por el m\u00c3\u00a9dico seg\u00c3\u00ban las indicaciones.\n3. Mant\u00c3\u00a9n las manos limpias y evita tocar los ojos del beb\u00c3\u00a9 para prevenir la propagaci\u00c3\u00b3n de la infecci\u00c3\u00b3n.\n4. Lava las toallas y pa\u00c3\u00b1os despu\u00c3\u00a9s de cada uso.\n5. Evita compartir objetos personales como toallas o almohadas.\n6. Sigue las instrucciones del m\u00c3\u00a9dico para el tratamiento y la duraci\u00c3\u00b3n.\n\nEs fundamental consultar con un pediatra o oftalm\u00c3\u00b3logo para determinar la causa y recibir tratamiento adecuado. \u00c2\u00bfNecesitas m\u00c3\u00a1s informaci\u00c3\u00b3n sobre c\u00c3\u00b3mo prevenir la propagaci\u00c3\u00b3n de la infecci\u00c3\u00b3n en el hogar?"
+            },
+            {
+              "label": "Reacciones",
+              "vec": [
+                
+              ]
+            },
+            {
+              "label": "Respondiendo a"
+            },
+            {
+              "label": "Transcripci\u00c3\u00b3n"
+            },
+            {
+              "label": "No disponible"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Archivo adjunto"
+            },
+            {
+              "label": "Nombre",
+              "value": "Diego Lanza"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Soundmoji"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Llamadas de audio"
+            },
+            {
+              "timestamp_value": 1754672733
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Mensaje"
+            },
+            {
+              "label": "Sticker"
+            },
+            {
+              "label": "Direcci\u00c3\u00b3n IP"
+            },
+            {
+              "label": "Mensaje",
+              "value": "C\u00c3\u00b3mo cuidar a un beb\u00c3\u00a9 con conjuntivitis"
+            },
+            {
+              "label": "Reacciones",
+              "vec": [
+                
+              ]
+            },
+            {
+              "label": "Respondiendo a"
+            },
+            {
+              "label": "Transcripci\u00c3\u00b3n"
+            },
+            {
+              "label": "No disponible"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Archivo adjunto"
+            },
+            {
+              "label": "Nombre",
+              "value": "Diego Lanza"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Soundmoji"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Llamadas de audio"
+            },
+            {
+              "timestamp_value": 1754672733
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Mensaje"
+            },
+            {
+              "label": "Sticker"
+            },
+            {
+              "label": "Direcci\u00c3\u00b3n IP"
+            },
+            {
+              "label": "Mensaje",
+              "value": "Soy Meta AI y puedes usarme como un asistente para aprender, planificar y conectarte. \u00c2\u00bfEn qu\u00c3\u00a9 puedo ayudarte hoy?"
+            },
+            {
+              "label": "Reacciones",
+              "vec": [
+                
+              ]
+            },
+            {
+              "label": "Respondiendo a"
+            },
+            {
+              "label": "Transcripci\u00c3\u00b3n"
+            },
+            {
+              "label": "No disponible"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Archivo adjunto"
+            },
+            {
+              "label": "Nombre",
+              "value": "Meta AI"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Soundmoji"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Llamadas de audio"
+            },
+            {
+              "timestamp_value": 1754672733
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Mensaje",
+              "value": "Meta AI asign\u00c3\u00b3 al grupo el nombre \"thread for mailbox1684369488815850\"."
+            },
+            {
+              "label": "Sticker"
+            },
+            {
+              "label": "Direcci\u00c3\u00b3n IP"
+            },
+            {
+              "label": "Mensaje",
+              "value": ""
+            },
+            {
+              "label": "Reacciones",
+              "vec": [
+                
+              ]
+            },
+            {
+              "label": "Respondiendo a"
+            },
+            {
+              "label": "Transcripci\u00c3\u00b3n"
+            },
+            {
+              "label": "No disponible"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Archivo adjunto"
+            },
+            {
+              "label": "Nombre",
+              "value": "Meta AI"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Soundmoji"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Llamadas de audio"
+            },
+            {
+              "timestamp_value": 1754672733
+            }
+          ],
+          "title": ""
+        }
+      ],
+      "title": "Mensajes"
+    }
+  ],
+  "fbid": "24467288549575327"
+}

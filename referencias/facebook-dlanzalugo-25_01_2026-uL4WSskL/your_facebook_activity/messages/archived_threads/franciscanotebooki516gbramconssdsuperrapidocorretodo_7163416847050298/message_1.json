@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Francisca Camila"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703429614852,
+      "content": "Hola Francisca, si sigue disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisca Camila",
+      "timestamp_ms": 1703429338645,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisca Camila",
+      "timestamp_ms": 1703429334708,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisca Camila",
+      "timestamp_ms": 1703429334545,
+      "content": "Francisca Camila",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisca Camila",
+      "timestamp_ms": 1703429333082,
+      "content": "Francisca cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisca Camila",
+      "timestamp_ms": 1703429332600,
+      "content": "Francisca asign\u00c3\u00b3 al grupo el nombre \"Francisca \u00c2\u00b7 Notebook i5 16gb Ram con SSD, super rapido, corre todo\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Francisca \u00c2\u00b7 Notebook i5 16gb Ram con SSD, super rapido, corre todo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/franciscanotebooki516gbramconssdsuperrapidocorretodo_7163416847050298",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/372608128637141.jpg",
+    "creation_timestamp": 1703429330
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "participants": [
+    {
+      "name": "Jonathan Wilton"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765992968378,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765992961815,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Disponible.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757189716283,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Wilton",
+      "timestamp_ms": 1756858361479,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/jonathannotebookhp16gbrami5gamernvidiageforcepotenteultrarapido_24308280665481293/audio/1516725429483124.mp4",
+          "creation_timestamp": 1756858359
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756858268990,
+      "content": "+56 9 94919000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756858261007,
+      "content": "Para que los vea con calma",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756858257194,
+      "content": "Escribame al whatsapp y le envio mejor los notebooks que tengo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Wilton",
+      "timestamp_ms": 1756858167600,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/jonathannotebookhp16gbrami5gamernvidiageforcepotenteultrarapido_24308280665481293/audio/746211735077094.mp4",
+          "creation_timestamp": 1756858166
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Wilton",
+      "timestamp_ms": 1756858061757,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Wilton",
+      "timestamp_ms": 1756858060725,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756857494677,
+      "content": "El equipo esta listo para usar.\nPuede probarlo y revisar con calma.\nEntrego en Mi domicilio en la comuna de La Florida o lugar a convenir.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756857493359,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Wilton",
+      "timestamp_ms": 1756857190639,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Wilton",
+      "timestamp_ms": 1756857187484,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Wilton",
+      "timestamp_ms": 1756857186904,
+      "content": "Jonathan inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jonathan \u00c2\u00b7 Notebook HP / 16GB RAM / i5 / GAMER / NVIDIA GeForce / Potente ultra Rapido",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/jonathannotebookhp16gbrami5gamernvidiageforcepotenteultrarapido_24308280665481293",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

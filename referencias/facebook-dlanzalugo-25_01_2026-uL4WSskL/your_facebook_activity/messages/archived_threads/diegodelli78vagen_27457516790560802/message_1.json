@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Alexo Dvngr"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alexo Dvngr",
+      "timestamp_ms": 1730381408671,
+      "content": "El vendedor vendi\u00c3\u00b3 Dell i7 8va gen.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexo Dvngr",
+      "timestamp_ms": 1730381406706,
+      "content": "El vendedor marc\u00c3\u00b3 la publicaci\u00c3\u00b3n como Disponible.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Dell i7 8va gen",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegodelli78vagen_27457516790560802",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1236324417639711.jpg",
+    "creation_timestamp": 1730124742
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

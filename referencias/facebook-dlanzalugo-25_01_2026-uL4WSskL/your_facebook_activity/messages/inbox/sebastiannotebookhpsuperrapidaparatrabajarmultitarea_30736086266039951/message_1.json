@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Sebastian Hernandez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754618094260,
+      "content": "El equipo esta listo para usar.\nPuede probarlo y revisar con calma.\nEntrego en:\nMi domicilio en comuna la florida.\n\nDespacho a domicilio 10mil adicional (dependiendo de la comuna).\n\nEstacion de metro a convenir sin costo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754618092410,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Hernandez",
+      "timestamp_ms": 1754617941557,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Hernandez",
+      "timestamp_ms": 1754617940051,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible? D\u00c3\u00b3nde est\u00c3\u00a1s ubicado?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Hernandez",
+      "timestamp_ms": 1754617939873,
+      "content": "Sebastian inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sebastian \u00c2\u00b7 Notebook HP / Super Rapida para trabajar / Multi-Tarea",
+  "is_still_participant": true,
+  "thread_path": "inbox/sebastiannotebookhpsuperrapidaparatrabajarmultitarea_30736086266039951",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

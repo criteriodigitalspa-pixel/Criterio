@@ -1,0 +1,118 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Bastian Olivares"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bastian Olivares",
+      "timestamp_ms": 1732112630814,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bastian Olivares",
+      "timestamp_ms": 1732111062618,
+      "content": "Por cual?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732103619076,
+      "content": "Vale amigo, le interesa permutar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bastian Olivares",
+      "timestamp_ms": 1732061273591,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/bastiannotebookultrarapidadelli5con16gbrammuypotenteconm2256gbenciendeen7segundos_8788686687844527/audio/1098565435125280.mp4",
+          "creation_timestamp": 1732061271
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732058553454,
+      "content": "Si, no todos pero si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bastian Olivares",
+      "timestamp_ms": 1732058456897,
+      "content": "Consulta usted compra notebook?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732052484335,
+      "content": "Si, se encuentra disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732052479335,
+      "content": "Hola Bastian buenas tardes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bastian Olivares",
+      "timestamp_ms": 1732051436116,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bastian Olivares",
+      "timestamp_ms": 1732051431849,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bastian Olivares",
+      "timestamp_ms": 1732051431363,
+      "content": "Bastian Olivares",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bastian Olivares",
+      "timestamp_ms": 1732051428208,
+      "content": "Bastian asign\u00c3\u00b3 al grupo el nombre \"Bastian \u00c2\u00b7 Notebook Ultra Rapida Dell i5 con 16GB RAM Muy Potente Con M2 256GB ENCIENDE EN 7 SEGUNDOS!\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bastian Olivares",
+      "timestamp_ms": 1732051428208,
+      "content": "Bastian cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bastian \u00c2\u00b7 Notebook Ultra Rapida Dell i5 con 16GB RAM Muy Potente Con M2 256GB ENCIENDE EN 7 SEGUNDOS!",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/bastiannotebookultrarapidadelli5con16gbrammuypotenteconm2256gbenciendeen7segundos_8788686687844527",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

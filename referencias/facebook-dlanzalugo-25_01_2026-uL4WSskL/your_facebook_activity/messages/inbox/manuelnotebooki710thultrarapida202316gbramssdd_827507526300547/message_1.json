@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Manuel Mejias"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Manuel Mejias",
+      "timestamp_ms": 1760032508468,
+      "content": "\u00f0\u009f\u0099\u0083",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1760024610374,
+      "content": "300mil amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Mejias",
+      "timestamp_ms": 1760023951577,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Mejias",
+      "timestamp_ms": 1760023949417,
+      "content": "Valor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Mejias",
+      "timestamp_ms": 1760023948889,
+      "content": "Manuel inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Manuel \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "inbox/manuelnotebooki710thultrarapida202316gbramssdd_827507526300547",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

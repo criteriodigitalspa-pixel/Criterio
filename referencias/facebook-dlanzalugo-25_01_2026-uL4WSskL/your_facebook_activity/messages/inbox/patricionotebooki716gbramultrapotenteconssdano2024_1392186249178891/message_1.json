@@ -1,0 +1,92 @@
+{
+  "participants": [
+    {
+      "name": "Patricio Ramirez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Patricio Ramirez",
+      "timestamp_ms": 1762829668457,
+      "content": "972077243",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Ramirez",
+      "timestamp_ms": 1762829643130,
+      "content": "Te mano el numero por aca",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Ramirez",
+      "timestamp_ms": 1762829527004,
+      "content": "Por el thinkpad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Ramirez",
+      "timestamp_ms": 1762829522072,
+      "content": "Que te hable",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Ramirez",
+      "timestamp_ms": 1762829516639,
+      "content": "Soy el mismo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1762829317928,
+      "content": "Estoy en La Florida. Te acomoda la comuna o preferir\u00c3\u00adas que coordinemos en otro punto a convenir?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1762829312641,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Ramirez",
+      "timestamp_ms": 1762829306538,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Ramirez",
+      "timestamp_ms": 1762829304114,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Ramirez",
+      "timestamp_ms": 1762829303719,
+      "content": "Patricio inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Patricio \u00c2\u00b7 Notebook i7 / 16GB RAM Ultra Potente con SSD / A\u00c3\u00b1o 2024",
+  "is_still_participant": true,
+  "thread_path": "inbox/patricionotebooki716gbramultrapotenteconssdano2024_1392186249178891",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

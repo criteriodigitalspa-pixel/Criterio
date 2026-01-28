@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Francisco Aguilera"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Francisco Aguilera",
+      "timestamp_ms": 1741890003910,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Aguilera",
+      "timestamp_ms": 1741889995533,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Aguilera",
+      "timestamp_ms": 1741889994871,
+      "content": "Francisco inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Francisco \u00c2\u00b7 Notebook i7-11Th / 12GB RAM Ultra Potente / Probook/ 2023",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/francisconotebooki711th12gbramultrapotenteprobook2023_9375736725813819",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

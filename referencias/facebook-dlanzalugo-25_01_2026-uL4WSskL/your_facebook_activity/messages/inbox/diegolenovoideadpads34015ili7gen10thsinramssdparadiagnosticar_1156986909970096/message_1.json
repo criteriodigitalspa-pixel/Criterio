@@ -1,0 +1,131 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Sebastian Andres Salva"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sebastian Andres Salva",
+      "timestamp_ms": 1765595287035,
+      "content": "Sebastian cambi\u00c3\u00b3 la descripci\u00c3\u00b3n de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Andres Salva",
+      "timestamp_ms": 1765594896778,
+      "content": "Sebastian cambi\u00c3\u00b3 la descripci\u00c3\u00b3n de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Andres Salva",
+      "timestamp_ms": 1765594892813,
+      "content": "Sebastian cambi\u00c3\u00b3 el t\u00c3\u00adtulo de la publicaci\u00c3\u00b3n a Lenovo ideadPad S340 15IL (i7 Gen 10th) GPU da\u00c3\u00b1ada\u00e2\u009d\u008c\u00ef\u00b8\u008f.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Andres Salva",
+      "timestamp_ms": 1765490108153,
+      "content": "Sebastian cambi\u00c3\u00b3 la descripci\u00c3\u00b3n de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Andres Salva",
+      "timestamp_ms": 1764843945811,
+      "content": "\u00c3\u009altimo precio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Andres Salva",
+      "timestamp_ms": 1764843943454,
+      "content": "80 ya rebajado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764821765623,
+      "content": "Buenas noches",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764821762829,
+      "content": "Amigo 50mil y voy ma\u00c3\u00b1ana por lo que quede",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Andres Salva",
+      "timestamp_ms": 1764820164144,
+      "content": "Sebastian cambi\u00c3\u00b3 la descripci\u00c3\u00b3n de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Andres Salva",
+      "timestamp_ms": 1764820161630,
+      "content": "Sebastian cambi\u00c3\u00b3 el t\u00c3\u00adtulo de la publicaci\u00c3\u00b3n a Lenovo ideadPad S340 15IL (i7 Gen 10th) para Repuesto/Revisi\u00c3\u00b3n\u00e2\u009c\u0085\u00ef\u00b8\u008f.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Andres Salva",
+      "timestamp_ms": 1764820158806,
+      "content": "Sebastian baj\u00c3\u00b3 el precio de Lenovo ideadPad S340 15IL (i7 Gen 10th) para Repuesto/Revisi\u00c3\u00b3n\u00e2\u009c\u0085\u00ef\u00b8\u008f a $80.000.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Andres Salva",
+      "timestamp_ms": 1764767691976,
+      "content": "No respondiste a: Si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Andres Salva",
+      "timestamp_ms": 1764731356486,
+      "content": "Si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764730176012,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764730175823,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Lenovo ideadPad S340 15IL (i7 Gen 10th) SIN RAM & SSD (Para diagnosticar)",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegolenovoideadpads34015ili7gen10thsinramssdparadiagnosticar_1156986909970096",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1423927062418285.jpg",
+    "creation_timestamp": 1764730172
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

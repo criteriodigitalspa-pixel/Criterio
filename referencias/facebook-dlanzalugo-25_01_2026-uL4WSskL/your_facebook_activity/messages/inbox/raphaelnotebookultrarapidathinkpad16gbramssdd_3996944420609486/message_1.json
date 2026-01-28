@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Raphael Vergara"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767891888603,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767367424667,
+      "content": "Todos los puertos, pantalla, Teclas, sonido, wifi, todo funcionando perfecto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767307950451,
+      "content": "Hola, buenas. Si te quedo alguna duda o no estas seguro si el equipo te sirve para lo que buscas dime nomas y te ayudo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767099804338,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Raphael Vergara",
+      "timestamp_ms": 1767093708271,
+      "content": "Raphael est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Raphael Vergara",
+      "timestamp_ms": 1767071969181,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Raphael Vergara",
+      "timestamp_ms": 1767071964462,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Raphael Vergara",
+      "timestamp_ms": 1767071964243,
+      "content": "Raphael inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Raphael \u00c2\u00b7 Notebook Ultra Rapida Thinkpad  / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "inbox/raphaelnotebookultrarapidathinkpad16gbramssdd_3996944420609486",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

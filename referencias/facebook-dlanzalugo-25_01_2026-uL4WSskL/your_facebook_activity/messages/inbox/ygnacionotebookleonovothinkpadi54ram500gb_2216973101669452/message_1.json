@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ygnacio Baca Alzugaray",
+      "timestamp_ms": 1766955838265,
+      "content": "Ygnacio Baca Alzugaray abandon\u00c3\u00b3 el grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ygnacio \u00c2\u00b7 Notebook leonovo thinkpad i5 4ram 500GB",
+  "is_still_participant": true,
+  "thread_path": "inbox/ygnacionotebookleonovothinkpadi54ram500gb_2216973101669452",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/373787769850905.jpg",
+    "creation_timestamp": 1544332447
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

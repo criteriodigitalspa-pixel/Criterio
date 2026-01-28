@@ -1,0 +1,241 @@
+{
+  "participants": [
+    {
+      "name": "Vicente Martinez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768954228886,
+      "content": "De nada, un placer",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vicente Martinez",
+      "timestamp_ms": 1768954026013,
+      "content": "Vale amigo, gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vicente Martinez",
+      "timestamp_ms": 1768954015540,
+      "content": "Vicente reaccion\u00c3\u00b3 \u00e2\u009d\u00a4 a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768953955545,
+      "content": "Dale cuando estes en santiago me avisas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768953946306,
+      "content": "Yo de la florida",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Vicente Martinez"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768953942820,
+      "content": "Aah super estamos al lado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vicente Martinez",
+      "timestamp_ms": 1768953919438,
+      "content": "Santiago, san Ram\u00c3\u00b3n",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vicente Martinez",
+      "timestamp_ms": 1768953908688,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vicente Martinez",
+      "timestamp_ms": 1768953906389,
+      "content": "Ya amigo, ando en conce en estos momentos le avisar\u00c3\u00a9 cuando ande en Santiago",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768953901642,
+      "content": "De donde eres?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768953882329,
+      "content": "Vale cerremos en 450mil me parece justo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vicente Martinez",
+      "timestamp_ms": 1768953831043,
+      "content": "Usted aceptar\u00c3\u00ada 450.000?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vicente Martinez",
+      "timestamp_ms": 1768953822691,
+      "content": "Perfecto amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vicente Martinez",
+      "timestamp_ms": 1768953815976,
+      "content": "Vicente reaccion\u00c3\u00b3 \u00e2\u009d\u00a4 a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vicente Martinez",
+      "timestamp_ms": 1768953808721,
+      "content": "Vicente reaccion\u00c3\u00b3 \u00e2\u009d\u00a4 a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768953795308,
+      "content": "Si quieres una inversion a largo plazo que te cumpla con todo, es de las mejores opciones",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Vicente Martinez"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768953781862,
+      "content": "Ya mira, este es el mas nuevo y potente que tengo disponible, es un equipo que esta dise\u00c3\u00b1ado para durar muchos muchos a\u00c3\u00b1os siendo totalmente competitivo",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Vicente Martinez"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vicente Martinez",
+      "timestamp_ms": 1768953678467,
+      "content": "Perfecto, e visto que tiene varios publicados y que sabe harto, quiero algo como para ingenier\u00c3\u00ada quer\u00c3\u00ada que me recomendara alguno de los que usted tiene publicados",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768953636457,
+      "content": "El precio es el publicado pero estoy abierto a una oferta razonable",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vicente Martinez",
+      "timestamp_ms": 1768953635503,
+      "content": "Vicente reaccion\u00c3\u00b3 \u00e2\u009d\u00a4 a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vicente Martinez",
+      "timestamp_ms": 1768953634802,
+      "content": "Vicente reaccion\u00c3\u00b3 \u00e2\u009d\u00a4 a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768953623884,
+      "content": "Si",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Vicente Martinez"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768953621891,
+      "content": "Ai disponible",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Vicente Martinez"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768953619408,
+      "content": "Holaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vicente Martinez",
+      "timestamp_ms": 1768953612997,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vicente Martinez",
+      "timestamp_ms": 1768953611182,
+      "content": "Hola. \u00c2\u00bfSigue disponible? Cu\u00c3\u00a1l es el \u00c3\u00baltimo precio?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vicente Martinez",
+      "timestamp_ms": 1768953610890,
+      "content": "Vicente inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Vicente \u00c2\u00b7 Ultra Potente Thinkpad i7 /16GB RAM / SSDD / Corre Todo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/vicenteultrapotentethinkpadi716gbramssddcorretodo_1184678347167437",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

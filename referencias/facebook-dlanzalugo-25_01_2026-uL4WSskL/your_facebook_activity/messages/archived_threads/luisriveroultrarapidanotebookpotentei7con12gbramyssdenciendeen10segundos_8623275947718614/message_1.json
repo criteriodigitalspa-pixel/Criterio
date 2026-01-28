@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Luis Rivero Junior"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730092991634,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730092985703,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro, puede revisarlo y probarlo con calma, sin compromiso. Solo si le gusta se lo lleva",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730092973962,
+      "content": "Hola si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Rivero Junior",
+      "timestamp_ms": 1730088853053,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Rivero Junior",
+      "timestamp_ms": 1730088847964,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Rivero Junior",
+      "timestamp_ms": 1730088847193,
+      "content": "Luis Rivero Junior",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Rivero Junior",
+      "timestamp_ms": 1730088844776,
+      "content": "Luis Rivero asign\u00c3\u00b3 al grupo el nombre \"Luis Rivero \u00c2\u00b7 Ultra Rapida Notebook Potente i7 con 12gb Ram y SSD ENCIENDE EN 10 SEGUNDOS\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Rivero Junior",
+      "timestamp_ms": 1730088844776,
+      "content": "Luis Rivero cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Luis Rivero \u00c2\u00b7 Ultra Rapida Notebook Potente i7 con 12gb Ram y SSD ENCIENDE EN 10 SEGUNDOS",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/luisriveroultrarapidanotebookpotentei7con12gbramyssdenciendeen10segundos_8623275947718614",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

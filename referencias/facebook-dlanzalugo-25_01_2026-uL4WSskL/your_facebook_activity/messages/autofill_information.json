@@ -1,0 +1,42 @@
+{
+  "autofill_information_v2": {
+    "CITY": [
+      "Santiago"
+    ],
+    "COUNTRY": [
+      "CL"
+    ],
+    "EMAIL": [
+      "diegol_9818@hotmail.com"
+    ],
+    "PHONE": [
+      "+56936180863"
+    ],
+    "GENDER": [
+      "male"
+    ],
+    "SLIDER": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "FIRST_NAME": [
+      "Diego"
+    ],
+    "LAST_NAME": [
+      "Lanza"
+    ],
+    "FULL_NAME": [
+      "Diego Lanza"
+    ],
+    "WORK_EMAIL": [
+      "diegol_9818@hotmail.com"
+    ],
+    "WORK_PHONE": [
+      "+56936180863"
+    ]
+  }
+}

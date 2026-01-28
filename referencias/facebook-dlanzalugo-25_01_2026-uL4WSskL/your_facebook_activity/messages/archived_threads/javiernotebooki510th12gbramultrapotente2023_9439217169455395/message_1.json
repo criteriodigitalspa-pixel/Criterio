@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Javier Bustamante"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Javier Bustamante",
+      "timestamp_ms": 1741831751439,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Javier Bustamante",
+      "timestamp_ms": 1741831745672,
+      "content": "Buenas, que tal est\u00c3\u00a1 de bater\u00c3\u00ada? Cuanto tiempo tiene de uso?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Javier Bustamante",
+      "timestamp_ms": 1741831745495,
+      "content": "Javier inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Javier \u00c2\u00b7 Notebook i5-10Th / 12GB RAM Ultra Potente/ 2023",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/javiernotebooki510th12gbramultrapotente2023_9439217169455395",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

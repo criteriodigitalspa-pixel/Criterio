@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Jonathan Pipe Canales B"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728889950034,
+      "content": "Publicaciones similares a \"Notebook Acer nuevo\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Pipe Canales B",
+      "timestamp_ms": 1728772211035,
+      "content": "\u00c2\u00bfA\u00c3\u00ban te interesa? Responde a: Si amigo $350 conversble",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Pipe Canales B",
+      "timestamp_ms": 1728760596261,
+      "content": "Si amigo $350 conversble",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728760346446,
+      "content": "Buenas tardes. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728760344223,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Notebook Acer nuevo\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728760344223,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook Acer nuevo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebookacernuevo_8571628152923271",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1743985386411800.jpg",
+    "creation_timestamp": 1728760343
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

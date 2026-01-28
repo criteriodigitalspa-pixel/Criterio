@@ -1,0 +1,106 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "C\u00c3\u00a9sar R\u00c3\u00ados Jerez"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768596211599,
+      "content": "+56 9 94919000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768596209180,
+      "content": "Si claro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768596207163,
+      "content": "Aah vale jajaja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "C\u00c3\u00a9sar R\u00c3\u00ados Jerez",
+      "timestamp_ms": 1768596204738,
+      "content": "Te hablo por wsp ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "C\u00c3\u00a9sar R\u00c3\u00ados Jerez",
+      "timestamp_ms": 1768596189416,
+      "content": "Yo te he comprado anteriormente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768596181904,
+      "content": "Bien y tu?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "C\u00c3\u00a9sar R\u00c3\u00ados Jerez",
+      "timestamp_ms": 1768596171277,
+      "content": "Como estas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "C\u00c3\u00a9sar R\u00c3\u00ados Jerez",
+      "timestamp_ms": 1768596163333,
+      "content": "Hola Diego",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768596094185,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "C\u00c3\u00a9sar R\u00c3\u00ados Jerez",
+      "timestamp_ms": 1768596094121,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "C\u00c3\u00a9sar R\u00c3\u00ados Jerez",
+      "timestamp_ms": 1768596082653,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "C\u00c3\u00a9sar R\u00c3\u00ados Jerez",
+      "timestamp_ms": 1768596082426,
+      "content": "C\u00c3\u00a9sar inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "C\u00c3\u00a9sar \u00c2\u00b7 Notebook Elitebook HP i5 Super Potente/ 12GB RAM / SSDD /",
+  "is_still_participant": true,
+  "thread_path": "inbox/cesarnotebookelitebookhpi5superpotente12gbramssdd_1249430123709845",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

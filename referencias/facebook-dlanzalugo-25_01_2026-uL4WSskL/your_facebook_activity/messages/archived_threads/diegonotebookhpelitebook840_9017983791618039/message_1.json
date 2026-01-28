@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Electr\u00c3\u00b3nica Mgb"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737389043298,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook HP Elitebook 840",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebookhpelitebook840_9017983791618039",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/616044697808734.jpg",
+    "creation_timestamp": 1737389039
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

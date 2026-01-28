@@ -1,0 +1,62 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Cristian Cerda"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Cristian Cerda",
+      "timestamp_ms": 1753212023733,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753194888661,
+      "content": "Hola estimado, buenos dias. A partir del mes que viene podre emitir facturas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristian Cerda",
+      "timestamp_ms": 1753194708803,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristian Cerda",
+      "timestamp_ms": 1753194707301,
+      "content": "Hola, consulta, me puedes dar factura?, si es as\u00c3\u00ad me interesa comprar tu equipo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristian Cerda",
+      "timestamp_ms": 1753194707110,
+      "content": "Cristian inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cristian \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "inbox/cristiannotebooki710thultrarapida202316gbramssdd_24083439201318334",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

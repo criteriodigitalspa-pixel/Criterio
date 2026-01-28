@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Juan Lagunas"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Juan Lagunas",
+      "timestamp_ms": 1740597470317,
+      "content": "Me interesa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Lagunas",
+      "timestamp_ms": 1740597433213,
+      "content": "Hola amigo lo tienes a\u00c3\u00ban",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Lagunas",
+      "timestamp_ms": 1740597214074,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Lagunas",
+      "timestamp_ms": 1740597211049,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Lagunas",
+      "timestamp_ms": 1740597210850,
+      "content": "Juan inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Juan \u00c2\u00b7 Notebook i5 12GB RAM Ultra Potente con SSD ELITEBOOK",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/juannotebooki512gbramultrapotenteconssdelitebook_9541758932536602",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

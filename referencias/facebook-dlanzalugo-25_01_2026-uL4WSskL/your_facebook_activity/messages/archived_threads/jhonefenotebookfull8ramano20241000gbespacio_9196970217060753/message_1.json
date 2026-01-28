@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "JhOnefe Quiroz"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "JhOnefe Quiroz",
+      "timestamp_ms": 1740171634107,
+      "content": "JhOnefe envi\u00c3\u00b3 un archivo adjunto.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "JhOnefe Quiroz",
+      "timestamp_ms": 1740171630914,
+      "content": "\u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "JhOnefe Quiroz",
+      "timestamp_ms": 1740171630727,
+      "content": "JhOnefe inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "JhOnefe \u00c2\u00b7 Notebook Full / 8 RAM / a\u00c3\u00b1o 2024 / 1000gb Espacio",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/jhonefenotebookfull8ramano20241000gbespacio_9196970217060753",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

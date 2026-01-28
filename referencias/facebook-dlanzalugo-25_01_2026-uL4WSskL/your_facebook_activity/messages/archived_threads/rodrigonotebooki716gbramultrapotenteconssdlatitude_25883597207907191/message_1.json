@@ -1,0 +1,117 @@
+{
+  "participants": [
+    {
+      "name": "Rodrigo Orellana"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759705723867,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Orellana",
+      "timestamp_ms": 1759602915112,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Orellana",
+      "timestamp_ms": 1759602912548,
+      "content": "oka",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759602393536,
+      "content": "Hola amigo, no estoy en mi casa en la noche se lo paso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Orellana",
+      "timestamp_ms": 1759602338576,
+      "content": "podras verle el estado util de la bateria? https://www.youtube.com/shorts/2ly8CiIxgsk",
+      "share": {
+        "link": "https://www.youtube.com/shorts/2ly8CiIxgsk",
+        "share_text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Orellana",
+      "timestamp_ms": 1759602330093,
+      "content": "amigo hoy ire a la florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759500197833,
+      "content": "Vale estare atento",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Orellana",
+      "timestamp_ms": 1759493854044,
+      "content": "A si voy seguido all, te aviso con anticipaci\u00c3\u00b3n",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759446468982,
+      "content": "Estoy en La Florida. Te acomoda la comuna o preferir\u00c3\u00adas que coordinemos en otro punto a convenir?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759446467375,
+      "content": "Hola. S\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para que lo pruebes con toda la calma del mundo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Orellana",
+      "timestamp_ms": 1759442630727,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Orellana",
+      "timestamp_ms": 1759442628638,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Orellana",
+      "timestamp_ms": 1759442628421,
+      "content": "Rodrigo inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rodrigo \u00c2\u00b7 Notebook i7 / 16GB RAM Ultra Potente con SSD Latitude",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/rodrigonotebooki716gbramultrapotenteconssdlatitude_25883597207907191",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

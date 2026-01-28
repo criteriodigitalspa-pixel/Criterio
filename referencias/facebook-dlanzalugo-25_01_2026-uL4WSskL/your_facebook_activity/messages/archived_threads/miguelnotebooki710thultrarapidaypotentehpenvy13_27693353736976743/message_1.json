@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Miguel Saavedra Nu\u00c3\u00b1ez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732446861302,
+      "content": "Todo funcionando excelente amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Miguel Saavedra Nu\u00c3\u00b1ez",
+      "timestamp_ms": 1732436490074,
+      "content": "Hola qu\u00c3\u00a9 tal, consulta alg\u00c3\u00ban detalle?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732416780642,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Miguel Saavedra Nu\u00c3\u00b1ez",
+      "timestamp_ms": 1732412471007,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Miguel Saavedra Nu\u00c3\u00b1ez",
+      "timestamp_ms": 1732412467144,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Miguel Saavedra Nu\u00c3\u00b1ez",
+      "timestamp_ms": 1732412466908,
+      "content": "Miguel inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Miguel \u00c2\u00b7 Notebook i7-10th Ultra Rapida y potente HP Envy 13",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/miguelnotebooki710thultrarapidaypotentehpenvy13_27693353736976743",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

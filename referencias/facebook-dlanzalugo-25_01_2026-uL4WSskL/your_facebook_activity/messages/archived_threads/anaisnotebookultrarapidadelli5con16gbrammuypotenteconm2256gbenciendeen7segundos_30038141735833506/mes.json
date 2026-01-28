@@ -1,0 +1,90 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Anais Bel\u00c3\u00a9n"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750644634560,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750641772101,
+      "content": "Shuta, gracias por la info",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750641762875,
+      "content": "Holaa, no la verdad no corre fornite",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anais Bel\u00c3\u00a9n",
+      "timestamp_ms": 1750638309337,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/anaisnotebookultrarapidadelli5con16gbrammuypotenteconm2256gbenciendeen7segundos_30038141735833506/photos/1499643697682402.png",
+          "creation_timestamp": 1750638301
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anais Bel\u00c3\u00a9n",
+      "timestamp_ms": 1750638309044,
+      "content": "te est\u00c3\u00a1n duplicando la publicaci\u00c3\u00b3n amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anais Bel\u00c3\u00a9n",
+      "timestamp_ms": 1750637969695,
+      "content": "disculpa le corre el fornite?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anais Bel\u00c3\u00a9n",
+      "timestamp_ms": 1750637665473,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anais Bel\u00c3\u00a9n",
+      "timestamp_ms": 1750637657975,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anais Bel\u00c3\u00a9n",
+      "timestamp_ms": 1750637657706,
+      "content": "Anais inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Anais \u00c2\u00b7 Notebook Ultra Rapida Dell i5 con 16GB RAM Muy Potente Con M2 256GB ENCIENDE EN 7 SEGUNDOS!",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/anaisnotebookultrarapidadelli5con16gbrammuypotenteconm2256gbenciendeen7segundos_30038141735833506",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

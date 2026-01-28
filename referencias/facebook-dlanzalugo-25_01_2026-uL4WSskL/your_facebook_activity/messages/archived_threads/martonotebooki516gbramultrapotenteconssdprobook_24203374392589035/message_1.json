@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Marto Esdxa"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1749682685620,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1749162413471,
+      "content": "No amigo gracias igual",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marto Esdxa",
+      "timestamp_ms": 1749162184811,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marto Esdxa",
+      "timestamp_ms": 1749162180402,
+      "content": "\u00c2\u00bfSigue disponible?hola  tengo una bici aro 27.5 de carretera, esta en excelente estado te interesaria permutar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marto Esdxa",
+      "timestamp_ms": 1749162179760,
+      "content": "Marto Esdxa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marto Esdxa",
+      "timestamp_ms": 1749162177212,
+      "content": "Marto asign\u00c3\u00b3 al grupo el nombre \"Marto \u00c2\u00b7 Notebook i5 16GB RAM Ultra Potente con SSD PROBOOK\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marto Esdxa",
+      "timestamp_ms": 1749162177212,
+      "content": "Marto cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Marto \u00c2\u00b7 Notebook i5 16GB RAM Ultra Potente con SSD PROBOOK",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/martonotebooki516gbramultrapotenteconssdprobook_24203374392589035",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

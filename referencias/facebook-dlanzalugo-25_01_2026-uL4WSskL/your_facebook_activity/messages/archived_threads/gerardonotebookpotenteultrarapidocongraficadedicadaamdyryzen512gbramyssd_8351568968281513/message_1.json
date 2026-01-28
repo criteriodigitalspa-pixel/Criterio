@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Gerardo Chacon"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gerardo Chacon",
+      "timestamp_ms": 1734619223456,
+      "content": "Gracias bro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734619207814,
+      "content": "No bro gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gerardo Chacon",
+      "timestamp_ms": 1734619165148,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gerardo Chacon",
+      "timestamp_ms": 1734619160602,
+      "content": "Hola disculpa permutas por tatuaje",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gerardo Chacon",
+      "timestamp_ms": 1734619160247,
+      "content": "Gerardo Chacon",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gerardo Chacon",
+      "timestamp_ms": 1734619158096,
+      "content": "Gerardo asign\u00c3\u00b3 al grupo el nombre \"Gerardo \u00c2\u00b7 Notebook Potente ultra Rapido con Grafica Dedicada AMD y Ryzen 5 12GB RAM y SSD\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gerardo Chacon",
+      "timestamp_ms": 1734619158096,
+      "content": "Gerardo cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gerardo \u00c2\u00b7 Notebook Potente ultra Rapido con Grafica Dedicada AMD y Ryzen 5 12GB RAM y SSD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/gerardonotebookpotenteultrarapidocongraficadedicadaamdyryzen512gbramyssd_8351568968281513",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

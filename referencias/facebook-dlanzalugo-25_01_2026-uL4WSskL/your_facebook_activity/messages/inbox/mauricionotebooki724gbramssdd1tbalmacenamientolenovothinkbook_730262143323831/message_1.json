@@ -1,0 +1,99 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Mauricio Greyrat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1758238778306,
+      "content": "Si tiene alguna duda mientras me avisa no mas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1758238766679,
+      "content": "Vale Mauricio le estare escribiendo para el lunes entonces",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Greyrat",
+      "timestamp_ms": 1758238728167,
+      "content": "El d\u00c3\u00ada seguro es el pr\u00c3\u00b3ximo viernes, pero puede que el lunes tambi\u00c3\u00a9n viaje",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1758238662835,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1758222105809,
+      "content": "Ah buenisimo que dia estaras por aca",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Greyrat",
+      "timestamp_ms": 1758220750329,
+      "content": "Hola, si me interesa, Soy de San Fernando, viajar\u00c3\u00a9 en bus as\u00c3\u00ad que podr\u00c3\u00adamos juntarnos en alg\u00c3\u00ban lugar cerca, mall o caf\u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1758220628911,
+      "content": "Estoy en La Florida. Te acomoda la comuna o preferir\u00c3\u00adas que coordinemos en otro punto a convenir?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1758220627208,
+      "content": "Hola. S\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para que lo pruebes con toda la calma del mundo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Greyrat",
+      "timestamp_ms": 1758218588039,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Greyrat",
+      "timestamp_ms": 1758218586245,
+      "content": "Hola, se encuentra a\u00c3\u00ban disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Greyrat",
+      "timestamp_ms": 1758218585946,
+      "content": "Mauricio inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mauricio \u00c2\u00b7 Notebook i7/24GB RAM / SSDD / 1TB almacenamiento/Lenovo ThinkBook",
+  "is_still_participant": true,
+  "thread_path": "inbox/mauricionotebooki724gbramssdd1tbalmacenamientolenovothinkbook_730262143323831",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

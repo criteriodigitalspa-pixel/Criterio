@@ -116,17 +116,26 @@ async function processJob(jobId, job) {
         printArgs.push(filePath);
 
         logger.info(`🖨️  Enviando trabajo a driver...`);
+        logger.info(`   CMD: ${sumatraPath} ${printArgs.join(' ')}`);
 
         await new Promise((resolve, reject) => {
             execFile(sumatraPath, printArgs, (error, stdout, stderr) => {
                 if (error) {
-                    logger.error(`Sumatra Error: ${stderr}`);
+                    logger.error(`❌ Sumatra Error: ${error.message}`);
+                    logger.error(`   stderr: ${stderr}`);
                     reject(error);
                 } else {
+                    logger.info(`✅ Sumatra completed`);
+                    if (stdout) logger.info(`   stdout: ${stdout}`);
+                    if (stderr) logger.warn(`   stderr: ${stderr}`);
                     resolve();
                 }
             });
         });
+
+        // CRITICAL: Wait for spooler to receive job before marking complete
+        logger.info(`⏳ Esperando a que el spooler reciba el trabajo (2s)...`);
+        await new Promise(resolve => setTimeout(resolve, 2000));
 
         // Mark Done
         await db.collection('print_jobs').doc(jobId).update({

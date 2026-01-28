@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Miguel Manson Contreras"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Miguel Manson Contreras",
+      "timestamp_ms": 1714175943398,
+      "content": "Miguel cambi\u00c3\u00b3 la descripci\u00c3\u00b3n de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Miguel Manson Contreras",
+      "timestamp_ms": 1712908923089,
+      "content": "Miguel cambi\u00c3\u00b3 la descripci\u00c3\u00b3n de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Miguel Manson Contreras",
+      "timestamp_ms": 1712908860913,
+      "content": "Miguel cambi\u00c3\u00b3 la descripci\u00c3\u00b3n de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Miguel Manson Contreras",
+      "timestamp_ms": 1712908828510,
+      "content": "Miguel marc\u00c3\u00b3 la publicaci\u00c3\u00b3n como Disponible.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Miguel Manson Contreras",
+      "timestamp_ms": 1711752998334,
+      "content": "Miguel vendi\u00c3\u00b3 RAM DDR3 Laptop 8Gb.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Miguel Manson Contreras",
+      "timestamp_ms": 1709040496553,
+      "content": "Miguel cambi\u00c3\u00b3 la descripci\u00c3\u00b3n de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Miguel Manson Contreras",
+      "timestamp_ms": 1709040338350,
+      "content": "Miguel marc\u00c3\u00b3 la publicaci\u00c3\u00b3n como Disponible.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Miguel Manson Contreras",
+      "timestamp_ms": 1707072033918,
+      "content": "Miguel vendi\u00c3\u00b3 RAM DDR3 Laptop 8Gb.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 RAM DDR3 Laptop 8Gb",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegoramddr3laptop8gb_6916997078395904",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1009578156799375.jpg",
+    "creation_timestamp": 1702694953
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

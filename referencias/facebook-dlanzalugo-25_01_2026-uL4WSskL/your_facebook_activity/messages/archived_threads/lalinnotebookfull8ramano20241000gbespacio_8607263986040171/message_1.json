@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Lalin S\u00c3\u00a1nchez"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lalin S\u00c3\u00a1nchez",
+      "timestamp_ms": 1740407370342,
+      "content": "D\u00c3\u00b3nde entrega",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740402521634,
+      "content": "Si estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lalin S\u00c3\u00a1nchez",
+      "timestamp_ms": 1740402468938,
+      "content": "Hola precio el publicado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740402363618,
+      "content": "Hola, s\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lalin S\u00c3\u00a1nchez",
+      "timestamp_ms": 1740396647567,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lalin S\u00c3\u00a1nchez",
+      "timestamp_ms": 1740396641531,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lalin S\u00c3\u00a1nchez",
+      "timestamp_ms": 1740396641285,
+      "content": "Lalin inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lalin \u00c2\u00b7 Notebook Full / 8 RAM / a\u00c3\u00b1o 2024 / 1000gb Espacio",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/lalinnotebookfull8ramano20241000gbespacio_8607263986040171",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Roberto Antonio Retamal Valenzuela"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1749085846202,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Roberto Antonio Retamal Valenzuela",
+      "timestamp_ms": 1749083667297,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Roberto Antonio Retamal Valenzuela",
+      "timestamp_ms": 1749083655897,
+      "content": "Buenas noches. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Roberto Antonio Retamal Valenzuela",
+      "timestamp_ms": 1749083655661,
+      "content": "Roberto Antonio Retamal Valenzuela",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Roberto Antonio Retamal Valenzuela",
+      "timestamp_ms": 1749083653139,
+      "content": "Roberto Antonio asign\u00c3\u00b3 al grupo el nombre \"Roberto Antonio \u00c2\u00b7 Notebook i7 / 16GB RAM Ultra Potente con SSD ELITEBOOK\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Roberto Antonio Retamal Valenzuela",
+      "timestamp_ms": 1749083653139,
+      "content": "Roberto Antonio cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Roberto Antonio \u00c2\u00b7 Notebook i7 / 16GB RAM Ultra Potente con SSD ELITEBOOK",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/robertoantonionotebooki716gbramultrapotenteconssdelitebook_9363584427075674",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

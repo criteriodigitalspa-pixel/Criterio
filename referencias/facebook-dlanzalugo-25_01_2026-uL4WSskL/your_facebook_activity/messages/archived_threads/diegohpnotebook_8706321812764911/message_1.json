@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Christian Caceres"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728888985765,
+      "content": "Ver publicaciones similares",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Christian Caceres",
+      "timestamp_ms": 1728769495392,
+      "content": "Christian est\u00c3\u00a1 esperando tu respuesta sobre esta publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Christian Caceres",
+      "timestamp_ms": 1728763678691,
+      "content": "Christian rechaz\u00c3\u00b3 tu oferta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728759380517,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728759378993,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Hp notebook\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728759378993,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Hp notebook",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegohpnotebook_8706321812764911",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1066174135111732.jpg",
+    "creation_timestamp": 1728759377
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

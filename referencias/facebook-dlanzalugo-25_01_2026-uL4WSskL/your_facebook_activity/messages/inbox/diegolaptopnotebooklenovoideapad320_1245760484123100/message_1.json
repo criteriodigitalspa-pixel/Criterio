@@ -1,0 +1,117 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Daniel Fajardo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Daniel Fajardo",
+      "timestamp_ms": 1769040890550,
+      "content": "Daniel cambi\u00c3\u00b3 la descripci\u00c3\u00b3n de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Fajardo",
+      "timestamp_ms": 1767978305231,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Fajardo",
+      "timestamp_ms": 1767978302148,
+      "content": "Vale vale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767978293408,
+      "content": "Aaa ya, uff demoraria mucho en llegar, gracias iguak",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Fajardo",
+      "timestamp_ms": 1767978231685,
+      "content": "tiene combinaci\u00c3\u00b3n con lo valledor y estacion central",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Fajardo",
+      "timestamp_ms": 1767978221007,
+      "content": "metro tren nos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767978193066,
+      "content": "Que linea de metro es esa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Fajardo",
+      "timestamp_ms": 1767978121951,
+      "content": "en mi domicilio te lo podria entregar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Fajardo",
+      "timestamp_ms": 1767978115910,
+      "content": "vivo cerca de la estaci\u00c3\u00b3n maestranza",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767978032624,
+      "content": "Amigo entregarias en metro?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Fajardo",
+      "timestamp_ms": 1767978016720,
+      "content": "Si, aun esta disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767977973292,
+      "content": "Buenas tardes. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767977972976,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Laptop/Notebook Lenovo IDEAPAD 320",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegolaptopnotebooklenovoideapad320_1245760484123100",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1399680621887477.jpg",
+    "creation_timestamp": 1767977969
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

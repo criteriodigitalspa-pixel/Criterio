@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Nevenka A. Cabrera"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754706296646,
+      "content": "Es de 14\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754706293441,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nevenka A. Cabrera",
+      "timestamp_ms": 1754704066440,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nevenka A. Cabrera",
+      "timestamp_ms": 1754704059255,
+      "content": "Hola. Consulta\u00e2\u0080\u00a6 de qu\u00c3\u00a9 tama\u00c3\u00b1o es la pantalla ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nevenka A. Cabrera",
+      "timestamp_ms": 1754704059052,
+      "content": "Nevenka inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nevenka \u00c2\u00b7 Notebook i5 16GB RAM Ultra Potente con SSD PROBOOK",
+  "is_still_participant": true,
+  "thread_path": "inbox/nevenkanotebooki516gbramultrapotenteconssdprobook_24232572569732790",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

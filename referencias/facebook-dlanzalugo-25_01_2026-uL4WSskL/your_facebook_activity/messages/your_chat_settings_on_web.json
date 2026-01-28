@@ -1,0 +1,72 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Mensaje personalizado enviado",
+      "value": "No"
+    },
+    {
+      "label": "Mostrar siempre la lista de amigos",
+      "value": "No"
+    },
+    {
+      "label": "Usar sonidos personalizados",
+      "value": "No"
+    },
+    {
+      "label": "Compactar la lista de amigos",
+      "value": "No"
+    },
+    {
+      "label": "Barra lateral expandida de forma predeterminada",
+      "value": "S\u00c3\u00ad"
+    },
+    {
+      "label": "HTML5 usado para notificaciones de mensajes",
+      "value": "No"
+    },
+    {
+      "label": "Grupos que se muestran en la barra lateral",
+      "value": "No"
+    },
+    {
+      "label": "Grupos ocultos de la barra lateral",
+      "value": "No"
+    },
+    {
+      "label": "Llamada bloqueada hasta",
+      "value": "1969-12-31 16:00:00"
+    },
+    {
+      "label": "Ocultar lista de amigos",
+      "value": "No"
+    },
+    {
+      "label": "P\u00c3\u00a1ginas de administrador ocultas",
+      "value": "No"
+    },
+    {
+      "label": "Negocios ocultos",
+      "value": "No"
+    },
+    {
+      "label": "Ocultar Marketplace",
+      "value": "No"
+    },
+    {
+      "label": "Pesta\u00c3\u00b1as de chat desactivadas",
+      "value": "No"
+    },
+    {
+      "label": "Reacci\u00c3\u00b3n genuina",
+      "value": "No"
+    },
+    {
+      "label": "Ocultar contactos en la computadora",
+      "value": "No"
+    }
+  ],
+  "fbid": "541106459337033"
+}

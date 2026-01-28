@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Mario Fern\u00c3\u00a1ndez"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1758365802522,
+      "content": "Te parece cerrar en 450 y te doy un mouse nuevo de regalo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1758365774425,
+      "content": "Hola Mario buen dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mario Fern\u00c3\u00a1ndez",
+      "timestamp_ms": 1758352941213,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mario Fern\u00c3\u00a1ndez",
+      "timestamp_ms": 1758352938199,
+      "content": "Hola estimado acepta 440",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mario Fern\u00c3\u00a1ndez",
+      "timestamp_ms": 1758352937927,
+      "content": "Mario inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mario \u00c2\u00b7 Notebook i7/24GB RAM / SSDD / 1TB almacenamiento/Lenovo ThinkBook",
+  "is_still_participant": true,
+  "thread_path": "inbox/marionotebooki724gbramssdd1tbalmacenamientolenovothinkbook_1450436219500278",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

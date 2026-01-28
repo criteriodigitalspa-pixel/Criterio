@@ -1,0 +1,129 @@
+{
+  "participants": [
+    {
+      "name": "Silvio Garbi"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703182583460,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Silvio Garbi",
+      "timestamp_ms": 1703182323165,
+      "content": "Ma\u00c3\u00b1ana te escribo nuevamente y quedamos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Silvio Garbi",
+      "timestamp_ms": 1703182285046,
+      "content": "Si, creo que si..",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703182260211,
+      "content": "Perfecto me parece, podria ser despues de las 18:00?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Silvio Garbi",
+      "timestamp_ms": 1703182173815,
+      "content": "Me parece bien, ma\u00c3\u00b1ana recien podria yo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703181851694,
+      "content": "Si es un mall, de preferencia en la florida, si es metro puede ser cualquiera a convenir",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703181836042,
+      "content": "Silvio, puede ser en un mall o un metro, como prefieras",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Silvio Garbi",
+      "timestamp_ms": 1703181570521,
+      "content": "Donde podria verla me interesa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703181507465,
+      "content": "Si amigo disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Silvio Garbi",
+      "timestamp_ms": 1703181149728,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Silvio Garbi",
+      "timestamp_ms": 1703181143637,
+      "content": "Buenas tardes. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Silvio Garbi",
+      "timestamp_ms": 1703181143170,
+      "content": "Silvio Garbi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Silvio Garbi",
+      "timestamp_ms": 1703181140711,
+      "content": "Silvio cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Silvio Garbi",
+      "timestamp_ms": 1703181140099,
+      "content": "Silvio asign\u00c3\u00b3 al grupo el nombre \"Silvio \u00c2\u00b7 Notebook I5 Potente y Rapido 16GB RAM con SSD, buenas condiciones Thinkpad\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Silvio \u00c2\u00b7 Notebook I5 Potente y Rapido 16GB RAM con SSD, buenas condiciones Thinkpad",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/silvionotebooki5potenteyrapido16gbramconssdbuenascondicionesthinkpad_6805679612833599",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/593375512920607.jpg",
+    "creation_timestamp": 1703181133
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

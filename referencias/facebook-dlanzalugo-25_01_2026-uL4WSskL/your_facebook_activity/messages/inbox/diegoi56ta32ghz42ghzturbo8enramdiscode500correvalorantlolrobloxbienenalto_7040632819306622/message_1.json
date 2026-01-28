@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Citripio Coronado"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703942588496,
+      "content": "Ver publicaciones similares",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703812984743,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703812982550,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703812982067,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 I5 6ta 3.2ghz 4.2ghz turbo 8 en ram disco de 500 corre valorant lol Roblox bien en alto\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 I5 6ta 3.2ghz 4.2ghz turbo 8 en ram disco de 500 corre valorant lol Roblox bien en alto",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegoi56ta32ghz42ghzturbo8enramdiscode500correvalorantlolrobloxbienenalto_7040632819306622",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/381695767554529.jpg",
+    "creation_timestamp": 1703812980
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

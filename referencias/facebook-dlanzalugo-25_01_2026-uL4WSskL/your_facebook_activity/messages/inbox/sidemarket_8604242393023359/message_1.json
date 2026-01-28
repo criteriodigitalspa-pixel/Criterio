@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Sidemarket"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sidemarket",
+      "timestamp_ms": 1768044898530,
+      "content": "\u00c2\u00a1Hola, Diego! \u00c2\u00bfC\u00c3\u00b3mo podemos ayudarte?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sidemarket",
+      "timestamp_ms": 1768044897539,
+      "content": "Abriste esta conversaci\u00c3\u00b3n desde un anuncio. Si respondes, Sidemarket ver\u00c3\u00a1 tu informaci\u00c3\u00b3n p\u00c3\u00bablica y el anuncio en el que hiciste clic.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730770880239,
+      "content": "\u00c2\u00a1Hola! \u00f0\u009f\u0091\u008b Me gustar\u00c3\u00ada obtener m\u00c3\u00a1s informaci\u00c3\u00b3n. \u00c2\u00bfPuedo chatear con alguien?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sidemarket",
+      "timestamp_ms": 1730770868287,
+      "content": "\u00c2\u00a1Hola, Diego! \u00c2\u00bfC\u00c3\u00b3mo podemos ayudarte?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sidemarket",
+      "timestamp_ms": 1730770866704,
+      "content": "Abriste esta conversaci\u00c3\u00b3n desde un anuncio. Si respondes, Sidemarket ver\u00c3\u00a1 tu informaci\u00c3\u00b3n p\u00c3\u00bablica y el anuncio en el que hiciste clic.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sidemarket",
+  "is_still_participant": true,
+  "thread_path": "inbox/sidemarket_8604242393023359",
+  "magic_words": [
+    
+  ]
+}

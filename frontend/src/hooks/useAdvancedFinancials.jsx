@@ -315,8 +315,13 @@ export const useAdvancedFinancials = (tickets = []) => {
                     const dateRef = ticket.fechaSalida || ticket.soldAt || (ticket.updatedAt?.seconds ? new Date(ticket.updatedAt.seconds * 1000).toISOString().split('T')[0] : 'Unknown');
 
                     if (dateRef !== 'Unknown') {
+                        // FIX: Ensure dateRef is a string (handle Firestore Timestamps having .toDate())
+                        const dateStr = (typeof dateRef === 'object' && dateRef.seconds)
+                            ? new Date(dateRef.seconds * 1000).toISOString().split('T')[0]
+                            : String(dateRef);
+
                         // Monthly
-                        const monthKey = dateRef.slice(0, 7);
+                        const monthKey = dateStr.slice(0, 7);
                         if (!evolutionData[monthKey]) {
                             evolutionData[monthKey] = { date: monthKey, sales: 0, cost: 0, profit: 0, count: 0 };
                         }
@@ -327,7 +332,7 @@ export const useAdvancedFinancials = (tickets = []) => {
 
                         // Weekly
                         // Fix: Parse YYYY-MM-DD manually to avoid Local Timezone shift (e.g. Monday becoming Sunday)
-                        const [y, m, day] = dateRef.split('-').map(Number);
+                        const [y, m, day] = dateStr.split('-').map(Number);
                         const d2 = new Date(Date.UTC(y, m - 1, day));
                         const dayNum = d2.getUTCDay() || 7;
                         d2.setUTCDate(d2.getUTCDate() + 4 - dayNum);

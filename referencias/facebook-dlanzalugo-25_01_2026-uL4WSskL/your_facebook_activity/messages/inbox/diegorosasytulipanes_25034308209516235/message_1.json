@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Lilian Z\u00c3\u00ba\u00c3\u00b1iga"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1708002485549,
+      "content": "Publicaciones similares a \"Rosas y Tulipanes\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lilian Z\u00c3\u00ba\u00c3\u00b1iga",
+      "timestamp_ms": 1707891614971,
+      "content": "Lo siento, no est\u00c3\u00a1 disponible.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lilian Z\u00c3\u00ba\u00c3\u00b1iga",
+      "timestamp_ms": 1707873577151,
+      "content": "Lilian vendi\u00c3\u00b3 Rosas y Tulipanes.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1707872882525,
+      "content": "Hola, Lilian. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1707872879392,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1707872878905,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Rosas y Tulipanes\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Rosas y Tulipanes",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegorosasytulipanes_25034308209516235",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/401263322452347.jpg",
+    "creation_timestamp": 1707872874
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

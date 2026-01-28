@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Jos\u00c3\u00a9 Luis Fuentes Alarc\u00c3\u00b3n"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1761128572097,
+      "content": "Hola. S\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para que lo pruebes con toda la calma del mundo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jos\u00c3\u00a9 Luis Fuentes Alarc\u00c3\u00b3n",
+      "timestamp_ms": 1761108680839,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jos\u00c3\u00a9 Luis Fuentes Alarc\u00c3\u00b3n",
+      "timestamp_ms": 1761108677453,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jos\u00c3\u00a9 Luis Fuentes Alarc\u00c3\u00b3n",
+      "timestamp_ms": 1761108676238,
+      "content": "Jos\u00c3\u00a9 Luis Fuentes Alarc\u00c3\u00b3n",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jos\u00c3\u00a9 Luis Fuentes Alarc\u00c3\u00b3n",
+      "timestamp_ms": 1761108673001,
+      "content": "Jos\u00c3\u00a9 Luis asign\u00c3\u00b3 al grupo el nombre \"Jos\u00c3\u00a9 Luis \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 16gb RAM / SSDD\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jos\u00c3\u00a9 Luis Fuentes Alarc\u00c3\u00b3n",
+      "timestamp_ms": 1761108673001,
+      "content": "Jos\u00c3\u00a9 Luis cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jos\u00c3\u00a9 Luis \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "inbox/joseluisnotebooki710thultrarapida202316gbramssdd_822862933550044",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

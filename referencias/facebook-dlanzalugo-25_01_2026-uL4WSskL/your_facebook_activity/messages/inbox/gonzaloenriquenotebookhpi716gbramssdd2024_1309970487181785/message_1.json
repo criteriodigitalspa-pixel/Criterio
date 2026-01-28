@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Gonzalo Enrique Carvajal Eyzaguirre"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756352901170,
+      "content": "El equipo esta listo para usar.\nPuede probarlo y revisar con calma.\nEntrego en Mi domicilio en la comuna de La Florida o lugar a convenir.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756352899696,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gonzalo Enrique Carvajal Eyzaguirre",
+      "timestamp_ms": 1756352335940,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gonzalo Enrique Carvajal Eyzaguirre",
+      "timestamp_ms": 1756352334529,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gonzalo Enrique Carvajal Eyzaguirre",
+      "timestamp_ms": 1756352334083,
+      "content": "Gonzalo Enrique Carvajal Eyzaguirre",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gonzalo Enrique Carvajal Eyzaguirre",
+      "timestamp_ms": 1756352331772,
+      "content": "Gonzalo Enrique asign\u00c3\u00b3 al grupo el nombre \"Gonzalo Enrique \u00c2\u00b7 Notebook HP i7 / 16GB RAM / SSDD / 2024\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gonzalo Enrique Carvajal Eyzaguirre",
+      "timestamp_ms": 1756352331772,
+      "content": "Gonzalo Enrique cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gonzalo Enrique \u00c2\u00b7 Notebook HP i7 / 16GB RAM / SSDD / 2024",
+  "is_still_participant": true,
+  "thread_path": "inbox/gonzaloenriquenotebookhpi716gbramssdd2024_1309970487181785",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

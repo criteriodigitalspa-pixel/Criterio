@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Richard Sepulveda Cornejo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703113952661,
+      "content": "Hola amigo, si sigue disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard Sepulveda Cornejo",
+      "timestamp_ms": 1703113827131,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard Sepulveda Cornejo",
+      "timestamp_ms": 1703113822945,
+      "content": "\u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard Sepulveda Cornejo",
+      "timestamp_ms": 1703113822717,
+      "content": "Richard Sepulveda Cornejo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard Sepulveda Cornejo",
+      "timestamp_ms": 1703113821097,
+      "content": "Richard cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard Sepulveda Cornejo",
+      "timestamp_ms": 1703113820841,
+      "content": "Richard asign\u00c3\u00b3 al grupo el nombre \"Richard \u00c2\u00b7 Notebook Core i5 con 16GB RAM Rapido Corre Todo\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Richard \u00c2\u00b7 Notebook Core i5 con 16GB RAM Rapido Corre Todo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/richardnotebookcorei5con16gbramrapidocorretodo_7704843386210070",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1853065101808926.jpg",
+    "creation_timestamp": 1703113818
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

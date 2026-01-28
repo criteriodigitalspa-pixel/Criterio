@@ -1,0 +1,99 @@
+{
+  "participants": [
+    {
+      "name": "Egly Mendez Ramirez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732465687914,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Egly Mendez Ramirez",
+      "timestamp_ms": 1732464033188,
+      "content": "Gracias lo voy a estar llamando m\u00c3\u00a1s tarde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732463861348,
+      "content": "994919000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Egly Mendez Ramirez",
+      "timestamp_ms": 1732463794716,
+      "content": "Me deja su n\u00c3\u00bamero porfa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732416820763,
+      "content": "Vale amigo, pasa que ya esta muy regalado, no podria bajar de alli",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Egly Mendez Ramirez",
+      "timestamp_ms": 1732403639679,
+      "content": "Ohh de verdad no llego tendr\u00c3\u00ada que ver a fin de mes si me gust\u00c3\u00b3 bastante pero cuento con ese presupuesto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732403580820,
+      "content": "280 y cerramosnte parece?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732403570519,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Egly Mendez Ramirez",
+      "timestamp_ms": 1732402369267,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Egly Mendez Ramirez",
+      "timestamp_ms": 1732402365134,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible? Es conversable cuento con un presupuesto de 250 y estoy en busca de una notebook",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Egly Mendez Ramirez",
+      "timestamp_ms": 1732402364853,
+      "content": "Egly inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Egly \u00c2\u00b7 Notebook i7-10th Ultra Rapida y potente HP Envy 13",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/eglynotebooki710thultrarapidaypotentehpenvy13_8731587670295754",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

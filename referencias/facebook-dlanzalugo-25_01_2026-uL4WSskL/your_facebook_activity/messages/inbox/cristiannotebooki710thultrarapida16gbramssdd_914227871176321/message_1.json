@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Cristian Cerda"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1769125328835,
+      "content": "+56 9 94919000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1769125325106,
+      "content": "Holaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristian Cerda",
+      "timestamp_ms": 1769125278169,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristian Cerda",
+      "timestamp_ms": 1769125267097,
+      "content": "Hola, n\u00c3\u00bamero de contacto por favor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristian Cerda",
+      "timestamp_ms": 1769125266912,
+      "content": "Cristian inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cristian \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "inbox/cristiannotebooki710thultrarapida16gbramssdd_914227871176321",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Rafael Herrera"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1708002455994,
+      "content": "Ver publicaciones similares",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafael Herrera",
+      "timestamp_ms": 1707877097745,
+      "content": "Agotado los tulipanes solo rosas y girasoles",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1707873049155,
+      "content": "Hola amigo busco Ramos de tulipanes con despacho en la comuna La florida, si me puede dar precios por favor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rafael Herrera",
+      "timestamp_ms": 1707872949107,
+      "content": "Si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1707872852676,
+      "content": "Hola, Rafael. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1707872849714,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1707872849233,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Arreglos de tulipanes a domicilio\u00f0\u009f\u008c\u00b7\u00f0\u009f\u008c\u00baarreglos de  rosas\u00f0\u009f\u008c\u00b9 \u00f0\u009f\u008c\u00b9 arreglos de girasoles \u00f0\u009f\u008c\u00bb \u00f0\u009f\u008c\u00bc\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Arreglos de tulipanes a domicilio\u00f0\u009f\u008c\u00b7\u00f0\u009f\u008c\u00baarreglos de  rosas\u00f0\u009f\u008c\u00b9 \u00f0\u009f\u008c\u00b9 arreglos de girasoles \u00f0\u009f\u008c\u00bb \u00f0\u009f\u008c\u00bc",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegoarreglosdetulipanesadomicilioarreglosderosasarreglosdegirasoles_8055815367768815",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1633164130789303.jpg",
+    "creation_timestamp": 1707872844
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

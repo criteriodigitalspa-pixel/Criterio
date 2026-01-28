@@ -1,0 +1,106 @@
+{
+  "participants": [
+    {
+      "name": "Jose Luis Vixo"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jose Luis Vixo",
+      "timestamp_ms": 1740933470838,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Luis Vixo",
+      "timestamp_ms": 1740933468631,
+      "content": "Ok gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740933293951,
+      "content": "Si amigo lo buscaron esta ma\u00c3\u00b1ana disculpa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Luis Vixo",
+      "timestamp_ms": 1740931727207,
+      "content": "No alcance",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Luis Vixo",
+      "timestamp_ms": 1740931720785,
+      "content": "Lo vendi\u00c3\u00b3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Luis Vixo",
+      "timestamp_ms": 1740927454101,
+      "content": "Y ese seria el \u00c3\u00baltimo precio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740923096215,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740923095627,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740923095111,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Luis Vixo",
+      "timestamp_ms": 1740923094203,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Luis Vixo",
+      "timestamp_ms": 1740923090350,
+      "content": "\u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Luis Vixo",
+      "timestamp_ms": 1740923090159,
+      "content": "Jose Luis inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jose Luis \u00c2\u00b7 Notebook Full / 8 RAM / a\u00c3\u00b1o 2023 / SSD 1TB Espacio",
+  "is_still_participant": true,
+  "thread_path": "inbox/joseluisnotebookfull8ramano2023ssd1tbespacio_9473384309366288",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

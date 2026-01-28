@@ -1,0 +1,94 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Javier Ignacio"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Javier Ignacio",
+      "timestamp_ms": 1738681486035,
+      "content": "Javier marc\u00c3\u00b3 la publicaci\u00c3\u00b3n como Disponible.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Javier Ignacio",
+      "timestamp_ms": 1738630689011,
+      "content": "Javier vendi\u00c3\u00b3 Ssd kingston 256gb y 480gb.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Javier Ignacio",
+      "timestamp_ms": 1737830804518,
+      "content": "Javier cambi\u00c3\u00b3 la descripci\u00c3\u00b3n de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737737949228,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Javier Ignacio",
+      "timestamp_ms": 1737734076306,
+      "content": "18 mil amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737734067480,
+      "content": "Amigo precio de las de 256",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Javier Ignacio",
+      "timestamp_ms": 1737734054532,
+      "content": "S\u00c3\u00ad. \u00c2\u00bfTe interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737734018742,
+      "content": "Buenas tardes. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737734018555,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Ssd kingston 256gb y 480gb",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegossdkingston256gby480gb_9885259518169136",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/630994816112099.jpg",
+    "creation_timestamp": 1737734015
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

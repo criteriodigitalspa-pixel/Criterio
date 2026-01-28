@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Joaquin Carvajal"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732376901558,
+      "content": "Es 14\" tama\u00c3\u00b1o estandar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joaquin Carvajal",
+      "timestamp_ms": 1732376835500,
+      "content": "de cuantas pulgadas es la pantalla?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732376736618,
+      "content": "Si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joaquin Carvajal",
+      "timestamp_ms": 1732376273768,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joaquin Carvajal",
+      "timestamp_ms": 1732376272248,
+      "content": "Me interesa este art\u00c3\u00adculo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joaquin Carvajal",
+      "timestamp_ms": 1732376272037,
+      "content": "Joaquin inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Joaquin \u00c2\u00b7 POTENTE NOTEBOOK I7 ULTRA RAPIDO 12GB RAM Y SSD ENCIENDE EN SEGUNDOS",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/joaquinpotentenotebooki7ultrarapido12gbramyssdenciendeensegundos_28628502296748687",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

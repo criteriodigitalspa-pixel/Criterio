@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Jes\u00c3\u00bas Agust\u00c3\u00adn R\u00c3\u00ados D\u00c3\u00adaz"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jes\u00c3\u00bas Agust\u00c3\u00adn R\u00c3\u00ados D\u00c3\u00adaz",
+      "timestamp_ms": 1768079869039,
+      "content": "Jes\u00c3\u00bas Agust\u00c3\u00adn vendi\u00c3\u00b3 Notebook Ryzen 5 5500U / 12Gb Ram / 512 SSD / Hp 245 G8 14\u00e2\u0080\u009d \u00e2\u009c\u0085 EXCELENTE ESTADO.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768073429831,
+      "content": "Buenas tardes. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768073429476,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook Ryzen 5 5500U / 12Gb Ram / 512 SSD / Hp 245 G8 14\u00e2\u0080\u009d \u00e2\u009c\u0085 EXCELENTE ESTADO",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebookryzen55500u12gbram512ssdhp245g814excelenteestado_1813887779270970",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/25434193346207024.jpg",
+    "creation_timestamp": 1768073426
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

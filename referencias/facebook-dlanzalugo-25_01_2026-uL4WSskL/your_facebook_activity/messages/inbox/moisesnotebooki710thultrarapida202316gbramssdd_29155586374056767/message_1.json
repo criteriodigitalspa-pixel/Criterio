@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Mamalli Moises"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mamalli Moises",
+      "timestamp_ms": 1745115362654,
+      "content": "Moises est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mamalli Moises",
+      "timestamp_ms": 1745092094379,
+      "content": "Si estoy interesado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mamalli Moises",
+      "timestamp_ms": 1745092090651,
+      "content": "Ser\u00c3\u00a1 que puede mandarme fotos  que se vea claro la laptop",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mamalli Moises",
+      "timestamp_ms": 1745092025160,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mamalli Moises",
+      "timestamp_ms": 1745092021885,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mamalli Moises",
+      "timestamp_ms": 1745092021667,
+      "content": "Moises inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Moises \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "inbox/moisesnotebooki710thultrarapida202316gbramssdd_29155586374056767",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

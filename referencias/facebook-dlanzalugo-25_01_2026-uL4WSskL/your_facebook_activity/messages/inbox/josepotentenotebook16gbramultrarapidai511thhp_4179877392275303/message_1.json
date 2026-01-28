@@ -1,0 +1,92 @@
+{
+  "participants": [
+    {
+      "name": "Jose Puentes"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766706452792,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Puentes",
+      "timestamp_ms": 1766420649302,
+      "content": "Te llamo y nadie responde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Puentes",
+      "timestamp_ms": 1766347747693,
+      "content": "Ya te llamo por ws",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766347733202,
+      "content": "+56994919000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766347724892,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Puentes",
+      "timestamp_ms": 1766347063288,
+      "content": "Meta podr\u00c3\u00ada usar tecnolog\u00c3\u00ada para revisar los mensajes de Marketplace con el fin de detectar y reducir las estafas y el fraude.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Puentes",
+      "timestamp_ms": 1766347061220,
+      "content": "Me puedes dar tu n\u00c3\u00bamero",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Puentes",
+      "timestamp_ms": 1766347053895,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Puentes",
+      "timestamp_ms": 1766347049099,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Puentes",
+      "timestamp_ms": 1766347048663,
+      "content": "Jose inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jose \u00c2\u00b7 Potente Notebook 16GB RAM /  Ultra Rapida / i5-11th HP",
+  "is_still_participant": true,
+  "thread_path": "inbox/josepotentenotebook16gbramultrarapidai511thhp_4179877392275303",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

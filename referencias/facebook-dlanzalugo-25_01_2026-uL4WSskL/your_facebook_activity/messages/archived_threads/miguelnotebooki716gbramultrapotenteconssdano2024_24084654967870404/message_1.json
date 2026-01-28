@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Miguel Angel"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756771137333,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Miguel Angel",
+      "timestamp_ms": 1754824423867,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754695274581,
+      "content": "\u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Miguel Angel",
+      "timestamp_ms": 1754695131379,
+      "content": "Dale te lo agradezco. Me gusta pero tengo 340. Igual dale una vuelta, un poco menos pero seguro. \u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754695078662,
+      "content": "360 y es tuyo estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Miguel Angel",
+      "timestamp_ms": 1754694817344,
+      "content": "Pucha \u00f0\u009f\u0098\u0093 340? Podr\u00c3\u00adas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754694793358,
+      "content": "Rechazaste la oferta de Miguel",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Miguel Angel",
+      "timestamp_ms": 1754694778498,
+      "content": "Miguel te ofreci\u00c3\u00b3 $320.000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Miguel \u00c2\u00b7 Notebook i7 / 16GB RAM Ultra Potente con SSD / A\u00c3\u00b1o 2024",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/miguelnotebooki716gbramultrapotenteconssdano2024_24084654967870404",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

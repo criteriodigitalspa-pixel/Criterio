@@ -18,6 +18,36 @@ import {
 const COLLECTION_NAME = 'notifications';
 
 export const notificationService = {
+    // Queue a WhatsApp message to Firestore
+    async queueWhatsAppNotification(toPhoneNumber, messageData) {
+        if (!toPhoneNumber) {
+            console.warn("Skipping WhatsApp: No phone number provided.");
+            return;
+        }
+
+        try {
+            // Clean phone number (remove non-digits)
+            const cleanPhone = toPhoneNumber.replace(/\D/g, '');
+
+            await addDoc(collection(db, 'whatsapp_queue'), {
+                to: cleanPhone,
+                message: messageData.body || messageData.message, // Support both formats
+                body: messageData.body || messageData.message,
+                media: messageData.media || null, // Support for image/pdf attachments
+                status: 'pending',
+                createdAt: serverTimestamp(),
+                metadata: {
+                    type: 'task_assignment',
+                    taskId: messageData.taskId || null
+                }
+            });
+            console.log("WhatsApp message queued for:", cleanPhone);
+        } catch (error) {
+            console.error("Error queuing WhatsApp:", error);
+            // Don't throw, just log. We don't want to break the UI if WhatsApp fails.
+        }
+    },
+
     // Send a notification to a specific user
     async sendNotification(toUserId, title, message, type = 'info', link = null) {
         console.log("Attempting to send notification:", { toUserId, title });

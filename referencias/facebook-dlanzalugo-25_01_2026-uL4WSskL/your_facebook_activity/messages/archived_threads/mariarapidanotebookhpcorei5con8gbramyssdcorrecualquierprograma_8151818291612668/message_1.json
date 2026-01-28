@@ -1,0 +1,427 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Maria Bustos Sandoval"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728840207549,
+      "content": "Vale valee",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Bustos Sandoval",
+      "timestamp_ms": 1728840193295,
+      "content": "Si estoy esperando que llegue mi hija",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Bustos Sandoval",
+      "timestamp_ms": 1728840182873,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728839370513,
+      "content": "Avisame si va a querer el equipo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728839365758,
+      "content": "Como esta?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728839365289,
+      "content": "Maria buenas tardes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Bustos Sandoval",
+      "timestamp_ms": 1728787022876,
+      "content": "Gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728787022507,
+      "content": "Igualmente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Bustos Sandoval",
+      "timestamp_ms": 1728787017693,
+      "content": "Que descanse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Bustos Sandoval",
+      "timestamp_ms": 1728787014269,
+      "content": "Ya entonces nos vemos ma\u00c3\u00b1ana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728786985054,
+      "content": "Por lo que me dice yo creo que le va a servir super bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Bustos Sandoval",
+      "timestamp_ms": 1728786936761,
+      "content": "C\u00c3\u00b3mo le digo ella es m\u00c3\u00a1s que no tenga rayas y no sea antigua o muy gruesa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Bustos Sandoval",
+      "timestamp_ms": 1728786900809,
+      "content": "No est\u00c3\u00a1 ella ma\u00c3\u00b1ana pero es para salir del apuro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728786863291,
+      "content": "Y si su hija esta para que la pruebe directamente mejor asi se siente segura con la compra",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Bustos Sandoval",
+      "timestamp_ms": 1728786859908,
+      "content": "Tipo 12 est\u00c3\u00a1 bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Bustos Sandoval",
+      "timestamp_ms": 1728786851930,
+      "content": "Yaaa genial",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728786835060,
+      "content": "Excelente, me llama no mas o me escribes por aca",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Bustos Sandoval",
+      "timestamp_ms": 1728786821252,
+      "content": "Entonces llego y le hablo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Bustos Sandoval",
+      "timestamp_ms": 1728786806891,
+      "content": "Yo voy a la iglesia en la ma\u00c3\u00b1ana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Bustos Sandoval",
+      "timestamp_ms": 1728786793146,
+      "content": "Me parece genial",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Bustos Sandoval",
+      "timestamp_ms": 1728786754811,
+      "content": "C\u00c3\u00b3mo ella la lleva a la u",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728786751966,
+      "content": "No para nada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728786747687,
+      "content": "Yo en la ma\u00c3\u00b1ana ire a la feria y a comprar unas cosas asi que igual despues del medio dia me conviene mas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Bustos Sandoval",
+      "timestamp_ms": 1728786743518,
+      "content": "No es muy gruesa cierta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Bustos Sandoval",
+      "timestamp_ms": 1728786721261,
+      "content": "Lo que me interesa que no est\u00c3\u00a9 rallada ni se note tanto el desgaste porque mi hija es media complicada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728786706960,
+      "content": "O me llama",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728786702351,
+      "content": "936180863",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728786697923,
+      "content": "Vale, si quiere me escribe al whatsapp",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Bustos Sandoval",
+      "timestamp_ms": 1728786675825,
+      "content": "En la ma\u00c3\u00b1ana no estar\u00c3\u00a9 pero llego a mi casa y le hablo para juntarnos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728786631736,
+      "content": "Si ese mismo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728786626653,
+      "content": "Ah yo cerca del metro bellavista, quiere se la paso a llevar ma\u00c3\u00b1ana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Bustos Sandoval",
+      "timestamp_ms": 1728786618563,
+      "content": "Ese es el note que dec\u00c3\u00ada con AMD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Bustos Sandoval",
+      "timestamp_ms": 1728786588464,
+      "content": "Yo vivo cerca de metro mirador",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Bustos Sandoval",
+      "timestamp_ms": 1728786576448,
+      "content": "Ah buena",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728786565372,
+      "content": "Yo soy de la florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728786559792,
+      "content": "Puede ser en mi domicilio o en algun metro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728786548393,
+      "content": "Igual puede probarla antes de pagarla",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Bustos Sandoval",
+      "timestamp_ms": 1728786537180,
+      "content": "Donde entregas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728786528976,
+      "content": "Y no tiene golpes ni rayones",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728786521164,
+      "content": "Si desgaste en la zona del mouse, pero se ve incluso mejor en persona",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Bustos Sandoval",
+      "timestamp_ms": 1728786493790,
+      "content": "Lo que se ve ah\u00c3\u00ad es desgaste solamente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728786453032,
+      "content": "Y es sencillita por eso el precio, ideal para estudios",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728786429820,
+      "content": "No, esta bastante bien cuidada, tiene su bateria buena y el cargador",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Bustos Sandoval",
+      "timestamp_ms": 1728786389185,
+      "content": "Y necesito devolv\u00c3\u00a9rsela",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Bustos Sandoval",
+      "timestamp_ms": 1728786373110,
+      "content": "Lo que pasa que se me cayo la de mi hija de la u",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Bustos Sandoval",
+      "timestamp_ms": 1728786342520,
+      "content": "No tiene detalles",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728786288400,
+      "content": "Esa la tengo en 60mil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728786285208,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/mariarapidanotebookhpcorei5con8gbramyssdcorrecualquierprograma_8151818291612668/photos/533444789548051.jpg",
+          "creation_timestamp": 1728786283
+        },
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/mariarapidanotebookhpcorei5con8gbramyssdcorrecualquierprograma_8151818291612668/photos/1067549414746211.jpg",
+          "creation_timestamp": 1728786283
+        },
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/mariarapidanotebookhpcorei5con8gbramyssdcorrecualquierprograma_8151818291612668/photos/558277830215253.jpg",
+          "creation_timestamp": 1728786284
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Bustos Sandoval",
+      "timestamp_ms": 1728786217448,
+      "content": "Cu\u00c3\u00a1l es",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Bustos Sandoval",
+      "timestamp_ms": 1728786214615,
+      "content": "Disculpa y una que aparece de 60",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728786181358,
+      "content": "Si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Bustos Sandoval",
+      "timestamp_ms": 1728786167526,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Bustos Sandoval",
+      "timestamp_ms": 1728786162991,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Bustos Sandoval",
+      "timestamp_ms": 1728786162524,
+      "content": "Maria Bustos Sandoval",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Bustos Sandoval",
+      "timestamp_ms": 1728786160021,
+      "content": "Maria asign\u00c3\u00b3 al grupo el nombre \"Maria \u00c2\u00b7 Rapida Notebook HP core i5 con 8GB Ram y  SSD Corre cualquier programa\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Bustos Sandoval",
+      "timestamp_ms": 1728786160021,
+      "content": "Maria cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Maria \u00c2\u00b7 Rapida Notebook HP core i5 con 8GB Ram y  SSD Corre cualquier programa",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/mariarapidanotebookhpcorei5con8gbramyssdcorrecualquierprograma_8151818291612668",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

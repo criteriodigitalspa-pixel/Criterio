@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Jose Alejandro Bouso\u00c3\u00b1o"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753816300260,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750795157735,
+      "content": "Holaa la pantalla es de 14\" Hd",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Alejandro Bouso\u00c3\u00b1o",
+      "timestamp_ms": 1750795070737,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Alejandro Bouso\u00c3\u00b1o",
+      "timestamp_ms": 1750795065037,
+      "content": "De cu\u00c3\u00a1nto es la pantalla y resoluci\u00c3\u00b3n",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Alejandro Bouso\u00c3\u00b1o",
+      "timestamp_ms": 1750795064724,
+      "content": "Jose Alejandro inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jose Alejandro \u00c2\u00b7 Notebook i7-11Th / 12GB RAM Ultra Potente / Probook/ 2023",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/josealejandronotebooki711th12gbramultrapotenteprobook2023_23950019911325373",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

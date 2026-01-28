@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Juan Manuel Andrade"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Juan Manuel Andrade",
+      "timestamp_ms": 1733320271958,
+      "content": "Juan Manuel Andrade te envi\u00c3\u00b3 un mensaje sobre tu publicaci\u00c3\u00b3n: Notebook Ultra Rapida Dell i5 con 16GB RAM Muy Potente Con M2 ENCIENDE EN 7 SEGUNDOS!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Manuel Andrade",
+      "timestamp_ms": 1733320267435,
+      "content": "Como estas buen dia, espero no te ofenda mi oferta, aceptas 130?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Manuel Andrade",
+      "timestamp_ms": 1733320267097,
+      "content": "Juan inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Juan \u00c2\u00b7 Notebook Ultra Rapida Dell i5 con 16GB RAM Muy Potente Con M2 ENCIENDE EN 7 SEGUNDOS!",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/juannotebookultrarapidadelli5con16gbrammuypotenteconm2enciendeen7segundos_7462140807244307",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

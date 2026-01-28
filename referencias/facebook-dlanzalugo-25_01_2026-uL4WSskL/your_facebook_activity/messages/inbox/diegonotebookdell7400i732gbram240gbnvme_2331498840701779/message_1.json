@@ -1,0 +1,89 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Oscar Diaz"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Oscar Diaz",
+      "timestamp_ms": 1765985609916,
+      "content": "Oscar elimin\u00c3\u00b3 el art\u00c3\u00adculo de Marketplace.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Diaz",
+      "timestamp_ms": 1765808912154,
+      "content": "Oscar vendi\u00c3\u00b3 Notebook Dell 7400 i7 / 32 GB RAM / 240 gb nvme.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Diaz",
+      "timestamp_ms": 1765546431402,
+      "content": "No gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765537201847,
+      "content": "Aceptas 120?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765537196246,
+      "content": "Hola me interesa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Diaz",
+      "timestamp_ms": 1765534052338,
+      "content": "Meta podr\u00c3\u00ada usar tecnolog\u00c3\u00ada para revisar los mensajes de Marketplace con el fin de detectar y reducir las estafas y el fraude.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Diaz",
+      "timestamp_ms": 1765534049676,
+      "content": "S\u00c3\u00ad. \u00c2\u00bfTe interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765512255209,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765512254993,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook Dell 7400 i7 / 32 GB RAM / 240 gb nvme",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebookdell7400i732gbram240gbnvme_2331498840701779",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1121630423192662.jpg",
+    "creation_timestamp": 1765512252
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

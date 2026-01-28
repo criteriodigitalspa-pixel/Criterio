@@ -1,0 +1,297 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Chris Gonzalo Gnslab"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737552730737,
+      "content": "Es para no pagar pasaje 2 veces",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737552724811,
+      "content": "Aah pero no sera en el metro?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chris Gonzalo Gnslab",
+      "timestamp_ms": 1737552601425,
+      "content": "??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chris Gonzalo Gnslab",
+      "timestamp_ms": 1737552495842,
+      "content": "estoy en un kia rio 5 blanco",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chris Gonzalo Gnslab",
+      "timestamp_ms": 1737552486969,
+      "content": "podr\u00c3\u00adas bajar para q revises bien el equipo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chris Gonzalo Gnslab",
+      "timestamp_ms": 1737552465573,
+      "content": "compa estoy estacionado en el mayorista q est\u00c3\u00a1 al costado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737552334184,
+      "content": "A cuanto estas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737552267797,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/diegodelllatitude3420_28295899836691391/photos/3587566208202726.jpg",
+          "creation_timestamp": 1737552266
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737552203955,
+      "content": "Bajare a los torniquetes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737552185636,
+      "content": "Estoy aca",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737551881971,
+      "content": "Estoy a 4 estaciones",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737551337391,
+      "content": "A 15 min",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chris Gonzalo Gnslab",
+      "timestamp_ms": 1737551251609,
+      "content": "en cuanto est\u00c3\u00a1s ah\u00c3\u00ad compa.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737549619075,
+      "content": "Dale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chris Gonzalo Gnslab",
+      "timestamp_ms": 1737549602653,
+      "content": "dale en unos 40 en elisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737549539599,
+      "content": "Si no dime no mas una hora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737549533881,
+      "content": "Dale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chris Gonzalo Gnslab",
+      "timestamp_ms": 1737549485169,
+      "content": "dejame cachar... te aviso altiro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737549470008,
+      "content": "No se si puedas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737549461910,
+      "content": "Como en 40 min",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737549454312,
+      "content": "Puedo pasar al tiro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chris Gonzalo Gnslab",
+      "timestamp_ms": 1737549121804,
+      "content": "tu en q horario puedes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chris Gonzalo Gnslab",
+      "timestamp_ms": 1737549107892,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chris Gonzalo Gnslab",
+      "timestamp_ms": 1737549104771,
+      "content": "durante todo el d\u00c3\u00ada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737549078841,
+      "content": "Vale a que hora puedes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chris Gonzalo Gnslab",
+      "timestamp_ms": 1737549062971,
+      "content": "acepto, puedo juntarme en metro elisa correa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chris Gonzalo Gnslab",
+      "timestamp_ms": 1737549038519,
+      "content": "ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737547528148,
+      "content": "Y lo busco hoy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737547525383,
+      "content": "Vale amigo me aceptas 130mil?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chris Gonzalo Gnslab",
+      "timestamp_ms": 1737546061819,
+      "content": "ning\u00c3\u00ban detalle estimado, todo funcionando. casi nuevo ya q era un equipo de respaldo. lo vendo solo pq tengo otro.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737545532307,
+      "content": "Golpe, o mal funcionamiento de algo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737545524651,
+      "content": "Algun detalle estimado?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chris Gonzalo Gnslab",
+      "timestamp_ms": 1737493062484,
+      "content": "\u00c2\u00bfA\u00c3\u00ban te interesa? Responde a: yo estoy en elisa correa, puente alto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chris Gonzalo Gnslab",
+      "timestamp_ms": 1737486746341,
+      "content": "yo estoy en elisa correa, puente alto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737479752327,
+      "content": "Donde se puede ir a ver?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737479746851,
+      "content": "Estimado tambien soy de la florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737479734097,
+      "content": "Buenas tardes. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737479733751,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Dell Latitude 3420",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegodelllatitude3420_28295899836691391",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/2323121668068387.jpg",
+    "creation_timestamp": 1737479729
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

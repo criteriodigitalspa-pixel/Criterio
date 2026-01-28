@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Gonzalo Barrios"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732103570422,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732061691973,
+      "content": "Hola Si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gonzalo Barrios",
+      "timestamp_ms": 1732061396686,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gonzalo Barrios",
+      "timestamp_ms": 1732061392704,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gonzalo Barrios",
+      "timestamp_ms": 1732061392401,
+      "content": "Gonzalo Barrios",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gonzalo Barrios",
+      "timestamp_ms": 1732061389999,
+      "content": "Gonzalo asign\u00c3\u00b3 al grupo el nombre \"Gonzalo \u00c2\u00b7 Potente Notebook Ultra Rapida i5 16GB RAM  Enciende en 6 Segundos SSD\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gonzalo Barrios",
+      "timestamp_ms": 1732061389999,
+      "content": "Gonzalo cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gonzalo \u00c2\u00b7 Potente Notebook Ultra Rapida i5 16GB RAM  Enciende en 6 Segundos SSD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/gonzalopotentenotebookultrarapidai516gbramenciendeen6segundosssd_27636594492653001",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

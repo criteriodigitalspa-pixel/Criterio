@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Sebastian Andres Salva"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sebastian Andres Salva",
+      "timestamp_ms": 1767654032843,
+      "content": "Sebastian vendi\u00c3\u00b3 Lenovo IdeaPad S145 \u00e2\u0080\u0093 i5 10\u00c2\u00aa Gen | GPU Integrada - Para Reacondicionar \u00f0\u009f\u0093\u008c.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Andres Salva",
+      "timestamp_ms": 1767609532831,
+      "content": "Sebastian cambi\u00c3\u00b3 la descripci\u00c3\u00b3n de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Andres Salva",
+      "timestamp_ms": 1767544183923,
+      "content": "\u00c2\u00bfA\u00c3\u00ban te interesa? Responde a: Disponibleaun",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Andres Salva",
+      "timestamp_ms": 1767536926607,
+      "content": "Disponibleaun",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Andres Salva",
+      "timestamp_ms": 1767536923133,
+      "content": "Buenos diss",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767536112268,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767536111601,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Lenovo IdeaPad S145 \u00e2\u0080\u0093 i5 10\u00c2\u00aa Gen | GPU Integrada - Para Reacondicionar \u00f0\u009f\u0093\u008c",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegolenovoideapads145i510agengpuintegradaparareacondicionar_868531159244783",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/2069172287180604.jpg",
+    "creation_timestamp": 1767536108
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

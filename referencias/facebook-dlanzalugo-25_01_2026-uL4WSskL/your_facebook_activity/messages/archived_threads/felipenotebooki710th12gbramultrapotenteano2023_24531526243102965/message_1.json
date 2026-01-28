@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Felipe Loyola"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1747305191476,
+      "content": "Rechazaste la oferta de Felipe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felipe Loyola",
+      "timestamp_ms": 1747277949091,
+      "content": "Felipe te ofreci\u00c3\u00b3 $200.000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Felipe \u00c2\u00b7 Notebook i7-10Th / 12GB RAM Ultra Potente // a\u00c3\u00b1o 2023",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/felipenotebooki710th12gbramultrapotenteano2023_24531526243102965",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

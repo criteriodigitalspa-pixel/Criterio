@@ -1,0 +1,106 @@
+{
+  "participants": [
+    {
+      "name": "Luis Eduardo Gil"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729187468869,
+      "content": "Le intereso?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729123635398,
+      "content": "No tiene golpes, bateria esta buena y va cin cargador",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729123619192,
+      "content": "Ninguno, esta bien cuidada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729123609793,
+      "content": "Si amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Eduardo Gil",
+      "timestamp_ms": 1729123590117,
+      "content": "Tiene alg\u00c3\u00ban detalle",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Eduardo Gil",
+      "timestamp_ms": 1729123573376,
+      "content": "Hola si el precio es el de la publicaci\u00c3\u00b3n",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729123400927,
+      "content": "\u00c2\u00bfA\u00c3\u00ban te interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Eduardo Gil",
+      "timestamp_ms": 1729122317664,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Eduardo Gil",
+      "timestamp_ms": 1729122313918,
+      "content": "Buenos noches. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Eduardo Gil",
+      "timestamp_ms": 1729122313316,
+      "content": "Luis Eduardo Gil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Eduardo Gil",
+      "timestamp_ms": 1729122310746,
+      "content": "Luis asign\u00c3\u00b3 al grupo el nombre \"Luis \u00c2\u00b7 Notebook HP Impecable en excelente estado\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Eduardo Gil",
+      "timestamp_ms": 1729122310746,
+      "content": "Luis cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Luis \u00c2\u00b7 Notebook HP Impecable en excelente estado",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/luisnotebookhpimpecableenexcelenteestado_9268346906515281",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

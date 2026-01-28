@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Sebastian OM"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sebastian OM",
+      "timestamp_ms": 1763682863455,
+      "content": "Sebastian est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian OM",
+      "timestamp_ms": 1763660492062,
+      "content": "Correa Autocad 2026 Revit 2026 y programas de arquitectura y render ?\n\nDe alta gr\u00c3\u00a1fica",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian OM",
+      "timestamp_ms": 1763660450179,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian OM",
+      "timestamp_ms": 1763660448288,
+      "content": "Buenas tardes. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian OM",
+      "timestamp_ms": 1763660448032,
+      "content": "Sebastian inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sebastian \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "inbox/sebastiannotebooki710thultrarapida202316gbramssdd_1673313254077774",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

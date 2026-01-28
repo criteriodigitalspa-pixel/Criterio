@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Jorge Iriarte"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757555295214,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Iriarte",
+      "timestamp_ms": 1757343448903,
+      "content": "Siendo sincero en ese valor se acerca a mackbokk pro 2020 I9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757288305286,
+      "content": "Hola Jorge, gracias por la oferta. 550 es un poco bajo todav\u00c3\u00ada, pero nos podemos acercar.\n\nMira, partamos la diferencia y cerremos en $590.000. Es un super buen precio para una maquina de ultima generacion practicamente nueva.\nMe avisas si te sirve y coordinamos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Iriarte",
+      "timestamp_ms": 1757287359859,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Iriarte",
+      "timestamp_ms": 1757287351792,
+      "content": "Aceptas 550?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Iriarte",
+      "timestamp_ms": 1757287351518,
+      "content": "Jorge inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jorge \u00c2\u00b7 Notebook i7-13th /16GB RAM / SSDD / Nueva A\u00c3\u00b1o 2025",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/jorgenotebooki713th16gbramssddnuevaano2025_717057721377213",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

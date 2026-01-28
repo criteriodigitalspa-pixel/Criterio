@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alejandro Javier",
+      "timestamp_ms": 1741914796553,
+      "content": "Alejandro Javier abandon\u00c3\u00b3 el grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Javier",
+      "timestamp_ms": 1741644927288,
+      "content": "Hola. Vende?. Es el precio final para el d\u00c3\u00ada de hoy?  Trae caja y cargador original ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Javier",
+      "timestamp_ms": 1741602262633,
+      "content": "Alejandro est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Javier",
+      "timestamp_ms": 1741579804763,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Javier",
+      "timestamp_ms": 1741579800286,
+      "content": "\u00c2\u00bfSigue disponible? Permutas por notebook gamer m\u00c3\u00a1s dinero a mi favor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Javier",
+      "timestamp_ms": 1741579800095,
+      "content": "Alejandro inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Alejandro \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/alejandronotebooki710thultrarapida202316gbramssdd_9184113364975450",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

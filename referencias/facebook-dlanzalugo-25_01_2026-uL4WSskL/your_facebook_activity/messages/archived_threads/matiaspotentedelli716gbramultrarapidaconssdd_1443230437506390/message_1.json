@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Matias Franco Corvalan"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768255097241,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matias Franco Corvalan",
+      "timestamp_ms": 1768163905039,
+      "content": "A\u00c3\u00ban no respond\u00c3\u00adda",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matias Franco Corvalan",
+      "timestamp_ms": 1768163900661,
+      "content": "Te hice una pregunta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768146318205,
+      "content": "Estoy en La Florida. Te acomoda la comuna o preferir\u00c3\u00adas que coordinemos en otro punto a convenir?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768122904510,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matias Franco Corvalan",
+      "timestamp_ms": 1768101784687,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matias Franco Corvalan",
+      "timestamp_ms": 1768101779570,
+      "content": "Tiene gr\u00c3\u00a1fica dedicada ? Y de cu\u00c3\u00a1nto ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matias Franco Corvalan",
+      "timestamp_ms": 1768101779268,
+      "content": "Matias inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Matias \u00c2\u00b7 Potente Dell i7 / 16GB RAM / Ultra Rapida / con SSDD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/matiaspotentedelli716gbramultrarapidaconssdd_1443230437506390",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

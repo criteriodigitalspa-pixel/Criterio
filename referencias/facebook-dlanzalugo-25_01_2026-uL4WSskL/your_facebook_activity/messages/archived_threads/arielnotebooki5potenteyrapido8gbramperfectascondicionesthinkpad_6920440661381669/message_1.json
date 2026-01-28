@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Ariel Felipe"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703179052728,
+      "content": "Holaa, un i5-6tha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ariel Felipe",
+      "timestamp_ms": 1703178127648,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ariel Felipe",
+      "timestamp_ms": 1703178122227,
+      "content": "Hola, cual procesador es?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ariel Felipe",
+      "timestamp_ms": 1703178121659,
+      "content": "Ariel Felipe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ariel Felipe",
+      "timestamp_ms": 1703178119897,
+      "content": "Ariel cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ariel Felipe",
+      "timestamp_ms": 1703178119341,
+      "content": "Ariel asign\u00c3\u00b3 al grupo el nombre \"Ariel \u00c2\u00b7 Notebook I5 Potente y Rapido 8GB RAM, Perfectas condiciones Thinkpad\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ariel \u00c2\u00b7 Notebook I5 Potente y Rapido 8GB RAM, Perfectas condiciones Thinkpad",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/arielnotebooki5potenteyrapido8gbramperfectascondicionesthinkpad_6920440661381669",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/798365445429660.jpg",
+    "creation_timestamp": 1703178115
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

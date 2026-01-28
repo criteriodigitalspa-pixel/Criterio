@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Rodrigo Montiel"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766246669962,
+      "content": "Abandonaste el grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766187443530,
+      "content": "Paso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Montiel",
+      "timestamp_ms": 1766186117371,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Montiel",
+      "timestamp_ms": 1766186112574,
+      "content": "180 ahoraa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Montiel",
+      "timestamp_ms": 1766186112403,
+      "content": "Rodrigo inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rodrigo \u00c2\u00b7 Potente Notebook 16GB RAM /  Ultra Rapida / i5-11th HP",
+  "is_still_participant": false,
+  "thread_path": "inbox/rodrigopotentenotebook16gbramultrarapidai511thhp_969994442855065",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

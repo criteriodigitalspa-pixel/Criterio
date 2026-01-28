@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Cristofer Andr\u00c3\u00a9s"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764729790594,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764729788806,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 por renovaci\u00c3\u00b3n de equipos se venden monitores y notebooks",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegoporrenovaciondeequipossevendenmonitoresynotebooks_841800861883725",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1128600169353461.jpg",
+    "creation_timestamp": 1764729778
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

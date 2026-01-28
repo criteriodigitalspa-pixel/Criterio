@@ -1,0 +1,138 @@
+{
+  "participants": [
+    {
+      "name": "Ignacio Rojas"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ignacio Rojas",
+      "timestamp_ms": 1728343643447,
+      "content": "Ignacio elimin\u00c3\u00b3 el art\u00c3\u00adculo de Marketplace.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728334982473,
+      "content": "No se si le acomoda me puedo desplazar al metro que prefiera",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728334971912,
+      "content": "Y voy a estar en metro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728334958878,
+      "content": "Acabo de salir del trabajo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728334951504,
+      "content": "Puede hoy?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728334949421,
+      "content": "Estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ignacio Rojas",
+      "timestamp_ms": 1728330138639,
+      "content": "Me comentas cualquier cosa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ignacio Rojas",
+      "timestamp_ms": 1728328498100,
+      "content": "Lo usaba para planillar harto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ignacio Rojas",
+      "timestamp_ms": 1728328485928,
+      "content": "Bien de bater\u00c3\u00ada , 3/4 horas de uso full",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728328467683,
+      "content": "Que tal esta de bateria amigo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ignacio Rojas",
+      "timestamp_ms": 1728328442032,
+      "content": "Menos no",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ignacio Rojas",
+      "timestamp_ms": 1728328436313,
+      "content": "Ignacio rechaz\u00c3\u00b3 tu oferta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ignacio Rojas",
+      "timestamp_ms": 1728328435400,
+      "content": "120 amigo \u00c3\u00baltimo precio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728328335779,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728328334445,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Notebook Dell 7ma Generacion\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728328334445,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook Dell 7ma Generacion",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebookdell7mageneracion_8717523471645555",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/2613347908849877.jpg",
+    "creation_timestamp": 1728328333
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

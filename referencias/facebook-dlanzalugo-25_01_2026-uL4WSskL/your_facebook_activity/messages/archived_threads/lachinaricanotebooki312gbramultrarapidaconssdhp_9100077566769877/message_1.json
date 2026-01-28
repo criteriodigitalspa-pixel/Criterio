@@ -1,0 +1,132 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "La China Rica Martinez"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740923986279,
+      "content": "Le intereso el equipo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740881039661,
+      "videos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/lachinaricanotebooki312gbramultrarapidaconssdhp_9100077566769877/videos/656538336837320.mp4",
+          "creation_timestamp": 1740881022
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740881007331,
+      "content": "Ahora si ya le grabe un video",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740881001423,
+      "content": "Disculpa no tenia el notebook a mano",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "La China Rica Martinez",
+      "timestamp_ms": 1740872077748,
+      "content": "Hola?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "La China Rica Martinez",
+      "timestamp_ms": 1740870751605,
+      "content": "Me pasas m\u00c3\u00a1s fotos?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "La China Rica Martinez",
+      "timestamp_ms": 1740870740013,
+      "content": "??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "La China Rica Martinez",
+      "timestamp_ms": 1740870682064,
+      "content": "Nos podemos encontrar en estaci\u00c3\u00b3n central?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740870240828,
+      "content": "150mil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "La China Rica Martinez",
+      "timestamp_ms": 1740870055581,
+      "content": "Cual es el precio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740869737649,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740869736948,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "La China Rica Martinez",
+      "timestamp_ms": 1740869556745,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "La China Rica Martinez",
+      "timestamp_ms": 1740869550103,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "La China Rica Martinez",
+      "timestamp_ms": 1740869549740,
+      "content": "La China Rica inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "La China Rica \u00c2\u00b7 Notebook i3 12GB RAM Ultra Rapida con SSD HP",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/lachinaricanotebooki312gbramultrarapidaconssdhp_9100077566769877",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

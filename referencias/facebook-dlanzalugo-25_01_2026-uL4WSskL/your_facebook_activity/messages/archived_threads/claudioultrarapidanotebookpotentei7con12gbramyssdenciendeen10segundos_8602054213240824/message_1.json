@@ -1,0 +1,415 @@
+{
+  "participants": [
+    {
+      "name": "Ulloa Claudio"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ulloa Claudio",
+      "timestamp_ms": 1730143707767,
+      "content": "Si bajando",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730143679859,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/claudioultrarapidanotebookpotentei7con12gbramyssdenciendeen10segundos_8602054213240824/photos/408251369007331.jpg",
+          "creation_timestamp": 1730143678
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730143667317,
+      "content": "Junto a torniquetes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730143663563,
+      "content": "Buena, estoy aca ya",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ulloa Claudio",
+      "timestamp_ms": 1730143526788,
+      "content": "Estoy caminando para all\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ulloa Claudio",
+      "timestamp_ms": 1730143513603,
+      "content": "Si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730143176120,
+      "content": "Encontraste amigo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730142502547,
+      "content": "Estoy a unos 10 min",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ulloa Claudio",
+      "timestamp_ms": 1730142232005,
+      "content": "Deja ver donde dejo el auto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730142227220,
+      "content": "Porque llevo el mio personal tambien entonces ando con 2 notebook encima",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ulloa Claudio",
+      "timestamp_ms": 1730142220942,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ulloa Claudio",
+      "timestamp_ms": 1730142209062,
+      "content": "Est\u00c3\u00a1 a una cuadra",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730142207974,
+      "content": "En el metro compa, que hay guardias y eso, no quiero estar por la calle con el note",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ulloa Claudio",
+      "timestamp_ms": 1730142189291,
+      "content": "Shell",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ulloa Claudio",
+      "timestamp_ms": 1730142184191,
+      "content": "En la Sherlock",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ulloa Claudio",
+      "timestamp_ms": 1730142166156,
+      "content": "Podr\u00c3\u00ada ser ah\u00c3\u00ad?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ulloa Claudio",
+      "timestamp_ms": 1730142159266,
+      "content": "Si la vi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730142143667,
+      "content": "La verdad que no, hay una shell y copec como a 300 metros",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ulloa Claudio",
+      "timestamp_ms": 1730142100547,
+      "content": "Tu conoces ac\u00c3\u00a1 alg\u00c3\u00ban lugar donde poder estacionarse?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ulloa Claudio",
+      "timestamp_ms": 1730142077389,
+      "content": "Llegu\u00c3\u00a9 a metro, no hay donde estacionar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ulloa Claudio",
+      "timestamp_ms": 1730141442719,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730141075686,
+      "content": "Voy saliendo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730141073945,
+      "content": "Si amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ulloa Claudio",
+      "timestamp_ms": 1730140885578,
+      "content": "Te espero a las 16:30?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ulloa Claudio",
+      "timestamp_ms": 1730140865633,
+      "content": "Hola, para confirmar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730138165528,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ulloa Claudio",
+      "timestamp_ms": 1730138100744,
+      "content": "Ok, av\u00c3\u00adsame cuando est\u00c3\u00a9s cerca porfa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730138080415,
+      "content": "Que estoy terminando recien una Reu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730138072462,
+      "content": "Voy una media hora atrasado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730138065758,
+      "content": "Claudio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730135171235,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ulloa Claudio",
+      "timestamp_ms": 1730135141428,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730135135198,
+      "content": "A las 16 te parece?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ulloa Claudio",
+      "timestamp_ms": 1730135125074,
+      "content": "A qu\u00c3\u00a9 hora puedes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730135114906,
+      "content": "No llegare a esa hora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ulloa Claudio",
+      "timestamp_ms": 1730135111204,
+      "content": "Si te surge alg\u00c3\u00ban problema me avisas porfa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730135109875,
+      "content": "Amigo revisando",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ulloa Claudio",
+      "timestamp_ms": 1730135016034,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730135010712,
+      "content": "A las 15.00 en metro cerrillos?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ulloa Claudio",
+      "timestamp_ms": 1730134999821,
+      "content": "Donde prefieres?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ulloa Claudio",
+      "timestamp_ms": 1730134993513,
+      "content": "Si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730134988367,
+      "content": "Entonces seria a que hora?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730134983405,
+      "content": "Vale sin problema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ulloa Claudio",
+      "timestamp_ms": 1730134863397,
+      "content": "Ahora estoy en mall plaza oeste",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ulloa Claudio",
+      "timestamp_ms": 1730134843379,
+      "content": "Te acomoda metro cerrillos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ulloa Claudio",
+      "timestamp_ms": 1730134759786,
+      "content": "Ok, puedo en una hora m\u00c3\u00a1s o menos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730134647694,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730134644545,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro, puede revisarlo y probarlo con calma, sin compromiso. Solo si le gusta se lo lleva",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730134639948,
+      "content": "Hola si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ulloa Claudio",
+      "timestamp_ms": 1730134612732,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ulloa Claudio",
+      "timestamp_ms": 1730134609060,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ulloa Claudio",
+      "timestamp_ms": 1730134608701,
+      "content": "Ulloa Claudio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ulloa Claudio",
+      "timestamp_ms": 1730134606280,
+      "content": "Claudio asign\u00c3\u00b3 al grupo el nombre \"Claudio \u00c2\u00b7 Ultra Rapida Notebook Potente i7 con 12gb Ram y SSD ENCIENDE EN 10 SEGUNDOS\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ulloa Claudio",
+      "timestamp_ms": 1730134606280,
+      "content": "Claudio cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Claudio \u00c2\u00b7 Ultra Rapida Notebook Potente i7 con 12gb Ram y SSD ENCIENDE EN 10 SEGUNDOS",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/claudioultrarapidanotebookpotentei7con12gbramyssdenciendeen10segundos_8602054213240824",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

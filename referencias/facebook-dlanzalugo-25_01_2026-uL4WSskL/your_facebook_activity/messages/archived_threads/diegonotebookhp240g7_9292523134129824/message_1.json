@@ -1,0 +1,117 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Matias Jesus Herrera"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Matias Jesus Herrera",
+      "timestamp_ms": 1738174685740,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matias Jesus Herrera",
+      "timestamp_ms": 1738174682791,
+      "content": "yap",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738174467274,
+      "content": "Pega",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738174466146,
+      "content": "Vale te aviso, porque me complica es por la oega",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matias Jesus Herrera",
+      "timestamp_ms": 1738174424142,
+      "content": "podemos encontrar alg\u00c3\u00ban punto medio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matias Jesus Herrera",
+      "timestamp_ms": 1738174409261,
+      "content": "soy de maipu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matias Jesus Herrera",
+      "timestamp_ms": 1738174403888,
+      "content": "disculpe me queda muy lejos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738174327036,
+      "content": "Entregarias en metro macul?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matias Jesus Herrera",
+      "timestamp_ms": 1738174310519,
+      "content": "si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738170828069,
+      "content": "Amigo 100mil acepta?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matias Jesus Herrera",
+      "timestamp_ms": 1738170604880,
+      "content": "Hola si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738170378572,
+      "content": "Hola, Matias Jesus. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738170378204,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook HP 240 G7",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebookhp240g7_9292523134129824",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1746514032808138.jpg",
+    "creation_timestamp": 1738170375
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

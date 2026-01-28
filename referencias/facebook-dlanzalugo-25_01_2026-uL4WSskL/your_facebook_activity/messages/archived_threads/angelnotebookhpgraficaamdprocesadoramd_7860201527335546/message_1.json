@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Angel Bahamondes"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718893775788,
+      "content": "Holaa si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angel Bahamondes",
+      "timestamp_ms": 1718858546516,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angel Bahamondes",
+      "timestamp_ms": 1718858541207,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angel Bahamondes",
+      "timestamp_ms": 1718858540924,
+      "content": "Angel Bahamondes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angel Bahamondes",
+      "timestamp_ms": 1718858539207,
+      "content": "Angel asign\u00c3\u00b3 al grupo el nombre \"Angel \u00c2\u00b7 Notebook HP, GRAFICA AMD PROCESADOR AMD\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angel Bahamondes",
+      "timestamp_ms": 1718858539207,
+      "content": "Angel cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Angel \u00c2\u00b7 Notebook HP, GRAFICA AMD PROCESADOR AMD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/angelnotebookhpgraficaamdprocesadoramd_7860201527335546",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

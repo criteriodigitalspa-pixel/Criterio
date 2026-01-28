@@ -1,0 +1,328 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Andr\u00c3\u00a9s Esteban Aguirre"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763729317258,
+      "content": "+56994919000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763729311911,
+      "content": "Holaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9s Esteban Aguirre",
+      "timestamp_ms": 1763729020836,
+      "content": "Y si me puedes dar tu n\u00c3\u00bamero para coordinar mejor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9s Esteban Aguirre",
+      "timestamp_ms": 1763726620898,
+      "content": "Y donde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9s Esteban Aguirre",
+      "timestamp_ms": 1763726619407,
+      "content": "A qu\u00c3\u00a9 hora nos podr\u00c3\u00adamos juntar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9s Esteban Aguirre",
+      "timestamp_ms": 1763726614546,
+      "content": "Me autorizaron el permiso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9s Esteban Aguirre",
+      "timestamp_ms": 1763726609953,
+      "content": "Hola buenos dias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9s Esteban Aguirre",
+      "timestamp_ms": 1763682043664,
+      "content": "Si no ma\u00c3\u00b1ana tendr\u00c3\u00ada que pedir permiso presencial",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9s Esteban Aguirre",
+      "timestamp_ms": 1763682031904,
+      "content": "De vd si pudieras hoy estar\u00c3\u00ada muy agradecido",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9s Esteban Aguirre",
+      "timestamp_ms": 1763682018450,
+      "content": "Hola compa pucha no me ha contestado mi jefe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763680891663,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9s Esteban Aguirre",
+      "timestamp_ms": 1763680863328,
+      "content": "Vale rey te aviso en un rato a ver c\u00c3\u00b3mo me va",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763680822816,
+      "content": "Vale estimado estoy atento, el equipo vale la pena esta muy bien cuidado y es buena maquina",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9s Esteban Aguirre",
+      "timestamp_ms": 1763680524506,
+      "content": "Voy a intentar pedir permiso para ma\u00c3\u00b1ana te aviso pero me complica",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9s Esteban Aguirre",
+      "timestamp_ms": 1763680213080,
+      "content": "Igual hoy puedo a cualquier hora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9s Esteban Aguirre",
+      "timestamp_ms": 1763680206571,
+      "content": "Ma\u00c3\u00b1ana me complica un poco la vd por lo que te dije",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763680164031,
+      "content": "Yo estare en la florida toda la ma\u00c3\u00b1ana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9s Esteban Aguirre",
+      "timestamp_ms": 1763679872519,
+      "content": "Y ma\u00c3\u00b1ana como a qu\u00c3\u00a9 hora podr\u00c3\u00ada ser?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763679826425,
+      "content": "Aah amigo no tengo el cargador conmigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9s Esteban Aguirre",
+      "timestamp_ms": 1763679654030,
+      "content": "Y dame la direccion",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9s Esteban Aguirre",
+      "timestamp_ms": 1763679649147,
+      "content": "Tu dime a qu\u00c3\u00a9 hora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9s Esteban Aguirre",
+      "timestamp_ms": 1763679646106,
+      "content": "Si puedo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763679635432,
+      "content": "Si puedes venir lo llevo conmigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763679628517,
+      "content": "Yo estoy haciendo unas instalciones ahora en providencia y termino tarde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9s Esteban Aguirre",
+      "timestamp_ms": 1763679583778,
+      "content": "Por \u00c3\u00baltimo voy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9s Esteban Aguirre",
+      "timestamp_ms": 1763679578731,
+      "content": "Hoy no puedes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9s Esteban Aguirre",
+      "timestamp_ms": 1763679574651,
+      "content": "Es que yo ma\u00c3\u00b1ana viajo a la 5ta region",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9s Esteban Aguirre",
+      "timestamp_ms": 1763679569198,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9s Esteban Aguirre",
+      "timestamp_ms": 1763679566800,
+      "content": "Uhh",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763679559764,
+      "content": "Ma\u00c3\u00b1ana te lo podria llevar te parece?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9s Esteban Aguirre",
+      "timestamp_ms": 1763679544784,
+      "content": "Ya bro lo acepto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763679510180,
+      "content": "Hola estimado, gracias por tu oferta, te podria aceptar 270mil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9s Esteban Aguirre",
+      "timestamp_ms": 1763679055949,
+      "content": "Te ofrezco 250 y te lo compro ya mismo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9s Esteban Aguirre",
+      "timestamp_ms": 1763677413406,
+      "content": "Otra cosa es conversable?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9s Esteban Aguirre",
+      "timestamp_ms": 1763677406898,
+      "content": "Si te parece igual est\u00c3\u00a1 peligroso afuera ajaj",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9s Esteban Aguirre",
+      "timestamp_ms": 1763677400613,
+      "content": "Por motivos de seguridad para ambos ser\u00c3\u00ada mejor ac\u00c3\u00a1?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9s Esteban Aguirre",
+      "timestamp_ms": 1763677388172,
+      "content": "Trabajo en la fuerza aerea",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9s Esteban Aguirre",
+      "timestamp_ms": 1763677381960,
+      "content": "Hola soy del el bosque",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763677366518,
+      "content": "Estoy en La Florida. Te acomoda la comuna o preferir\u00c3\u00adas que coordinemos en otro punto a convenir?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763677364822,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9s Esteban Aguirre",
+      "timestamp_ms": 1763676536593,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9s Esteban Aguirre",
+      "timestamp_ms": 1763676534354,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9s Esteban Aguirre",
+      "timestamp_ms": 1763676534133,
+      "content": "Andr\u00c3\u00a9s inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Andr\u00c3\u00a9s \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "inbox/andresnotebooki710thultrarapida202316gbramssdd_1168895598104482",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

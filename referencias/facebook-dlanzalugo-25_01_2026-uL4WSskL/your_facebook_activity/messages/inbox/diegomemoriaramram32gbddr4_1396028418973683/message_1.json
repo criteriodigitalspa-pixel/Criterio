@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Moises Paniagua"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Moises Paniagua",
+      "timestamp_ms": 1768147799453,
+      "content": "Moises vendi\u00c3\u00b3 Memoria ram Ram 32gb ddr4.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Moises Paniagua",
+      "timestamp_ms": 1768096485702,
+      "content": "Moises respondi\u00c3\u00b3 tu mensaje sobre Memoria ram Ram 32gb ddr4.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Moises Paniagua",
+      "timestamp_ms": 1768089598270,
+      "content": "Meta podr\u00c3\u00ada usar tecnolog\u00c3\u00ada para revisar los mensajes de Marketplace con el fin de detectar y reducir las estafas y el fraude.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Moises Paniagua",
+      "timestamp_ms": 1768089596246,
+      "content": "Disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768073046129,
+      "content": "Buenas tardes. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768073045832,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Memoria ram Ram 32gb ddr4",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegomemoriaramram32gbddr4_1396028418973683",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/2820705831468241.jpg",
+    "creation_timestamp": 1768073042
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

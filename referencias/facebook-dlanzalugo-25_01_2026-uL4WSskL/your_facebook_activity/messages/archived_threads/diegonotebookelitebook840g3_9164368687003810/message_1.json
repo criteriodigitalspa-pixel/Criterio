@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Alexis Cardenas"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alexis Cardenas",
+      "timestamp_ms": 1738686722772,
+      "content": "No bro en mi domicilio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738686712088,
+      "content": "Amigo entregarias en metro macul?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexis Cardenas",
+      "timestamp_ms": 1738686694518,
+      "content": "Alexis acept\u00c3\u00b3 tu oferta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738686683622,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 notebook elitebook 840 g3",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebookelitebook840g3_9164368687003810",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1176822543865816.jpg",
+    "creation_timestamp": 1738686680
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

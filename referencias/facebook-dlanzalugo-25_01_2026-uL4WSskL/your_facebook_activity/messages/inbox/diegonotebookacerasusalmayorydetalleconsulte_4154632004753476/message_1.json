@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Rebeca Infantino"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765510287990,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765409949827,
+      "content": "Yo podria comprar de a varias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765409943552,
+      "content": "Hola disculpa y que tiene a la venta? Estan todas buenas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rebeca Infantino",
+      "timestamp_ms": 1765398557456,
+      "content": "Rebeca respondi\u00c3\u00b3 tu mensaje sobre Notebook Acer, Asus al Mayory Detalle consulte \u00f0\u009f\u0093\u00b2.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rebeca Infantino",
+      "timestamp_ms": 1765384395870,
+      "content": "S\u00c3\u00ad. \u00c2\u00bfTe interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765375104165,
+      "content": "Buenos d\u00c3\u00adas. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765375103988,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook Acer, Asus al Mayory Detalle consulte \u00f0\u009f\u0093\u00b2",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebookacerasusalmayorydetalleconsulte_4154632004753476",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1229269199310034.jpg",
+    "creation_timestamp": 1765375101
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

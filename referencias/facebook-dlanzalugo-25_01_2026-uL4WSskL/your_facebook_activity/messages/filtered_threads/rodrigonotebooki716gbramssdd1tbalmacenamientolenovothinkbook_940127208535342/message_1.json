@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Rodrigo Quezada Rosas"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rodrigo Quezada Rosas",
+      "timestamp_ms": 1764409700201,
+      "content": "Rodrigo est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Quezada Rosas",
+      "timestamp_ms": 1764369495086,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Quezada Rosas",
+      "timestamp_ms": 1764369491514,
+      "content": "Tengo 300.000 para retirarlo ma\u00c3\u00b1ana mismo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Quezada Rosas",
+      "timestamp_ms": 1764369491240,
+      "content": "Rodrigo inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rodrigo \u00c2\u00b7 Notebook i7/16GB RAM / SSDD / 1TB almacenamiento/Lenovo ThinkBook",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/rodrigonotebooki716gbramssdd1tbalmacenamientolenovothinkbook_940127208535342",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "participants": [
+    {
+      "name": "Rodrigo Gourdet"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766402771234,
+      "content": "Publicaciones similares a \"Lenovo ThinkPad T14s\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Gourdet",
+      "timestamp_ms": 1766363870785,
+      "content": "Rodrigo vendi\u00c3\u00b3 Lenovo ThinkPad T14s.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Gourdet",
+      "timestamp_ms": 1766275654993,
+      "content": "Antes de las 10 o despu\u00c3\u00a9s de las 18",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766274550527,
+      "content": "A que hora puedes ma\u00c3\u00b1ana?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766274545436,
+      "content": "Holaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Gourdet",
+      "timestamp_ms": 1766274479517,
+      "content": "\u00c3\u00b1u\u00c3\u00b1oa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Gourdet",
+      "timestamp_ms": 1766274477831,
+      "content": "Meta podr\u00c3\u00ada usar tecnolog\u00c3\u00ada para revisar los mensajes de Marketplace con el fin de detectar y reducir las estafas y el fraude.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Gourdet",
+      "timestamp_ms": 1766274476495,
+      "content": "Hola, metro chile espa\u00c3\u00b1a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766273167222,
+      "content": "Holaa donde entrega?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766273143523,
+      "content": "Buenas noches. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766273143245,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Lenovo ThinkPad T14s",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegolenovothinkpadt14s_25475037905450152",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1438832064354024.jpg",
+    "creation_timestamp": 1766273140
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

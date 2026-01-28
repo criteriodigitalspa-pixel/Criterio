@@ -1,0 +1,103 @@
+{
+  "participants": [
+    {
+      "name": "Jes\u00c3\u00bas R\u00c3\u00ados"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jes\u00c3\u00bas R\u00c3\u00ados",
+      "timestamp_ms": 1733102860917,
+      "content": "El vendedor vendi\u00c3\u00b3 Notebook i5-8\u00c2\u00aa / 1TB SSD / 8Gb Ram / Dell Inspiron 3583 15,6\u00e2\u0080\u009d \u00e2\u009c\u0085.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1733037288860,
+      "content": "Ver publicaciones similares",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jes\u00c3\u00bas R\u00c3\u00ados",
+      "timestamp_ms": 1732930208797,
+      "content": "\u00c2\u00bfA\u00c3\u00ban te interesa? Responde a: Hola, en la recepcion de mi edificio ubicado en San Miguel",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jes\u00c3\u00bas R\u00c3\u00ados",
+      "timestamp_ms": 1732923805052,
+      "content": "El vendedor cambi\u00c3\u00b3 la descripci\u00c3\u00b3n de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jes\u00c3\u00bas R\u00c3\u00ados",
+      "timestamp_ms": 1732919404320,
+      "content": "El vendedor cambi\u00c3\u00b3 la descripci\u00c3\u00b3n de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jes\u00c3\u00bas R\u00c3\u00ados",
+      "timestamp_ms": 1732915095604,
+      "content": "Hola, en la recepcion de mi edificio ubicado en San Miguel",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732907746863,
+      "content": "Donde entregas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732907744322,
+      "content": "Estimado me interesa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732907686230,
+      "content": "Buenas tardes. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732907683691,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Notebook i5-8\u00c2\u00aa / 1TB SSD / 8Gb Ram / Dell Inspiron 3583 15,6\u00e2\u0080\u009d \u00e2\u009c\u0085\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732907683691,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook i5-8\u00c2\u00aa / 1TB SSD / 8Gb Ram / Dell Inspiron 3583 15,6\u00e2\u0080\u009d \u00e2\u009c\u0085",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebooki58a1tbssd8gbramdellinspiron3583156_8332278170210243",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/2389964874683173.jpg",
+    "creation_timestamp": 1732907682
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

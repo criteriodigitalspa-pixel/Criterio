@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Daniel Latorre Cubillos"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732482122659,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Latorre Cubillos",
+      "timestamp_ms": 1732481798250,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Latorre Cubillos",
+      "timestamp_ms": 1732481794109,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Latorre Cubillos",
+      "timestamp_ms": 1732481793736,
+      "content": "Daniel Latorre Cubillos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Latorre Cubillos",
+      "timestamp_ms": 1732481791418,
+      "content": "Daniel asign\u00c3\u00b3 al grupo el nombre \"Daniel \u00c2\u00b7 Notebook HP ultra Rapida i5 Potente 12GB RAM Enciende en segundos!\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Latorre Cubillos",
+      "timestamp_ms": 1732481791418,
+      "content": "Daniel cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Daniel \u00c2\u00b7 Notebook HP ultra Rapida i5 Potente 12GB RAM Enciende en segundos!",
+  "is_still_participant": true,
+  "thread_path": "inbox/danielnotebookhpultrarapidai5potente12gbramenciendeensegundos_9156148064415904",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

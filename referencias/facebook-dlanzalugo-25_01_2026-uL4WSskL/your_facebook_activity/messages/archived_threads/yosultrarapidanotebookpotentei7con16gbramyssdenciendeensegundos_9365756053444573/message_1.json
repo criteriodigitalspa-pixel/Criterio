@@ -1,0 +1,116 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Yos Goitia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737308561798,
+      "videos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/yosultrarapidanotebookpotentei7con16gbramyssdenciendeensegundos_9365756053444573/videos/1161998852111140.mp4",
+          "creation_timestamp": 1737308561
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737307047381,
+      "content": "Le intereso el equipo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737286502372,
+      "content": "Por encima de 2 horas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737286483314,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/yosultrarapidanotebookpotentei7con16gbramyssdenciendeensegundos_9365756053444573/photos/2485548565145168.jpg",
+          "creation_timestamp": 1737286481
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yos Goitia",
+      "timestamp_ms": 1737286160041,
+      "content": "Tienes como la imagen de las caracter\u00c3\u00adsticas de procesador completa.. y otra consulta cuanto es la duraci\u00c3\u00b3n encendida sin cargador",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737284006489,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737284005722,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737284004898,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yos Goitia",
+      "timestamp_ms": 1737256014433,
+      "content": "Estoy muy interesada!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yos Goitia",
+      "timestamp_ms": 1737254742348,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yos Goitia",
+      "timestamp_ms": 1737254738753,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yos Goitia",
+      "timestamp_ms": 1737254738557,
+      "content": "Yos inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Yos \u00c2\u00b7 Ultra Rapida Notebook Potente i7 con 16gb Ram y SSD ENCIENDE EN SEGUNDOS",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/yosultrarapidanotebookpotentei7con16gbramyssdenciendeensegundos_9365756053444573",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

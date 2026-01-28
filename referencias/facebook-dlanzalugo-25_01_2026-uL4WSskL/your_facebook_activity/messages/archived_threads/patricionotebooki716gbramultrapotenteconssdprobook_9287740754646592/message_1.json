@@ -1,0 +1,90 @@
+{
+  "participants": [
+    {
+      "name": "Patricio Urrutia"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737983396229,
+      "content": "Estimado buen dia, le intereso el equipo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737902464795,
+      "videos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/patricionotebooki716gbramultrapotenteconssdprobook_9287740754646592/videos/922081000041546.mp4",
+          "creation_timestamp": 1737902453
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Urrutia",
+      "timestamp_ms": 1737902352993,
+      "content": "nada que ver perdon queria saber si tenia mas fotos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737902315002,
+      "content": "Disculpa a que te refieres con tintas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737902305916,
+      "content": "Holaa buenas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Urrutia",
+      "timestamp_ms": 1737898195758,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Urrutia",
+      "timestamp_ms": 1737898194704,
+      "content": "hola buenas mas fotos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Urrutia",
+      "timestamp_ms": 1737898187718,
+      "content": "Esta con las tintas buenas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Urrutia",
+      "timestamp_ms": 1737898187499,
+      "content": "Patricio inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Patricio \u00c2\u00b7 Notebook i7 16GB RAM Ultra Potente con SSD PROBOOK",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/patricionotebooki716gbramultrapotenteconssdprobook_9287740754646592",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

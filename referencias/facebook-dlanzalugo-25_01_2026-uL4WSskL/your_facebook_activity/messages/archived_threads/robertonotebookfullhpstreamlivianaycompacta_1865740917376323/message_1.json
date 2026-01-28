@@ -1,0 +1,256 @@
+{
+  "participants": [
+    {
+      "name": "Roberto Andres"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767294654552,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Roberto Andres",
+      "timestamp_ms": 1767283481063,
+      "content": "Oka gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767283413834,
+      "content": "Yo estoy cerca",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767283398707,
+      "content": "Super, sube las escaleras electricas hasta torniquetes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Roberto Andres",
+      "timestamp_ms": 1767283249717,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/robertonotebookfullhpstreamlivianaycompacta_1865740917376323/photos/1397072205134312.jpg",
+          "creation_timestamp": 1767283249
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Roberto Andres",
+      "timestamp_ms": 1767283117958,
+      "content": "Ya llegu\u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Roberto Andres",
+      "timestamp_ms": 1767283114577,
+      "content": "Anduvo todo bien hacia ac\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Roberto Andres",
+      "timestamp_ms": 1767281801733,
+      "content": "Hay estaciones de metro sin funcionar...reci\u00c3\u00a9n me entere",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Roberto Andres",
+      "timestamp_ms": 1767281742985,
+      "content": "Yo estoy en camino agr\u00c3\u00adcola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Roberto Andres",
+      "timestamp_ms": 1767281728661,
+      "content": "Ok..no hay problema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767281712214,
+      "content": "Estoy cargando el notebook y salgo para alla",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767281699902,
+      "content": "Roberto voy un poco atrasado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767275755809,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Roberto Andres",
+      "timestamp_ms": 1767270290930,
+      "content": "Confirmo tambi\u00c3\u00a9n..nos vemos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767270106469,
+      "content": "Holaa, confirmo 13hr hoy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Roberto Andres",
+      "timestamp_ms": 1767234249709,
+      "content": "Nos vemos...muchas gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Roberto Andres",
+      "timestamp_ms": 1767234238072,
+      "content": "Se envi\u00c3\u00b3 tu calificaci\u00c3\u00b3n",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Roberto Andres",
+      "timestamp_ms": 1767234235785,
+      "content": "Ok..entonces 13 horas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767234219747,
+      "content": "13hr?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767234211146,
+      "content": "Super!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Roberto Andres",
+      "timestamp_ms": 1767232210986,
+      "content": "Me confirmas por favor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Roberto Andres",
+      "timestamp_ms": 1767231962487,
+      "content": "Al medio d\u00c3\u00ada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767231809753,
+      "content": "Sii dime tu la hora no mas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Roberto Andres",
+      "timestamp_ms": 1767228831613,
+      "content": "Me imagino que no tan temprano ? Ya que es a\u00c3\u00b1o nuevo hoy \u00f0\u009f\u0098\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Roberto Andres",
+      "timestamp_ms": 1767228617557,
+      "content": "Horario?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Roberto Andres",
+      "timestamp_ms": 1767228613093,
+      "content": "Oka",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767228586840,
+      "content": "Ma\u00c3\u00b1ana podria en estacion Ines de suarez Linea 6",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767228573611,
+      "content": "Holaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Roberto Andres",
+      "timestamp_ms": 1767228182600,
+      "content": "Tu dime qu\u00c3\u00a9 estaci\u00c3\u00b3n de l\u00c3\u00adnea 4 y la hora por favor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Roberto Andres",
+      "timestamp_ms": 1767228102490,
+      "content": "Me interesa...ma\u00c3\u00b1ana podemos coordinar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Roberto Andres",
+      "timestamp_ms": 1767228062280,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible? \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Roberto Andres",
+      "timestamp_ms": 1767228062075,
+      "content": "Roberto inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Roberto \u00c2\u00b7 Notebook Full / HP Stream / Liviana y compacta",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/robertonotebookfullhpstreamlivianaycompacta_1865740917376323",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

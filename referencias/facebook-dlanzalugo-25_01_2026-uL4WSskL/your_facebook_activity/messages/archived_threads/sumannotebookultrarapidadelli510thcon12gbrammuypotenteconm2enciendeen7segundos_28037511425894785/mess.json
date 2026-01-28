@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Suman Cooper"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734181114887,
+      "content": "170 amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734181106502,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Suman Cooper",
+      "timestamp_ms": 1734179417970,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Suman Cooper",
+      "timestamp_ms": 1734179413650,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible? Cu\u00c3\u00a1l es el \u00c3\u00baltimo precio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Suman Cooper",
+      "timestamp_ms": 1734179413304,
+      "content": "Suman Cooper",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Suman Cooper",
+      "timestamp_ms": 1734179411174,
+      "content": "Suman asign\u00c3\u00b3 al grupo el nombre \"Suman \u00c2\u00b7 Notebook Ultra Rapida Dell i5-10th con 12GB RAM Muy Potente Con M2 ENCIENDE EN 7 SEGUNDOS!\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Suman Cooper",
+      "timestamp_ms": 1734179411174,
+      "content": "Suman cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Suman \u00c2\u00b7 Notebook Ultra Rapida Dell i5-10th con 12GB RAM Muy Potente Con M2 ENCIENDE EN 7 SEGUNDOS!",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/sumannotebookultrarapidadelli510thcon12gbrammuypotenteconm2enciendeen7segundos_28037511425894785",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

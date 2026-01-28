@@ -1,0 +1,89 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Nashmia Silva"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nashmia Silva",
+      "timestamp_ms": 1728766624114,
+      "content": "Nashmia vendi\u00c3\u00b3 Vendo computador hp.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nashmia Silva",
+      "timestamp_ms": 1728761087855,
+      "content": "Puedo llevar a su domicilio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728761000094,
+      "content": "Donde entregas? Puede ser en un metro l4?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nashmia Silva",
+      "timestamp_ms": 1728760711008,
+      "content": "Si todo est\u00c3\u00a1 bueno",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728760679113,
+      "content": "Tiene cargador y bateria buena?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nashmia Silva",
+      "timestamp_ms": 1728760552304,
+      "content": "Si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728759094933,
+      "content": "Buenas tardes. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728759091439,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Vendo computador hp\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728759091439,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Vendo computador hp",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegovendocomputadorhp_8388705097923474",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/439355425401715.jpg",
+    "creation_timestamp": 1728759090
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

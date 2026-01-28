@@ -1,0 +1,99 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "J Javieer Bravo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732480748829,
+      "content": "Hoy o entre semana siempre estoy sca",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732480728458,
+      "content": "Si es en mi domicilio cualquier hora esta bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "J Javieer Bravo",
+      "timestamp_ms": 1732480399011,
+      "content": "Ya que horario dispone",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732479809430,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "J Javieer Bravo",
+      "timestamp_ms": 1732479777542,
+      "content": "Donde entregas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732479713838,
+      "content": "Hola Si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "J Javieer Bravo",
+      "timestamp_ms": 1732479703441,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "J Javieer Bravo",
+      "timestamp_ms": 1732479698549,
+      "content": "\u00c2\u00bfSigue disponible? Me interesa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "J Javieer Bravo",
+      "timestamp_ms": 1732479698068,
+      "content": "J Javieer Bravo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "J Javieer Bravo",
+      "timestamp_ms": 1732479695511,
+      "content": "J asign\u00c3\u00b3 al grupo el nombre \"Javier \u00c2\u00b7 Notebook i7-10th Ultra Rapida y potente HP Envy 13\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "J Javieer Bravo",
+      "timestamp_ms": 1732479695511,
+      "content": "J cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Javier \u00c2\u00b7 Notebook i7-10th Ultra Rapida y potente HP Envy 13",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/javiernotebooki710thultrarapidaypotentehpenvy13_9135724246492288",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Barbi Magnoni"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Barbi Magnoni",
+      "timestamp_ms": 1768556283948,
+      "content": "Barbi est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barbi Magnoni",
+      "timestamp_ms": 1768504359238,
+      "content": "Barbi Magnoni te envi\u00c3\u00b3 un mensaje sobre tu publicaci\u00c3\u00b3n: Notebook i7-10th Ultra Rapida / 16gb RAM / SSDD.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barbi Magnoni",
+      "timestamp_ms": 1768504352888,
+      "content": "Hola, Diego. Quer\u00c3\u00ada saber si sigue disponible. Tambi\u00c3\u00a9n si me pod\u00c3\u00a9s confirmar qu\u00c3\u00a9 placa de video tiene (integrada o dedicada) y el estado de la bater\u00c3\u00ada. Gracias!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barbi Magnoni",
+      "timestamp_ms": 1768504352634,
+      "content": "Barbi inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Barbi \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/barbinotebooki710thultrarapida202316gbramssdd_1901950897116600",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

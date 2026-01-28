@@ -1,0 +1,89 @@
+{
+  "participants": [
+    {
+      "name": "'Paula Catalina'"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "'Paula Catalina'",
+      "timestamp_ms": 1757169690215,
+      "content": "'Paula vendi\u00c3\u00b3 NOTEBOOK DELL LATITUDES i5.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "'Paula Catalina'",
+      "timestamp_ms": 1757112217203,
+      "content": "'Paula marc\u00c3\u00b3 la publicaci\u00c3\u00b3n como Disponible.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "'Paula Catalina'",
+      "timestamp_ms": 1757112213384,
+      "content": "'Paula marc\u00c3\u00b3 la publicaci\u00c3\u00b3n como Disponible.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "'Paula Catalina'",
+      "timestamp_ms": 1757112212942,
+      "content": "'Paula vendi\u00c3\u00b3 NOTEBOOK DELL LATITUDES i5.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "'Paula Catalina'",
+      "timestamp_ms": 1757112177417,
+      "content": "'Paula vendi\u00c3\u00b3 NOTEBOOK DELL LATITUDES i5.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "'Paula Catalina'",
+      "timestamp_ms": 1757099586260,
+      "content": "No respondiste a: Hola si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "'Paula Catalina'",
+      "timestamp_ms": 1757089632432,
+      "content": "Hola si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757079016561,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757079016343,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 NOTEBOOK DELL LATITUDES i5",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebookdelllatitudesi5_1330675461806730",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1211274954136544.jpg",
+    "creation_timestamp": 1757079013
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

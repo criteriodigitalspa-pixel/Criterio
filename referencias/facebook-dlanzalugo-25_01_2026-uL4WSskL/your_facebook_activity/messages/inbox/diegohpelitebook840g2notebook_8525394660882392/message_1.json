@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Felipe Ignacio Gonzalez Barros"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Felipe Ignacio Gonzalez Barros",
+      "timestamp_ms": 1756787210507,
+      "content": "Felipe vendi\u00c3\u00b3 HP ELITEBOOK 840 G2 NOTEBOOK.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 HP ELITEBOOK 840 G2 NOTEBOOK",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegohpelitebook840g2notebook_8525394660882392",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/496506203361078.jpg",
+    "creation_timestamp": 1729980128
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

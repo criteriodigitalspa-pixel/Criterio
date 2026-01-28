@@ -1,0 +1,37 @@
+{
+  "participants": [
+    {
+      "name": "Abelardo Bravo"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754885950278,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/e2ee_cutover/abelardobravo_913987371982097/photos/778205891249777.jpg",
+          "creation_timestamp": 1754885949
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754885476581,
+      "content": "Holaa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Abelardo Bravo",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/abelardobravo_913987371982097",
+  "magic_words": [
+    
+  ]
+}

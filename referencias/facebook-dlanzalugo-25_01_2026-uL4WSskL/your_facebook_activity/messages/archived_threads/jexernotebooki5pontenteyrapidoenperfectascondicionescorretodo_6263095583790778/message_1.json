@@ -1,0 +1,80 @@
+{
+  "participants": [
+    {
+      "name": "Jexer Romero"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jexer Romero",
+      "timestamp_ms": 1702584343419,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1702582531894,
+      "content": "No gracias bro?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jexer Romero",
+      "timestamp_ms": 1702567955083,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jexer Romero",
+      "timestamp_ms": 1702567950187,
+      "content": "Hola buenos d\u00c3\u00adas, Aceptas cambio por un Play 4?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jexer Romero",
+      "timestamp_ms": 1702567949903,
+      "content": "Jexer Romero",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jexer Romero",
+      "timestamp_ms": 1702567948205,
+      "content": "Jexer cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jexer Romero",
+      "timestamp_ms": 1702567947991,
+      "content": "Jexer asign\u00c3\u00b3 al grupo el nombre \"Jexer \u00c2\u00b7 Notebook I5 Pontente y Rapido en Perfectas Condiciones, Corre todo\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jexer \u00c2\u00b7 Notebook I5 Pontente y Rapido en Perfectas Condiciones, Corre todo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/jexernotebooki5pontenteyrapidoenperfectascondicionescorretodo_6263095583790778",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1060643748596270.jpg",
+    "creation_timestamp": 1702567944
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

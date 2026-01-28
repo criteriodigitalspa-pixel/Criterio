@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Alejandro Nescio"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729511354258,
+      "content": "Buen dia, me avisas si le intereso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729431487504,
+      "content": "2 a\u00c3\u00b1os amigo pero uso real es de 1 semestre de la u",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729431461607,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Nescio",
+      "timestamp_ms": 1729428951542,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Nescio",
+      "timestamp_ms": 1729428947218,
+      "content": "Tiempo de uso?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Nescio",
+      "timestamp_ms": 1729428946935,
+      "content": "Alejandro inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Alejandro \u00c2\u00b7 Elitebook Potente Core i5 Ultra Rapida con 8gb Ram y SSD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/alejandroelitebookpotentecorei5ultrarapidacon8gbramyssd_9075753595787845",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

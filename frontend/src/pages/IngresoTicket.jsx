@@ -545,6 +545,13 @@ export default function IngresoTicket() {
 
             // Print Auto (Background)
             const newTicket = { ...finalData, ticketId: result.ticketId, id: result.id };
+
+            // --- AUTOMATION: GENERATE TASK ---
+            import('../utils/taskAutomation').then(({ createAutomatedTask, AUTOMATION_TRIGGERS }) => {
+                createAutomatedTask(newTicket, AUTOMATION_TRIGGERS.NEW_ENTRY, user);
+            });
+            // ---------------------------------
+
             printTask(newTicket).catch(err => {
                 console.error("Background Print Error:", err);
                 toast.error("Error imprimiendo etiqueta (Ticket creado).");

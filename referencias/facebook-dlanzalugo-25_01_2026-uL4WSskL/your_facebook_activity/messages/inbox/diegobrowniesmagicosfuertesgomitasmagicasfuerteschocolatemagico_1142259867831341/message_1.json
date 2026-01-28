@@ -1,0 +1,108 @@
+{
+  "participants": [
+    {
+      "name": "Angelica Vargas Sanchez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Angelica Vargas Sanchez",
+      "timestamp_ms": 1760556137430,
+      "content": "Angelica cambi\u00c3\u00b3 el t\u00c3\u00adtulo de la publicaci\u00c3\u00b3n a Brownies m\u00c3\u00a1gicos fuertes, gomitas m\u00c3\u00a1gicas fuertes. Chocolate m\u00c3\u00a1gicos.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angelica Vargas Sanchez",
+      "timestamp_ms": 1760215685007,
+      "content": "Angelica cambi\u00c3\u00b3 la descripci\u00c3\u00b3n de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angelica Vargas Sanchez",
+      "timestamp_ms": 1760215680668,
+      "content": "Angelica cambi\u00c3\u00b3 el t\u00c3\u00adtulo de la publicaci\u00c3\u00b3n a Brownies m\u00c3\u00a1gicos fuertes, gomitas m\u00c3\u00a1gicas fuertes. Chocolate magicos, leche cannabis.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angelica Vargas Sanchez",
+      "timestamp_ms": 1759791486368,
+      "content": "Angelica cambi\u00c3\u00b3 la descripci\u00c3\u00b3n de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angelica Vargas Sanchez",
+      "timestamp_ms": 1759695734996,
+      "content": "Angelica marc\u00c3\u00b3 la publicaci\u00c3\u00b3n como Disponible.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angelica Vargas Sanchez",
+      "timestamp_ms": 1759692799916,
+      "content": "Angelica marc\u00c3\u00b3 la publicaci\u00c3\u00b3n como Pendiente.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angelica Vargas Sanchez",
+      "timestamp_ms": 1758584141767,
+      "content": "Angelica est\u00c3\u00a1 esperando tu respuesta sobre esta publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angelica Vargas Sanchez",
+      "timestamp_ms": 1758576584206,
+      "videos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/diegobrowniesmagicosfuertesgomitasmagicasfuerteschocolatemagico_1142259867831341/videos/2201689453569769.mp4",
+          "creation_timestamp": 1758576583
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angelica Vargas Sanchez",
+      "timestamp_ms": 1758576576845,
+      "content": "S\u00c3\u00ad. \u00c2\u00bfTe interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1758560352135,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1758560351893,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Brownies m\u00c3\u00a1gicos fuertes, gomitas m\u00c3\u00a1gicas fuertes. Chocolate magico",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegobrowniesmagicosfuertesgomitasmagicasfuerteschocolatemagico_1142259867831341",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/2346484185787031.jpg",
+    "creation_timestamp": 1758560348
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

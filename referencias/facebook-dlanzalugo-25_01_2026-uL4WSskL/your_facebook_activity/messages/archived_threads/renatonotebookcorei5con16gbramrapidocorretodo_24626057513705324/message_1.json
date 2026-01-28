@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Renato Diego Maldonado"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Renato Diego Maldonado",
+      "timestamp_ms": 1703159773368,
+      "content": "Hola buen d\u00c3\u00ada, cu\u00c3\u00a1nta garant\u00c3\u00ada tiene el equipo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Renato Diego Maldonado",
+      "timestamp_ms": 1703159754694,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Renato Diego Maldonado",
+      "timestamp_ms": 1703159750243,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Renato Diego Maldonado",
+      "timestamp_ms": 1703159749805,
+      "content": "Renato Diego Maldonado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Renato Diego Maldonado",
+      "timestamp_ms": 1703159748201,
+      "content": "Renato cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Renato Diego Maldonado",
+      "timestamp_ms": 1703159747613,
+      "content": "Renato asign\u00c3\u00b3 al grupo el nombre \"Renato \u00c2\u00b7 Notebook Core i5 con 16GB RAM Rapido Corre Todo\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Renato \u00c2\u00b7 Notebook Core i5 con 16GB RAM Rapido Corre Todo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/renatonotebookcorei5con16gbramrapidocorretodo_24626057513705324",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1086541075817470.jpg",
+    "creation_timestamp": 1703159744
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

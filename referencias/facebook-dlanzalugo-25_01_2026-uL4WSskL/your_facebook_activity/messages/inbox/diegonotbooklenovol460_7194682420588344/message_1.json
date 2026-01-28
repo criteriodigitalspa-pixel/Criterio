@@ -1,0 +1,96 @@
+{
+  "participants": [
+    {
+      "name": "Miichelle Valenttina"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Miichelle Valenttina",
+      "timestamp_ms": 1703824408349,
+      "content": "Miichelle vendi\u00c3\u00b3 Notbook Lenovo L460.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Miichelle Valenttina",
+      "timestamp_ms": 1703439463782,
+      "content": "Miichelle marc\u00c3\u00b3 la publicaci\u00c3\u00b3n como Disponible.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703228265781,
+      "content": "Publicaciones similares a \"Notbook Lenovo L460\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Miichelle Valenttina",
+      "timestamp_ms": 1703183379487,
+      "content": "Miichelle vendi\u00c3\u00b3 Notbook Lenovo L460.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Miichelle Valenttina",
+      "timestamp_ms": 1703128842412,
+      "content": "En 100 lo podr\u00c3\u00ada dejar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703127554002,
+      "content": "Me aceptarias 90mil? Para ma\u00c3\u00b1ana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Miichelle Valenttina",
+      "timestamp_ms": 1703127298943,
+      "content": "Si esta disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703098662742,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703098659365,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703098658998,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Notbook Lenovo L460\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notbook Lenovo L460",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotbooklenovol460_7194682420588344",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/333316139550759.jpg",
+    "creation_timestamp": 1703098656
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

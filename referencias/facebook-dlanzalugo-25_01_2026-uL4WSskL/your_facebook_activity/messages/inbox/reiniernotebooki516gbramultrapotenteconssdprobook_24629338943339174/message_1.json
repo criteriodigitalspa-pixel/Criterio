@@ -1,0 +1,92 @@
+{
+  "participants": [
+    {
+      "name": "Reinier Su\u00c3\u00a1rez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1755732319602,
+      "content": "A que hora podria ma\u00c3\u00b1ana en ese metro?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Reinier Su\u00c3\u00a1rez",
+      "timestamp_ms": 1755731768594,
+      "content": "Pero ando en scooter",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Reinier Su\u00c3\u00a1rez",
+      "timestamp_ms": 1755731763797,
+      "content": "Me interesa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Reinier Su\u00c3\u00a1rez",
+      "timestamp_ms": 1755731758067,
+      "content": "Puede en San Jos\u00c3\u00a9 de la estrella?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Reinier Su\u00c3\u00a1rez",
+      "timestamp_ms": 1755731753517,
+      "content": "Solo domicilio?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1755731723114,
+      "content": "El equipo esta listo para usar.\nPuede probarlo y revisar con calma.\nEntrego en Mi domicilio en la comuna de La Florida o lugar a convenir.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1755731721625,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Reinier Su\u00c3\u00a1rez",
+      "timestamp_ms": 1755725558442,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Reinier Su\u00c3\u00a1rez",
+      "timestamp_ms": 1755725556146,
+      "content": "Aceptas 160 para ma\u00c3\u00b1ana?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Reinier Su\u00c3\u00a1rez",
+      "timestamp_ms": 1755725555906,
+      "content": "Reinier inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Reinier \u00c2\u00b7 Notebook i5 16GB RAM Ultra Potente con SSD PROBOOK",
+  "is_still_participant": true,
+  "thread_path": "inbox/reiniernotebooki516gbramultrapotenteconssdprobook_24629338943339174",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

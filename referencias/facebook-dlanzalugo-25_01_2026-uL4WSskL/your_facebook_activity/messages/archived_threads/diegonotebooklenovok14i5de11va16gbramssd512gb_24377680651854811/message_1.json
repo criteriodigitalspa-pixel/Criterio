@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Valeria Sanhueza Acu\u00c3\u00b1a"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Valeria Sanhueza Acu\u00c3\u00b1a",
+      "timestamp_ms": 1754689557796,
+      "content": "Valeria vendi\u00c3\u00b3 Notebook Lenovo K14 (i5 de 11va-16GB Ram-SSD 512GB).",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Valeria Sanhueza Acu\u00c3\u00b1a",
+      "timestamp_ms": 1754689557270,
+      "content": "Valeria vendi\u00c3\u00b3 Notebook Lenovo K14 (i5 de 11va-16GB Ram-SSD 512GB).",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754672691675,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754672691382,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook Lenovo K14 (i5 de 11va-16GB Ram-SSD 512GB)",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebooklenovok14i5de11va16gbramssd512gb_24377680651854811",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1285138933011135.jpg",
+    "creation_timestamp": 1754672688
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Francisca Gonzalez"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735655488061,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisca Gonzalez",
+      "timestamp_ms": 1735655019186,
+      "content": "De donde es usted o donde entrega",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735654376500,
+      "content": "Funcionando al 100, si nproblemas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735654367563,
+      "content": "Y si va con su cargador",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735654362491,
+      "content": "Esteticamente esta muy bien cuidado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisca Gonzalez",
+      "timestamp_ms": 1735654042263,
+      "content": "Viene con cargador?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisca Gonzalez",
+      "timestamp_ms": 1735654038396,
+      "content": "O est\u00c3\u00a9tico",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisca Gonzalez",
+      "timestamp_ms": 1735654036339,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisca Gonzalez",
+      "timestamp_ms": 1735654031824,
+      "content": "Hola buenas consulta tiene alg\u00c3\u00ban detalle funcional??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisca Gonzalez",
+      "timestamp_ms": 1735654031455,
+      "content": "Francisca Gonzalez",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisca Gonzalez",
+      "timestamp_ms": 1735654028809,
+      "content": "Francisca asign\u00c3\u00b3 al grupo el nombre \"Francisca \u00c2\u00b7 Potente Elitebook i5 16GB Ram Ultra Rapida Office Activado SSD +1TB Espacio\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisca Gonzalez",
+      "timestamp_ms": 1735654028809,
+      "content": "Francisca cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Francisca \u00c2\u00b7 Potente Elitebook i5 16GB Ram Ultra Rapida Office Activado SSD +1TB Espacio",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/franciscapotenteelitebooki516gbramultrarapidaofficeactivadossd1tbespacio_9205134802918758",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

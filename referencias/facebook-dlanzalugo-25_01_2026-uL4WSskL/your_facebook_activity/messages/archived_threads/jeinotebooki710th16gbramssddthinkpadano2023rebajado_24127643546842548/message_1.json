@@ -1,0 +1,116 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Jei Seb"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1749915435511,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jei Seb",
+      "timestamp_ms": 1749073044586,
+      "content": "H\u00c3\u00a1blame por hay por favor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jei Seb",
+      "timestamp_ms": 1749073038529,
+      "content": "+56978639008",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1749073029603,
+      "content": "Al tiro te digo que si te va a servir",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1749073021954,
+      "content": "Si dejame tu whatsapp no mas y te paso toda la info or slli",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jei Seb",
+      "timestamp_ms": 1749073020161,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/jeinotebooki710th16gbramssddthinkpadano2023rebajado_24127643546842548/audio/1130792362190174.mp4",
+          "creation_timestamp": 1749073019
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jei Seb",
+      "timestamp_ms": 1749072846936,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/jeinotebooki710th16gbramssddthinkpadano2023rebajado_24127643546842548/audio/1584733418861572.mp4",
+          "creation_timestamp": 1749072845
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1749072679424,
+      "content": "Entrego en mi domicilio en la comuna de la Florida o puedo acercar a  metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1749072677903,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jei Seb",
+      "timestamp_ms": 1749072006341,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jei Seb",
+      "timestamp_ms": 1749071999327,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jei Seb",
+      "timestamp_ms": 1749071999048,
+      "content": "Jei inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jei \u00c2\u00b7 Notebook i7-10Th / 16GB RAM / SSDD / Thinkpad / a\u00c3\u00b1o 2023 / Rebajado",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/jeinotebooki710th16gbramssddthinkpadano2023rebajado_24127643546842548",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

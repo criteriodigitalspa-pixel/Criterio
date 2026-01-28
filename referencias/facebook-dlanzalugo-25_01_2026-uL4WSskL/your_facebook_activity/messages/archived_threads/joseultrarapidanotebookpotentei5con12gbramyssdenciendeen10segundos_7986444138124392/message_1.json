@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Jose Miguel"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731195526332,
+      "content": "170mil lo minimo amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Miguel",
+      "timestamp_ms": 1731195378909,
+      "content": "Precio conversable?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731195265596,
+      "content": "Hola, si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Miguel",
+      "timestamp_ms": 1731194955197,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Miguel",
+      "timestamp_ms": 1731194951024,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Miguel",
+      "timestamp_ms": 1731194950751,
+      "content": "Jose Miguel",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Miguel",
+      "timestamp_ms": 1731194947959,
+      "content": "Jose asign\u00c3\u00b3 al grupo el nombre \"Jose \u00c2\u00b7 Ultra Rapida Notebook Potente i5 con 12gb Ram y SSD ENCIENDE EN 10 SEGUNDOS\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Miguel",
+      "timestamp_ms": 1731194947959,
+      "content": "Jose cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jose \u00c2\u00b7 Ultra Rapida Notebook Potente i5 con 12gb Ram y SSD ENCIENDE EN 10 SEGUNDOS",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/joseultrarapidanotebookpotentei5con12gbramyssdenciendeen10segundos_7986444138124392",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

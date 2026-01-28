@@ -1,0 +1,106 @@
+{
+  "participants": [
+    {
+      "name": "Sergio Guilarte"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728922301729,
+      "content": "Tiene alguna duda o como le ayudo para que se decida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728922286255,
+      "content": "Le intereso finalmente amigo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728875017624,
+      "content": "Lo que mas le convenga",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728875014202,
+      "content": "Amigo estoy en la comuna de la florida, cerca del mall Plaza Vespucio.\nPuede venir a verlo a mi domicilio o se lo puedo acercar a cualquier metro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sergio Guilarte",
+      "timestamp_ms": 1728874973196,
+      "content": "D\u00c3\u00b3nde est\u00c3\u00a1 ubicado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728874951746,
+      "content": "Si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728874947328,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sergio Guilarte",
+      "timestamp_ms": 1728874782034,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sergio Guilarte",
+      "timestamp_ms": 1728874776842,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sergio Guilarte",
+      "timestamp_ms": 1728874776406,
+      "content": "Sergio Guilarte",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sergio Guilarte",
+      "timestamp_ms": 1728874774043,
+      "content": "Sergio asign\u00c3\u00b3 al grupo el nombre \"Sergio \u00c2\u00b7 Notebook con AMD barato\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sergio Guilarte",
+      "timestamp_ms": 1728874774043,
+      "content": "Sergio cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sergio \u00c2\u00b7 Notebook con AMD barato",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/sergionotebookconamdbarato_8947983515226316",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

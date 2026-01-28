@@ -1,0 +1,89 @@
+{
+  "participants": [
+    {
+      "name": "Jean Franco"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jean Franco",
+      "timestamp_ms": 1767736889570,
+      "content": "Jean vendi\u00c3\u00b3 Thinkpad t14 gen 1 i7 16gb - 500gb.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767498950520,
+      "content": "Publicaciones similares a \"Thinkpad t14 gen 1 i7 16gb - 500gb\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Franco",
+      "timestamp_ms": 1767369668478,
+      "content": "Ya ma\u00c3\u00b1ana o el domingo en san bernardo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Franco",
+      "timestamp_ms": 1767369657308,
+      "content": "Hoy puedo en pe\u00c3\u00b1alolen a las 6 aprox",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767369457501,
+      "content": "Donde entregas amigo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jean Franco",
+      "timestamp_ms": 1767369369280,
+      "content": "Hola buenas, si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767369348725,
+      "content": "Hola?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767366770520,
+      "content": "Buenas tardes. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767366770174,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Thinkpad t14 gen 1 i7 16gb - 500gb",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegothinkpadt14gen1i716gb500gb_2727935807585526",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1394224859159432.jpg",
+    "creation_timestamp": 1767366766
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

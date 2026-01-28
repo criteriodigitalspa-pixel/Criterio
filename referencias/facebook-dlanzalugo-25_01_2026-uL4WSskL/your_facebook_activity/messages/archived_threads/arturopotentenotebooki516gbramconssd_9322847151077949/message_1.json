@@ -1,0 +1,104 @@
+{
+  "participants": [
+    {
+      "name": "Arturo Niles"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728883607873,
+      "content": "Si buscas una para jugar tienes que buscar una gamer",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728883581357,
+      "content": "Es mas para programas pesados, programacion, edicion, DJ, etc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728883043044,
+      "content": "Si esta funcionando al 100%, esta muy bien cuidada. Pero para juegos te va a servir pero muy basico porque no tiene tarjeta de video",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Arturo Niles",
+      "timestamp_ms": 1728882742527,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/arturopotentenotebooki516gbramconssd_9322847151077949/audio/485515737828429.mp4",
+          "creation_timestamp": 1728882741
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728882659524,
+      "content": "Si esta disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728882656681,
+      "content": "Hola buenas noches",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Arturo Niles",
+      "timestamp_ms": 1728882045468,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Arturo Niles",
+      "timestamp_ms": 1728882040798,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Arturo Niles",
+      "timestamp_ms": 1728882039683,
+      "content": "Arturo Niles",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Arturo Niles",
+      "timestamp_ms": 1728882036883,
+      "content": "Arturo asign\u00c3\u00b3 al grupo el nombre \"Arturo \u00c2\u00b7 POTENTE NOTEBOOK I5 16GB RAM CON SSD\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Arturo Niles",
+      "timestamp_ms": 1728882036883,
+      "content": "Arturo cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Arturo \u00c2\u00b7 POTENTE NOTEBOOK I5 16GB RAM CON SSD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/arturopotentenotebooki516gbramconssd_9322847151077949",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

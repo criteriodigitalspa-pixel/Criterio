@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Fabian Lara Correa"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Fabian Lara Correa",
+      "timestamp_ms": 1742616286590,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabian Lara Correa",
+      "timestamp_ms": 1742616279179,
+      "content": "Hola, a\u00c3\u00ban lo tienes? De qu\u00c3\u00a9 comuna eres?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabian Lara Correa",
+      "timestamp_ms": 1742616279052,
+      "content": "Fabian inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Fabian \u00c2\u00b7 Notebook i5 8GB RAM Ultra Potente con SSD ENCIENDE EN SEGUNDOS\n PROBOOK",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/fabiannotebooki58gbramultrapotenteconssdenciendeensegundosprobook_29409701775340520",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

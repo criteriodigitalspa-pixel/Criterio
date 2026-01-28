@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "J\u00c3\u00a3vier Pi\u00c3\u00a3m\u00c3\u00b4"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "J\u00c3\u00a3vier Pi\u00c3\u00a3m\u00c3\u00b4",
+      "timestamp_ms": 1728518129882,
+      "content": "J\u00c3\u00a3vier elimin\u00c3\u00b3 el art\u00c3\u00adculo de Marketplace.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "J\u00c3\u00a3vier Pi\u00c3\u00a3m\u00c3\u00b4",
+      "timestamp_ms": 1728439996390,
+      "content": "\u00c2\u00bfA\u00c3\u00ban te interesa? Responde a: Si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "J\u00c3\u00a3vier Pi\u00c3\u00a3m\u00c3\u00b4",
+      "timestamp_ms": 1728432044964,
+      "content": "Si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "J\u00c3\u00a3vier Pi\u00c3\u00a3m\u00c3\u00b4",
+      "timestamp_ms": 1728432041762,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728428846857,
+      "content": "Hola, J\u00c3\u00a3vier. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728428843971,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Notebook Dell xps 13\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728428843971,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook Dell xps 13",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebookdellxps13_8873434626052068",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/396673850206721.jpg",
+    "creation_timestamp": 1728428842
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

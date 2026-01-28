@@ -1,0 +1,138 @@
+{
+  "participants": [
+    {
+      "name": "Jorge Alvarez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jorge Alvarez",
+      "timestamp_ms": 1764548238748,
+      "content": "Jorge marc\u00c3\u00b3 la publicaci\u00c3\u00b3n como Disponible.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Alvarez",
+      "timestamp_ms": 1764506940221,
+      "content": "Es hoy verdad?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Alvarez",
+      "timestamp_ms": 1764506934764,
+      "content": "A qu\u00c3\u00a9 hora puedes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Alvarez",
+      "timestamp_ms": 1764506926895,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Alvarez",
+      "timestamp_ms": 1764506924092,
+      "content": "Si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764506499920,
+      "content": "Vale, se puede probar cierto? Entiendo no tiene windows pero a la bios se puede acceder?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Alvarez",
+      "timestamp_ms": 1764506367144,
+      "content": "Te parece el llano?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Alvarez",
+      "timestamp_ms": 1764506353302,
+      "content": "Ehh",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764462249596,
+      "content": "Puede ma\u00c3\u00b1ana en franklin?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Alvarez",
+      "timestamp_ms": 1764462220338,
+      "content": "Pero solo en l\u00c3\u00adnea 2",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Alvarez",
+      "timestamp_ms": 1764462215424,
+      "content": "Buena y entrego en metro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Alvarez",
+      "timestamp_ms": 1764462208186,
+      "content": "Si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764462197771,
+      "content": "Holaa, bateria buena? Entrega en metro?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Alvarez",
+      "timestamp_ms": 1764462163598,
+      "content": "Si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764461897124,
+      "content": "Hola, Jorge. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764461896794,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Lenovo Think pad i5 5th gen",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegolenovothinkpadi55thgen_832611023004501",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/2353921395058217.jpg",
+    "creation_timestamp": 1764461893
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

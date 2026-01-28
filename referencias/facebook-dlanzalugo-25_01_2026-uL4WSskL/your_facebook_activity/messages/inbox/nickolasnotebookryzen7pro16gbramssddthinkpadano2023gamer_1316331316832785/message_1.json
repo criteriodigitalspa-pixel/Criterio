@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Nickolas Alejandro"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1758404767388,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nickolas Alejandro",
+      "timestamp_ms": 1758404568902,
+      "content": "Conversable??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nickolas Alejandro",
+      "timestamp_ms": 1758404558607,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nickolas Alejandro",
+      "timestamp_ms": 1758404557058,
+      "content": "Buenas noches. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nickolas Alejandro",
+      "timestamp_ms": 1758404556824,
+      "content": "Nickolas Alejandro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nickolas Alejandro",
+      "timestamp_ms": 1758404554884,
+      "content": "Nickolas asign\u00c3\u00b3 al grupo el nombre \"Nickolas \u00c2\u00b7 Notebook Ryzen 7PRO / 16GB RAM / SSDD / Thinkpad / a\u00c3\u00b1o 2023 / Gamer\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nickolas Alejandro",
+      "timestamp_ms": 1758404554884,
+      "content": "Nickolas cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nickolas \u00c2\u00b7 Notebook Ryzen 7PRO / 16GB RAM / SSDD / Thinkpad / a\u00c3\u00b1o 2023 / Gamer",
+  "is_still_participant": true,
+  "thread_path": "inbox/nickolasnotebookryzen7pro16gbramssddthinkpadano2023gamer_1316331316832785",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

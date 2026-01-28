@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Mario Lepore"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mario Lepore",
+      "timestamp_ms": 1763687270141,
+      "content": " est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mario Lepore",
+      "timestamp_ms": 1763664764624,
+      "content": "Mario envi\u00c3\u00b3 un archivo adjunto.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mario Lepore",
+      "timestamp_ms": 1763664761859,
+      "content": "Te doy un iPhone 13",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mario Lepore",
+      "timestamp_ms": 1763664761493,
+      "content": "Mario inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mario \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "inbox/marionotebooki710thultrarapida202316gbramssdd_4076979449235355",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

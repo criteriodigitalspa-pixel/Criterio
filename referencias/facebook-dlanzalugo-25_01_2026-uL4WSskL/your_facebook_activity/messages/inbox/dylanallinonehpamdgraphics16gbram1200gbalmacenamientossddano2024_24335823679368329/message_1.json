@@ -1,0 +1,85 @@
+{
+  "participants": [
+    {
+      "name": "Dylan Huenante"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1752609057092,
+      "content": "Finalmente le intereso el equipo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1752609048452,
+      "content": "Hola estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dylan Huenante",
+      "timestamp_ms": 1752336836377,
+      "content": "Oka",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1752336407662,
+      "content": "Vale estimado si lo viene a buscar todo suyo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dylan Huenante",
+      "timestamp_ms": 1752335588430,
+      "content": "Acepta 180 para el martes ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1752335300155,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dylan Huenante",
+      "timestamp_ms": 1752334117775,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dylan Huenante",
+      "timestamp_ms": 1752334112453,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dylan Huenante",
+      "timestamp_ms": 1752334112169,
+      "content": "Dylan inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dylan \u00c2\u00b7 All in one HP / AMD Graphics / 16gb RAM / 1200GB Almacenamiento SSDD / A\u00c3\u00b1o 2024",
+  "is_still_participant": true,
+  "thread_path": "inbox/dylanallinonehpamdgraphics16gbram1200gbalmacenamientossddano2024_24335823679368329",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

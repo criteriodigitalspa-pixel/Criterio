@@ -1,0 +1,139 @@
+{
+  "participants": [
+    {
+      "name": "Peter Soto"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1769120875844,
+      "content": "De donde eres?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1769120869413,
+      "content": "Aah super, con este equipo vas andar super bien para estudiar, esta sobre calificado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Peter Soto",
+      "timestamp_ms": 1769120785815,
+      "content": "Lo quiero solo para estudiar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1769120780190,
+      "content": "Podriamos cerrar en 200mil te parece?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Peter Soto",
+      "timestamp_ms": 1769120780026,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Peter Soto",
+      "timestamp_ms": 1769120777496,
+      "content": "En cuanto lo puedes dejar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1769120757787,
+      "content": "Esta impecable",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1769120755373,
+      "content": "Excelente amigo, no te se decir exactamente cuanto, pero esta arriba de las 4 horas de uso continuo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Peter Soto",
+      "timestamp_ms": 1769120708674,
+      "content": "Y en cuanto puede quedar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Peter Soto",
+      "timestamp_ms": 1769120699993,
+      "content": "Que tal la bateria",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1769114918117,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/peternotebookhpi510th16gbramsuperpotentessdd_1611651283503009/photos/930091352685124.jpg",
+          "creation_timestamp": 1769114916
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Peter Soto",
+      "timestamp_ms": 1769113054375,
+      "content": "De cu\u00c3\u00a1nto n\u00c3\u00bacleos es",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1769113011733,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Peter Soto",
+      "timestamp_ms": 1769112799120,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Peter Soto",
+      "timestamp_ms": 1769112790213,
+      "content": "\u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Peter Soto",
+      "timestamp_ms": 1769112789979,
+      "content": "Peter inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Peter \u00c2\u00b7 Notebook HP i5-10th 16GB RAM Super Potente / SSDD /",
+  "is_still_participant": true,
+  "thread_path": "inbox/peternotebookhpi510th16gbramsuperpotentessdd_1611651283503009",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

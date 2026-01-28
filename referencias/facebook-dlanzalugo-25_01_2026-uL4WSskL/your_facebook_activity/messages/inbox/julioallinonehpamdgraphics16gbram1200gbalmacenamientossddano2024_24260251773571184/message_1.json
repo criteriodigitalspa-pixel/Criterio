@@ -1,0 +1,99 @@
+{
+  "participants": [
+    {
+      "name": "Julio Zapata"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753490339939,
+      "content": "Hola amigo, 200mil podria, enrealidad 180mil no me sirven",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julio Zapata",
+      "timestamp_ms": 1753482068905,
+      "content": "Quedo atento",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julio Zapata",
+      "timestamp_ms": 1753461213340,
+      "content": "Aceptarias 180 para hoy?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753460893659,
+      "content": "Se compro hace 2 a\u00c3\u00b1os",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753460882073,
+      "content": "Amigo la verdad se uso 6 meses para la universidad pero no se uso mas que eso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julio Zapata",
+      "timestamp_ms": 1753459839458,
+      "content": "Hola! Cuanto tiempo de uso tiene?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753458031578,
+      "content": "El equipo esta listo para usar.\nPuede probarlo y revisar con calma.\nEntrego en:\nMi domicilio en comuna la florida.\n\nDespacho a domicilio 10mil adicional (dependiendo de la comuna).\n\nEstacion de metro a convenir sin costo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753458028204,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julio Zapata",
+      "timestamp_ms": 1753457915958,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julio Zapata",
+      "timestamp_ms": 1753457914067,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julio Zapata",
+      "timestamp_ms": 1753457913751,
+      "content": "Julio inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Julio \u00c2\u00b7 All in one HP / AMD Graphics / 16gb RAM / 1200GB Almacenamiento SSDD / A\u00c3\u00b1o 2024",
+  "is_still_participant": true,
+  "thread_path": "inbox/julioallinonehpamdgraphics16gbram1200gbalmacenamientossddano2024_24260251773571184",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "participants": [
+    {
+      "name": "Andrea Nunez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729600826567,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andrea Nunez",
+      "timestamp_ms": 1729561292599,
+      "content": "Me interesa. Si puedo antes, te escribo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729558486589,
+      "content": "Windows 10",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729558481866,
+      "content": "Si solo estetico",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andrea Nunez",
+      "timestamp_ms": 1729542910674,
+      "content": "Solo tiene detalles est\u00c3\u00a9ticos?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andrea Nunez",
+      "timestamp_ms": 1729542904548,
+      "content": "Que sistema operativo usa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andrea Nunez",
+      "timestamp_ms": 1729542898542,
+      "content": "Perfecto. Me interesa comprarlo, pero puedo solo a fin de mes.\nEn caso de que lo vendas antes, agradecer\u00c3\u00ada mucho que me avisaras \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729528890438,
+      "content": "Precio el publicado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729528887380,
+      "content": "No, el quipo tiene cargador, la bateria esta en buen estado igual, aprox 2 horas\n Funciona todo, teclas touchpad, todo le funciona bien\n Esta bien cuidada igual\nSolo un poco de desgaste estetico por uso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andrea Nunez",
+      "timestamp_ms": 1729511358915,
+      "content": "Hola. Me podr\u00c3\u00ada confirmar el precio por favor y si tiene alg\u00c3\u00ban detalle?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729511280948,
+      "content": "Disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729511279044,
+      "content": "Hola si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andrea Nunez",
+      "timestamp_ms": 1729510854899,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andrea Nunez",
+      "timestamp_ms": 1729510850037,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andrea Nunez",
+      "timestamp_ms": 1729510849487,
+      "content": "Andrea Nunez",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andrea Nunez",
+      "timestamp_ms": 1729510846653,
+      "content": "Andrea asign\u00c3\u00b3 al grupo el nombre \"Andrea \u00c2\u00b7 Notebook HP AMD - \u00c2\u00a1lmpecable! Oferta \u00c3\u00banica\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andrea Nunez",
+      "timestamp_ms": 1729510846653,
+      "content": "Andrea cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Andrea \u00c2\u00b7 Notebook HP AMD - \u00c2\u00a1lmpecable! Oferta \u00c3\u00banica",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/andreanotebookhpamdlmpecableofertaunica_27115406374774693",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,605 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Demian"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1739397947813,
+      "content": "Estoy fuera",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739397920832,
+      "content": "Valee",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1739397519177,
+      "content": "En unos 7min",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1739397512215,
+      "content": "Holaa voy llegando",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739392728130,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1739392455799,
+      "content": "Llego en eso de 2hrs, te aviso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1739392448320,
+      "content": "Dale, si puedo hoy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739391621600,
+      "content": "Si puedes hoy bkn",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739391613965,
+      "content": "Cuando quieras",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1739391301654,
+      "content": "Que dia podr\u00c3\u00ada ir?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1739391294826,
+      "content": "Yapo se ve bueno",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739390472100,
+      "videos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/demiannotebookgamerhpi78thamdgraphics12gbramssdd_28396207913360724/videos/642895111741802.mp4",
+          "creation_timestamp": 1739390454
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739389758648,
+      "content": "Ya te los paso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739389755949,
+      "content": "Si claro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1739389750719,
+      "content": "Me mandas los detalles del otro? Y fotos si es que se puede",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1739389708661,
+      "content": "Mi broder",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1739389703975,
+      "content": "Yapo estaria bueno",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739389619021,
+      "content": "Avisame si te vuela y te mando mas info",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739389596863,
+      "content": "Uno mas grande, tiene poco mas de ram y tiene una tarjeta de video mejor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739389582893,
+      "content": "Lo iba a vernder un poco mas caro, pero por las molestias es lo que te podria ofrecer",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739389558864,
+      "content": "Por uno que es ligeramente mejor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739389550140,
+      "content": "Te puedo ofrecer cambiarte el notebook",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739389535736,
+      "content": "Oye sorry yo juraria funcionaba bien el hdmi, pero puede ser que me equivocara",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739389445580,
+      "content": "Ya",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739389444635,
+      "content": "Shuta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1739367405262,
+      "content": "Intente ver la configuracion de pantallas para ver si detectaba alg\u00c3\u00ban otro monitor pero tampoco",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1739367381001,
+      "content": "Tengo otro note que lo conecto con el mismo hdmi y no hay ningun problema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1739367364350,
+      "content": "No ningun sonido, la tv como que recibe se\u00c3\u00b1al pero nada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739343921466,
+      "content": "Que raro, no suena ni nada cuando lo conectas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739343868008,
+      "content": "Holaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1739328299940,
+      "content": "Oye te hablaba porque no me toma el hdmi, no se so tuviste el mismo inconveniente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1739328273613,
+      "content": "Como estas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1739328269057,
+      "content": "Buena bro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1739132559530,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/demiannotebookgamerhpi78thamdgraphics12gbramssdd_28396207913360724/photos/1187338543049498.jpg",
+          "creation_timestamp": 1739132558
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1739132548124,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/demiannotebookgamerhpi78thamdgraphics12gbramssdd_28396207913360724/photos/1156145799520498.jpg",
+          "creation_timestamp": 1739132547
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739131650749,
+      "content": "FABIOLA ALEXANDRA RIVERA\n27.152.864-7\nBanco Bci\nCuenta Prima\n66720095\nfabiola182add@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1739131378543,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/demiannotebookgamerhpi78thamdgraphics12gbramssdd_28396207913360724/photos/4651329378426170.jpg",
+          "creation_timestamp": 1739131377
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1739131313629,
+      "content": "Creo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1739131309195,
+      "content": "Llegue",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739131157406,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1739131146131,
+      "content": "Llego en 5min",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739130595549,
+      "content": "Me avisas cuando estes llegando para esperarte en recepcion",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739130584136,
+      "content": "Valee",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1739130566655,
+      "content": "Voy caminando hacia alla compa, te aviso a lo que est\u00c3\u00a9 afuera",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1739117377847,
+      "content": "Bkn nos vemos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739114822814,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/demiannotebookgamerhpi78thamdgraphics12gbramssdd_28396207913360724/photos/473296179184075.jpg",
+          "creation_timestamp": 1739114822
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739114812396,
+      "content": "Lago pirihueico 6502, la florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1739114647446,
+      "content": "Cual era la direcci\u00c3\u00b3n?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1739114632256,
+      "content": "S\u00c3\u00ad hoy a las 5 estar\u00c3\u00a9 alla",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1739114623931,
+      "content": "Holaa buenas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739114376946,
+      "content": "Entonces lo espero hoy a las 5pm?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739114371491,
+      "content": "Compita buenas tardes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739055931164,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1739049930154,
+      "content": "Estamos al habla!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1739049926505,
+      "content": "Yaa bacan",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739047792576,
+      "content": "Si claro amigo no hay problema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739047787843,
+      "content": "5pm?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1739046217178,
+      "content": "A eso de las 5 esta bien?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1739046204343,
+      "content": "Pero ma\u00c3\u00b1ana tengo el d\u00c3\u00ada libre",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1739046197757,
+      "content": "Amigo no podr\u00c3\u00a9 hoy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739026800134,
+      "content": "Si es despues de las 7",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739026792253,
+      "content": "O bueno yo voy a estar en un cumplea\u00c3\u00b1os en un edificio que esta a pasos de metro \u00c3\u00b1uble, puedo llevar el notebook y lo revisas en la recepcion del edificio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1739026735063,
+      "content": "Sino m\u00c3\u00b1na",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1739026728324,
+      "content": "Okei cualqier cosita te aviso entonces si es que puedo antes de las 7",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1739026716955,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1739026714473,
+      "content": "Aa entiendo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739026314481,
+      "content": "Aah yo a las 7 tengo que salir, si no para ma\u00c3\u00b1ana cualquier hora esta bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1739026071384,
+      "content": "Pero estoy interesado en el equipo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1739026059476,
+      "content": "A eso de las 8? Te confirmo en la tarde eso si. Sino podr\u00c3\u00ada m\u00c3\u00b1na",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739024819871,
+      "content": "Si claro, a que hora?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739024813436,
+      "content": "Si amigo trae su cargador original",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1739024755008,
+      "content": "Podria ir a verlo hoy a la tarde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1739024747452,
+      "content": "Viene con cargador?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739000789649,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739000788616,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739000787818,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1738990993875,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1738990988718,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Demian",
+      "timestamp_ms": 1738990988551,
+      "content": "Demian inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Demian \u00c2\u00b7 Notebook Gamer Hp // i7-8th // AMD Graphics // 12gb RAM // SSDD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/demiannotebookgamerhpi78thamdgraphics12gbramssdd_28396207913360724",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

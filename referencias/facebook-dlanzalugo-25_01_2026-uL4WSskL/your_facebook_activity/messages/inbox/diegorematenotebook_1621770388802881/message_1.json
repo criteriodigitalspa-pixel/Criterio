@@ -1,0 +1,73 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Kali Medusa"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kali Medusa",
+      "timestamp_ms": 1761418691005,
+      "content": "\u00c2\u00bfA\u00c3\u00ban te interesa? Responde a: Disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kali Medusa",
+      "timestamp_ms": 1761413255785,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kali Medusa",
+      "timestamp_ms": 1761411875841,
+      "content": "Disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kali Medusa",
+      "timestamp_ms": 1761411874764,
+      "content": "Hola buenas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1761405454309,
+      "content": "Buenas tardes. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1761405453627,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Remate Notebook",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegorematenotebook_1621770388802881",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/844949138192814.jpg",
+    "creation_timestamp": 1761405450
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

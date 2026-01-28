@@ -1,0 +1,122 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Carolina Pe\u00c3\u00b1a"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Carolina Pe\u00c3\u00b1a",
+      "timestamp_ms": 1719437217354,
+      "content": "Carolina vendi\u00c3\u00b3 Notebook hp.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718511655275,
+      "content": "Publicaciones similares a \"Notebook hp\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carolina Pe\u00c3\u00b1a",
+      "timestamp_ms": 1718394771792,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carolina Pe\u00c3\u00b1a",
+      "timestamp_ms": 1718382943820,
+      "content": "30",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carolina Pe\u00c3\u00b1a",
+      "timestamp_ms": 1718382939656,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/diegonotebookhp_7708427779211946/photos/833243792056834.jpg",
+          "creation_timestamp": 1718382938
+        },
+        {
+          "uri": "your_facebook_activity/messages/inbox/diegonotebookhp_7708427779211946/photos/774515254859738.jpg",
+          "creation_timestamp": 1718382938
+        },
+        {
+          "uri": "your_facebook_activity/messages/inbox/diegonotebookhp_7708427779211946/photos/1177489850343108.jpg",
+          "creation_timestamp": 1718382938
+        },
+        {
+          "uri": "your_facebook_activity/messages/inbox/diegonotebookhp_7708427779211946/photos/429614729995634.jpg",
+          "creation_timestamp": 1718382938
+        },
+        {
+          "uri": "your_facebook_activity/messages/inbox/diegonotebookhp_7708427779211946/photos/1000044834486447.jpg",
+          "creation_timestamp": 1718382938
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carolina Pe\u00c3\u00b1a",
+      "timestamp_ms": 1718382937452,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carolina Pe\u00c3\u00b1a",
+      "timestamp_ms": 1718382932323,
+      "content": "Si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718382052313,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718382049598,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718382049425,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Notebook hp\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook hp",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebookhp_7708427779211946",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1188946918979892.jpg",
+    "creation_timestamp": 1718382048
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

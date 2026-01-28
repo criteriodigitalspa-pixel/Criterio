@@ -1,0 +1,120 @@
+{
+  "participants": [
+    {
+      "name": "Usuario de Facebook"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732389554363,
+      "content": "Y le acepto los 280",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732389548136,
+      "content": "O para cuando seria?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732384367711,
+      "content": "Completemos los 300 no?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732384358289,
+      "content": "Uff",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usuario de Facebook",
+      "timestamp_ms": 1732384165478,
+      "content": "280???",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732378777124,
+      "content": "Cuanto ofreces?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usuario de Facebook",
+      "timestamp_ms": 1732378739844,
+      "content": "Le bajas,?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732378717635,
+      "content": "Disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732378715122,
+      "content": "Hola si fisponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usuario de Facebook",
+      "timestamp_ms": 1732378587769,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usuario de Facebook",
+      "timestamp_ms": 1732378582990,
+      "content": "Buenas tardes. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usuario de Facebook",
+      "timestamp_ms": 1732378582442,
+      "content": "Usuario de Facebook envi\u00c3\u00b3 un archivo adjunto.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usuario de Facebook",
+      "timestamp_ms": 1732378579745,
+      "content": "Un contacto asign\u00c3\u00b3 al grupo el nombre \"Nabii \u00c2\u00b7 Notebook i7-10th Ultra Rapida y potente HP Envy 13\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usuario de Facebook",
+      "timestamp_ms": 1732378579745,
+      "content": "Un contacto cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nabii \u00c2\u00b7 Notebook i7-10th Ultra Rapida y potente HP Envy 13",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/nabiinotebooki710thultrarapidaypotentehpenvy13_8259004090866910",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

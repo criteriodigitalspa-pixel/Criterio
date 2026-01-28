@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Usuario de Facebook"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741798740309,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme al metro, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741798739906,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usuario de Facebook",
+      "timestamp_ms": 1741798734116,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usuario de Facebook",
+      "timestamp_ms": 1741798729688,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible? Hola cu\u00c3\u00a1nto es lo lo menos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usuario de Facebook",
+      "timestamp_ms": 1741798729447,
+      "content": "Usuario de Facebook inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Hugo \u00c2\u00b7 Notebook i5-10Th / 12GB RAM Ultra Potente/ 2023",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/hugonotebooki510th12gbramultrapotente2023_7597879120336464",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

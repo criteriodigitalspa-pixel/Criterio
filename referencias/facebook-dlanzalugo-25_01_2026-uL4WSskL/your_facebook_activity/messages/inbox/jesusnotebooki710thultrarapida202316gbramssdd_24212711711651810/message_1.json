@@ -1,0 +1,69 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Hern\u00c3\u00a1ndez Jesus"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Hern\u00c3\u00a1ndez Jesus",
+      "timestamp_ms": 1743648419326,
+      "content": "Gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hern\u00c3\u00a1ndez Jesus",
+      "timestamp_ms": 1743648413989,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743648308147,
+      "content": "No estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hern\u00c3\u00a1ndez Jesus",
+      "timestamp_ms": 1743644484672,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hern\u00c3\u00a1ndez Jesus",
+      "timestamp_ms": 1743644477612,
+      "content": "Tiene tarjeta de video ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hern\u00c3\u00a1ndez Jesus",
+      "timestamp_ms": 1743644477361,
+      "content": "Jesus inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jesus \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "inbox/jesusnotebooki710thultrarapida202316gbramssdd_24212711711651810",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

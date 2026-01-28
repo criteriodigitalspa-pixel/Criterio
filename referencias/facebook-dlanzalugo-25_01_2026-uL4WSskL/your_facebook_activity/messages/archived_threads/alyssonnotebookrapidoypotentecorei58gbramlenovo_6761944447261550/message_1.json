@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Alysson J\u00c3\u00banio Pereira De Carvalho"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703190352970,
+      "content": "Le intereso?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703190351204,
+      "content": "Alysson cuenteme",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703124096767,
+      "content": "Holaa, si sigue disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alysson J\u00c3\u00banio Pereira De Carvalho",
+      "timestamp_ms": 1703123500268,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alysson J\u00c3\u00banio Pereira De Carvalho",
+      "timestamp_ms": 1703123495966,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alysson J\u00c3\u00banio Pereira De Carvalho",
+      "timestamp_ms": 1703123495685,
+      "content": "Alysson J\u00c3\u00banio Pereira De Carvalho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alysson J\u00c3\u00banio Pereira De Carvalho",
+      "timestamp_ms": 1703123493938,
+      "content": "Alysson cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alysson J\u00c3\u00banio Pereira De Carvalho",
+      "timestamp_ms": 1703123493427,
+      "content": "Alysson asign\u00c3\u00b3 al grupo el nombre \"Alysson \u00c2\u00b7 Notebook Rapido y Potente Core I5 8GB RAM Lenovo\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Alysson \u00c2\u00b7 Notebook Rapido y Potente Core I5 8GB RAM Lenovo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/alyssonnotebookrapidoypotentecorei58gbramlenovo_6761944447261550",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1308044993234586.jpg",
+    "creation_timestamp": 1703123491
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

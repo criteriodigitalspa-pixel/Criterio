@@ -1,0 +1,115 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Cruz Dela"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703132524580,
+      "content": "De nada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cruz Dela",
+      "timestamp_ms": 1703132499511,
+      "content": "Vale gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703132464942,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/cruznotebooki5potenteyrapido8gbramperfectascondicionesthinkpad_7028106600590249/photos/303765285354018.jpg",
+          "creation_timestamp": 1703132464
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cruz Dela",
+      "timestamp_ms": 1703131610975,
+      "content": "Si pero que modelo de procesador?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703131564923,
+      "content": "Tiene un intel core i5, con 8gb de ram y 500gb de disco duro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cruz Dela",
+      "timestamp_ms": 1703129683459,
+      "content": "Que procesador tiene?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703129669751,
+      "content": "Holaa, si sigue disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cruz Dela",
+      "timestamp_ms": 1703129655624,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cruz Dela",
+      "timestamp_ms": 1703129651108,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cruz Dela",
+      "timestamp_ms": 1703129650774,
+      "content": "Cruz Dela",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cruz Dela",
+      "timestamp_ms": 1703129649055,
+      "content": "Cruz cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cruz Dela",
+      "timestamp_ms": 1703129648642,
+      "content": "Cruz asign\u00c3\u00b3 al grupo el nombre \"Cruz \u00c2\u00b7 Notebook I5 Potente y Rapido 8GB RAM, Perfectas condiciones Thinkpad\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cruz \u00c2\u00b7 Notebook I5 Potente y Rapido 8GB RAM, Perfectas condiciones Thinkpad",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/cruznotebooki5potenteyrapido8gbramperfectascondicionesthinkpad_7028106600590249",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/679524904288635.jpg",
+    "creation_timestamp": 1703129646
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

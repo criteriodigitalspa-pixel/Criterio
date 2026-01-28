@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Jairo Baudin"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jairo Baudin",
+      "timestamp_ms": 1739030901218,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jairo Baudin",
+      "timestamp_ms": 1739030896839,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jairo Baudin",
+      "timestamp_ms": 1739030896464,
+      "content": "Jairo inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jairo \u00c2\u00b7 Notebook Ultra Rapida i5-11th // 12GB RAM // SSDD // 2024",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/jaironotebookultrarapidai511th12gbramssdd2024_29303221259276940",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

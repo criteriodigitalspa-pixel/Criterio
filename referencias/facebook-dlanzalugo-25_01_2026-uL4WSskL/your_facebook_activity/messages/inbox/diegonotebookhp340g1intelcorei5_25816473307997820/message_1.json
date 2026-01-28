@@ -1,0 +1,115 @@
+{
+  "participants": [
+    {
+      "name": "Gi Escudero"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gi Escudero",
+      "timestamp_ms": 1719191033971,
+      "content": "Gi vendi\u00c3\u00b3 Notebook HP 340G1 Intel core I5.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gi Escudero",
+      "timestamp_ms": 1718911483258,
+      "content": "Oka se lo dejo en 60",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gi Escudero",
+      "timestamp_ms": 1718911452581,
+      "content": "Gi acept\u00c3\u00b3 tu oferta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718911006927,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gi Escudero",
+      "timestamp_ms": 1718908318813,
+      "content": "Gi cambi\u00c3\u00b3 la descripci\u00c3\u00b3n de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gi Escudero",
+      "timestamp_ms": 1718908318688,
+      "content": "Gi baj\u00c3\u00b3 el precio de Notebook HP 340G1 Intel core I5 a $65,000.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gi Escudero",
+      "timestamp_ms": 1718233126973,
+      "content": "Oka yo soy de maipu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718220894998,
+      "content": "Hola de la florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gi Escudero",
+      "timestamp_ms": 1718220440549,
+      "content": "Hola de donde es ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718161701782,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718161699187,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718161699001,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Notebook HP 340G1 Intel core I5\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook HP 340G1 Intel core I5",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebookhp340g1intelcorei5_25816473307997820",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/446572674671003.jpg",
+    "creation_timestamp": 1718161697
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

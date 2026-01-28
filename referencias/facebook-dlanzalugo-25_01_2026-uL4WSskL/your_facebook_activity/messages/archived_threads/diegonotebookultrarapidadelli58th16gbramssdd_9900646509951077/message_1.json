@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Diego Bustamante"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Bustamante",
+      "timestamp_ms": 1738765833001,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Bustamante",
+      "timestamp_ms": 1738765825146,
+      "content": "Buenas, \u00c2\u00bfsigue disponible?\ncu\u00c3\u00a1nto tiempo de uso?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Bustamante",
+      "timestamp_ms": 1738765824916,
+      "content": "Diego inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook Ultra Rapida Dell // i5-8th // 16gb RAM // SSDD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebookultrarapidadelli58th16gbramssdd_9900646509951077",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

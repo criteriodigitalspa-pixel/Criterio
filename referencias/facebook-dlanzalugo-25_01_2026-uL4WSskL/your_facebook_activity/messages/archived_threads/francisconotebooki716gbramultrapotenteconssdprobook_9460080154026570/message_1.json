@@ -1,0 +1,85 @@
+{
+  "participants": [
+    {
+      "name": "Francisco Ramos"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734982623039,
+      "content": "La estetica compa\u00c3\u00b1ero",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Ramos",
+      "timestamp_ms": 1734978382017,
+      "content": "Cual es la diferencia con el otro notebook que vendes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734978043794,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734978038885,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Ramos",
+      "timestamp_ms": 1734977863544,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Ramos",
+      "timestamp_ms": 1734977858570,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Ramos",
+      "timestamp_ms": 1734977858107,
+      "content": "Francisco Ramos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Ramos",
+      "timestamp_ms": 1734977855966,
+      "content": "Francisco asign\u00c3\u00b3 al grupo el nombre \"Francisco \u00c2\u00b7 Notebook i7 16GB RAM Ultra Potente con SSD PROBOOK\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Ramos",
+      "timestamp_ms": 1734977855966,
+      "content": "Francisco cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Francisco \u00c2\u00b7 Notebook i7 16GB RAM Ultra Potente con SSD PROBOOK",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/francisconotebooki716gbramultrapotenteconssdprobook_9460080154026570",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

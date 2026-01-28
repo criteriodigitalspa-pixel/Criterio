@@ -1,0 +1,157 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Luis Diaz"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703336973208,
+      "content": "No tiene golpes, ni rayas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703336958622,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/luisnotebookcorei512gbrammuypotenteyrapidothinkpad_7365965510088692/photos/898687801749294.jpg",
+          "creation_timestamp": 1703336958
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703336939179,
+      "content": "Del resto esta impecable",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Diaz",
+      "timestamp_ms": 1703336938464,
+      "content": "Tiene foto?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Diaz",
+      "timestamp_ms": 1703336935636,
+      "content": "Ya",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703336929661,
+      "content": "Como se ve en la foto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703336926449,
+      "content": "La letra N",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703336923987,
+      "content": "Solo una tecla que esta un poco desgastada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703336916814,
+      "content": "Esteticamente esta super bien cuidado, no tiene golpes ni nada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703336906703,
+      "content": "Si funciona excelente, es rapido",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Diaz",
+      "timestamp_ms": 1703336846284,
+      "content": "Y est\u00c3\u00a9ticamente como est\u00c3\u00a1?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Diaz",
+      "timestamp_ms": 1703336838684,
+      "content": "C\u00c3\u00b3mo est\u00c3\u00a1 funcionando es r\u00c3\u00a1pido?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703336811772,
+      "content": "Si sigue disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703336806570,
+      "content": "Hola Luis",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Diaz",
+      "timestamp_ms": 1703335788200,
+      "content": "\u00c2\u00bfSigue disponible? \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Diaz",
+      "timestamp_ms": 1703335787998,
+      "content": "Luis Diaz",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Diaz",
+      "timestamp_ms": 1703335786313,
+      "content": "Luis cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Diaz",
+      "timestamp_ms": 1703335785897,
+      "content": "Luis asign\u00c3\u00b3 al grupo el nombre \"Luis \u00c2\u00b7 Notebook Core i5, 12GB Ram Muy potente y rapido, thinkpad\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Luis \u00c2\u00b7 Notebook Core i5, 12GB Ram Muy potente y rapido, thinkpad",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/luisnotebookcorei512gbrammuypotenteyrapidothinkpad_7365965510088692",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/677955144362046.jpg",
+    "creation_timestamp": 1703335784
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

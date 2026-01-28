@@ -1,0 +1,810 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Manuel Riffo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739049640093,
+      "content": "Dxdiag",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739048761724,
+      "content": "Okaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1739048754164,
+      "content": "Llegamos en 5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739047777821,
+      "content": "Estoy dejando todo preparado para no demorarnos tanto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739047759681,
+      "content": "Dale amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1739047035196,
+      "content": "Seg\u00c3\u00ban GPS estar\u00c3\u00a9 ah\u00c3\u00ad como las 6:20",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1739044984501,
+      "content": "Gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1739044982198,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739044976517,
+      "content": "Dale me avisas no mas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1739044949156,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/manuelnotebooki516gbramultrapotenteconssdelitebook_28132563689720827/audio/1392967268746783.mp4",
+          "creation_timestamp": 1739044947
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739044881076,
+      "content": "Sii si al final no saldre",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1739044857342,
+      "content": "No, no se puede siempre me sale la misma pantalla de Walmart,  pero ahora??? Tu estar\u00c3\u00a1s??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739044846776,
+      "content": "Que igual me da lata",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739044842163,
+      "content": "Yo te pago la bencina por ultimo, para dejarte el equipo con todo funcionando",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739044403908,
+      "content": "Shuuu, amigo te complica volverlo a traer?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1739044357813,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/manuelnotebooki516gbramultrapotenteconssdelitebook_28132563689720827/photos/1161487545571930.jpg",
+          "creation_timestamp": 1739044356
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1739044345906,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/manuelnotebooki516gbramultrapotenteconssdelitebook_28132563689720827/audio/579474315084058.mp4",
+          "creation_timestamp": 1739044343
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1739044208655,
+      "content": "No ah\u00c3\u00ad problema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1739044205207,
+      "content": "Si tranqui",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1739044178626,
+      "content": "Ah\u00c3\u00ad est\u00c3\u00a1 encendido",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739044144812,
+      "content": "Igual sorry yo andaba apurado si no te a guiaba aca en persona",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739044084468,
+      "content": "Me parece que pulsaste la opcion de configurarlo para trabajo o estudio, y deberia ser para uso personal",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739044058276,
+      "content": "Manten presionado el boton de encendido al notebook unos 15 segundos hasta que se apague por completo, y lo vuelves a encender, eso deberia hacer que se reinicie la instalacion",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739043995764,
+      "content": "Te mande un video de los botones que presione",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739043991243,
+      "videos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/manuelnotebooki516gbramultrapotenteconssdelitebook_28132563689720827/videos/1369007837598949.mp4",
+          "creation_timestamp": 1739043972
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739043971869,
+      "content": "Oye mira justo estoy instalando un windows 11",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1739043178960,
+      "content": "Ok gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739043163501,
+      "content": "Dame un segundo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1739042677212,
+      "content": "Por si me pregunta eso que me dice tu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1739042656972,
+      "content": "Que puedo hacer para comenzar nuevamente con la instalaci\u00c3\u00b3n",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1739042630552,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/manuelnotebooki516gbramultrapotenteconssdelitebook_28132563689720827/photos/1155201429652217.jpg",
+          "creation_timestamp": 1739042629
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1739042567329,
+      "content": "No solo el pa\u00c3\u00ads idioma",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739042510400,
+      "content": "Oye y antes de eso no te pregunto si querias restablecer el equipo como nuevo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1739042422697,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/manuelnotebooki516gbramultrapotenteconssdelitebook_28132563689720827/photos/1797279484368261.jpg",
+          "creation_timestamp": 1739042421
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1739042290558,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/manuelnotebooki516gbramultrapotenteconssdelitebook_28132563689720827/photos/1314339869712541.jpg",
+          "creation_timestamp": 1739042289
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739037425825,
+      "content": "Dale estoy en recepcion",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1739037034923,
+      "content": "Estamos 7 min",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1739034865717,
+      "content": "Vamos a llegar a las 3 seg\u00c3\u00ban gps",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739034860709,
+      "content": "Vale estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1739034847623,
+      "content": "Vamos en camino",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739025921347,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1739025842284,
+      "content": "Hola Diego buenos d\u00c3\u00adas, si claro no hay problema.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739024969457,
+      "content": "Podria ser a las 3pm?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739024960944,
+      "content": "Consulta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739024959816,
+      "content": "Estimado buen dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738936144991,
+      "content": "Vale estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1738935595958,
+      "content": "Muchas gracias nuevamente por responderme",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1738935578957,
+      "content": "Ma\u00c3\u00b1ana lo llevar\u00c3\u00a9 y te comento cuando vaya saliendo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1738935553469,
+      "content": "Ya ok muchas gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738935488057,
+      "content": "Le dejare el ssd, y adicional le instalare un hhdd de 1tb, osea quedaria con 2 discos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1738935473962,
+      "content": "Mi Hijo perdon",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1738935444056,
+      "content": "Sii antes de las 4 no hay problema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1738935422437,
+      "content": "Sorry que no cacho mucho jaja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1738935411458,
+      "content": "Mi hije de dice que te consulte si le vas a hacer el SSD o le dejaras el SSD y le instalas el 1tb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738935278393,
+      "content": "Porque a las 5pm tengo que salir",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738935272154,
+      "content": "Vale si es antes de las 4pm no hay problema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1738935240685,
+      "content": "Por favor av\u00c3\u00adsame en qu\u00c3\u00a9 horario te acomoda",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1738935219285,
+      "content": "Mira lo converse con mi esposa y mi hijo  y me comentan que mejor lo lleve y cambiarlo, yo podr\u00c3\u00ada llevarlo ma\u00c3\u00b1ana, durante el d\u00c3\u00ada, pero no temprano.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738934884835,
+      "content": "Y fuel error mio, redacte mal la publicacion",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738934865880,
+      "content": "Claro sin problema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1738934847840,
+      "content": "ok, muchas gracias por responderme, por favor dame unos minutos y te comento.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738934813900,
+      "content": "Me comentas que te acomoda mas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738934797718,
+      "content": "La otra opcion es que te puedo ofrecer es transferirte 20mil pesos como compensaci\u00c3\u00b3n para que puedas comprarle tu otro disco mas amplio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738934736280,
+      "content": "Si me traes el equipo le puedo instalar un disco adicional de 1tb que tengo aca, de esa manera quedaras con 1200gb. Con eso compenso el mal entendido",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738934692746,
+      "content": "Mira hay varia soluciones",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1738934673950,
+      "content": "porque como te comente esa fue una de las razones por cual me decid\u00c3\u00ad a comprarlo. por mis estudios.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1738934615460,
+      "content": "y que podemos hacer",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738934577481,
+      "content": "Disculpa tienes toda la razon, redacte mal la publicacion",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738934555504,
+      "content": "Manuel buen dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1738934538034,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/manuelnotebooki516gbramultrapotenteconssdelitebook_28132563689720827/photos/596120149975660.jpg",
+          "creation_timestamp": 1738934535
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1738934495083,
+      "content": "Hola , Diego, buenos d\u00c3\u00adas. Consulta: que el otro d\u00c3\u00ada cuando lo fui a buscar no lo revis\u00c3\u00a9, pero seg\u00c3\u00ban la publicaci\u00c3\u00b3n, el PC tiene un almacenamiento de 500 GB, pero al revisarlo m\u00c3\u00a1s detenidamente, solo encontramos que posee una memoria de 222 GB, o yo estoy mal, porque si fuera que tiene 222 GB, no es por lo que yo pagu\u00c3\u00a9 , porque justamente necesitaba uno de 500 GB. Por favor, tu ayuda.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1738796078738,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/manuelnotebooki516gbramultrapotenteconssdelitebook_28132563689720827/photos/1950991435391822.jpg",
+          "creation_timestamp": 1738796076
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738795934909,
+      "content": "FABIOLA ALEXANDRA RIVERA\n27.152.864-7\nBanco Bci\nCuenta Vista\n66720095\nfabiola182add@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738795895540,
+      "content": "994919000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738795318219,
+      "content": "Llevo una bolsa negra en la mano",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738795314913,
+      "content": "Le espero afuera",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738795314794,
+      "content": "Es en esa torre",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738795313823,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/manuelnotebooki516gbramultrapotenteconssdelitebook_28132563689720827/photos/1817189419109629.jpg",
+          "creation_timestamp": 1738795313
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738794986515,
+      "content": "Vale amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1738794929916,
+      "content": "Estamos llegando, seg\u00c3\u00ban GPS\n10 min",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1738794895989,
+      "content": "Est\u00c3\u00a1 ah\u00c3\u00ad llegando, seg\u00c3\u00ban GPS faltan 10min",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1738789981583,
+      "content": "Perfecto gracias.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738789906196,
+      "content": "Dale. Esta excelente va volando, tiene solo par de rasgu\u00c3\u00b1os en la tapa, fuera de eso esta como nueva",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1738789861321,
+      "content": "Sii muchas gracias, ve muy bien , igual lo necesito para estudios.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738789657202,
+      "content": "Le envio un video amigo para que vea un poco mejor el notebook antes de que te des el medio pique",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738789636523,
+      "videos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/manuelnotebooki516gbramultrapotenteconssdelitebook_28132563689720827/videos/1126128692489365.mp4",
+          "creation_timestamp": 1738789617
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738788146113,
+      "content": "Vale estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1738787877151,
+      "content": "Ya creo que cerca de las 8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738787823673,
+      "content": "Deme una hora estimada si porfa para yo ordenarme",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738787814208,
+      "content": "Vale amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1738787413418,
+      "content": "Perfecto muchas gracias le aviso cuando est\u00c3\u00a9 cerca igual me demorare un poco ya que voy desde Pirque.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738787178185,
+      "content": "Lago pirihueico 6502",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738787173145,
+      "content": "Disculpa estaba en reunion",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738787167838,
+      "content": "Si estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1738782624722,
+      "content": "Se puede ir a ver hoy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1738782609131,
+      "content": "Ok, me podr\u00c3\u00ada dar su direcci\u00c3\u00b3n para ir a verlo, porfavor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738781580966,
+      "content": "No amigo no es conversable",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1738781053375,
+      "content": "el valor es conversable??? le pregunto ya que tengo 150 para hoy mismo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738773492176,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738773491320,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738773490303,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1738773289038,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1738773283517,
+      "content": "Buenas tardes. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Riffo",
+      "timestamp_ms": 1738773283174,
+      "content": "Manuel inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Manuel \u00c2\u00b7 Notebook i5 16GB RAM Ultra Potente con SSD ELITEBOOK",
+  "is_still_participant": true,
+  "thread_path": "inbox/manuelnotebooki516gbramultrapotenteconssdelitebook_28132563689720827",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Nicole Villarreal"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nicole Villarreal",
+      "timestamp_ms": 1767021543989,
+      "content": "Nicole cambi\u00c3\u00b3 la descripci\u00c3\u00b3n de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicole Villarreal",
+      "timestamp_ms": 1766878201012,
+      "content": "Nicole est\u00c3\u00a1 esperando tu respuesta sobre esta publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicole Villarreal",
+      "timestamp_ms": 1766871943512,
+      "content": "S\u00c3\u00ad. \u00c2\u00bfTe interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766871677210,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766871676839,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Dell Vostro 14 5410 i7 11th Gen",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegodellvostro145410i711thgen_724871996938216",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1361693438764899.jpg",
+    "creation_timestamp": 1766871673
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Maximo Mejias Zapata"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759511160641,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maximo Mejias Zapata",
+      "timestamp_ms": 1759439662014,
+      "content": "Maximo est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maximo Mejias Zapata",
+      "timestamp_ms": 1759417630536,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maximo Mejias Zapata",
+      "timestamp_ms": 1759417628446,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maximo Mejias Zapata",
+      "timestamp_ms": 1759417626942,
+      "content": "Maximo inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Maximo \u00c2\u00b7 Notebook Ultra Rapida i5-11th // 16GB RAM // SSDD // 2023",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/maximonotebookultrarapidai511th16gbramssdd2023_1858760225031584",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

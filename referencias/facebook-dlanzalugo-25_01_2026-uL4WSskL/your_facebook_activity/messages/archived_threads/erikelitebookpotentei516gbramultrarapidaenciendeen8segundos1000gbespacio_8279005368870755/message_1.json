@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Erik Salas Alvarez"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732297956280,
+      "content": "Si amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erik Salas Alvarez",
+      "timestamp_ms": 1732297949865,
+      "content": "125 es el precio?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732297910917,
+      "content": "Hola si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erik Salas Alvarez",
+      "timestamp_ms": 1732296946676,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erik Salas Alvarez",
+      "timestamp_ms": 1732296943381,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erik Salas Alvarez",
+      "timestamp_ms": 1732296943015,
+      "content": "Erik inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Erik \u00c2\u00b7 Elitebook Potente i5 16GB RAM Ultra Rapida enciende en 8 segundos! 1000GB Espacio",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/erikelitebookpotentei516gbramultrarapidaenciendeen8segundos1000gbespacio_8279005368870755",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

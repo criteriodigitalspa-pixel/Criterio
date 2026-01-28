@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Cupcakes kary"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Cupcakes kary",
+      "timestamp_ms": 1701011480182,
+      "content": "\u00c2\u00a1Hola, Diego! \u00c2\u00bfC\u00c3\u00b3mo podemos ayudarte?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cupcakes kary",
+      "timestamp_ms": 1701011479371,
+      "content": "Abriste esta conversaci\u00c3\u00b3n desde un anuncio. Si respondes, Cupcakes kary ver\u00c3\u00a1 tu informaci\u00c3\u00b3n p\u00c3\u00bablica y el anuncio en el que hiciste clic.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cupcakes kary",
+  "is_still_participant": true,
+  "thread_path": "inbox/cupcakeskary_6808284735952476",
+  "magic_words": [
+    
+  ]
+}

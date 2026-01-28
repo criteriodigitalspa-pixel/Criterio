@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Gustabo Cofr\u00c3\u00a9"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731507246553,
+      "content": "https://www.facebook.com/share/pCgTdJ7iZ6rMXUDp/",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731507244155,
+      "content": "Si te interesa quiza esta se adapte mas a lo que buscas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731506632455,
+      "content": "Intel graphics 620",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gustabo Cofr\u00c3\u00a9",
+      "timestamp_ms": 1731506611420,
+      "content": "Me puede decir si tiene graficos pls",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731506586553,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gustabo Cofr\u00c3\u00a9",
+      "timestamp_ms": 1731506576208,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gustabo Cofr\u00c3\u00a9",
+      "timestamp_ms": 1731506572544,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gustabo Cofr\u00c3\u00a9",
+      "timestamp_ms": 1731506572260,
+      "content": "Gustabo inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gustabo \u00c2\u00b7 Potente Elitebook i5 16GB Ram Enciende en 8 segundos, SSD 500GB",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/gustabopotenteelitebooki516gbramenciendeen8segundosssd500gb_8670149483105073",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

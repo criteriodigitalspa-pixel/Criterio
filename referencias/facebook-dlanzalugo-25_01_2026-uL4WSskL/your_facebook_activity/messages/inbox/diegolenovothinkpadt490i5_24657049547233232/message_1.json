@@ -1,0 +1,114 @@
+{
+  "participants": [
+    {
+      "name": "Stechnical CK"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Stechnical CK",
+      "timestamp_ms": 1754248701566,
+      "content": "Stechnical vendi\u00c3\u00b3 Lenovo thinkpad t490 i5.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stechnical CK",
+      "timestamp_ms": 1754159747545,
+      "content": "Ese es",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stechnical CK",
+      "timestamp_ms": 1754159747114,
+      "content": "https://www.falabella.com/falabella-cl/product/142959631/Notebook-lenovo-t490-i5-10ma-gen-8gb-de-ram-SSD-de-512gb-Disco-Solido-FHD/142959632",
+      "share": {
+        "link": "https://www.falabella.com/falabella-cl/product/142959631/Notebook-lenovo-t490-i5-10ma-gen-8gb-de-ram-SSD-de-512gb-Disco-Solido-FHD/142959632",
+        "share_text": "Compra Notebook lenovo t490 i5 10ma gen 8gb de ram SSD de 512gb Disco Solido FHD de LENOVO en Falabella.com. Descubre sus caracter\u00c3\u00adsticas principales y adquiere la mejor opci\u00c3\u00b3n para ti."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754158126974,
+      "content": "De que a\u00c3\u00b1o ee?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stechnical CK",
+      "timestamp_ms": 1754156290388,
+      "content": "210",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754148023636,
+      "content": "Me interesa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754148021607,
+      "content": "Estimado cual es el ultimo precio?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stechnical CK",
+      "timestamp_ms": 1754083507720,
+      "content": "\u00c2\u00bfA\u00c3\u00ban te interesa? Responde a: Disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stechnical CK",
+      "timestamp_ms": 1754077354873,
+      "content": "Disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stechnical CK",
+      "timestamp_ms": 1754077349167,
+      "content": "S\u00c3\u00ad. \u00c2\u00bfTe interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754075505045,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754075504706,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Lenovo thinkpad t490 i5",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegolenovothinkpadt490i5_24657049547233232",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/779296831413518.jpg",
+    "creation_timestamp": 1754075500
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

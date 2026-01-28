@@ -1,0 +1,110 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Juan Merino"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718419995399,
+      "content": "Se lo puedo dejar en 50 si acerca a la florida para verlo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Merino",
+      "timestamp_ms": 1718419959321,
+      "content": "Muchas gracias perdone las molestias \nNo vi el precio \nSolo tengo 50 \nGracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718419865951,
+      "content": "Osea si quisieras lo podrias actualizar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718419850325,
+      "content": "Me ha tirado actualizacion al 11 varias veces pero le marco que mas tarde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718419833710,
+      "content": "Tiene windows 10",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Merino",
+      "timestamp_ms": 1718417904598,
+      "content": "Que Windows est\u00c3\u00a1 ocupando",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718417481393,
+      "content": "Hola, s\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Merino",
+      "timestamp_ms": 1718417469613,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Merino",
+      "timestamp_ms": 1718417463433,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Merino",
+      "timestamp_ms": 1718417462930,
+      "content": "Juan Merino",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Merino",
+      "timestamp_ms": 1718417460785,
+      "content": "Juan cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Merino",
+      "timestamp_ms": 1718417460601,
+      "content": "Juan asign\u00c3\u00b3 al grupo el nombre \"Juan \u00c2\u00b7 Notebook HP, GRAFICA AMD PROCESADOR AMD\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Juan \u00c2\u00b7 Notebook HP, GRAFICA AMD PROCESADOR AMD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/juannotebookhpgraficaamdprocesadoramd_7823874687692699",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1156935815423103.jpg",
+    "creation_timestamp": 1718417458
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

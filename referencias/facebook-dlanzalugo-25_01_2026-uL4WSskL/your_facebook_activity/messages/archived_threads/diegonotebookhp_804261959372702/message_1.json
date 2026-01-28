@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Cataliina Rojas"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767909965526,
+      "content": "Sii pasa que me pilla un poco lejos, puedes algun metro linea 4?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cataliina Rojas",
+      "timestamp_ms": 1767902051738,
+      "content": "Te interesa??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cataliina Rojas",
+      "timestamp_ms": 1767900492788,
+      "content": "Yo soy de san Bernardo quiz\u00c3\u00a1s en alg\u00c3\u00ban punto a convenir",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cataliina Rojas",
+      "timestamp_ms": 1767900483605,
+      "content": "De d\u00c3\u00b3nde eres ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767900441546,
+      "content": "Donde entrega?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cataliina Rojas",
+      "timestamp_ms": 1767900381219,
+      "content": "Hola si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767900304948,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767900304467,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook hp",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebookhp_804261959372702",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/905644198665472.jpg",
+    "creation_timestamp": 1767900301
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

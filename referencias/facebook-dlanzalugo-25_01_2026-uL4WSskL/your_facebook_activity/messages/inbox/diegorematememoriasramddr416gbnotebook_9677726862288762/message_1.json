@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Isaac Carvajal"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Isaac Carvajal",
+      "timestamp_ms": 1753910612569,
+      "content": "Isaac vendi\u00c3\u00b3 REMATE MEMORIAS RAM DDR4 2400mhz 16gb NOTEBOOK.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Isaac Carvajal",
+      "timestamp_ms": 1753910611716,
+      "content": "Isaac vendi\u00c3\u00b3 REMATE MEMORIAS RAM DDR4 2400mhz 16gb NOTEBOOK.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 REMATE MEMORIAS RAM DDR4 16gb NOTEBOOK",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegorematememoriasramddr416gbnotebook_9677726862288762",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1375468460120597.jpg",
+    "creation_timestamp": 1743786971
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

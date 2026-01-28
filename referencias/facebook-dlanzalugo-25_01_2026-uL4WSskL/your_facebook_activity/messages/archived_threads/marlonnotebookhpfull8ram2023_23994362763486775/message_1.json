@@ -1,0 +1,111 @@
+{
+  "participants": [
+    {
+      "name": "Marlon Adri\u00c3\u00a1n Alarcon Macias"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738350411770,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marlon Adri\u00c3\u00a1n Alarcon Macias",
+      "timestamp_ms": 1738350406420,
+      "content": "Igualmente muchas gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marlon Adri\u00c3\u00a1n Alarcon Macias",
+      "timestamp_ms": 1738350398452,
+      "content": "Claro por eso transferencia no podr\u00c3\u00ada porque tengo cuenta de Ecuador",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738350368441,
+      "content": "Aah claro, seria solo con transferencia o efectivo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marlon Adri\u00c3\u00a1n Alarcon Macias",
+      "timestamp_ms": 1738350322187,
+      "content": "Disculpe pens\u00c3\u00a9 que era p\u00c3\u00a1gina tienda ya que el pago es con d\u00c3\u00a9bito",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738350216308,
+      "content": "Le intereso el equipo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738341857810,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738341856013,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738341854626,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marlon Adri\u00c3\u00a1n Alarcon Macias",
+      "timestamp_ms": 1738341085930,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marlon Adri\u00c3\u00a1n Alarcon Macias",
+      "timestamp_ms": 1738341078999,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marlon Adri\u00c3\u00a1n Alarcon Macias",
+      "timestamp_ms": 1738341078379,
+      "content": "Marlon inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Marlon \u00c2\u00b7 Notebook HP Full / 8 RAM / 2023",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/marlonnotebookhpfull8ram2023_23994362763486775",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

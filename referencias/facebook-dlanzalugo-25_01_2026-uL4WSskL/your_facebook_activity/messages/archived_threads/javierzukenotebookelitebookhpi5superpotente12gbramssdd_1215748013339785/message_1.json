@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Javierzuke Kun"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Javierzuke Kun",
+      "timestamp_ms": 1768751678184,
+      "content": "Proece tiene gr\u00c3\u00a1fica dedicada?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Javierzuke Kun",
+      "timestamp_ms": 1768751664870,
+      "content": "Las especificaciones?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768747958793,
+      "content": "Estoy en La Florida. Te acomoda la comuna o preferir\u00c3\u00adas que coordinemos en otro punto a convenir?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768741554045,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Javierzuke Kun",
+      "timestamp_ms": 1768741544162,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Javierzuke Kun",
+      "timestamp_ms": 1768741539066,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Javierzuke Kun",
+      "timestamp_ms": 1768741538776,
+      "content": "Javierzuke inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Javierzuke \u00c2\u00b7 Notebook Elitebook HP i5 Super Potente/ 12GB RAM / SSDD /",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/javierzukenotebookelitebookhpi5superpotente12gbramssdd_1215748013339785",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

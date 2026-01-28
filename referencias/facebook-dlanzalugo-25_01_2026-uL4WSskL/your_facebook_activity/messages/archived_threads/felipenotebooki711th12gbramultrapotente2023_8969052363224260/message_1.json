@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Felipe Sepulveda"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Felipe Sepulveda",
+      "timestamp_ms": 1741892461053,
+      "content": "Blutho 5 o 6",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felipe Sepulveda",
+      "timestamp_ms": 1741892448743,
+      "content": "Wifi 6?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felipe Sepulveda",
+      "timestamp_ms": 1741892439097,
+      "content": "Cuantas pulgadas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741892420752,
+      "content": "Tiene 2 ranuras",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741892407400,
+      "content": "Si estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felipe Sepulveda",
+      "timestamp_ms": 1741891806724,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felipe Sepulveda",
+      "timestamp_ms": 1741891804274,
+      "content": "Se puede expandir la ram?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felipe Sepulveda",
+      "timestamp_ms": 1741891803909,
+      "content": "Felipe inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Felipe \u00c2\u00b7 Notebook i7-11Th / 12GB RAM Ultra Potente / 2023",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/felipenotebooki711th12gbramultrapotente2023_8969052363224260",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -64,7 +64,7 @@ function SortableProjectItem({ project, isActive, isCollapsed, onClick, isGoogle
                 isActive
                     ? "bg-gray-800/80 text-white shadow-lg border-gray-700/50"
                     : "text-gray-500 hover:text-gray-300 hover:bg-gray-800/30",
-                isCollapsed ? "w-10 h-10 flex items-center justify-center my-1 mx-auto" : "p-2.5 mx-2 mb-1"
+                isCollapsed ? "w-10 h-10 flex items-center justify-center mb-1 mx-auto" : "p-2.5 mx-2 mb-1"
             )}
             title={project.name}
         >
@@ -113,7 +113,7 @@ function SortableProjectItem({ project, isActive, isCollapsed, onClick, isGoogle
                     <button
                         onClick={(e) => {
                             e.stopPropagation();
-                            openMenu(e, { id: project.id, type: 'project', name: project.name, icon: project.icon });
+                            openMenu(e, { ...project, type: 'project' });
                         }}
                         className="p-1 hover:bg-gray-700 rounded text-gray-500 hover:text-white"
                     >
@@ -215,7 +215,7 @@ function SortableAreaItem({
                             <button
                                 onClick={(e) => {
                                     e.stopPropagation();
-                                    openMenu(e, { id: area.id, type: 'area', name: area.name, icon: area.icon });
+                                    openMenu(e, { ...area, type: 'area' });
                                 }}
                                 className="p-1 hover:bg-gray-800 rounded text-gray-500"
                             >
@@ -248,16 +248,17 @@ function SortableAreaItem({
                         <form onSubmit={(e) => {
                             e.preventDefault();
                             onCreateProject(e, area.id, newProjectName, setNewProjectName);
-                        }}>
+                        }} className="flex items-center gap-1">
                             <input
                                 autoFocus
                                 className="w-full bg-gray-900 border border-blue-500 rounded px-2 py-1 text-xs text-white outline-none"
                                 placeholder="Nombre del proyecto..."
                                 value={newProjectName}
                                 onChange={e => setNewProjectName(e.target.value)}
-                            // If we blur without name, maybe cancel? Parent handles logic usually.
-                            // onBlur={() => !newProjectName && onCancelCreate()}
                             />
+                            <button type="submit" className="text-green-400 hover:text-green-300">
+                                <CheckSquare className="w-4 h-4" />
+                            </button>
                         </form>
                     </motion.div>
                 )}
@@ -323,6 +324,7 @@ export default function SidebarList({
     googleLists,
     // Creation Props
     creatingProjectInArea,
+    onCreateArea, // NEW
     onCreateProject,
     setCreatingProjectInArea,
     projectStats
@@ -401,7 +403,7 @@ export default function SidebarList({
             {/* PERSONAL WORKSPACE SECTION */}
             <div className="mb-6">
                 {!isCollapsed && (
-                    <h3 className="text-[10px] font-bold text-gray-500 uppercase tracking-wider mb-2 px-4">
+                    <h3 className="text-[10px] font-bold text-gray-500 uppercase tracking-wider mb-3 px-4">
                         Espacio Personal
                     </h3>
                 )}
@@ -410,22 +412,22 @@ export default function SidebarList({
                     onClick={() => onProjectClick('my-tasks')}
                     className={clsx(
                         "cursor-pointer transition-all group relative mx-2 mb-1",
-                        isCollapsed ? "w-10 h-10 flex items-center justify-center rounded-xl mx-auto" : "p-3 rounded-xl flex items-center gap-3",
+                        isCollapsed ? "w-10 h-10 flex items-center justify-center rounded-xl mx-auto" : "h-12 px-3 rounded-xl flex items-center gap-3",
                         activeProjectId === 'my-tasks'
-                            ? "bg-gradient-to-br from-blue-500/20 to-indigo-500/20 text-blue-300 border border-blue-500/30 shadow-lg shadow-blue-900/20"
-                            : "bg-gray-800/30 text-gray-400 hover:bg-gray-800 hover:text-white border border-transparent hover:border-gray-700"
+                            ? "bg-gradient-to-br from-blue-600/20 to-indigo-600/20 text-blue-300 border border-blue-500/30 shadow-lg shadow-blue-900/20"
+                            : "bg-gray-800/30 text-gray-400 hover:bg-gray-800 hover:text-white border border-transparent hover:border-gray-700 hover:bg-gray-800/80"
                     )}
                 >
-                    <div className={clsx("p-1.5 rounded-lg transition-colors",
-                        activeProjectId === 'my-tasks' ? "bg-blue-500 text-white shadow-sm" : "bg-gray-700/50 text-gray-400 group-hover:text-white"
+                    <div className={clsx("p-2 rounded-lg transition-colors shrink-0",
+                        activeProjectId === 'my-tasks' ? "bg-blue-600 text-white shadow-md" : "bg-gray-700/50 text-gray-400 group-hover:text-white group-hover:bg-gray-600"
                     )}>
                         <CheckSquare className="w-4 h-4" />
                     </div>
 
                     {!isCollapsed && (
-                        <div className="flex-1">
-                            <span className="text-sm font-bold block leading-none mb-0.5">Mis Tareas</span>
-                            <span className="text-[10px] text-gray-500 opacity-80 group-hover:opacity-100 transition-opacity">
+                        <div className="flex-1 flex flex-col justify-center">
+                            <span className="text-sm font-bold block leading-tight text-gray-200 group-hover:text-white">Mis Tareas</span>
+                            <span className="text-[10px] text-gray-500 group-hover:text-gray-400 transition-colors">
                                 Dashboard Personal
                             </span>
                         </div>
@@ -435,32 +437,29 @@ export default function SidebarList({
 
             {/* BUSINESS AREAS SECTION */}
             <div className="flex-1 overflow-y-auto custom-scrollbar">
-                {!isCollapsed && (
-                    <div className="flex items-center justify-between px-4 mb-2 sticky top-0 bg-gray-950/95 backdrop-blur-sm z-10 py-1">
-                        <h3 className="text-[10px] font-bold text-gray-500 uppercase tracking-wider">
-                            Espacios de Trabajo
-                        </h3>
-                        <button
-                            onClick={(e) => {
-                                e.stopPropagation();
-                                openMenu(e, { type: 'create_area' }); // Trigger a menu or a callback? 
-                                // Actually, let's just use a callback if available or open the creation modal
-                                // Since we don't have 'onCreateArea' prop explicitly mapped to a modal here,
-                                // we might need to assume Parent handles 'create_area' in the menu or passed a prop.
-                                // Let's check props. checking... 'onCreateArea' is NOT passed.
-                                // But 'openMenu' is passed.
-                                // Alternatively, simply emit a custom event or use an unused prop?
-                                // Let's use a new prop 'onCreateArea' which we will add to TaskManager.
-                            }}
-                            // Wait, simpler: TaskManager uses `setIsCreatingArea(true)`.
-                            // I should add `onCreateArea` to the props of SidebarList.
-                            className="p-1 hover:bg-gray-800 rounded text-gray-500 hover:text-white transition-colors"
-                            title="Crear Nueva Área"
-                        >
-                            <Plus className="w-3.5 h-3.5" />
-                        </button>
-                    </div>
-                )}
+                <div className={clsx("flex items-center mb-2 sticky top-0 bg-gray-950/95 backdrop-blur-sm z-10 py-1 transition-all", isCollapsed ? "justify-center px-0" : "justify-between px-4")}>
+                    {isCollapsed ? (
+                        <div className="h-5 flex items-center justify-center w-full" title="Espacios de Trabajo">
+                            <span className="w-1.5 h-1.5 rounded-full bg-gray-800" />
+                        </div>
+                    ) : (
+                        <>
+                            <h3 className="text-[10px] font-bold text-gray-500 uppercase tracking-wider whitespace-nowrap">
+                                Espacios de Trabajo
+                            </h3>
+                            <button
+                                onClick={(e) => {
+                                    e.stopPropagation();
+                                    if (onCreateArea) onCreateArea();
+                                }}
+                                className="p-1 hover:bg-gray-800 rounded text-gray-500 hover:text-white transition-colors"
+                                title="Crear Nueva Área"
+                            >
+                                <Plus className="w-3.5 h-3.5" />
+                            </button>
+                        </>
+                    )}
+                </div>
 
                 <SortableContext
                     items={areas.map(a => a.id)}

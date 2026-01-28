@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Daniel Alejandro"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Daniel Alejandro",
+      "timestamp_ms": 1769173060827,
+      "content": "Daniel vendi\u00c3\u00b3 Notebook Intel core i7.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768198478243,
+      "content": "Publicaciones similares a \"Notebook Intel core i7\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768068874783,
+      "content": "Hola?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767674969902,
+      "content": "Hola, Daniel. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767674969709,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook Intel core i7",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebookintelcorei7_859808526787239",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/2695020374182307.jpg",
+    "creation_timestamp": 1767674966
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

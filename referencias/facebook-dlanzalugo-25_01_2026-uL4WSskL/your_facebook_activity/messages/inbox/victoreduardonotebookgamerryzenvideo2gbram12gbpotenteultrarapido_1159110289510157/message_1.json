@@ -1,0 +1,376 @@
+{
+  "participants": [
+    {
+      "name": "Victor Eduardo Ramirez Bravo"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763176581452,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Disponible.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763176578356,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Disponible.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1760527853048,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759275945338,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Eduardo Ramirez Bravo",
+      "timestamp_ms": 1759266416802,
+      "content": "Te aviso mas rato si no ma\u00c3\u00b1ana en temprano y coordinamos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759265845727,
+      "content": "Coordinamos el dia?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759265838743,
+      "content": "Hola Victor buenas tardes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759199890982,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Eduardo Ramirez Bravo",
+      "timestamp_ms": 1759199751408,
+      "content": "Ma\u00c3\u00b1ana le confirmo durante el dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Eduardo Ramirez Bravo",
+      "timestamp_ms": 1759199735331,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759199715463,
+      "content": "Si estimado si me confirma ma\u00c3\u00b1ana sin problema se lo guarso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Eduardo Ramirez Bravo",
+      "timestamp_ms": 1759198983301,
+      "content": "Me lo puedes guardar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Eduardo Ramirez Bravo",
+      "timestamp_ms": 1759198955816,
+      "content": "D\u00c3\u00a9jame  ver ma\u00c3\u00b1ana y te aviso a tu WhatsApp",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759198920368,
+      "content": "Si claro digame el dia no mas yo se lo guardo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Eduardo Ramirez Bravo",
+      "timestamp_ms": 1759198558223,
+      "content": "Ojal\u00c3\u00a1 que lo tengas para poder comprarlo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Eduardo Ramirez Bravo",
+      "timestamp_ms": 1759198532177,
+      "content": "Ok coordinamos esta semana me interesa comprarlo el notebook",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759198463843,
+      "content": "Ni golpes ni nada. Practicamente nuevo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759198452386,
+      "content": "No tiene ningun detalle",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759198447552,
+      "content": "Se compro en 2022, esta perfectamente cuidado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759198424246,
+      "content": "Cualquier estimado, 500gb, 1tb, 2tb. El espacio que necesite",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Eduardo Ramirez Bravo",
+      "timestamp_ms": 1759198414149,
+      "content": "Y de que a\u00c3\u00b1o es el notebook?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759198413098,
+      "videos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/victoreduardonotebookgamerryzenvideo2gbram12gbpotenteultrarapido_1159110289510157/videos/1329027442024329.mp4",
+          "creation_timestamp": 1759198398
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Eduardo Ramirez Bravo",
+      "timestamp_ms": 1759198120761,
+      "content": "Que capacidad de disco duro se le puede colocar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759198050832,
+      "content": "Si estimado se le puede ampliar la capacidad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Eduardo Ramirez Bravo",
+      "timestamp_ms": 1759198022950,
+      "content": "Se le puede colocar un disco duro con mas capacidad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759197927171,
+      "content": "Si claro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Eduardo Ramirez Bravo",
+      "timestamp_ms": 1759197569176,
+      "content": "Me interesa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Eduardo Ramirez Bravo",
+      "timestamp_ms": 1759197564275,
+      "content": "Me puedes enviar un video con el notebook encendido?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Eduardo Ramirez Bravo",
+      "timestamp_ms": 1759197528202,
+      "content": "Mira yo puede esta semana por que ma\u00c3\u00b1ana trabajo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759197486038,
+      "content": "Si tiene tarjeta de video de 2gb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Eduardo Ramirez Bravo",
+      "timestamp_ms": 1759197385254,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Eduardo Ramirez Bravo",
+      "timestamp_ms": 1759197383802,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Eduardo Ramirez Bravo",
+      "timestamp_ms": 1759197383464,
+      "content": "El notebook es gamers cierto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759197344508,
+      "content": "La bateria esta al rededor de las 4 horas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759197337469,
+      "content": "Cerremos en 200mil le parece?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Eduardo Ramirez Bravo",
+      "timestamp_ms": 1759197333290,
+      "content": "Y cuanto dura la bater\u00c3\u00ada aproximadamente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Eduardo Ramirez Bravo",
+      "timestamp_ms": 1759197320856,
+      "content": "Puede ser en metro vicu\u00c3\u00b1a mackenna pero el precio es conversable o es el precio final ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759197281541,
+      "content": "Si claro en cual le acomoda?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Eduardo Ramirez Bravo",
+      "timestamp_ms": 1759197262640,
+      "content": "Puede ser en alg\u00c3\u00ban metro ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759197227704,
+      "content": "+56994919000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759197219779,
+      "content": "Estoy en La Florida. Te acomoda la comuna o preferir\u00c3\u00adas que coordinemos en otro punto a convenir?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759197217472,
+      "content": "Hola. S\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para que lo pruebes con toda la calma del mundo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Eduardo Ramirez Bravo",
+      "timestamp_ms": 1759196924265,
+      "content": "Tienes alg\u00c3\u00ban n\u00c3\u00bamero para contactarte?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Eduardo Ramirez Bravo",
+      "timestamp_ms": 1759196789674,
+      "content": "Me interesa comprar el notebook",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Eduardo Ramirez Bravo",
+      "timestamp_ms": 1759196778194,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Eduardo Ramirez Bravo",
+      "timestamp_ms": 1759196775991,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?El precio es conversable y de que comuna eres o tiene una oficina en santiago",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Eduardo Ramirez Bravo",
+      "timestamp_ms": 1759196774891,
+      "content": "Victor Eduardo inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Victor Eduardo \u00c2\u00b7 Notebook Gamer RYZEN  / Video 2GB / RAM 12GB/  Potente ultra Rapido",
+  "is_still_participant": true,
+  "thread_path": "inbox/victoreduardonotebookgamerryzenvideo2gbram12gbpotenteultrarapido_1159110289510157",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

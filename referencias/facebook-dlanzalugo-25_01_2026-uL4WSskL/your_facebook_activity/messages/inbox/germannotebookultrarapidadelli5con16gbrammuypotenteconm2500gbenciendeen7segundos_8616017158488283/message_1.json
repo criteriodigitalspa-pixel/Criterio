@@ -1,0 +1,380 @@
+{
+  "participants": [
+    {
+      "name": "Germ\u00c3\u00a1n Pacheco"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Germ\u00c3\u00a1n Pacheco",
+      "timestamp_ms": 1732742695880,
+      "content": "Germ\u00c3\u00a1n reaccion\u00c3\u00b3 \u00e2\u009d\u00a4 a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732742637976,
+      "content": "Si me das 5 estrellitas te lo agradezco",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Germ\u00c3\u00a1n Pacheco",
+          "timestamp": 1732742695
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Germ\u00c3\u00a1n Pacheco",
+      "timestamp_ms": 1732742505628,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/germannotebookultrarapidadelli5con16gbrammuypotenteconm2500gbenciendeen7segundos_8616017158488283/photos/577985551545808.jpg",
+          "creation_timestamp": 1732742504
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732742460550,
+      "content": "994919000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732742456825,
+      "content": "99491900p",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732742015261,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/germannotebookultrarapidadelli5con16gbrammuypotenteconm2500gbenciendeen7segundos_8616017158488283/photos/1624064145161748.jpg",
+          "creation_timestamp": 1732742013
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732741987765,
+      "content": "Subo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732741985282,
+      "content": "Estoy entre l6 y l2",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732741960610,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/germannotebookultrarapidadelli5con16gbrammuypotenteconm2500gbenciendeen7segundos_8616017158488283/photos/1477581296195466.jpg",
+          "creation_timestamp": 1732741959
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732741839964,
+      "content": "Dale estoy ya aca",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Germ\u00c3\u00a1n Pacheco",
+      "timestamp_ms": 1732741760991,
+      "content": "Estoy en la combinaci\u00c3\u00b3n a l\u00c3\u00adnea 2 cerca de los torniquetes.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Germ\u00c3\u00a1n Pacheco",
+      "timestamp_ms": 1732741626707,
+      "content": "Ch\u00c3\u00a9vere.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732741404040,
+      "content": "Vale, estoy a 3 estaciones",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Germ\u00c3\u00a1n Pacheco",
+      "timestamp_ms": 1732741362893,
+      "content": "Ya llegu\u00c3\u00a9.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Germ\u00c3\u00a1n Pacheco",
+      "timestamp_ms": 1732740180042,
+      "content": "Incre\u00c3\u00adble pero cierto. Yo pensando que voy retrasado, jajajaja.\nCh\u00c3\u00a9vere, nos vemos all\u00c3\u00a1.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732740140216,
+      "content": "Voy como 10 min retrasado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732740134367,
+      "content": "Vas a llegar antes que yo jajaja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732740091453,
+      "content": "Dale nos vemos en la combinacion",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Germ\u00c3\u00a1n Pacheco",
+      "timestamp_ms": 1732740090512,
+      "content": "Ya en el metro. Estoy por Dorsal.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Germ\u00c3\u00a1n Pacheco",
+      "timestamp_ms": 1732739353448,
+      "content": "Dentro.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732739309014,
+      "content": "Dale, estaras por dentro del metro o por fuera?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Germ\u00c3\u00a1n Pacheco",
+      "timestamp_ms": 1732738692956,
+      "content": "Perfecto. Ya yo voy en camino a Vespucio Norte.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732738666742,
+      "content": "Voy saliendo para alla",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Germ\u00c3\u00a1n Pacheco",
+      "timestamp_ms": 1732738048128,
+      "content": "Ch\u00c3\u00a9vere.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732737794836,
+      "content": "Claro sin problema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Germ\u00c3\u00a1n Pacheco",
+      "timestamp_ms": 1732737778389,
+      "content": "S\u00c3\u00ad, exacto. Mercado Pago permite a otros bancos.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732737757244,
+      "content": "Seria solo a cuenta bancaria",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732737751125,
+      "content": "No tengo mercado pago",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Germ\u00c3\u00a1n Pacheco",
+      "timestamp_ms": 1732737529469,
+      "content": "\u00c2\u00bfAlg\u00c3\u00ban problema si la transferencia es por Mercado Pago?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732730526860,
+      "content": "Estare alla a las 18hr",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732730522799,
+      "content": "Aah dale sin problema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Germ\u00c3\u00a1n Pacheco",
+      "timestamp_ms": 1732729475407,
+      "content": "Tratar\u00c3\u00a9 de llegar lo m\u00c3\u00a1s puntual a esa hora. Lo que pasa es que trabajo en Colina y salgo a las 5 p. m.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732728713607,
+      "content": "Puede ser 18 en punto?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Germ\u00c3\u00a1n Pacheco",
+      "timestamp_ms": 1732728242875,
+      "content": "Podr\u00c3\u00ada ser 18-18:30",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732725864658,
+      "content": "A que hora puede?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732725864502,
+      "content": "Si por supuesto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Germ\u00c3\u00a1n Pacheco",
+      "timestamp_ms": 1732725060821,
+      "content": "\u00c2\u00bfAlguna posibilidad de encontrarnos en el metro Franklin?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Germ\u00c3\u00a1n Pacheco",
+      "timestamp_ms": 1732724954809,
+      "content": "Buen\u00c3\u00adsimo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732724606138,
+      "content": "Y no amigo de la marca ya no hacen garantia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732724594768,
+      "content": "Si amigo transferencia o efectivo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Germ\u00c3\u00a1n Pacheco",
+      "timestamp_ms": 1732724222275,
+      "content": "\u00c2\u00bfTiene alg\u00c3\u00ban tipo de garant\u00c3\u00ada? \u00c2\u00bfAcepta transferencia?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732722631274,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732722630240,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Germ\u00c3\u00a1n Pacheco",
+      "timestamp_ms": 1732722442131,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Germ\u00c3\u00a1n Pacheco",
+      "timestamp_ms": 1732722438535,
+      "content": "Hola, \u00c2\u00bfd\u00c3\u00b3nde entrega? \u00c2\u00bfD\u00c3\u00b3nde se puede probar el equipo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Germ\u00c3\u00a1n Pacheco",
+      "timestamp_ms": 1732722438256,
+      "content": "Germ\u00c3\u00a1n Pacheco",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Germ\u00c3\u00a1n Pacheco",
+      "timestamp_ms": 1732722436993,
+      "content": "Germ\u00c3\u00a1n asign\u00c3\u00b3 al grupo el nombre \"Germ\u00c3\u00a1n \u00c2\u00b7 Notebook Ultra Rapida Dell i5 con 16GB RAM Muy Potente Con M2 500GB ENCIENDE EN 7 SEGUNDOS!\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Germ\u00c3\u00a1n Pacheco",
+      "timestamp_ms": 1732722436993,
+      "content": "Germ\u00c3\u00a1n cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Germ\u00c3\u00a1n \u00c2\u00b7 Notebook Ultra Rapida Dell i5 con 16GB RAM Muy Potente Con M2 500GB ENCIENDE EN 7 SEGUNDOS!",
+  "is_still_participant": true,
+  "thread_path": "inbox/germannotebookultrarapidadelli5con16gbrammuypotenteconm2500gbenciendeen7segundos_8616017158488283",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

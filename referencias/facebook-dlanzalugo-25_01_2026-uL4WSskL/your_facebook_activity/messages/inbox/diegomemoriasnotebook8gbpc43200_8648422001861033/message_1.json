@@ -1,0 +1,89 @@
+{
+  "participants": [
+    {
+      "name": "Alvaro Armetta"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alvaro Armetta",
+      "timestamp_ms": 1733510230706,
+      "content": "Alvaro vendi\u00c3\u00b3 Memorias notebook 8GB pc4 3200.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alvaro Armetta",
+      "timestamp_ms": 1733510224784,
+      "content": "Alvaro vendi\u00c3\u00b3 Memorias notebook 8GB pc4 3200.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731840125712,
+      "content": "Publicaciones similares a \"Memorias notebook 8GB pc4 3200\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alvaro Armetta",
+      "timestamp_ms": 1731718226533,
+      "content": "Hola\nSan Miguel mi domicilio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731715952299,
+      "content": "Hola amigo, donde entregas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alvaro Armetta",
+      "timestamp_ms": 1731714532323,
+      "content": "Hola\nSi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731710521901,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731710519478,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Memorias notebook 8GB pc4 3200\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731710519478,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Memorias notebook 8GB pc4 3200",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegomemoriasnotebook8gbpc43200_8648422001861033",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/924767998987017.jpg",
+    "creation_timestamp": 1731710518
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

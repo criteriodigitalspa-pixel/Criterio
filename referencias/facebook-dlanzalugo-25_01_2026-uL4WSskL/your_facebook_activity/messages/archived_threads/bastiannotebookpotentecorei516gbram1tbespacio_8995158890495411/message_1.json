@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Bastian Sepulveda"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728575342514,
+      "content": "Hola Si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bastian Sepulveda",
+      "timestamp_ms": 1728575022470,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bastian Sepulveda",
+      "timestamp_ms": 1728575018873,
+      "content": "\u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bastian Sepulveda",
+      "timestamp_ms": 1728575018623,
+      "content": "Bastian Sepulveda",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bastian Sepulveda",
+      "timestamp_ms": 1728575016387,
+      "content": "Bastian asign\u00c3\u00b3 al grupo el nombre \"Bastian \u00c2\u00b7 Notebook Potente Core i5 16gb ram 1tb Espacio\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bastian Sepulveda",
+      "timestamp_ms": 1728575016387,
+      "content": "Bastian cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bastian \u00c2\u00b7 Notebook Potente Core i5 16gb ram 1tb Espacio",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/bastiannotebookpotentecorei516gbram1tbespacio_8995158890495411",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

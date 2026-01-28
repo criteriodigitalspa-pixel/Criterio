@@ -1,0 +1,85 @@
+{
+  "participants": [
+    {
+      "name": "Andres Guillermo Garcia Rodriguez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732281940465,
+      "content": "Elitebook 840r G4",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Guillermo Garcia Rodriguez",
+      "timestamp_ms": 1732281934051,
+      "content": "\u00f0\u009f\u00a5\u00b9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Guillermo Garcia Rodriguez",
+      "timestamp_ms": 1732281928270,
+      "content": "Si no es mucha molestia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Guillermo Garcia Rodriguez",
+      "timestamp_ms": 1732281921339,
+      "content": "Que modelo es me podr\u00c3\u00adas especificar porfa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Guillermo Garcia Rodriguez",
+      "timestamp_ms": 1732281909206,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732281895455,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Guillermo Garcia Rodriguez",
+      "timestamp_ms": 1732281881067,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Guillermo Garcia Rodriguez",
+      "timestamp_ms": 1732281877435,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Guillermo Garcia Rodriguez",
+      "timestamp_ms": 1732281877170,
+      "content": "Andres inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Andres \u00c2\u00b7 Elitebook Potente i5 16GB RAM Ultra Rapida enciende en 8 segundos! 1000GB Espacio",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/andreselitebookpotentei516gbramultrarapidaenciendeen8segundos1000gbespacio_8316312405145948",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

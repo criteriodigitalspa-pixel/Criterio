@@ -1,0 +1,889 @@
+{
+  "participants": [
+    {
+      "name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767890444228,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767888868823,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767888800070,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/xavierthinkpadfulli7connvidia24gbramssdd_852569087773118/photos/928436932840924.jpg",
+          "creation_timestamp": 1767888796
+        },
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/xavierthinkpadfulli7connvidia24gbramssdd_852569087773118/photos/1611710303158110.jpg",
+          "creation_timestamp": 1767888799
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767888415904,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767888392356,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767888391095,
+      "content": "Bajando...",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767888388916,
+      "content": "+56990708814",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767888380634,
+      "content": "Dame tu numero",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767888369112,
+      "content": "En torniquetes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767888364601,
+      "content": "Amigo a 5 min",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767886708048,
+      "content": "Dale bkn",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767886702533,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767886589575,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/xavierthinkpadfulli7connvidia24gbramssdd_852569087773118/audio/885418820705783.mp4",
+          "creation_timestamp": 1767886588
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767886578427,
+      "content": "Vale bro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767886473106,
+      "content": "Min",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767886472070,
+      "content": "Estoy a 25",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767886470163,
+      "content": "Amigoo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767873702802,
+      "content": "vale bro0 nos vemos a las 13hrs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767873507875,
+      "content": "Xavier reaccion\u00c3\u00b3 \u00f0\u009f\u0091\u008d a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767873503184,
+      "content": "Esas 2 esta bien",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767873500545,
+      "content": "Esa es de mi papa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767873496697,
+      "content": "Jose Lanza\n26.571.884-1\nBanco de Chile\nCuenta Vista\n00-030-55250-62",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767873066470,
+      "content": "para agregar tbmn en caso de",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767873059119,
+      "content": "puedes enviarme alguna cuenta rut o algo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767873051474,
+      "content": "dale bro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767871791364,
+      "content": "Te parece?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767871783797,
+      "content": "Y puedo a las 13hr, antes me es imposible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767871770917,
+      "content": "Si super igual sin no te paso 2 numeros de cuenta, tranqui lo vemos alli",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767871668805,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/xavierthinkpadfulli7connvidia24gbramssdd_852569087773118/audio/1504609943974207.mp4",
+          "creation_timestamp": 1767871667
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767871520189,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767871517203,
+      "content": "Todo ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767871515838,
+      "content": "Si amigazo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767871498778,
+      "content": "Holaa buen dia como estas?, todo en pie para hoy?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767870794017,
+      "content": "Xavier reaccion\u00c3\u00b3 \u00e2\u009d\u00a4 a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767870790157,
+      "content": "Xavier reaccion\u00c3\u00b3 \u00f0\u009f\u0098\u0086 a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767831377503,
+      "content": "Diego jose Lanza\n26.522.372-9\nBanco Falabella\nCuenta Corriente\n19841654870",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767831177507,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767827837552,
+      "content": "M\u00c3\u00a1ndame tus datos.mientras",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767827832476,
+      "content": "Vamos hablando ma\u00c3\u00b1ana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767827829068,
+      "content": "Yapo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767827827823,
+      "content": "Fino mno",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767827823382,
+      "content": "Xavier reaccion\u00c3\u00b3 \u00e2\u009d\u00a4 a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767827806176,
+      "content": "Xavier reaccion\u00c3\u00b3 \u00e2\u009d\u00a4 a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767827806159,
+      "content": "Xavier reaccion\u00c3\u00b3 \u00e2\u009d\u00a4 a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767826858804,
+      "content": "Y esa es la tarjeta de video",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767826851504,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/xavierthinkpadfulli7connvidia24gbramssdd_852569087773118/photos/1648419156568491.jpg",
+          "creation_timestamp": 1767826849
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767826823236,
+      "content": "Tiene su uso si miras a detalles veras algun rasgu\u00c3\u00b1o chico o marquita pero nada de golpes ni nada asi fuerte",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767826798315,
+      "content": "Es lo que mas me interesa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767826794170,
+      "content": "Y real lo de la GPU vd?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767826771246,
+      "content": "Todos los puertos, pantalla, Teclas, sonido, wifi, todo funcionando perfecto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767826716475,
+      "content": "Me dice que no tiene detalles vd?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767826710667,
+      "content": "Ll\u00c3\u00a9velo cargado para verlo y todo eso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767826703720,
+      "content": "Vale amigazo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767826699788,
+      "content": "Xavier reaccion\u00c3\u00b3 \u00e2\u009d\u00a4 a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767826699421,
+      "content": "Xavier reaccion\u00c3\u00b3 \u00e2\u009d\u00a4 a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767826601935,
+      "content": "Entre 12 a 2pm, en la ma\u00c3\u00b1ana te confirmo exactamente pero entre ese horario podre seguro",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767826574092,
+      "content": "Aah super, ma\u00c3\u00b1ana despues del medio puedo ir a metro del sol en maipu",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767826394884,
+      "content": "Pr\u00c3\u00a1cticamente todo el d\u00c3\u00ada hermano",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767826388292,
+      "content": "Yo trabajo en mi casa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767826291980,
+      "content": "Depende de la hora podria acercartelo al metro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767826277299,
+      "content": "Ma\u00c3\u00b1ana a que hora puedes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767826219384,
+      "content": "Te lo agradecer\u00c3\u00ada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767826215953,
+      "content": "Si pudieras traerlo a METRO DEL SOL",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767826204994,
+      "content": "Pero suelo andar en auto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767826200814,
+      "content": "Soy de maip\u00c3\u00ba hermano",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767826196164,
+      "content": "Xavier reaccion\u00c3\u00b3 \u00e2\u009d\u00a4 a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767826194944,
+      "content": "Xavier reaccion\u00c3\u00b3 \u00e2\u009d\u00a4 a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767826189696,
+      "content": "O depende de la comuna igual lo puedo llevar",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767826180435,
+      "content": "Estoy en La Florida. Te acomoda la comuna o preferir\u00c3\u00adas que coordinemos en otro punto a convenir?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767826163302,
+      "content": "Que d\u00c3\u00adas hora y donde se puede ir a buscar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767826155254,
+      "content": "Oye lo otro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767826150170,
+      "content": "Palabra",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767826148164,
+      "content": "Hermano real mira la primera foto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767826100557,
+      "content": "Revise y estan bien las fotos me asustaste jajaja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767826091637,
+      "content": "Nono seguro?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767826083154,
+      "content": "Perfect",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767826048881,
+      "videos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/xavierthinkpadfulli7connvidia24gbramssdd_852569087773118/videos/1539160167332958.mp4",
+          "creation_timestamp": 1767826036
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767826002894,
+      "content": "Mira fijate",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767825998067,
+      "content": "Esque aparece uno con teclado num\u00c3\u00a9rico y el otro no",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767825985981,
+      "content": "M\u00c3\u00a1ndame fotos porfi y los datos reales porfi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767825980794,
+      "content": "Las fotos son las reales",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767825977852,
+      "content": "400",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767825976683,
+      "content": "Vale!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767825972301,
+      "content": "Se envi\u00c3\u00b3 tu calificaci\u00c3\u00b3n",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767825971845,
+      "content": "Bakan",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767825970718,
+      "content": "400mil cerrado te parece?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767825969828,
+      "content": "Tiene fotos reales?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767825965450,
+      "content": "Porque aparecen 2 distintos en las fotos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767825962077,
+      "content": "Xavier reaccion\u00c3\u00b3 \u00e2\u009d\u00a4 a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767825954190,
+      "content": "De uso intenso unas 3 horas, de un uso mas relajado puede llegar hasta las 5 horas tranquilamente, y ya en modo suspension o con la tapa cerrada igual dura mas de un dia",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767825945023,
+      "content": "Es de 14 pulgadas sin teclado num\u00c3\u00a9rico cierto?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767825936267,
+      "content": "Otra cosita bro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767825925790,
+      "content": "Porque tengo que vender el mio y poner el extra",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767825917534,
+      "content": "Es posible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767825915113,
+      "content": "390?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767825906124,
+      "content": "El precio es el publicado, pero estoy abierto a una oferta razonable, que tenias en mente?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767825885463,
+      "content": "Cuanto le dura la bater\u00c3\u00ada sinceramente?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767825876756,
+      "content": "Me interesa much\u00c3\u00adsimo por la Gr\u00c3\u00a1fica mas que nada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767825868976,
+      "content": "Es conversable el precio un poquito?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767825863444,
+      "content": "Consulta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767825861203,
+      "content": "Genial",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767825858989,
+      "content": "Xavier reaccion\u00c3\u00b3 \u00e2\u009d\u00a4 a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767825829389,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767825777807,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767825772764,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xavier Francisco Labr\u00c3\u00adn Cofr\u00c3\u00a9",
+      "timestamp_ms": 1767825772359,
+      "content": "Xavier inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Xavier \u00c2\u00b7 Thinkpad Full i7 con NVIDIA /24GB RAM / SSDD /",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/xavierthinkpadfulli7connvidia24gbramssdd_852569087773118",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

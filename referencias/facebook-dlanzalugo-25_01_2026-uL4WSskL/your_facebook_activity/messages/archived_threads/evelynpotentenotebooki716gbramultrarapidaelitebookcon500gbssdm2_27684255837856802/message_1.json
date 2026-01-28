@@ -1,0 +1,99 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Evelyn Valenzuela"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732111801865,
+      "content": "Vale vale estoy atento",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evelyn Valenzuela",
+      "timestamp_ms": 1732111628087,
+      "content": "Ya gracias le aviso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732111591286,
+      "content": "Es bastante liviana y delgada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732111553247,
+      "content": "Esta funcionando todo impecable, camara, sonido, pantalla, bateria, cargador",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evelyn Valenzuela",
+      "timestamp_ms": 1732111505359,
+      "content": "Tiene alg\u00c3\u00ban detalle",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732111342953,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evelyn Valenzuela",
+      "timestamp_ms": 1732111292001,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evelyn Valenzuela",
+      "timestamp_ms": 1732111284081,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evelyn Valenzuela",
+      "timestamp_ms": 1732111283743,
+      "content": "Evelyn Valenzuela",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evelyn Valenzuela",
+      "timestamp_ms": 1732111281039,
+      "content": "Evelyn asign\u00c3\u00b3 al grupo el nombre \"Evelyn \u00c2\u00b7 Potente Notebook i7 16GB RAM Ultra Rapida Elitebook con 500GB SSD M2\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evelyn Valenzuela",
+      "timestamp_ms": 1732111281039,
+      "content": "Evelyn cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Evelyn \u00c2\u00b7 Potente Notebook i7 16GB RAM Ultra Rapida Elitebook con 500GB SSD M2",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/evelynpotentenotebooki716gbramultrarapidaelitebookcon500gbssdm2_27684255837856802",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

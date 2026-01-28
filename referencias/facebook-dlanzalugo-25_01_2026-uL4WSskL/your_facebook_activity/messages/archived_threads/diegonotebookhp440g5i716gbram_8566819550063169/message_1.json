@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Diego Ignacio Molinet Blas"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Ignacio Molinet Blas",
+      "timestamp_ms": 1729599722362,
+      "content": "Diego rechaz\u00c3\u00b3 tu oferta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729598990521,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729598989126,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Notebook HP 440 G5 i7 16GB ram\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729598989126,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook HP 440 G5 i7 16GB ram",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebookhp440g5i716gbram_8566819550063169",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1613700249571449.jpg",
+    "creation_timestamp": 1729598987
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

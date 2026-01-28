@@ -1,0 +1,117 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Esteban Limonao"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Esteban Limonao",
+      "timestamp_ms": 1731089697692,
+      "content": "Esteban vendi\u00c3\u00b3 Lenovo Ideapad 520s 14IKB i5 7200U.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Esteban Limonao",
+      "timestamp_ms": 1730984922937,
+      "content": "\u00c2\u00bfA\u00c3\u00ban te interesa? Responde a: puedo en protectora de la infancia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Esteban Limonao",
+      "timestamp_ms": 1730975709073,
+      "content": "puedo en protectora de la infancia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Esteban Limonao",
+      "timestamp_ms": 1730975659071,
+      "content": "le dura como 2 a 3 horas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Esteban Limonao",
+      "timestamp_ms": 1730975649091,
+      "content": "no tiene detalles de bater\u00c3\u00ada, solo est\u00c3\u00a9ticos como abulladuras",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Esteban Limonao",
+      "timestamp_ms": 1730975636003,
+      "content": "hola, disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730950415111,
+      "content": "Podria buscarlo ma\u00c3\u00b1ana si es asi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730950399468,
+      "content": "Podria entregar en algun metro L4?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730950389487,
+      "content": "Tiene algun detalle? Bateria o algo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730950383280,
+      "content": "Estimado me interesa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730950364446,
+      "content": "Hola, Esteban. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730950361539,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Lenovo Ideapad 520s 14IKB i5 7200U\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730950361539,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Lenovo Ideapad 520s 14IKB i5 7200U",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegolenovoideapad520s14ikbi57200u_9480310371984785",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/2129086997507051.jpg",
+    "creation_timestamp": 1730950360
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Daniel Romeo"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1747253437550,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1746816041083,
+      "content": "350mil y es tuyo amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1746706721463,
+      "content": "Rechazaste la oferta de Daniel",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Romeo",
+      "timestamp_ms": 1746691579353,
+      "content": "Daniel te ofreci\u00c3\u00b3 $300.000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Daniel \u00c2\u00b7 Notebook i7 / 16GB RAM Ultra Potente con SSD / A\u00c3\u00b1o 2023",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/danielnotebooki716gbramultrapotenteconssdano2023_9925921640819912",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

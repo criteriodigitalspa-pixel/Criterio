@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Santiago Ulivardo Villafa\u00c3\u00b1a Mu\u00c3\u00b1oz"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735649918393,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Ulivardo Villafa\u00c3\u00b1a Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1735648660828,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Ulivardo Villafa\u00c3\u00b1a Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1735648656140,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Ulivardo Villafa\u00c3\u00b1a Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1735648655556,
+      "content": "Santiago Ulivardo Villafa\u00c3\u00b1a Mu\u00c3\u00b1oz",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Ulivardo Villafa\u00c3\u00b1a Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1735648652701,
+      "content": "Santiago asign\u00c3\u00b3 al grupo el nombre \"Santiago \u00c2\u00b7 Potente Elitebook i5 16GB Ram Ultra Rapida Office Activado SSD +1TB Espacio\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Ulivardo Villafa\u00c3\u00b1a Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1735648652701,
+      "content": "Santiago cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Santiago \u00c2\u00b7 Potente Elitebook i5 16GB Ram Ultra Rapida Office Activado SSD +1TB Espacio",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/santiagopotenteelitebooki516gbramultrarapidaofficeactivadossd1tbespacio_9714538741907381",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

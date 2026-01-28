@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Alexis David"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729187275239,
+      "content": "Le intereso?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729160379424,
+      "content": "Hola, si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexis David",
+      "timestamp_ms": 1729155612007,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexis David",
+      "timestamp_ms": 1729155607493,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexis David",
+      "timestamp_ms": 1729155607217,
+      "content": "Alexis David",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexis David",
+      "timestamp_ms": 1729155604483,
+      "content": "Alexis asign\u00c3\u00b3 al grupo el nombre \"Alexis \u00c2\u00b7 Potente Notebook Lenovo ultra Rapida y Liviana AMD Gold + AMD Grafica + 8gb RAM + SSD + HHD SIN USO\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexis David",
+      "timestamp_ms": 1729155604483,
+      "content": "Alexis cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Alexis \u00c2\u00b7 Potente Notebook Lenovo ultra Rapida y Liviana AMD Gold + AMD Grafica + 8gb RAM + SSD + HHD SIN USO",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/alexispotentenotebooklenovoultrarapidaylivianaamdgoldamdgrafica8gbramssdhhdsinuso_8717820878308989",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

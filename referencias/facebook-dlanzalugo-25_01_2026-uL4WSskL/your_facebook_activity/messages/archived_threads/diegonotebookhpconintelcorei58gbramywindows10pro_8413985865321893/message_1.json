@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Antonia Cifuentes Ortega"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Antonia Cifuentes Ortega",
+      "timestamp_ms": 1729396764255,
+      "content": "Antonia elimin\u00c3\u00b3 el art\u00c3\u00adculo de Marketplace.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook HP con Intel Core i5, 8GB RAM, y Windows 10 Pro",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebookhpconintelcorei58gbramywindows10pro_8413985865321893",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1568854211178770.jpg",
+    "creation_timestamp": 1729290414
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

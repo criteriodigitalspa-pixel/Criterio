@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Javier Ignacio"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Javier Ignacio",
+      "timestamp_ms": 1767494928246,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Javier Ignacio",
+      "timestamp_ms": 1767494925123,
+      "content": "No le gusta la plata",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Javier Ignacio",
+      "timestamp_ms": 1767458363288,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Javier Ignacio",
+      "timestamp_ms": 1767408528855,
+      "content": "Que tarjeta de video tiene?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767408507621,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Javier Ignacio",
+      "timestamp_ms": 1767408421858,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Javier Ignacio",
+      "timestamp_ms": 1767408418541,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Javier Ignacio",
+      "timestamp_ms": 1767408418370,
+      "content": "Javier inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Javier \u00c2\u00b7 Ultra Potente Thinkpad i7 /16GB RAM / SSDD / Corre Todo",
+  "is_still_participant": true,
+  "thread_path": "inbox/javierultrapotentethinkpadi716gbramssddcorretodo_3834291533530201",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

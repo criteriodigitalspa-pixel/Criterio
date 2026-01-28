@@ -1,0 +1,113 @@
+{
+  "participants": [
+    {
+      "name": "Antonio Goicovich"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Antonio Goicovich",
+      "timestamp_ms": 1732227151770,
+      "content": "El lunes veremos",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Diego Lanza",
+          "timestamp": 1732229567
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732133822034,
+      "content": "Vale estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Antonio Goicovich",
+      "timestamp_ms": 1732132581933,
+      "content": "Este lunes pasar\u00c3\u00a9 por su domicilio ,le llamar\u00c3\u00a9 antes, muchas gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732131929885,
+      "content": "Puede venir a verlo a mi domicilio en la florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732131893855,
+      "content": "Vale te los acepto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Antonio Goicovich",
+      "timestamp_ms": 1732131730527,
+      "content": "Tengo 110mil por si quiere",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732127085891,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Antonio Goicovich",
+      "timestamp_ms": 1732126919322,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Antonio Goicovich",
+      "timestamp_ms": 1732126915188,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Antonio Goicovich",
+      "timestamp_ms": 1732126914672,
+      "content": "Usuario",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Antonio Goicovich",
+      "timestamp_ms": 1732126912251,
+      "content": "Un contacto asign\u00c3\u00b3 al grupo el nombre \"Antonio \u00c2\u00b7 Elitebook Potente i5 16GB RAM Ultra Rapida enciende en 8 segundos! 1000GB Espacio\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Antonio Goicovich",
+      "timestamp_ms": 1732126912251,
+      "content": "Un contacto cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Antonio \u00c2\u00b7 Elitebook Potente i5 16GB RAM Ultra Rapida enciende en 8 segundos! 1000GB Espacio",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/antonioelitebookpotentei516gbramultrarapidaenciendeen8segundos1000gbespacio_8266831920088511",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

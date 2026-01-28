@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Maria J\u00c3\u00b3se Valenzuela Arancibia"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Maria J\u00c3\u00b3se Valenzuela Arancibia",
+      "timestamp_ms": 1703614731905,
+      "content": "Maria vendi\u00c3\u00b3 Notebook Lenovo thinkpad T470 i5 6ta 12GB RAM 1TB HDD DETALLE.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria J\u00c3\u00b3se Valenzuela Arancibia",
+      "timestamp_ms": 1703614717478,
+      "content": "Maria vendi\u00c3\u00b3 Notebook Lenovo thinkpad T470 i5 6ta 12GB RAM 1TB HDD DETALLE.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703227677328,
+      "content": "Publicaciones similares a \"Notebook Lenovo thinkpad T470 i5 6ta 12GB RAM 1TB HDD DETALLE\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria J\u00c3\u00b3se Valenzuela Arancibia",
+      "timestamp_ms": 1703121067417,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria J\u00c3\u00b3se Valenzuela Arancibia",
+      "timestamp_ms": 1703099543934,
+      "content": "\u00c2\u00bfA\u00c3\u00ban te interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703098072484,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703098070260,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703098069874,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Notebook Lenovo thinkpad T470 i5 6ta 12GB RAM 1TB HDD DETALLE\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook Lenovo thinkpad T470 i5 6ta 12GB RAM 1TB HDD DETALLE",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebooklenovothinkpadt470i56ta12gbram1tbhdddetalle_7377555102263723",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/740017194179848.jpg",
+    "creation_timestamp": 1703098067
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

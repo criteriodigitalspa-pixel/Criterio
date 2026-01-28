@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "\u00d8\u00a7\u00d9\u0084\u00d9\u0085\u00d8\u00b1\u00d8\u00a7\u00d9\u0084\u00d9\u008a\u00d8\u00b3 \u00d8\u00b1\u00d9\u0082\u00d9\u008a\u00d9\u0082 \u00d9\u008a\u00d8\u00a7\u00d8\u00b1\u00d9\u008a\u00d8\u00aa\u00d8\u00b2\u00d8\u00a7"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1747262439418,
+      "content": "Puede venir a verlo a mi domicilio en la comuna de la Florida, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1747262438920,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00d8\u00a7\u00d9\u0084\u00d9\u0085\u00d8\u00b1\u00d8\u00a7\u00d9\u0084\u00d9\u008a\u00d8\u00b3 \u00d8\u00b1\u00d9\u0082\u00d9\u008a\u00d9\u0082 \u00d9\u008a\u00d8\u00a7\u00d8\u00b1\u00d9\u008a\u00d8\u00aa\u00d8\u00b2\u00d8\u00a7",
+      "timestamp_ms": 1747257138660,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00d8\u00a7\u00d9\u0084\u00d9\u0085\u00d8\u00b1\u00d8\u00a7\u00d9\u0084\u00d9\u008a\u00d8\u00b3 \u00d8\u00b1\u00d9\u0082\u00d9\u008a\u00d9\u0082 \u00d9\u008a\u00d8\u00a7\u00d8\u00b1\u00d9\u008a\u00d8\u00aa\u00d8\u00b2\u00d8\u00a7",
+      "timestamp_ms": 1747257133439,
+      "content": "\u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00d8\u00a7\u00d9\u0084\u00d9\u0085\u00d8\u00b1\u00d8\u00a7\u00d9\u0084\u00d9\u008a\u00d8\u00b3 \u00d8\u00b1\u00d9\u0082\u00d9\u008a\u00d9\u0082 \u00d9\u008a\u00d8\u00a7\u00d8\u00b1\u00d9\u008a\u00d8\u00aa\u00d8\u00b2\u00d8\u00a7",
+      "timestamp_ms": 1747257133134,
+      "content": "\u00e2\u0080\u008e\u00d9\u008a\u00d8\u00a7\u00d8\u00b1\u00d9\u008a\u00d8\u00aa\u00d8\u00b2\u00d8\u00a7\u00e2\u0080\u008e inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00d9\u008a\u00d8\u00a7\u00d8\u00b1\u00d9\u008a\u00d8\u00aa\u00d8\u00b2\u00d8\u00a7 \u00c2\u00b7 Notebook i5 8GB RAM Ultra Potente con SSD ENCIENDE EN SEGUNDOS\n PROBOOK",
+  "is_still_participant": true,
+  "thread_path": "inbox/yarytzanotebooki58gbramultrapotenteconssdenciendeensegundosprobook_9661003370684487",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

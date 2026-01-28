@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Osgleixy Garcia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738067080165,
+      "content": "Esta interesada?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738002720362,
+      "content": "Y va con 20GB de Ram",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738002709694,
+      "content": "Para dejar numero cerrado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738002704963,
+      "content": "200mil estimada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Osgleixy Garcia",
+      "timestamp_ms": 1738002638822,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Osgleixy Garcia",
+      "timestamp_ms": 1738002632400,
+      "content": "En cuanto es lo menos que deja est\u00c3\u00a1?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Osgleixy Garcia",
+      "timestamp_ms": 1738002632170,
+      "content": "Osgleixy inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Osgleixy \u00c2\u00b7 Notebook i7 16GB RAM Ultra Potente con SSD ELITEBOOK Enciende en Segundos",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/osgleixynotebooki716gbramultrapotenteconssdelitebookenciendeensegundos_10020330541327295",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

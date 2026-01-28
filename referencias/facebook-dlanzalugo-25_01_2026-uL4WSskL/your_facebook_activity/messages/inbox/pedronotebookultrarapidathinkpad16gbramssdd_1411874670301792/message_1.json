@@ -1,0 +1,96 @@
+{
+  "participants": [
+    {
+      "name": "Pedro A Mancilla"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767891888589,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pedro A Mancilla",
+      "timestamp_ms": 1767129757201,
+      "videos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/pedronotebookultrarapidathinkpad16gbramssdd_1411874670301792/videos/1901998197073459.mp4",
+          "creation_timestamp": 1767129756
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pedro A Mancilla",
+      "timestamp_ms": 1767129756704,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/pedronotebookultrarapidathinkpad16gbramssdd_1411874670301792/photos/1235958758406374.jpg",
+          "creation_timestamp": 1767129756
+        },
+        {
+          "uri": "your_facebook_activity/messages/inbox/pedronotebookultrarapidathinkpad16gbramssdd_1411874670301792/photos/1550749436171258.jpg",
+          "creation_timestamp": 1767129756
+        },
+        {
+          "uri": "your_facebook_activity/messages/inbox/pedronotebookultrarapidathinkpad16gbramssdd_1411874670301792/photos/846445754830097.jpg",
+          "creation_timestamp": 1767129756
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pedro A Mancilla",
+      "timestamp_ms": 1767129749903,
+      "content": "Permutas por xbox one s de 1T",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767099828487,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pedro A Mancilla",
+      "timestamp_ms": 1767079427228,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pedro A Mancilla",
+      "timestamp_ms": 1767079422511,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pedro A Mancilla",
+      "timestamp_ms": 1767079422248,
+      "content": "Pedro inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Pedro \u00c2\u00b7 Notebook Ultra Rapida Thinkpad  / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "inbox/pedronotebookultrarapidathinkpad16gbramssdd_1411874670301792",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

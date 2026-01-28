@@ -1,0 +1,106 @@
+{
+  "participants": [
+    {
+      "name": "Jsce Kayak"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741211102562,
+      "content": "Saludos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741211101222,
+      "content": "Me comentas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741211098721,
+      "content": "Todo lo que preguntas esta en la publicacion",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741211081515,
+      "content": "Hola amigo disculpa la demora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jsce Kayak",
+      "timestamp_ms": 1741193682063,
+      "content": "Cu\u00c3\u00a1nto dura la bater\u00c3\u00ada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jsce Kayak",
+      "timestamp_ms": 1741193672645,
+      "content": "Cu\u00c3\u00a1nto de espacio posee",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jsce Kayak",
+      "timestamp_ms": 1741193667225,
+      "content": "Que generaci\u00c3\u00b3n es",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jsce Kayak",
+      "timestamp_ms": 1741193662166,
+      "content": "De que a\u00c3\u00b1o es",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741193637944,
+      "content": "Hola, s\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jsce Kayak",
+      "timestamp_ms": 1741193632246,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jsce Kayak",
+      "timestamp_ms": 1741193628045,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jsce Kayak",
+      "timestamp_ms": 1741193627820,
+      "content": "Jsce inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jsce \u00c2\u00b7 Notebook Full / 8 RAM / 2023 / SSD / HP",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/jscenotebookfull8ram2023ssdhp_29587472140851591",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

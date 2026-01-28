@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Dar\u00c3\u00ado Zoppino"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732397965011,
+      "content": "Lo acabo de vender estimado, sorry",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dar\u00c3\u00ado Zoppino",
+      "timestamp_ms": 1732383408650,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dar\u00c3\u00ado Zoppino",
+      "timestamp_ms": 1732383404860,
+      "content": "Buenas tardes. \u00c2\u00bfSigue disponible? Te sirven 160mil?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dar\u00c3\u00ado Zoppino",
+      "timestamp_ms": 1732383404489,
+      "content": "Dar\u00c3\u00ado Zoppino",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dar\u00c3\u00ado Zoppino",
+      "timestamp_ms": 1732383402377,
+      "content": "Dar\u00c3\u00ado asign\u00c3\u00b3 al grupo el nombre \"Dar\u00c3\u00ado \u00c2\u00b7 Potente i7 Notebook 12GB RAM enciende en Segundos\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dar\u00c3\u00ado Zoppino",
+      "timestamp_ms": 1732383402377,
+      "content": "Dar\u00c3\u00ado cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dar\u00c3\u00ado \u00c2\u00b7 Potente i7 Notebook 12GB RAM enciende en Segundos",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/dariopotentei7notebook12gbramenciendeensegundos_8413438625433368",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

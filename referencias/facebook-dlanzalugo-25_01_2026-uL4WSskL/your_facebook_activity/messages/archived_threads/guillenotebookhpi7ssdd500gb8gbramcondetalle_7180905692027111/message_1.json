@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Guille Lopez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1709250908499,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Guille Lopez",
+      "timestamp_ms": 1709250873471,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Guille Lopez",
+      "timestamp_ms": 1709250868841,
+      "content": "\u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Guille Lopez",
+      "timestamp_ms": 1709250868650,
+      "content": "Guille Lopez",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Guille Lopez",
+      "timestamp_ms": 1709250866759,
+      "content": "Guille cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Guille Lopez",
+      "timestamp_ms": 1709250866461,
+      "content": "Guille asign\u00c3\u00b3 al grupo el nombre \"Guille \u00c2\u00b7 Notebook HP i7 SSDD 500gb 8GB RAM con Detalle\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Guille \u00c2\u00b7 Notebook HP i7 SSDD 500gb 8GB RAM con Detalle",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/guillenotebookhpi7ssdd500gb8gbramcondetalle_7180905692027111",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/762555868828516.jpg",
+    "creation_timestamp": 1709250864
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

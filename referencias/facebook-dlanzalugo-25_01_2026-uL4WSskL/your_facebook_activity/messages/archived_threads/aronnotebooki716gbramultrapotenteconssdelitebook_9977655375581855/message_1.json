@@ -1,0 +1,625 @@
+{
+  "participants": [
+    {
+      "name": "Aron Marante"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738266024497,
+      "content": "Hermano",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738264357681,
+      "content": "Broo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738256631288,
+      "content": "O hasta antes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738256624014,
+      "content": "Pero q sea antes de las 5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738256612844,
+      "content": "Mira tengo el dinero",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738256608293,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/aronnotebooki716gbramultrapotenteconssdelitebook_9977655375581855/photos/1510745929599788.jpg",
+          "creation_timestamp": 1738256606
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738256462937,
+      "content": "Y a domicilio como?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738256448748,
+      "content": "No en metro entonces no se podra",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738256408254,
+      "content": "Lo m\u00c3\u00a1s antes jajajaj",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738256403628,
+      "content": "Alas 9 no puedo tiene q ser para hoy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738256391808,
+      "content": "Aaah Bro jajaja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738256363396,
+      "content": "Es mi domicilio a cualuier hora, o el metro a las 9pm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738256355275,
+      "content": "Aah no, quiza me explique mal",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738255767475,
+      "content": "Hasta conchali Negrete 1870",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738255738270,
+      "content": "Cuanto ser\u00c3\u00ada el a domicilio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738255726916,
+      "content": "Aah ya",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738255726890,
+      "content": "Esta bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738255717939,
+      "content": "Tengo solo efectivo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738255716650,
+      "content": "Porque hago teletrabajo entonces estoy aca todo el dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738255715725,
+      "content": "Si es mi domicilio cualquier hora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738255685334,
+      "content": "En cuanto tiempo llega",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738255674593,
+      "content": "Y a domicilio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738255657057,
+      "content": "O el fin de semana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738255653599,
+      "content": "8.30",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738255650724,
+      "content": "Tipo 8.3p",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738255647955,
+      "content": "En el metro tiene que ser al salir de la pega compa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738255621378,
+      "content": "O como",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738255612925,
+      "content": "Nos vemos entonces en el metro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738255606134,
+      "content": "Como asi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738255593003,
+      "content": "Si es mi domicilio cuando quiera no mas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738255560444,
+      "content": "Ah q hora nos podemos ver",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738255556512,
+      "content": "Vale entonces",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738255514027,
+      "content": "994919000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738255512077,
+      "content": "Que ando en la pega",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738255509489,
+      "content": "Sorry bro estaba en una reunion",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738255433579,
+      "content": "Hermano",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738252956919,
+      "content": "Me podr\u00c3\u00ada pasar su n\u00c3\u00bamero de tel\u00c3\u00a9fono",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738252326849,
+      "content": "Puede",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738252323057,
+      "content": "Como alas dos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738252260930,
+      "content": "Kjkjk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738252250944,
+      "content": "Entonces nos vemos hoy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738252246631,
+      "content": "Ahi me pillaste",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738252246294,
+      "content": "Sku?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738252243108,
+      "content": "Bueno hermano",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738252193927,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/aronnotebooki716gbramultrapotenteconssdelitebook_9977655375581855/photos/1622130575097792.jpg",
+          "creation_timestamp": 1738252192
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738252187537,
+      "content": "Y el sku",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738252115978,
+      "content": "Y el sufijo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738252107526,
+      "content": "I7-6th amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738252077609,
+      "content": "Generaci\u00c3\u00b3n q?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738252072606,
+      "content": "Osea el Intel core i7",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738252063183,
+      "content": "Pregunta q generaci\u00c3\u00b3n es el procesador",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738251780966,
+      "content": "Reaccion\u00c3\u00b3 \u00e2\u009d\u00a4 a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738249865060,
+      "content": "A\u00c3\u00ban q no creo esa ser\u00c3\u00a1 mia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738249844032,
+      "content": "Vale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738249047111,
+      "content": "Igual si lo vendo antes le aviso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738248018217,
+      "videos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/aronnotebooki716gbramultrapotenteconssdelitebook_9977655375581855/videos/1017331903512906.mp4",
+          "creation_timestamp": 1738248017
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aron Marante",
+          "timestamp": 1738251780
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738247847268,
+      "content": "Esta en excelente condiciones",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738247847059,
+      "content": "Teclado, mousepad, pantalla, sonido wifi todo esta ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738247845544,
+      "content": "Esta impecable el equipo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738247845339,
+      "content": "No amigo ninguno",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738247451403,
+      "content": "Vale amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738247284240,
+      "content": "??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738247282643,
+      "content": "La Notebook no tiene ning\u00c3\u00ban detalle",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738247257413,
+      "content": "Salgo del trabajo y le escribo si se puede hoy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738247243913,
+      "content": "Seg\u00c3\u00ban lo q aga hoy puede q pueda ma\u00c3\u00b1ana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738247219885,
+      "content": "D\u00c3\u00a9jame ver",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738247194386,
+      "content": "Si maso menos hora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738246831308,
+      "content": "Si amigo 200",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738246824113,
+      "content": "Puedes hoy?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738246612739,
+      "content": "Entonces ser\u00c3\u00adan 200",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738245407075,
+      "content": "Q d\u00c3\u00ada podr\u00c3\u00ada se\u00c3\u00b1or",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738245403256,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738245399710,
+      "content": "Mmm si est\u00c3\u00a1 bien personal nos vemos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738244462058,
+      "content": "Estacion Tobalaba por ejemplo te serviria mas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738244282833,
+      "content": "Mazo menos un aproximado para q ninguno de los dos nos quede lejos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738244259033,
+      "content": "Yo soy de independencia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738243177238,
+      "content": "O metro estacion Macul",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738243173631,
+      "content": "Podria ser en mi domicilio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738243165804,
+      "content": "Yo soy de la florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738242539335,
+      "content": "O en un lugar seguro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738242533943,
+      "content": "Te gustar\u00c3\u00ada en metro personal",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aron Marante",
+      "timestamp_ms": 1738242498913,
+      "content": "Si aceptantes la oferta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738242377040,
+      "content": "Cuando seria?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Aron \u00c2\u00b7 Notebook i7 16GB RAM Ultra Potente con SSD ELITEBOOK",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/aronnotebooki716gbramultrapotenteconssdelitebook_9977655375581855",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

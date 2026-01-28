@@ -1,0 +1,141 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Francisco Fer"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729380534897,
+      "content": "\u00f0\u009f\u00a4\u00a3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729380529258,
+      "content": "Ni yo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Fer",
+      "timestamp_ms": 1729380464818,
+      "content": "No tengo play jajaj",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729380452475,
+      "content": "Una play 4 si la cambio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Fer",
+      "timestamp_ms": 1729380404577,
+      "content": "Ya bro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729380397107,
+      "content": "No amigo gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Fer",
+      "timestamp_ms": 1729380385810,
+      "content": "Semi nuevo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Fer",
+      "timestamp_ms": 1729380383318,
+      "content": "Tengo un Samsung A53 5g",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Fer",
+      "timestamp_ms": 1729380368049,
+      "content": "Por celular m\u00c3\u00a1s plata a tu favor ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729380366788,
+      "content": "Que ofreces?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Fer",
+      "timestamp_ms": 1729380347012,
+      "content": "Permutas ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729380319739,
+      "content": "Buen dia si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Fer",
+      "timestamp_ms": 1729379243325,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Fer",
+      "timestamp_ms": 1729379238534,
+      "content": "\u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Fer",
+      "timestamp_ms": 1729379238127,
+      "content": "Francisco Fer",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Fer",
+      "timestamp_ms": 1729379235766,
+      "content": "Francisco asign\u00c3\u00b3 al grupo el nombre \"Francisco \u00c2\u00b7 Elitebook Potente Core i5 Ultra Rapida con 8gb Ram y SSD\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Fer",
+      "timestamp_ms": 1729379235766,
+      "content": "Francisco cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Francisco \u00c2\u00b7 Elitebook Potente Core i5 Ultra Rapida con 8gb Ram y SSD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/franciscoelitebookpotentecorei5ultrarapidacon8gbramyssd_9103414406370472",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

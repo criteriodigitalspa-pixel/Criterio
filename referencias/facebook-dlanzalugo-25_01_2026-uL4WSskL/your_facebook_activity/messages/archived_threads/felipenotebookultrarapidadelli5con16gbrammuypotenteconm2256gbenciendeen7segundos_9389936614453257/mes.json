@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Felipe Ignacio Andres"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742776534548,
+      "content": "No es conversable",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742776530330,
+      "content": "No amigo gracias igual",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felipe Ignacio Andres",
+      "timestamp_ms": 1742774419328,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felipe Ignacio Andres",
+      "timestamp_ms": 1742774415755,
+      "content": "Aceptas 150 para ma\u00c3\u00b1ana ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felipe Ignacio Andres",
+      "timestamp_ms": 1742774415534,
+      "content": "Felipe inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Felipe \u00c2\u00b7 Notebook Ultra Rapida Dell i5 con 16GB RAM Muy Potente Con M2 256GB ENCIENDE EN 7 SEGUNDOS!",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/felipenotebookultrarapidadelli5con16gbrammuypotenteconm2256gbenciendeen7segundos_9389936614453257",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

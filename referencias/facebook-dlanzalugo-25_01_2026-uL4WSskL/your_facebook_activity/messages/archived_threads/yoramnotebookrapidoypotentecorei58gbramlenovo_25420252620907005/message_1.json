@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Yoram Vega"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703346845158,
+      "content": "No amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yoram Vega",
+      "timestamp_ms": 1703346802389,
+      "content": "permuta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703325357757,
+      "content": "Buen dia, si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yoram Vega",
+      "timestamp_ms": 1703308125253,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yoram Vega",
+      "timestamp_ms": 1703308120329,
+      "content": "\u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yoram Vega",
+      "timestamp_ms": 1703308120013,
+      "content": "Yoram Vega",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yoram Vega",
+      "timestamp_ms": 1703308118131,
+      "content": "Yoram cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yoram Vega",
+      "timestamp_ms": 1703308117741,
+      "content": "Yoram asign\u00c3\u00b3 al grupo el nombre \"Yoram \u00c2\u00b7 Notebook Rapido y Potente Core I5 8GB RAM Lenovo\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Yoram \u00c2\u00b7 Notebook Rapido y Potente Core I5 8GB RAM Lenovo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/yoramnotebookrapidoypotentecorei58gbramlenovo_25420252620907005",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/312583511763615.jpg",
+    "creation_timestamp": 1703308115
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

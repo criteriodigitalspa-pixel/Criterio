@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Efrain Meli\u00c3\u00b1ir Cristi"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741095264959,
+      "content": "Ver publicaciones similares",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Efrain Meli\u00c3\u00b1ir Cristi",
+      "timestamp_ms": 1740967006448,
+      "content": "No es negociable",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740965661566,
+      "content": "Cuanto lo minimo amigo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Efrain Meli\u00c3\u00b1ir Cristi",
+      "timestamp_ms": 1740965627501,
+      "content": "Efrain rechaz\u00c3\u00b3 tu oferta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740965600673,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook DELL 3410 i5 10ma 16 GB de RAM 500 GB SSD M.2",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebookdell3410i510ma16gbderam500gbssdm2_9741701219195731",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/981228120219858.jpg",
+    "creation_timestamp": 1740965597
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Silvia Milagros Luna"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703932263578,
+      "content": "Ver publicaciones similares",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Silvia Milagros Luna",
+      "timestamp_ms": 1703803327129,
+      "content": "Tenemos equipos nuevos si quieres ir a ver",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Silvia Milagros Luna",
+      "timestamp_ms": 1703803300534,
+      "content": "\u00f0\u009f\u00a4\u0097",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Silvia Milagros Luna",
+      "timestamp_ms": 1703803293536,
+      "content": "Mi direcci\u00c3\u00b3n: \u00e2\u009c\u0093General Baquedano 775\n\u00e2\u009c\u0093Santiago Centro\nPodemos coordinar un horario",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Silvia Milagros Luna",
+      "timestamp_ms": 1703803289912,
+      "content": "Somos los chicos que ya le compraste",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Silvia Milagros Luna",
+      "timestamp_ms": 1703803285937,
+      "content": "Hola si, est\u00c3\u00a1 disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703802660631,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703802658453,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703802658134,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 NOTEBOOK INTEL CORE I5 8GBRAM BUEN ESTADO CARGADOR ORIGINAL\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 NOTEBOOK INTEL CORE I5 8GBRAM BUEN ESTADO CARGADOR ORIGINAL",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebookintelcorei58gbrambuenestadocargadororiginal_6349831908450762",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/913588067052401.jpg",
+    "creation_timestamp": 1703802655
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

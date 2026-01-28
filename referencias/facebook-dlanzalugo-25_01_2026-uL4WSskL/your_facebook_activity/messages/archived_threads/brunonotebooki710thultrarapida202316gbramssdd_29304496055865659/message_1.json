@@ -1,0 +1,425 @@
+{
+  "participants": [
+    {
+      "name": "Bruno Coronado"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1746285909702,
+      "content": "No estimado, teclado normal",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Coronado",
+      "timestamp_ms": 1746284942076,
+      "content": "Hola, el teclado es retroiluminado?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Coronado",
+      "timestamp_ms": 1746139102650,
+      "content": "Bruno reaccion\u00c3\u00b3 \u00f0\u009f\u0091\u008d a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1746138948298,
+      "content": "Dale 275 me parece",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1746138944338,
+      "content": "Sip",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Bruno Coronado"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Coronado",
+      "timestamp_ms": 1746138731740,
+      "content": "Entrada 3.5 trae?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Coronado",
+      "timestamp_ms": 1746137844523,
+      "content": "Te hablo el martes ver\u00c3\u00a9 c\u00c3\u00b3mo est\u00c3\u00a1 el otro equipo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Coronado",
+      "timestamp_ms": 1746137824324,
+      "content": "Uf lo aprecio te iba a decir $275",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1746137777348,
+      "content": "280mil podria amigo, menos ya no podria",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Coronado",
+      "timestamp_ms": 1746137741381,
+      "content": "Por eso te pido rebaja simplemente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Coronado",
+      "timestamp_ms": 1746137732932,
+      "content": "Esos $300 son el tope de promedio de mercado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Coronado",
+      "timestamp_ms": 1746137671074,
+      "content": "Cu\u00c3\u00a1l es tu \u00c3\u00baltimo precio?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Coronado",
+      "timestamp_ms": 1746137655268,
+      "content": "Me parece perfecto, yo comento lo que investigue",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1746137586844,
+      "content": "Pero no puedo bajarme a 250",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1746137583001,
+      "content": "Si consigues mejor oferta proceda estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1746137570692,
+      "content": "Por ende, el modelo se lanzo en 2020, pero fue adquirido en 2023 por 800mil pesos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1746137546437,
+      "content": "El mismo modelo exacto con la misma generacion podrias seguir comprandolo nuevo en tienda hoy, porque se sigue comercializando, no esta descontinuada la fabricacion",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1746137518147,
+      "content": "El modelo que te ofrezco se empezo a comercializar en el 2020, y se mantiene en tiendas hasta hoy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1746137472747,
+      "content": "Holaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Coronado",
+      "timestamp_ms": 1746137333450,
+      "content": "Me ofrecen el T495s en $200",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Coronado",
+      "timestamp_ms": 1746137221168,
+      "content": "Amigo me interesa pero solo por $250.000 es modelo 2019",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Coronado",
+      "timestamp_ms": 1746112659135,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1746112646422,
+      "content": "Thinkpad E14, i7 10 gen",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Coronado",
+      "timestamp_ms": 1746112616396,
+      "content": "Lo \u00c3\u00baltimo que modelo es?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1746112090857,
+      "content": "Listo amigo sin problema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Coronado",
+      "timestamp_ms": 1746111086461,
+      "content": "Entonces el martes voy a un lugar a venderla y te escribo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Coronado",
+      "timestamp_ms": 1746111071938,
+      "content": "Ah ya vale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1746111066352,
+      "content": "Jajjaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1746111065701,
+      "content": "Noo si tengo una",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Coronado",
+      "timestamp_ms": 1746111054588,
+      "content": "Entre 50 y 80 a mi me sali\u00c3\u00b3 80",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Coronado",
+      "timestamp_ms": 1746111037174,
+      "content": "El disco solo vale 50 es un Toshiba",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Coronado",
+      "timestamp_ms": 1746111013051,
+      "content": "Te interesa permutar? Est\u00c3\u00a1 impecable un a\u00c3\u00b1o y medio y es de 250 con disco externo de 500",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Coronado",
+      "timestamp_ms": 1746110955439,
+      "content": "Mira tengo una play5 con disco pido 350",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Coronado",
+      "timestamp_ms": 1746110870585,
+      "content": "Sisi no es mi objetivo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1746110840587,
+      "content": "Aah si de ma",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1746110833398,
+      "content": "Si buscas para juegos de mas alta gama, god of war los ultimos o algo asi, altiro te digo que lo olvides jajjaja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Coronado",
+      "timestamp_ms": 1746110816298,
+      "content": "Jaja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Coronado",
+      "timestamp_ms": 1746110815395,
+      "content": "Dem\u00c3\u00a1s entonces",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Coronado",
+      "timestamp_ms": 1746110811997,
+      "content": "Pero un aoe2",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Coronado",
+      "timestamp_ms": 1746110805952,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Coronado",
+      "timestamp_ms": 1746110804051,
+      "content": "Suena bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1746110766915,
+      "content": "Para juegos igual corre, tipo Lol, csgo, puede que incluso fornite pero no estoy muy seguro de que tan bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1746110708606,
+      "content": "Y con el procesador, no necesitaras renovar equipo en mucho tiempo, porque este procesador es full bueno",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1746110685592,
+      "content": "Igual es expandible por si necesitaras mas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1746110670703,
+      "content": "Si, yo trabajo con Sql, te ira super bien, sql consume mucha ram, por lo que con los 16gb estaras super",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Coronado",
+      "timestamp_ms": 1746110542515,
+      "content": "Pero para juegos le corre algo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Coronado",
+      "timestamp_ms": 1746110483241,
+      "content": "Me interesa saber algunas cosas; tengo Mac hace a\u00c3\u00b1os pero necesito sistema windows principalmente para trabajo, procesamiento de datos con sql y power bi imagino que le sobra la capacidad para este fin",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Coronado",
+      "timestamp_ms": 1746110385933,
+      "content": "Desde el Quisco cualquier punto en Stgo est\u00c3\u00a1 bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1746110290883,
+      "content": "Si te queda lejos podriamos encontrarnos en algun punto medio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1746110269025,
+      "content": "Sii metro estacion Macul",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Coronado",
+      "timestamp_ms": 1746110205383,
+      "content": "Hola genial, alg\u00c3\u00ban metro cercano?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1746109892097,
+      "content": "Puede venir a verlo a mi domicilio en la comuna de la Florida, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1746109891702,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Coronado",
+      "timestamp_ms": 1746105478709,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Coronado",
+      "timestamp_ms": 1746105475485,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bruno Coronado",
+      "timestamp_ms": 1746105475331,
+      "content": "Bruno inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bruno \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/brunonotebooki710thultrarapida202316gbramssdd_29304496055865659",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

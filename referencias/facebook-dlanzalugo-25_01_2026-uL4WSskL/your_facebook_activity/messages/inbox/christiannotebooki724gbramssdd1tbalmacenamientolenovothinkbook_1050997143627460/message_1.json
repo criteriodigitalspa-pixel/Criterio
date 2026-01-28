@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Christian Andersen"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1758977061847,
+      "content": "Como podriamos llegar a un precio que nos acomode a ambos?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1758977042514,
+      "content": "Hola estimado, gracias por tu oferta pero para la tremenda maquina que te llevarias me es imposible dejarlo ir a ese precio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Christian Andersen",
+      "timestamp_ms": 1758976981285,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Christian Andersen",
+      "timestamp_ms": 1758976979055,
+      "content": "Te interesa una oferta de 350.000 para comprarlo hoy?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Christian Andersen",
+      "timestamp_ms": 1758976978854,
+      "content": "Christian inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Christian \u00c2\u00b7 Notebook i7/24GB RAM / SSDD / 1TB almacenamiento/Lenovo ThinkBook",
+  "is_still_participant": true,
+  "thread_path": "inbox/christiannotebooki724gbramssdd1tbalmacenamientolenovothinkbook_1050997143627460",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

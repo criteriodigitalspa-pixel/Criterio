@@ -1,0 +1,1062 @@
+[
+  {
+    "id": "Fabi",
+    "name": "Fabi",
+    "role": "Pareja / Partner (Romantic)",
+    "firstYear": "2019",
+    "lastYear": "2026",
+    "mentions": 8,
+    "events": []
+  },
+  {
+    "id": "Jose Gregorio",
+    "name": "Jose Gregorio",
+    "role": "Empleado / Colega",
+    "firstYear": "2019",
+    "lastYear": "2026",
+    "mentions": 5,
+    "events": []
+  },
+  {
+    "id": "Papa",
+    "name": "Papa",
+    "role": "Padre / Father",
+    "firstYear": "2018",
+    "lastYear": "2026",
+    "mentions": 4,
+    "events": []
+  },
+  {
+    "id": "Stephany Mujica",
+    "name": "Stephany Mujica",
+    "role": "Familiar (Sister/Cousin? - PLEASE CLARIFY)",
+    "firstYear": "2018",
+    "lastYear": "2020",
+    "mentions": 3,
+    "events": []
+  },
+  {
+    "id": "Pablo",
+    "name": "Pablo",
+    "role": "Empleado / Colega",
+    "firstYear": "2024",
+    "lastYear": "2025",
+    "mentions": 2,
+    "events": []
+  },
+  {
+    "id": "Angie Lanza",
+    "name": "Angie Lanza",
+    "role": "Familiar (Sister/Cousin? - PLEASE CLARIFY)",
+    "firstYear": "2025",
+    "lastYear": "2026",
+    "mentions": 2,
+    "events": []
+  },
+  {
+    "id": "Cristian Lanza",
+    "name": "Cristian Lanza",
+    "role": "Familiar (Brother/Cousin? - PLEASE CLARIFY)",
+    "firstYear": "2026",
+    "lastYear": "2026",
+    "mentions": 1,
+    "events": []
+  },
+  {
+    "id": "Mama",
+    "name": "Mama",
+    "role": "Madre / Mother",
+    "firstYear": "2026",
+    "lastYear": "2026",
+    "mentions": 1,
+    "events": []
+  },
+  {
+    "id": "Fabiola",
+    "name": "Fabiola",
+    "role": "Pareja / Partner (Romantic)",
+    "firstYear": "2026",
+    "lastYear": "2026",
+    "mentions": 1,
+    "events": []
+  },
+  {
+    "id": "Pablo Redes",
+    "name": "Pablo Redes",
+    "role": "Uncategorized",
+    "firstYear": "2020",
+    "lastYear": "2024",
+    "mentions": 5,
+    "events": [
+      {
+        "year": "2023",
+        "event": "Actividad profesional y técnica significativa",
+        "description": "Participación activa en tareas técnicas y de gestión, señalando periodos de alta demanda laboral y coordinación, posiblemente con momentos de frustración por desafíos.",
+        "sentiment": "Neutral|Conflict"
+      }
+    ]
+  },
+  {
+    "id": "Carlos Gutierrez Redes",
+    "name": "Carlos Gutierrez Redes",
+    "role": "Uncategorized",
+    "firstYear": "2020",
+    "lastYear": "2022",
+    "mentions": 3,
+    "events": []
+  },
+  {
+    "id": "Andres Santibañez",
+    "name": "Andres Santibañez",
+    "role": "Uncategorized",
+    "firstYear": "2023",
+    "lastYear": "2025",
+    "mentions": 3,
+    "events": [
+      {
+        "year": "2023",
+        "event": "Actividad profesional y técnica significativa",
+        "description": "Participación activa en tareas técnicas y de gestión, señalando periodos de alta demanda laboral y coordinación, posiblemente con momentos de frustración por desafíos.",
+        "sentiment": "Neutral|Conflict"
+      }
+    ]
+  },
+  {
+    "id": "Roberto Araya",
+    "name": "Roberto Araya",
+    "role": "Uncategorized",
+    "firstYear": "2023",
+    "lastYear": "2025",
+    "mentions": 3,
+    "events": [
+      {
+        "year": "2023",
+        "event": "Actividad profesional y técnica significativa",
+        "description": "Participación activa en tareas técnicas y de gestión, señalando periodos de alta demanda laboral y coordinación, posiblemente con momentos de frustración por desafíos.",
+        "sentiment": "Neutral|Conflict"
+      }
+    ]
+  },
+  {
+    "id": "Vivian",
+    "name": "Vivian",
+    "role": "Uncategorized",
+    "firstYear": "2019",
+    "lastYear": "2020",
+    "mentions": 2,
+    "events": []
+  },
+  {
+    "id": "German",
+    "name": "German",
+    "role": "Uncategorized",
+    "firstYear": "2020",
+    "lastYear": "2021",
+    "mentions": 2,
+    "events": []
+  },
+  {
+    "id": "Daniel Vargas",
+    "name": "Daniel Vargas",
+    "role": "Uncategorized",
+    "firstYear": "2020",
+    "lastYear": "2022",
+    "mentions": 2,
+    "events": []
+  },
+  {
+    "id": "+56 9 5811 2027",
+    "name": "+56 9 5811 2027",
+    "role": "Uncategorized",
+    "firstYear": "2020",
+    "lastYear": "2021",
+    "mentions": 2,
+    "events": []
+  },
+  {
+    "id": "Adolfo",
+    "name": "Adolfo",
+    "role": "Uncategorized",
+    "firstYear": "2022",
+    "lastYear": "2023",
+    "mentions": 2,
+    "events": [
+      {
+        "year": "2023",
+        "event": "Actividad profesional y técnica significativa",
+        "description": "Participación activa en tareas técnicas y de gestión, señalando periodos de alta demanda laboral y coordinación, posiblemente con momentos de frustración por desafíos.",
+        "sentiment": "Neutral|Conflict"
+      }
+    ]
+  },
+  {
+    "id": "+56 9 6123 4561",
+    "name": "+56 9 6123 4561",
+    "role": "Uncategorized",
+    "firstYear": "2022",
+    "lastYear": "2023",
+    "mentions": 2,
+    "events": []
+  },
+  {
+    "id": "Luis Makina",
+    "name": "Luis Makina",
+    "role": "Uncategorized",
+    "firstYear": "2023",
+    "lastYear": "2024",
+    "mentions": 2,
+    "events": [
+      {
+        "year": "2023",
+        "event": "Actividad profesional y técnica significativa",
+        "description": "Participación activa en tareas técnicas y de gestión, señalando periodos de alta demanda laboral y coordinación, posiblemente con momentos de frustración por desafíos.",
+        "sentiment": "Neutral|Conflict"
+      }
+    ]
+  },
+  {
+    "id": "Gus Personal",
+    "name": "Gus Personal",
+    "role": "Uncategorized",
+    "firstYear": "2023",
+    "lastYear": "2024",
+    "mentions": 2,
+    "events": []
+  },
+  {
+    "id": "+56 9 3020 8295",
+    "name": "+56 9 3020 8295",
+    "role": "Uncategorized",
+    "firstYear": "2023",
+    "lastYear": "2024",
+    "mentions": 2,
+    "events": []
+  },
+  {
+    "id": "adolfo hormazabal",
+    "name": "adolfo hormazabal",
+    "role": "Uncategorized",
+    "firstYear": "2024",
+    "lastYear": "2025",
+    "mentions": 2,
+    "events": []
+  },
+  {
+    "id": "Papa (Padre / Father)",
+    "name": "Papa (Padre / Father)",
+    "role": "Uncategorized",
+    "firstYear": "2018",
+    "lastYear": "2018",
+    "mentions": 1,
+    "events": [
+      {
+        "year": "2018",
+        "event": "Gestión y Cumplimiento de Obligaciones Financieras con el Padre",
+        "description": "Diego participa activamente en el manejo de pagos, depósitos y gastos, indicando una relación de co-gestión o dependencia financiera con su padre.",
+        "sentiment": "Neutral"
+      },
+      {
+        "year": "2019",
+        "event": "Interacción familiar constante y activa",
+        "description": "El mantenimiento de un alto volumen de comunicación con la familia directa indica un arraigo profundo y una posible dependencia del núcleo familiar para soporte emocional y estructural, reflejando su importancia en su psique.",
+        "sentiment": "Neutral"
+      },
+      {
+        "year": "2020",
+        "event": "Mantenimiento activo de lazos familiares.",
+        "description": "Continuidad de las relaciones familiares, que pueden servir como red de apoyo o como un entorno de demandas y expectativas adicionales que influyen en su estado emocional.",
+        "sentiment": "Neutral"
+      },
+      {
+        "year": "2021",
+        "event": "Comunicación regular con el núcleo familiar, aunque menos predominante en el chat.",
+        "description": "Existe un contacto con la familia, aunque el volumen de mensajes o la prominencia en los 'Top Contacts' es menor comparado con el ámbito laboral o romántico, lo que podría indicar una dinámica familiar más estable, o simplemente que estas interacciones ocurren por otros medios o son menos verbosas en este canal.",
+        "sentiment": "Neutral"
+      },
+      {
+        "year": "2023",
+        "event": "Interacciones continuas con el núcleo familiar",
+        "description": "Mantenimiento de relaciones activas con la familia, proporcionando un contexto de arraigo y soporte, aunque sin detalles emocionales específicos en los datos proporcionados.",
+        "sentiment": "Neutral"
+      },
+      {
+        "year": "2025",
+        "event": "Dinámica Familiar Activa",
+        "description": "Se mantuvo una interacción significativa con la esfera familiar, especialmente con su padre y otros familiares como Angie Lanza. Esto sugiere que la familia juega un rol activo en su vida diaria, ya sea como soporte o como fuente de obligaciones y conexiones.",
+        "sentiment": "Neutral"
+      }
+    ]
+  },
+  {
+    "id": "Stephany Mujica (Familiar - Sister/Cousin?)",
+    "name": "Stephany Mujica (Familiar - Sister/Cousin?)",
+    "role": "Uncategorized",
+    "firstYear": "2018",
+    "lastYear": "2018",
+    "mentions": 1,
+    "events": [
+      {
+        "year": "2018",
+        "event": "Intercambio de Noticias y Vida Social Familiar con Stephany",
+        "description": "Mantiene una comunicación cercana con Stephany, compartiendo detalles informales de su vida o la de terceros.",
+        "sentiment": "Positive"
+      }
+    ]
+  },
+  {
+    "id": "Empleado / Colega",
+    "name": "Empleado / Colega",
+    "role": "Uncategorized",
+    "firstYear": "2018",
+    "lastYear": "2018",
+    "mentions": 1,
+    "events": [
+      {
+        "year": "2018",
+        "event": "Búsqueda y Resolución de Problemas Logísticos o Tecnológicos",
+        "description": "Demuestra un enfoque práctico para resolver necesidades materiales o técnicas, buscando información o asistencia, probablemente con colegas o en un contexto laboral.",
+        "sentiment": "Neutral"
+      }
+    ]
+  },
+  {
+    "id": "Fabi (Pareja / Partner (Romantic))",
+    "name": "Fabi (Pareja / Partner (Romantic))",
+    "role": "Uncategorized",
+    "firstYear": "2019",
+    "lastYear": "2019",
+    "mentions": 1,
+    "events": [
+      {
+        "year": "2019",
+        "event": "Período de alta intensidad y apego en la relación con Fabi",
+        "description": "Caracterizado por una comunicación constante y expresiva con un claro tono de afecto y dependencia, marcando un foco emocional central en su vida y revelando una necesidad profunda de conexión romántica.",
+        "sentiment": "Positive"
+      },
+      {
+        "year": "2020",
+        "event": "Consolidación de la relación romántica con Fabi.",
+        "description": "Establecimiento de una dinámica de pareja intensa y afectuosa, donde Fabi funge como un pilar emocional y receptor principal de la expresión afectiva de Diego, aunque también una fuente de posibles dependencias.",
+        "sentiment": "Positive"
+      },
+      {
+        "year": "2022",
+        "event": "Interacción Constante con Fabi",
+        "description": "Mantenimiento activo de la relación romántica principal, fuente de soporte emocional y de posible desgaste por la intensidad de las interacciones, evidenciada por el amplio espectro de emojis utilizados.",
+        "sentiment": "Mixed"
+      },
+      {
+        "year": "2022",
+        "event": "Comunicación de Sobrecarga y Desgaste",
+        "description": "Expresión recurrente de agotamiento, frustración o desilusión (ej. 😴, 🥱, 😭, 🥴, 😡), probablemente en búsqueda de soporte o desahogo, evidenciando una carga emocional considerable en su vida personal.",
+        "sentiment": "Negative"
+      },
+      {
+        "year": "2024",
+        "event": "Manifestaciones regulares de afecto y compromiso en su relación de pareja",
+        "description": "El alto volumen de interacción con Fabi y el uso de emojis afectuosos (❤, 😍, 🥰, 😘) subraya la importancia de esta relación como un pilar emocional y fuente de conexión íntima.",
+        "sentiment": "Positive"
+      },
+      {
+        "year": "2025",
+        "event": "Intensa y Sostenida Interacción Romántica",
+        "description": "La relación con Fabi (y potencialmente Fabiola) fue un pilar emocional central, marcada por expresiones frecuentes de afecto y dependencia mutua, sirviendo como una fuente de apoyo y conexión íntima.",
+        "sentiment": "Positive"
+      }
+    ]
+  },
+  {
+    "id": "Stephany Mujica (Familiar)",
+    "name": "Stephany Mujica (Familiar)",
+    "role": "Uncategorized",
+    "firstYear": "2019",
+    "lastYear": "2019",
+    "mentions": 1,
+    "events": [
+      {
+        "year": "2019",
+        "event": "Interacción familiar constante y activa",
+        "description": "El mantenimiento de un alto volumen de comunicación con la familia directa indica un arraigo profundo y una posible dependencia del núcleo familiar para soporte emocional y estructural, reflejando su importancia en su psique.",
+        "sentiment": "Neutral"
+      },
+      {
+        "year": "2021",
+        "event": "Comunicación regular con el núcleo familiar, aunque menos predominante en el chat.",
+        "description": "Existe un contacto con la familia, aunque el volumen de mensajes o la prominencia en los 'Top Contacts' es menor comparado con el ámbito laboral o romántico, lo que podría indicar una dinámica familiar más estable, o simplemente que estas interacciones ocurren por otros medios o son menos verbosas en este canal.",
+        "sentiment": "Neutral"
+      },
+      {
+        "year": "2023",
+        "event": "Interacciones continuas con el núcleo familiar",
+        "description": "Mantenimiento de relaciones activas con la familia, proporcionando un contexto de arraigo y soporte, aunque sin detalles emocionales específicos en los datos proporcionados.",
+        "sentiment": "Neutral"
+      }
+    ]
+  },
+  {
+    "id": "Mama (Madre / Mother)",
+    "name": "Mama (Madre / Mother)",
+    "role": "Uncategorized",
+    "firstYear": "2019",
+    "lastYear": "2019",
+    "mentions": 1,
+    "events": [
+      {
+        "year": "2019",
+        "event": "Interacción familiar constante y activa",
+        "description": "El mantenimiento de un alto volumen de comunicación con la familia directa indica un arraigo profundo y una posible dependencia del núcleo familiar para soporte emocional y estructural, reflejando su importancia en su psique.",
+        "sentiment": "Neutral"
+      },
+      {
+        "year": "2021",
+        "event": "Comunicación regular con el núcleo familiar, aunque menos predominante en el chat.",
+        "description": "Existe un contacto con la familia, aunque el volumen de mensajes o la prominencia en los 'Top Contacts' es menor comparado con el ámbito laboral o romántico, lo que podría indicar una dinámica familiar más estable, o simplemente que estas interacciones ocurren por otros medios o son menos verbosas en este canal.",
+        "sentiment": "Neutral"
+      },
+      {
+        "year": "2023",
+        "event": "Interacciones continuas con el núcleo familiar",
+        "description": "Mantenimiento de relaciones activas con la familia, proporcionando un contexto de arraigo y soporte, aunque sin detalles emocionales específicos en los datos proporcionados.",
+        "sentiment": "Neutral"
+      }
+    ]
+  },
+  {
+    "id": "Angie Lanza (Familiar)",
+    "name": "Angie Lanza (Familiar)",
+    "role": "Uncategorized",
+    "firstYear": "2019",
+    "lastYear": "2019",
+    "mentions": 1,
+    "events": [
+      {
+        "year": "2019",
+        "event": "Interacción familiar constante y activa",
+        "description": "El mantenimiento de un alto volumen de comunicación con la familia directa indica un arraigo profundo y una posible dependencia del núcleo familiar para soporte emocional y estructural, reflejando su importancia en su psique.",
+        "sentiment": "Neutral"
+      },
+      {
+        "year": "2021",
+        "event": "Comunicación regular con el núcleo familiar, aunque menos predominante en el chat.",
+        "description": "Existe un contacto con la familia, aunque el volumen de mensajes o la prominencia en los 'Top Contacts' es menor comparado con el ámbito laboral o romántico, lo que podría indicar una dinámica familiar más estable, o simplemente que estas interacciones ocurren por otros medios o son menos verbosas en este canal.",
+        "sentiment": "Neutral"
+      },
+      {
+        "year": "2023",
+        "event": "Interacciones continuas con el núcleo familiar",
+        "description": "Mantenimiento de relaciones activas con la familia, proporcionando un contexto de arraigo y soporte, aunque sin detalles emocionales específicos en los datos proporcionados.",
+        "sentiment": "Neutral"
+      }
+    ]
+  },
+  {
+    "id": "Jose Gregorio (Empleado / Colega)",
+    "name": "Jose Gregorio (Empleado / Colega)",
+    "role": "Uncategorized",
+    "firstYear": "2019",
+    "lastYear": "2019",
+    "mentions": 1,
+    "events": [
+      {
+        "year": "2019",
+        "event": "Enfoque y posible fuente de estrés en el ámbito laboral",
+        "description": "La alta interacción con colegas y la aparición de la palabra 'trabajo' junto a expresiones de frustración (ladilla, siento) y emojis negativos (🙄, 😓, 🤦, 🥴, 😡) sugiere que el ámbito profesional es una fuente significativa de esfuerzo, pero también de descontento o conflicto.",
+        "sentiment": "Conflict"
+      },
+      {
+        "year": "2021",
+        "event": "Constante involucramiento en la resolución de problemas técnicos y gestión operativa.",
+        "description": "Gran parte de su comunicación se centra en la coordinación, diagnóstico y solución de desafíos en su ámbito laboral ('downstream', 'docsis', 'ruido', 'problemas', 'filtro', 'niveles'), lo que consume una porción significativa de su tiempo y energía. Estas interacciones a menudo surgen de situaciones complejas o difíciles que requieren una intervención activa.",
+        "sentiment": "Conflict"
+      },
+      {
+        "year": "2021",
+        "event": "Coordinación y supervisión de equipos o tareas laborales.",
+        "description": "Palabras como 'orden', 'cierre', 'depto', junto con la interacción con empleados/colegas, indican un rol donde Diego organiza, delega o supervisa actividades, reforzando su posición de liderazgo o responsabilidad dentro de su estructura de trabajo, manteniendo una comunicación práctica y orientada a resultados.",
+        "sentiment": "Neutral"
+      },
+      {
+        "year": "2023",
+        "event": "Actividad profesional y técnica significativa",
+        "description": "Participación activa en tareas técnicas y de gestión, señalando periodos de alta demanda laboral y coordinación, posiblemente con momentos de frustración por desafíos.",
+        "sentiment": "Neutral|Conflict"
+      },
+      {
+        "year": "2026",
+        "event": "Gestión de Equipo o Colaboradores",
+        "description": "Supervisión o colaboración constante en el ámbito laboral, lo que implica delegación, seguimiento y resolución de problemas cotidianos, ejerciendo una posición de autoridad.",
+        "sentiment": "Neutral/Conflict"
+      }
+    ]
+  },
+  {
+    "id": "Pablo (Empleado / Colega)",
+    "name": "Pablo (Empleado / Colega)",
+    "role": "Uncategorized",
+    "firstYear": "2020",
+    "lastYear": "2020",
+    "mentions": 1,
+    "events": [
+      {
+        "year": "2020",
+        "event": "Asunción de un rol de alta responsabilidad profesional.",
+        "description": "Inmersión en un rol laboral demandante que implica supervisión, gestión y alta interacción con el equipo, siendo una fuente significativa de propósito, pero también de estrés y posibles tendencias al control excesivo.",
+        "sentiment": "Neutral"
+      },
+      {
+        "year": "2021",
+        "event": "Constante involucramiento en la resolución de problemas técnicos y gestión operativa.",
+        "description": "Gran parte de su comunicación se centra en la coordinación, diagnóstico y solución de desafíos en su ámbito laboral ('downstream', 'docsis', 'ruido', 'problemas', 'filtro', 'niveles'), lo que consume una porción significativa de su tiempo y energía. Estas interacciones a menudo surgen de situaciones complejas o difíciles que requieren una intervención activa.",
+        "sentiment": "Conflict"
+      },
+      {
+        "year": "2021",
+        "event": "Coordinación y supervisión de equipos o tareas laborales.",
+        "description": "Palabras como 'orden', 'cierre', 'depto', junto con la interacción con empleados/colegas, indican un rol donde Diego organiza, delega o supervisa actividades, reforzando su posición de liderazgo o responsabilidad dentro de su estructura de trabajo, manteniendo una comunicación práctica y orientada a resultados.",
+        "sentiment": "Neutral"
+      },
+      {
+        "year": "2022",
+        "event": "Gestión y Coordinación Laboral Activa",
+        "description": "Implicación profunda en la resolución de tareas técnicas y la coordinación de equipos, siendo un punto clave en la operatividad laboral, con periodos de frustración o 'ruido' inherentes a la gestión.",
+        "sentiment": "Neutral/Conflict"
+      },
+      {
+        "year": "2023",
+        "event": "Actividad profesional y técnica significativa",
+        "description": "Participación activa en tareas técnicas y de gestión, señalando periodos de alta demanda laboral y coordinación, posiblemente con momentos de frustración por desafíos.",
+        "sentiment": "Neutral|Conflict"
+      },
+      {
+        "year": "2024",
+        "event": "Intensa y frecuente coordinación de proyectos y tareas técnicas",
+        "description": "Diego_Source se muestra como un eje central en la comunicación profesional, coordinando y resolviendo de manera constante, evidenciando una carga laboral significativa y un rol de alta responsabilidad o supervisión.",
+        "sentiment": "Neutral"
+      },
+      {
+        "year": "2025",
+        "event": "Alta Demanda y Gestión Profesional",
+        "description": "La interacción con colegas como Pablo, Jose Gregorio y otros, fue un área de constante actividad y posiblemente de exigencia, indicando un rol de liderazgo o alta responsabilidad en el ámbito laboral. La naturaleza de estas interacciones sugiere un enfoque pragmático y dirigido a la consecución de objetivos.",
+        "sentiment": "Neutral"
+      }
+    ]
+  },
+  {
+    "id": "Self/Internal",
+    "name": "Self/Internal",
+    "role": "Uncategorized",
+    "firstYear": "2020",
+    "lastYear": "2020",
+    "mentions": 1,
+    "events": [
+      {
+        "year": "2020",
+        "event": "Manejo recurrente de estrés y frustración laboral/personal.",
+        "description": "Episodios frecuentes de tensión y agotamiento, evidenciados por el uso de emojis que denotan exasperación, confusión y tristeza, indicando una dificultad para procesar el malestar internamente de forma resolutiva.",
+        "sentiment": "Negative"
+      }
+    ]
+  },
+  {
+    "id": "Jendri Urbina",
+    "name": "Jendri Urbina",
+    "role": "Uncategorized",
+    "firstYear": "2021",
+    "lastYear": "2021",
+    "mentions": 1,
+    "events": []
+  },
+  {
+    "id": "Abrahan Horta",
+    "name": "Abrahan Horta",
+    "role": "Uncategorized",
+    "firstYear": "2021",
+    "lastYear": "2021",
+    "mentions": 1,
+    "events": []
+  },
+  {
+    "id": "Ricardo Espina",
+    "name": "Ricardo Espina",
+    "role": "Uncategorized",
+    "firstYear": "2021",
+    "lastYear": "2021",
+    "mentions": 1,
+    "events": []
+  },
+  {
+    "id": "Agustin Gomez",
+    "name": "Agustin Gomez",
+    "role": "Uncategorized",
+    "firstYear": "2021",
+    "lastYear": "2021",
+    "mentions": 1,
+    "events": []
+  },
+  {
+    "id": "Carlos Gutierrez Redes (Colega - inferido)",
+    "name": "Carlos Gutierrez Redes (Colega - inferido)",
+    "role": "Uncategorized",
+    "firstYear": "2021",
+    "lastYear": "2021",
+    "mentions": 1,
+    "events": [
+      {
+        "year": "2021",
+        "event": "Constante involucramiento en la resolución de problemas técnicos y gestión operativa.",
+        "description": "Gran parte de su comunicación se centra en la coordinación, diagnóstico y solución de desafíos en su ámbito laboral ('downstream', 'docsis', 'ruido', 'problemas', 'filtro', 'niveles'), lo que consume una porción significativa de su tiempo y energía. Estas interacciones a menudo surgen de situaciones complejas o difíciles que requieren una intervención activa.",
+        "sentiment": "Conflict"
+      }
+    ]
+  },
+  {
+    "id": "Jendri Urbina (Colega - inferido)",
+    "name": "Jendri Urbina (Colega - inferido)",
+    "role": "Uncategorized",
+    "firstYear": "2021",
+    "lastYear": "2021",
+    "mentions": 1,
+    "events": [
+      {
+        "year": "2021",
+        "event": "Constante involucramiento en la resolución de problemas técnicos y gestión operativa.",
+        "description": "Gran parte de su comunicación se centra en la coordinación, diagnóstico y solución de desafíos en su ámbito laboral ('downstream', 'docsis', 'ruido', 'problemas', 'filtro', 'niveles'), lo que consume una porción significativa de su tiempo y energía. Estas interacciones a menudo surgen de situaciones complejas o difíciles que requieren una intervención activa.",
+        "sentiment": "Conflict"
+      }
+    ]
+  },
+  {
+    "id": "Abrahan Horta (Colega - inferido)",
+    "name": "Abrahan Horta (Colega - inferido)",
+    "role": "Uncategorized",
+    "firstYear": "2021",
+    "lastYear": "2021",
+    "mentions": 1,
+    "events": [
+      {
+        "year": "2021",
+        "event": "Constante involucramiento en la resolución de problemas técnicos y gestión operativa.",
+        "description": "Gran parte de su comunicación se centra en la coordinación, diagnóstico y solución de desafíos en su ámbito laboral ('downstream', 'docsis', 'ruido', 'problemas', 'filtro', 'niveles'), lo que consume una porción significativa de su tiempo y energía. Estas interacciones a menudo surgen de situaciones complejas o difíciles que requieren una intervención activa.",
+        "sentiment": "Conflict"
+      }
+    ]
+  },
+  {
+    "id": "Ricardo Espina (Colega - inferido)",
+    "name": "Ricardo Espina (Colega - inferido)",
+    "role": "Uncategorized",
+    "firstYear": "2021",
+    "lastYear": "2021",
+    "mentions": 1,
+    "events": [
+      {
+        "year": "2021",
+        "event": "Constante involucramiento en la resolución de problemas técnicos y gestión operativa.",
+        "description": "Gran parte de su comunicación se centra en la coordinación, diagnóstico y solución de desafíos en su ámbito laboral ('downstream', 'docsis', 'ruido', 'problemas', 'filtro', 'niveles'), lo que consume una porción significativa de su tiempo y energía. Estas interacciones a menudo surgen de situaciones complejas o difíciles que requieren una intervención activa.",
+        "sentiment": "Conflict"
+      }
+    ]
+  },
+  {
+    "id": "Agustin Gomez (Colega - inferido)",
+    "name": "Agustin Gomez (Colega - inferido)",
+    "role": "Uncategorized",
+    "firstYear": "2021",
+    "lastYear": "2021",
+    "mentions": 1,
+    "events": [
+      {
+        "year": "2021",
+        "event": "Constante involucramiento en la resolución de problemas técnicos y gestión operativa.",
+        "description": "Gran parte de su comunicación se centra en la coordinación, diagnóstico y solución de desafíos en su ámbito laboral ('downstream', 'docsis', 'ruido', 'problemas', 'filtro', 'niveles'), lo que consume una porción significativa de su tiempo y energía. Estas interacciones a menudo surgen de situaciones complejas o difíciles que requieren una intervención activa.",
+        "sentiment": "Conflict"
+      }
+    ]
+  },
+  {
+    "id": "German (Colega - inferido).",
+    "name": "German (Colega - inferido).",
+    "role": "Uncategorized",
+    "firstYear": "2021",
+    "lastYear": "2021",
+    "mentions": 1,
+    "events": [
+      {
+        "year": "2021",
+        "event": "Constante involucramiento en la resolución de problemas técnicos y gestión operativa.",
+        "description": "Gran parte de su comunicación se centra en la coordinación, diagnóstico y solución de desafíos en su ámbito laboral ('downstream', 'docsis', 'ruido', 'problemas', 'filtro', 'niveles'), lo que consume una porción significativa de su tiempo y energía. Estas interacciones a menudo surgen de situaciones complejas o difíciles que requieren una intervención activa.",
+        "sentiment": "Conflict"
+      }
+    ]
+  },
+  {
+    "id": "Fabi (Pareja / Partner Romantic)",
+    "name": "Fabi (Pareja / Partner Romantic)",
+    "role": "Uncategorized",
+    "firstYear": "2021",
+    "lastYear": "2021",
+    "mentions": 1,
+    "events": [
+      {
+        "year": "2021",
+        "event": "Interacciones románticas significativas y afectivas con múltiples parejas.",
+        "description": "La alta frecuencia de comunicación con ambas parejas, marcada por emojis de afecto y romance ('❤', '🥰', '😍'), sugiere una vida afectiva intensa y emocionalmente cargada, pero intrínsecamente compleja debido a la coexistencia de dos relaciones románticas designadas dentro del mismo período de análisis.",
+        "sentiment": "Positive"
+      }
+    ]
+  },
+  {
+    "id": "Fabiola (Pareja / Partner Romantic).",
+    "name": "Fabiola (Pareja / Partner Romantic).",
+    "role": "Uncategorized",
+    "firstYear": "2021",
+    "lastYear": "2021",
+    "mentions": 1,
+    "events": [
+      {
+        "year": "2021",
+        "event": "Interacciones románticas significativas y afectivas con múltiples parejas.",
+        "description": "La alta frecuencia de comunicación con ambas parejas, marcada por emojis de afecto y romance ('❤', '🥰', '😍'), sugiere una vida afectiva intensa y emocionalmente cargada, pero intrínsecamente compleja debido a la coexistencia de dos relaciones románticas designadas dentro del mismo período de análisis.",
+        "sentiment": "Positive"
+      }
+    ]
+  },
+  {
+    "id": "Cristian Lanza (Familiar).",
+    "name": "Cristian Lanza (Familiar).",
+    "role": "Uncategorized",
+    "firstYear": "2021",
+    "lastYear": "2021",
+    "mentions": 1,
+    "events": [
+      {
+        "year": "2021",
+        "event": "Comunicación regular con el núcleo familiar, aunque menos predominante en el chat.",
+        "description": "Existe un contacto con la familia, aunque el volumen de mensajes o la prominencia en los 'Top Contacts' es menor comparado con el ámbito laboral o romántico, lo que podría indicar una dinámica familiar más estable, o simplemente que estas interacciones ocurren por otros medios o son menos verbosas en este canal.",
+        "sentiment": "Neutral"
+      }
+    ]
+  },
+  {
+    "id": "Otros colegas/empleados.",
+    "name": "Otros colegas/empleados.",
+    "role": "Uncategorized",
+    "firstYear": "2021",
+    "lastYear": "2021",
+    "mentions": 1,
+    "events": [
+      {
+        "year": "2021",
+        "event": "Coordinación y supervisión de equipos o tareas laborales.",
+        "description": "Palabras como 'orden', 'cierre', 'depto', junto con la interacción con empleados/colegas, indican un rol donde Diego organiza, delega o supervisa actividades, reforzando su posición de liderazgo o responsabilidad dentro de su estructura de trabajo, manteniendo una comunicación práctica y orientada a resultados.",
+        "sentiment": "Neutral"
+      }
+    ]
+  },
+  {
+    "id": "Rafael Cisternas",
+    "name": "Rafael Cisternas",
+    "role": "Uncategorized",
+    "firstYear": "2022",
+    "lastYear": "2022",
+    "mentions": 1,
+    "events": []
+  },
+  {
+    "id": "+56 9 5423 0189",
+    "name": "+56 9 5423 0189",
+    "role": "Uncategorized",
+    "firstYear": "2022",
+    "lastYear": "2022",
+    "mentions": 1,
+    "events": []
+  },
+  {
+    "id": "Gustavo Cruzat",
+    "name": "Gustavo Cruzat",
+    "role": "Uncategorized",
+    "firstYear": "2022",
+    "lastYear": "2022",
+    "mentions": 1,
+    "events": []
+  },
+  {
+    "id": "Macarena Céspedes",
+    "name": "Macarena Céspedes",
+    "role": "Uncategorized",
+    "firstYear": "2023",
+    "lastYear": "2023",
+    "mentions": 1,
+    "events": []
+  },
+  {
+    "id": "Fabi / Fabiola (Pareja / Partner (Romantic))",
+    "name": "Fabi / Fabiola (Pareja / Partner (Romantic))",
+    "role": "Uncategorized",
+    "firstYear": "2023",
+    "lastYear": "2023",
+    "mentions": 1,
+    "events": [
+      {
+        "year": "2023",
+        "event": "Períodos de intensa interacción emocional en la relación romántica primaria",
+        "description": "Marcada por el uso de emojis de afecto profundo y vulnerabilidad, indicando momentos de conexión intensa, pero también de posible conflicto o desilusión.",
+        "sentiment": "Positive|Negative|Conflict"
+      }
+    ]
+  },
+  {
+    "id": "Cristian Lanza (Familiar)",
+    "name": "Cristian Lanza (Familiar)",
+    "role": "Uncategorized",
+    "firstYear": "2023",
+    "lastYear": "2023",
+    "mentions": 1,
+    "events": [
+      {
+        "year": "2023",
+        "event": "Interacciones continuas con el núcleo familiar",
+        "description": "Mantenimiento de relaciones activas con la familia, proporcionando un contexto de arraigo y soporte, aunque sin detalles emocionales específicos en los datos proporcionados.",
+        "sentiment": "Neutral"
+      }
+    ]
+  },
+  {
+    "id": "N/A (Intrapersonal)",
+    "name": "N/A (Intrapersonal)",
+    "role": "Uncategorized",
+    "firstYear": "2023",
+    "lastYear": "2023",
+    "mentions": 1,
+    "events": [
+      {
+        "year": "2023",
+        "event": "Expresiones recurrentes de distress o sobrecarga emocional",
+        "description": "Manifiestas a través de emojis de tristeza, frustración, sorpresa/shock y desesperación, sugiriendo momentos de vulnerabilidad y dificultad para procesar eventos o sentimientos internos.",
+        "sentiment": "Negative"
+      }
+    ]
+  },
+  {
+    "id": "Nicolas TQW",
+    "name": "Nicolas TQW",
+    "role": "Uncategorized",
+    "firstYear": "2024",
+    "lastYear": "2024",
+    "mentions": 1,
+    "events": []
+  },
+  {
+    "id": "Roberto Araya (Colega)",
+    "name": "Roberto Araya (Colega)",
+    "role": "Uncategorized",
+    "firstYear": "2024",
+    "lastYear": "2024",
+    "mentions": 1,
+    "events": [
+      {
+        "year": "2024",
+        "event": "Intensa y frecuente coordinación de proyectos y tareas técnicas",
+        "description": "Diego_Source se muestra como un eje central en la comunicación profesional, coordinando y resolviendo de manera constante, evidenciando una carga laboral significativa y un rol de alta responsabilidad o supervisión.",
+        "sentiment": "Neutral"
+      }
+    ]
+  },
+  {
+    "id": "Andres Santibañez (Colega)",
+    "name": "Andres Santibañez (Colega)",
+    "role": "Uncategorized",
+    "firstYear": "2024",
+    "lastYear": "2024",
+    "mentions": 1,
+    "events": [
+      {
+        "year": "2024",
+        "event": "Intensa y frecuente coordinación de proyectos y tareas técnicas",
+        "description": "Diego_Source se muestra como un eje central en la comunicación profesional, coordinando y resolviendo de manera constante, evidenciando una carga laboral significativa y un rol de alta responsabilidad o supervisión.",
+        "sentiment": "Neutral"
+      }
+    ]
+  },
+  {
+    "id": "Nicolas TQW (Colega)",
+    "name": "Nicolas TQW (Colega)",
+    "role": "Uncategorized",
+    "firstYear": "2024",
+    "lastYear": "2024",
+    "mentions": 1,
+    "events": [
+      {
+        "year": "2024",
+        "event": "Intensa y frecuente coordinación de proyectos y tareas técnicas",
+        "description": "Diego_Source se muestra como un eje central en la comunicación profesional, coordinando y resolviendo de manera constante, evidenciando una carga laboral significativa y un rol de alta responsabilidad o supervisión.",
+        "sentiment": "Neutral"
+      }
+    ]
+  },
+  {
+    "id": "Self (Diego_Source)",
+    "name": "Self (Diego_Source)",
+    "role": "Uncategorized",
+    "firstYear": "2024",
+    "lastYear": "2024",
+    "mentions": 1,
+    "events": [
+      {
+        "year": "2024",
+        "event": "Manejo de situaciones de frustración o desafío profesional/personal",
+        "description": "La recurrencia de emojis como 🤦‍♂️, 🥴, 😡, y 💀 sugiere periodos de alta presión, errores o contratiempos, donde Diego_Source experimenta y externaliza frustración, perplejidad o agotamiento.",
+        "sentiment": "Conflict"
+      },
+      {
+        "year": "2024",
+        "event": "Momentos de celebración o cierre de etapas/logros",
+        "description": "El emoji 🎉 aparece esporádicamente, sugiriendo instancias de éxito, celebración de logros o momentos de esparcimiento que rompen la rutina laboral.",
+        "sentiment": "Positive"
+      }
+    ]
+  },
+  {
+    "id": "Colegas (inferido)",
+    "name": "Colegas (inferido)",
+    "role": "Uncategorized",
+    "firstYear": "2024",
+    "lastYear": "2024",
+    "mentions": 1,
+    "events": [
+      {
+        "year": "2024",
+        "event": "Momentos de celebración o cierre de etapas/logros",
+        "description": "El emoji 🎉 aparece esporádicamente, sugiriendo instancias de éxito, celebración de logros o momentos de esparcimiento que rompen la rutina laboral.",
+        "sentiment": "Positive"
+      }
+    ]
+  },
+  {
+    "id": "Pablo Perez Soporte Nuevo",
+    "name": "Pablo Perez Soporte Nuevo",
+    "role": "Uncategorized",
+    "firstYear": "2025",
+    "lastYear": "2025",
+    "mentions": 1,
+    "events": []
+  },
+  {
+    "id": "+56 9 3020 8305",
+    "name": "+56 9 3020 8305",
+    "role": "Uncategorized",
+    "firstYear": "2025",
+    "lastYear": "2025",
+    "mentions": 1,
+    "events": []
+  },
+  {
+    "id": "Jose Huaiquiman",
+    "name": "Jose Huaiquiman",
+    "role": "Uncategorized",
+    "firstYear": "2025",
+    "lastYear": "2025",
+    "mentions": 1,
+    "events": []
+  },
+  {
+    "id": "Fernando Lobos",
+    "name": "Fernando Lobos",
+    "role": "Uncategorized",
+    "firstYear": "2025",
+    "lastYear": "2025",
+    "mentions": 1,
+    "events": []
+  },
+  {
+    "id": "Self",
+    "name": "Self",
+    "role": "Uncategorized",
+    "firstYear": "2025",
+    "lastYear": "2025",
+    "mentions": 1,
+    "events": [
+      {
+        "year": "2025",
+        "event": "Periodos de Estrés y Desgaste Emocional",
+        "description": "A lo largo del año, DIEGO_SOURCE manifestó signos recurrentes de frustración, agotamiento o descontento, evidentes en el uso de emojis como '😭', '🥴', '💀', '😞' y la palabra 'verga'. Esto indica momentos de alta tensión que impactaron su bienestar emocional, siendo el manejo de estas emociones una constante en su psique.",
+        "sentiment": "Negative"
+      }
+    ]
+  },
+  {
+    "id": "Erwin Nuevo",
+    "name": "Erwin Nuevo",
+    "role": "Uncategorized",
+    "firstYear": "2026",
+    "lastYear": "2026",
+    "mentions": 1,
+    "events": []
+  },
+  {
+    "id": "Barbara Y Michael Proveedor NOTEBOOKS",
+    "name": "Barbara Y Michael Proveedor NOTEBOOKS",
+    "role": "Uncategorized",
+    "firstYear": "2026",
+    "lastYear": "2026",
+    "mentions": 1,
+    "events": []
+  },
+  {
+    "id": "Otixe Proveedor I7-11 180mil",
+    "name": "Otixe Proveedor I7-11 180mil",
+    "role": "Uncategorized",
+    "firstYear": "2026",
+    "lastYear": "2026",
+    "mentions": 1,
+    "events": []
+  },
+  {
+    "id": "Barbara Y Michael Proveedor NOTEBOOKS (Proveedor); Otixe Proveedor I7-11 180mil (Proveedor)",
+    "name": "Barbara Y Michael Proveedor NOTEBOOKS (Proveedor); Otixe Proveedor I7-11 180mil (Proveedor)",
+    "role": "Uncategorized",
+    "firstYear": "2026",
+    "lastYear": "2026",
+    "mentions": 1,
+    "events": [
+      {
+        "year": "2026",
+        "event": "Intensa Actividad Comercial y Logística",
+        "description": "Continuas transacciones y gestión de la cadena de suministro, implicando posibles desafíos logísticos y financieros. El estrés se canaliza en la búsqueda de soluciones pragmáticas.",
+        "sentiment": "Neutral/Conflict"
+      }
+    ]
+  },
+  {
+    "id": "Fabi (Pareja / Partner (Romantic)); Fabiola (Pareja / Partner (Romantic))",
+    "name": "Fabi (Pareja / Partner (Romantic)); Fabiola (Pareja / Partner (Romantic))",
+    "role": "Uncategorized",
+    "firstYear": "2026",
+    "lastYear": "2026",
+    "mentions": 1,
+    "events": [
+      {
+        "year": "2026",
+        "event": "Dinámica Afectiva Compleja con Partners",
+        "description": "Relaciones románticas intensas y emocionalmente demandantes, posiblemente coexistiendo o alternando, lo que genera una alta inversión emocional y la necesidad constante de reafirmación.",
+        "sentiment": "Positive/Conflict"
+      }
+    ]
+  },
+  {
+    "id": "Papa (Padre / Father); Mama (Madre / Mother); Angie Lanza (Familiar); Cristian Lanza (Familiar)",
+    "name": "Papa (Padre / Father); Mama (Madre / Mother); Angie Lanza (Familiar); Cristian Lanza (Familiar)",
+    "role": "Uncategorized",
+    "firstYear": "2026",
+    "lastYear": "2026",
+    "mentions": 1,
+    "events": [
+      {
+        "year": "2026",
+        "event": "Interacción Familiar Constante",
+        "description": "Mantenimiento activo de lazos familiares, indicando un nivel de apoyo o responsabilidad percibida dentro del núcleo familiar, aunque no se detecta una fuente principal de conflicto o apoyo.",
+        "sentiment": "Neutral/Positive"
+      }
+    ]
+  }
+]

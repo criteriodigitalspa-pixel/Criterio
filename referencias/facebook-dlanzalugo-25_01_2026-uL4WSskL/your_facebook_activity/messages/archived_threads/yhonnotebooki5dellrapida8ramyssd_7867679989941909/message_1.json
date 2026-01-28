@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Yhon Sanchez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718986769018,
+      "content": "Buenas tardes, le intereso el equipo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718897330906,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yhon Sanchez",
+      "timestamp_ms": 1718897308933,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yhon Sanchez",
+      "timestamp_ms": 1718897301336,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yhon Sanchez",
+      "timestamp_ms": 1718897300937,
+      "content": "Yhon Sanchez",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yhon Sanchez",
+      "timestamp_ms": 1718897298041,
+      "content": "Yhon asign\u00c3\u00b3 al grupo el nombre \"Yhon \u00c2\u00b7 Notebook i5 Dell Rapida 8Ram y SSD\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yhon Sanchez",
+      "timestamp_ms": 1718897298041,
+      "content": "Yhon cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Yhon \u00c2\u00b7 Notebook i5 Dell Rapida 8Ram y SSD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/yhonnotebooki5dellrapida8ramyssd_7867679989941909",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

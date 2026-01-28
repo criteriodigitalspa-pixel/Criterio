@@ -1,0 +1,99 @@
+{
+  "participants": [
+    {
+      "name": "Walter Doningez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729187440353,
+      "content": "Le intereso?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729128218952,
+      "content": "Y puede probarlo ver que funciana impecable y si le gusta se lo lleva",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729128218163,
+      "content": "Ya amigo Podria acercarme a cualquier estacion o podria verlo en mi domicilio en la florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Walter Doningez",
+      "timestamp_ms": 1729127206489,
+      "content": "Me interesa  no conozco mucho soy de Quilicura",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729127084795,
+      "content": "Si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729127080532,
+      "content": "Hola amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Walter Doningez",
+      "timestamp_ms": 1729126990835,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Walter Doningez",
+      "timestamp_ms": 1729126987487,
+      "content": "\u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Walter Doningez",
+      "timestamp_ms": 1729126987072,
+      "content": "Walter Doningez",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Walter Doningez",
+      "timestamp_ms": 1729126985140,
+      "content": "Walter asign\u00c3\u00b3 al grupo el nombre \"Walter \u00c2\u00b7 Notebook HP Impecable en excelente estado\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Walter Doningez",
+      "timestamp_ms": 1729126985140,
+      "content": "Walter cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Walter \u00c2\u00b7 Notebook HP Impecable en excelente estado",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/walternotebookhpimpecableenexcelenteestado_8533879736691677",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

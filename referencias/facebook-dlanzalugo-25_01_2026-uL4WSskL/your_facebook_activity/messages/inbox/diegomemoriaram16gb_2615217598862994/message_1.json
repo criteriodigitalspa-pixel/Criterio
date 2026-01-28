@@ -1,0 +1,179 @@
+{
+  "participants": [
+    {
+      "name": "Jose Manuel"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jose Manuel",
+      "timestamp_ms": 1764093763487,
+      "content": "Jose vendi\u00c3\u00b3 Memoria ram 16gb.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Manuel",
+      "timestamp_ms": 1764093762528,
+      "content": "Jose marc\u00c3\u00b3 el art\u00c3\u00adculo como vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Manuel",
+      "timestamp_ms": 1763997753499,
+      "content": "Tienes una calificaci\u00c3\u00b3n pendiente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Manuel",
+      "timestamp_ms": 1763997752496,
+      "content": "Jose left you a rating.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Manuel",
+      "timestamp_ms": 1763949132688,
+      "content": "Jose reaccion\u00c3\u00b3 \u00f0\u009f\u0091\u008d a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Manuel",
+      "timestamp_ms": 1763949128104,
+      "content": "+56962358024",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763949127077,
+      "content": "+56994919000",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Jose Manuel"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Manuel",
+      "timestamp_ms": 1763949121421,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Manuel",
+      "timestamp_ms": 1763949120207,
+      "content": "Te dejo mi wsp",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Manuel",
+      "timestamp_ms": 1763949116428,
+      "content": "Pero te voy avisando, igual es 100% seguro que vaya a dejartela",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763949113847,
+      "content": "Buenisimoo graciaas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Manuel",
+      "timestamp_ms": 1763949093839,
+      "content": "Quiz\u00c3\u00a1s est\u00c3\u00a9 por all\u00c3\u00a1 como las 10:45",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Manuel",
+      "timestamp_ms": 1763949077334,
+      "content": "Te aviso, ma\u00c3\u00b1ana pretendo salir de la florida como las 10 am",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763949005268,
+      "content": "Yo trabajo en metro Ines de suarez linea 6, podria alli ojala en la ma\u00c3\u00b1ana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Manuel",
+      "timestamp_ms": 1763948912611,
+      "content": "A que hora?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Manuel",
+      "timestamp_ms": 1763948909610,
+      "content": "Ma\u00c3\u00b1ana podr\u00c3\u00ada, si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763948893355,
+      "content": "Holaa entregarias en metro linea 6?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Manuel",
+      "timestamp_ms": 1763948636940,
+      "content": "Si, la tengo disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Manuel",
+      "timestamp_ms": 1763948633526,
+      "content": "Hola Diego, buenas noches",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763948611828,
+      "content": "Buenas noches. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763948611550,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Memoria ram 16gb",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegomemoriaram16gb_2615217598862994",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1506047720649160.jpg",
+    "creation_timestamp": 1763948608
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

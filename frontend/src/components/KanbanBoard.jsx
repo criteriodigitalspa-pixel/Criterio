@@ -524,6 +524,22 @@ El sistema agrupará equipos idénticos (mismo Modelo + Specs) en un único prod
             await ticketService.moveTicket(ticketDocId, targetArea, user.uid, auditDetails);
             if (extraUpdate) await ticketService.updateTicket(ticketDocId, extraUpdate);
 
+            // --- AUTOMATION TRGIGGERS ---
+            const fullTicket = tickets.find(t => t.id === ticketDocId);
+            if (fullTicket) {
+                import('../utils/taskAutomation').then(({ createAutomatedTask, AUTOMATION_TRIGGERS }) => {
+                    // 1. Service
+                    if (targetArea.toLowerCase().includes('servicio') || targetArea.toLowerCase().includes('taller')) {
+                        createAutomatedTask(fullTicket, AUTOMATION_TRIGGERS.TO_SERVICE, user);
+                    }
+                    // 2. Publicidad
+                    if (targetArea.toLowerCase().includes('publicidad')) {
+                        createAutomatedTask(fullTicket, AUTOMATION_TRIGGERS.TO_ADVERTISING, user);
+                    }
+                });
+            }
+            // ----------------------------
+
             // EMAIL TRIGGER
             if (targetArea === 'Caja Despacho') {
                 const ticket = tickets.find(t => t.id === ticketDocId);
@@ -548,6 +564,34 @@ El sistema agrupará equipos idénticos (mismo Modelo + Specs) en un único prod
             toast.error("Error al mover", { id: toastId });
         }
     };
+
+    // --- SLA MONITORING EFFECT ---
+    useEffect(() => {
+        if (!tickets || tickets.length === 0) return;
+
+        // Check SLA periodically or on load
+        // To avoid spam, we rely on the checkInTask function's duplicate check
+        const checkSLA = () => {
+            import('../utils/taskAutomation').then(({ createAutomatedTask, AUTOMATION_TRIGGERS }) => {
+                tickets.forEach(ticket => {
+                    if (ticket.status === 'Delivered' || ticket.status === 'Ready') return; // Ignore ended
+
+                    const sla = getSLAStatus(ticket); // { isExpired, progress, ... }
+
+                    if (sla.isExpired) {
+                        createAutomatedTask(ticket, AUTOMATION_TRIGGERS.SLA_EXPIRED, { email: 'System SLA' });
+                    } else if (sla.progress >= 50) {
+                        createAutomatedTask(ticket, AUTOMATION_TRIGGERS.SLA_50, { email: 'System SLA' });
+                    }
+                });
+            });
+        };
+
+        // Run once on load/update (debounced slightly?)
+        const timer = setTimeout(checkSLA, 5000); // 5 sec delay to let things settle
+        return () => clearTimeout(timer);
+    }, [tickets.length]); // Re-run if ticket count changes (or we could rely on tickets ref if it updates deep)
+
 
     // --- UPDATES & CHAIN RESUME ---
     const handleTicketUpdate = (updatedTicket) => {

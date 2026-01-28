@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Victor Cornejo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732132545399,
+      "content": "Si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Cornejo",
+      "timestamp_ms": 1732132445396,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Cornejo",
+      "timestamp_ms": 1732132442126,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Cornejo",
+      "timestamp_ms": 1732132441701,
+      "content": "Victor Cornejo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Cornejo",
+      "timestamp_ms": 1732132439840,
+      "content": "Victor asign\u00c3\u00b3 al grupo el nombre \"Victor \u00c2\u00b7 Potente Notebook i7 16GB RAM Ultra Rapida Elitebook con 500GB SSD M2\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Cornejo",
+      "timestamp_ms": 1732132439840,
+      "content": "Victor cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Victor \u00c2\u00b7 Potente Notebook i7 16GB RAM Ultra Rapida Elitebook con 500GB SSD M2",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/victorpotentenotebooki716gbramultrarapidaelitebookcon500gbssdm2_8671859602910352",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

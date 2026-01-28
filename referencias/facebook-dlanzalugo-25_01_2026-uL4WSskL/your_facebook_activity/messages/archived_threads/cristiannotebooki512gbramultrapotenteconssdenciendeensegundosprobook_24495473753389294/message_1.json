@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Cristian Alberto Buston"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750471737754,
+      "content": "Abandonaste el grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750435988179,
+      "content": "Rechazaste la oferta de Cristian",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristian Alberto Buston",
+      "timestamp_ms": 1750435974133,
+      "content": "Cristian te ofreci\u00c3\u00b3 $100.000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cristian \u00c2\u00b7 Notebook i5 12GB RAM Ultra Potente con SSD ENCIENDE EN SEGUNDOS\n PROBOOK",
+  "is_still_participant": false,
+  "thread_path": "archived_threads/cristiannotebooki512gbramultrapotenteconssdenciendeensegundosprobook_24495473753389294",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

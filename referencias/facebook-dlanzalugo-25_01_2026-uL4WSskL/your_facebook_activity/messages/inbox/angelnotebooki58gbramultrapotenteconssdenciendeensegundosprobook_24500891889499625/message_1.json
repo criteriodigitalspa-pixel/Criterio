@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "\u00c3\u0081ngel Rodr\u00c3\u00adguez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1747591886972,
+      "content": "Puede venir a verlo a mi domicilio en la comuna de la Florida, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1747591886509,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00c3\u0081ngel Rodr\u00c3\u00adguez",
+      "timestamp_ms": 1747585381387,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible este art\u00c3\u00adculo? \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00c3\u0081ngel Rodr\u00c3\u00adguez",
+      "timestamp_ms": 1747585381119,
+      "content": "\u00c3\u0081ngel inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00c3\u0081ngel \u00c2\u00b7 Notebook i5 8GB RAM Ultra Potente con SSD ENCIENDE EN SEGUNDOS\n PROBOOK",
+  "is_still_participant": true,
+  "thread_path": "inbox/angelnotebooki58gbramultrapotenteconssdenciendeensegundosprobook_24500891889499625",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Alejandro Bianco"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1769135804352,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768122876886,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Bianco",
+      "timestamp_ms": 1768106918544,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Bianco",
+      "timestamp_ms": 1768106914127,
+      "content": "\u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Bianco",
+      "timestamp_ms": 1768106913511,
+      "content": "Alejandro Bianco",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Bianco",
+      "timestamp_ms": 1768106911260,
+      "content": "Alejandro asign\u00c3\u00b3 al grupo el nombre \"Alejandro \u00c2\u00b7 Thinkpad P14s i7 vPRO + NVIDIA / 24GB RAM / SSDD / Notebook Lenovo\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Bianco",
+      "timestamp_ms": 1768106911260,
+      "content": "Alejandro cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Alejandro \u00c2\u00b7 Thinkpad P14s i7 vPRO + NVIDIA / 24GB RAM / SSDD / Notebook Lenovo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/alejandrothinkpadp14si7vpronvidia24gbramssddnotebooklenovo_1375545234365636",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

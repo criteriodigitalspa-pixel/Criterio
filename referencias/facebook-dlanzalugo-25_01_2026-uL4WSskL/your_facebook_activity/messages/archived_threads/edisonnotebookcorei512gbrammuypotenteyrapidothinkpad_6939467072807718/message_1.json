@@ -1,0 +1,110 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Edison Belman"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703369360438,
+      "content": "Amigo 2 a 3 horas dependiendo del uso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Edison Belman",
+      "timestamp_ms": 1703364093197,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Edison Belman",
+      "timestamp_ms": 1703364092176,
+      "content": "Que tal esta de bateria",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703363538105,
+      "content": "Amigo podria aceptar 120 lo minimo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Edison Belman",
+      "timestamp_ms": 1703352835637,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Edison Belman",
+      "timestamp_ms": 1703352834510,
+      "content": "En cuanto la dejas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703352801363,
+      "content": "Hola, en la florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Edison Belman",
+      "timestamp_ms": 1703352602838,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Edison Belman",
+      "timestamp_ms": 1703352598625,
+      "content": "Hola donde est\u00c3\u00a1 Ubicado?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Edison Belman",
+      "timestamp_ms": 1703352598292,
+      "content": "Edison Belman",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Edison Belman",
+      "timestamp_ms": 1703352596833,
+      "content": "Edison cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Edison Belman",
+      "timestamp_ms": 1703352596422,
+      "content": "Edison asign\u00c3\u00b3 al grupo el nombre \"Edison \u00c2\u00b7 Notebook Core i5, 12GB Ram Muy potente y rapido, thinkpad\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Edison \u00c2\u00b7 Notebook Core i5, 12GB Ram Muy potente y rapido, thinkpad",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/edisonnotebookcorei512gbrammuypotenteyrapidothinkpad_6939467072807718",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/3167649956712249.jpg",
+    "creation_timestamp": 1703352594
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

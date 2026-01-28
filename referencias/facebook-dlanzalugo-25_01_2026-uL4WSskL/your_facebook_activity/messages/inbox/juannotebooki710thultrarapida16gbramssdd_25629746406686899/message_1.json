@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Juan Alberto Martinez Saez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1769133596293,
+      "content": "Esta al 90% de vida util estimado, durando aprox 4 horas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1769133584547,
+      "content": "Holaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Alberto Martinez Saez",
+      "timestamp_ms": 1769133580312,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Alberto Martinez Saez",
+      "timestamp_ms": 1769133573681,
+      "content": "Hola, Diego cual es el estado de la bater\u00c3\u00ada?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Alberto Martinez Saez",
+      "timestamp_ms": 1769133573285,
+      "content": "Juan inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Juan \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "inbox/juannotebooki710thultrarapida16gbramssdd_25629746406686899",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

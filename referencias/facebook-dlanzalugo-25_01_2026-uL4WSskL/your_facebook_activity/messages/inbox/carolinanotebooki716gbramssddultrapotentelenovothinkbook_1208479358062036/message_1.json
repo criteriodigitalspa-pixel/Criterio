@@ -1,0 +1,85 @@
+{
+  "participants": [
+    {
+      "name": "Carolina Araya Zamora"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Carolina Araya Zamora",
+      "timestamp_ms": 1768068928230,
+      "content": "Xon lapiz",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carolina Araya Zamora",
+      "timestamp_ms": 1768068924652,
+      "content": "Necesito un notebook lo mas liviano posible ideal dos en uno",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768068764923,
+      "content": "Hola?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767986801541,
+      "content": "Hola, buenas. Si te quedo alguna duda o no estas seguro si el equipo te sirve para lo que buscas dime nomas y te ayudo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767951486518,
+      "content": "1.4kg",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767951479215,
+      "content": "Holaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carolina Araya Zamora",
+      "timestamp_ms": 1767931330417,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carolina Araya Zamora",
+      "timestamp_ms": 1767931327089,
+      "content": "Cuanto pesa??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carolina Araya Zamora",
+      "timestamp_ms": 1767931326898,
+      "content": "Carolina inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Carolina \u00c2\u00b7 Notebook i7/16GB RAM / SSDD / Ultra Potente / Lenovo ThinkBook",
+  "is_still_participant": true,
+  "thread_path": "inbox/carolinanotebooki716gbramssddultrapotentelenovothinkbook_1208479358062036",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

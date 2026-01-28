@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Edgar Rey"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1702754048536,
+      "content": "Hola amigo, si es el publicado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Edgar Rey",
+      "timestamp_ms": 1702751172089,
+      "content": "Es el precio publicado?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1702750775596,
+      "content": "Si amigo disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Edgar Rey",
+      "timestamp_ms": 1702750564715,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Edgar Rey",
+      "timestamp_ms": 1702750559285,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Edgar Rey",
+      "timestamp_ms": 1702750559067,
+      "content": "Edgar Rey",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Edgar Rey",
+      "timestamp_ms": 1702750557598,
+      "content": "Edgar cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Edgar Rey",
+      "timestamp_ms": 1702750557165,
+      "content": "Edgar asign\u00c3\u00b3 al grupo el nombre \"Edgar \u00c2\u00b7 Notebook I5 Pontente y Rapido en Perfectas Condiciones, Corre todo\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Edgar \u00c2\u00b7 Notebook I5 Pontente y Rapido en Perfectas Condiciones, Corre todo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/edgarnotebooki5pontenteyrapidoenperfectascondicionescorretodo_6635344123261497",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/376823371589677.jpg",
+    "creation_timestamp": 1702750555
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

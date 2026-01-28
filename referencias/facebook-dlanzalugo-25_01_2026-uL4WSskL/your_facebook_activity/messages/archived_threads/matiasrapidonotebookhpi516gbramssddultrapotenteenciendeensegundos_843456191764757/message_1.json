@@ -1,0 +1,83 @@
+{
+  "participants": [
+    {
+      "name": "Mat\u00c3\u00adas Ca\u00c3\u00b1ete"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764791610517,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764725128690,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/matiasrapidonotebookhpi516gbramssddultrapotenteenciendeensegundos_843456191764757/photos/743720155412649.jpg",
+          "creation_timestamp": 1764725126
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764725105594,
+      "content": "Estoy en providencia. Te acomoda la comuna o preferir\u00c3\u00adas que coordinemos en otro punto a convenir?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764725090243,
+      "content": "Vale para ma\u00c3\u00b1ana a 180mim me parece bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764725078766,
+      "content": "Hola estimado, es de 14\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mat\u00c3\u00adas Ca\u00c3\u00b1ete",
+      "timestamp_ms": 1764724971721,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mat\u00c3\u00adas Ca\u00c3\u00b1ete",
+      "timestamp_ms": 1764724967218,
+      "content": "Hola buenas noches, me interesa bastante, de cuantas pulgadas es la pantalla? y podr\u00c3\u00ada ser para ma\u00c3\u00b1ana 180.000?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mat\u00c3\u00adas Ca\u00c3\u00b1ete",
+      "timestamp_ms": 1764724967007,
+      "content": "Mat\u00c3\u00adas inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mat\u00c3\u00adas \u00c2\u00b7 Rapido Notebook HP i5 / 16GB RAM + SSDD / Ultra Potente ENCIENDE EN SEGUNDOS",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/matiasrapidonotebookhpi516gbramssddultrapotenteenciendeensegundos_843456191764757",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

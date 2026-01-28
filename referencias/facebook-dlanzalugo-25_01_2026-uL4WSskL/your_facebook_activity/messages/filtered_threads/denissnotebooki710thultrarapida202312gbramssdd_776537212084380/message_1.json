@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Deniss Bermudez"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764733202571,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Deniss Bermudez",
+      "timestamp_ms": 1764584533805,
+      "content": "Deniss est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Deniss Bermudez",
+      "timestamp_ms": 1764557739135,
+      "content": "Deniss Bermudez te envi\u00c3\u00b3 un mensaje sobre tu publicaci\u00c3\u00b3n: Notebook i7-10th Ultra Rapida / 2023 / 12gb RAM / SSDD.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Deniss Bermudez",
+      "timestamp_ms": 1764557735728,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Deniss Bermudez",
+      "timestamp_ms": 1764557735235,
+      "content": "Deniss Bermudez",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Deniss Bermudez",
+      "timestamp_ms": 1764557733365,
+      "content": "Deniss asign\u00c3\u00b3 al grupo el nombre \"Deniss \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 12gb RAM / SSDD\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Deniss Bermudez",
+      "timestamp_ms": 1764557733365,
+      "content": "Deniss cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Deniss \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 12gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/denissnotebooki710thultrarapida202312gbramssdd_776537212084380",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

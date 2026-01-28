@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Felipe Figueroa"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Felipe Figueroa",
+      "timestamp_ms": 1764022614599,
+      "content": "Felipe est\u00c3\u00a1 esperando tu respuesta sobre esta publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felipe Figueroa",
+      "timestamp_ms": 1764003932548,
+      "content": "Si entrego en metro manquehue hasta las 17 y luego a las 19 en metro laguna sur",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763948308542,
+      "content": "Buenas noches. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763948308269,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 2 Ram 16 gb ddr4 por 40mil pesos",
+  "is_still_participant": true,
+  "thread_path": "inbox/diego2ram16gbddr4por40milpesos_1362687991875700",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1539482330707549.jpg",
+    "creation_timestamp": 1763948305
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

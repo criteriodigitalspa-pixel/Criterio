@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Ornella P\u00c3\u00a9rez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1761657782519,
+      "content": "El precio es el publicado, pero siempre abierto a una oferta razonable. Que ten\u00c3\u00adas en mente?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ornella P\u00c3\u00a9rez",
+      "timestamp_ms": 1761643304885,
+      "content": "Ornella est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ornella P\u00c3\u00a9rez",
+      "timestamp_ms": 1761621003984,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ornella P\u00c3\u00a9rez",
+      "timestamp_ms": 1761621001283,
+      "content": "Conversable?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ornella P\u00c3\u00a9rez",
+      "timestamp_ms": 1761621001157,
+      "content": "Ornella inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ornella \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "inbox/ornellanotebooki710thultrarapida202316gbramssdd_806981625471276",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

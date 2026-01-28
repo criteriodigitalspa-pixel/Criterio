@@ -1,0 +1,103 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Ber Elliott Silva"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ber Elliott Silva",
+      "timestamp_ms": 1768155676750,
+      "content": "Horario de atenci\u00c3\u00b3n fe 11:00 a 18:00 horas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ber Elliott Silva",
+      "timestamp_ms": 1768155658456,
+      "content": "Av Providencia #2251, Local 014 Nivel Metro (Galeria Zona Franca )",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ber Elliott Silva",
+      "timestamp_ms": 1768154482987,
+      "content": "Hola, te dejo la direcci\u00c3\u00b3n",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768082542221,
+      "content": "Super el lunes primera hora psi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ber Elliott Silva",
+      "timestamp_ms": 1768080781352,
+      "content": "Los domingos no atiende el local, tendria que ser a contar del d\u00c3\u00ada lunes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768080716745,
+      "content": "Abren ma\u00c3\u00b1ana?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ber Elliott Silva",
+      "timestamp_ms": 1768080674888,
+      "content": "Entrego en local ubicado en metro los leones",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ber Elliott Silva",
+      "timestamp_ms": 1768080660013,
+      "content": "Hola, tengo 5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768079965780,
+      "content": "Holaa, necesito 5 los tendras?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768079954244,
+      "content": "Buenas noches. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768079953931,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 cargador original HP punta azul",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegocargadororiginalhppuntaazul_668692272900459",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/881432051029570.jpg",
+    "creation_timestamp": 1768079950
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "participants": [
+    {
+      "name": "Faber OS"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Faber OS",
+      "timestamp_ms": 1728512483062,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Faber OS",
+      "timestamp_ms": 1728436006353,
+      "content": "Despu\u00c3\u00a9s de las 6 puedo en el metro pudahuel o en el metro las rejas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Faber OS",
+      "timestamp_ms": 1728435974019,
+      "content": "Ma\u00c3\u00b1ana puedo en los metros de Maip\u00c3\u00ba ya que trabajo desde las 8 a 6",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Faber OS",
+      "timestamp_ms": 1728435936606,
+      "content": "Si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728435070894,
+      "content": "Oye y podriamos juntarnos en algun metro?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Faber OS",
+      "timestamp_ms": 1728435030141,
+      "content": "Y trabajo en maipu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Faber OS",
+      "timestamp_ms": 1728435022463,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Faber OS",
+      "timestamp_ms": 1728435020945,
+      "content": "De pudahuel",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728434933795,
+      "content": "De que comuna es?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Faber OS",
+      "timestamp_ms": 1728434406177,
+      "content": "Ya bueno",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728430352379,
+      "content": "Estimado a 60mil lo dejarias?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Faber OS",
+      "timestamp_ms": 1728429522379,
+      "content": "Si , dura aproximadamente 1 hora y media",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728429271303,
+      "content": "La bateria esta buena?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728429267466,
+      "content": "Amigo buenas tardes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Faber OS",
+      "timestamp_ms": 1728429044909,
+      "content": "Hola si est\u00c3\u00a1 disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728429035343,
+      "content": "Hola, Faber. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728429032052,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728429032051,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Notebook Lenovo V310 Intel i5 6th / 128 gb SSD nvme +1 Tera disco HDD /8gb memoria ram\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook Lenovo V310 Intel i5 6th / 128 gb SSD nvme +1 Tera disco HDD /8gb memoria ram",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebooklenovov310inteli56th128gbssdnvme1teradiscohdd8gbmemoriaram_8818443328216981",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1093735672374185.jpg",
+    "creation_timestamp": 1728429030
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

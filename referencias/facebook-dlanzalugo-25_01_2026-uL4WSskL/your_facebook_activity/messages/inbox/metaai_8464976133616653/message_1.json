@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Meta AI"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Meta AI",
+      "timestamp_ms": 1754672733436,
+      "content": "La conjuntivitis en beb\u00c3\u00a9s puede ser causada por bacterias, virus o alergias. Aqu\u00c3\u00ad te dejo algunos consejos para cuidar a un beb\u00c3\u00a9 con conjuntivitis:\n\n1. Limpia los ojos suavemente con un pa\u00c3\u00b1o h\u00c3\u00bamedo y tibio para eliminar secreciones.\n2. Aplica gotas o ung\u00c3\u00bcentos oft\u00c3\u00a1lmicos recetados por el m\u00c3\u00a9dico seg\u00c3\u00ban las indicaciones.\n3. Mant\u00c3\u00a9n las manos limpias y evita tocar los ojos del beb\u00c3\u00a9 para prevenir la propagaci\u00c3\u00b3n de la infecci\u00c3\u00b3n.\n4. Lava las toallas y pa\u00c3\u00b1os despu\u00c3\u00a9s de cada uso.\n5. Evita compartir objetos personales como toallas o almohadas.\n6. Sigue las instrucciones del m\u00c3\u00a9dico para el tratamiento y la duraci\u00c3\u00b3n.\n\nEs fundamental consultar con un pediatra o oftalm\u00c3\u00b3logo para determinar la causa y recibir tratamiento adecuado. \u00c2\u00bfNecesitas m\u00c3\u00a1s informaci\u00c3\u00b3n sobre c\u00c3\u00b3mo prevenir la propagaci\u00c3\u00b3n de la infecci\u00c3\u00b3n en el hogar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754672733435,
+      "content": "C\u00c3\u00b3mo cuidar a un beb\u00c3\u00a9 con conjuntivitis",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Meta AI",
+      "timestamp_ms": 1728942650700,
+      "content": "Mi nombre es Meta AI. Piensa en m\u00c3\u00ad como un asistente que te ayudar\u00c3\u00a1 a aprender, planificar y conectar. \u00c2\u00bfEn qu\u00c3\u00a9 puedo ayudarte hoy?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Meta AI",
+  "is_still_participant": true,
+  "thread_path": "inbox/metaai_8464976133616653",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Felipe Mondaca Pimentel"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756436980389,
+      "content": "El equipo esta listo para usar.\nPuede probarlo y revisar con calma.\nEntrego en Mi domicilio en la comuna de La Florida o lugar a convenir.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756436978599,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felipe Mondaca Pimentel",
+      "timestamp_ms": 1756436722219,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felipe Mondaca Pimentel",
+      "timestamp_ms": 1756436720640,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felipe Mondaca Pimentel",
+      "timestamp_ms": 1756436720380,
+      "content": "Felipe inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Felipe \u00c2\u00b7 All in one HP / AMD Graphics / 16gb RAM / 1200GB Almacenamiento SSDD / A\u00c3\u00b1o 2024",
+  "is_still_participant": true,
+  "thread_path": "inbox/felipeallinonehpamdgraphics16gbram1200gbalmacenamientossddano2024_801174962249678",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

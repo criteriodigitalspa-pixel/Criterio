@@ -1,0 +1,121 @@
+{
+  "participants": [
+    {
+      "name": "Senen Gonzalez Del Canto"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732371540576,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/senennotebookultrarapidadelli5con16gbrammuypotenteconm2256gbenciendeen7segundos_8912751555430405/photos/932114768796615.jpg",
+          "creation_timestamp": 1732371538
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732371536945,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732370780131,
+      "content": "El procesador tengo que buscarlo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732370768755,
+      "content": "Tarjeta grafica es\nIntel graphics UHD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Senen Gonzalez Del Canto",
+      "timestamp_ms": 1732370656197,
+      "content": "Velocidad del procesador y si tiene tarjeta gr\u00c3\u00a1fica, por favor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732278899945,
+      "content": "Le intereso el equipo? Quisiera coorinar o tiene alguna duda?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732272159002,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/senennotebookultrarapidadelli5con16gbrammuypotenteconm2256gbenciendeen7segundos_8912751555430405/photos/1090573875928382.jpg",
+          "creation_timestamp": 1732272157
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Senen Gonzalez Del Canto",
+      "timestamp_ms": 1732272127303,
+      "content": "I5 de que generacion y velocidad. Por favor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732272125800,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Senen Gonzalez Del Canto",
+      "timestamp_ms": 1732272100783,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Senen Gonzalez Del Canto",
+      "timestamp_ms": 1732272096441,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Senen Gonzalez Del Canto",
+      "timestamp_ms": 1732272096197,
+      "content": "Senen inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Senen \u00c2\u00b7 Notebook Ultra Rapida Dell i5 con 16GB RAM Muy Potente Con M2 256GB ENCIENDE EN 7 SEGUNDOS!",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/senennotebookultrarapidadelli5con16gbrammuypotenteconm2256gbenciendeen7segundos_8912751555430405",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

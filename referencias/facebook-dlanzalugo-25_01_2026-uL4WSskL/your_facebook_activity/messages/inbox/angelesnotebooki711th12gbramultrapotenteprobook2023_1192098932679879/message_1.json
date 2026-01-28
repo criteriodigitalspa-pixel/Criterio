@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Angeles Gutierrez Salcedo"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757025919902,
+      "content": "Me comentas si te interesa, un saludo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757018641981,
+      "content": "Hola Angeles, gracias por tu oferta.\n\nNi pa ti ni pa mi: dejemoslo en $330.000 y cerramos el trato.\n\nMe avisas y coordinamos altiro.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angeles Gutierrez Salcedo",
+      "timestamp_ms": 1757018456221,
+      "content": "Angeles te ofreci\u00c3\u00b3 $320.000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Angeles \u00c2\u00b7 Notebook i7-11Th / 12GB RAM Ultra Potente / Probook/ 2023",
+  "is_still_participant": true,
+  "thread_path": "inbox/angelesnotebooki711th12gbramultrapotenteprobook2023_1192098932679879",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

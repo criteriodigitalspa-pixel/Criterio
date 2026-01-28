@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Re Wear Fit"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Re Wear Fit",
+      "timestamp_ms": 1767023405603,
+      "content": "Re Wear vendi\u00c3\u00b3 Notebook HP i7 8550u.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766871805083,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766871804753,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook HP i7 8550u",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebookhpi78550u_3283240291862983",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1183025827309165.jpg",
+    "creation_timestamp": 1766871801
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

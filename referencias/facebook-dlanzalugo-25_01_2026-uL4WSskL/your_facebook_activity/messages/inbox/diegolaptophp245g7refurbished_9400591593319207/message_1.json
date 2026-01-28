@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Francisca Carvajal"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Francisca Carvajal",
+      "timestamp_ms": 1738611353696,
+      "content": "Francisca est\u00c3\u00a1 esperando tu respuesta sobre esta publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisca Carvajal",
+      "timestamp_ms": 1738593658991,
+      "content": "Francisca rechaz\u00c3\u00b3 tu oferta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738592223179,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 LAPTOP HP 245 G7 REFURBISHED",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegolaptophp245g7refurbished_9400591593319207",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/605413642247928.jpg",
+    "creation_timestamp": 1738592220
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "participants": [
+    {
+      "name": "Cynthia Carolina Diaz Miranda"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740060882233,
+      "content": "Varias horas, mas de 4 horas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cynthia Carolina Diaz Miranda",
+      "timestamp_ms": 1740060841950,
+      "content": "Cynthia Carolina reaccion\u00c3\u00b3 \u00e2\u009d\u00a4 a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cynthia Carolina Diaz Miranda",
+      "timestamp_ms": 1740060827470,
+      "content": "Cuanto dura la bater\u00c3\u00ada sin conexi\u00c3\u00b3n?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cynthia Carolina Diaz Miranda",
+      "timestamp_ms": 1740012729035,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cynthia Carolina Diaz Miranda",
+      "timestamp_ms": 1740012727226,
+      "content": "Si me interesa, pero sigo cotizando",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739995848397,
+      "content": "Le intereso el equipo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739995846528,
+      "content": "Holaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739913677370,
+      "videos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/cynthiacarolinanotebookfull8ramano2024ssd_9473437362680843/videos/1307547807183524.mp4",
+          "creation_timestamp": 1739913676
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Cynthia Carolina Diaz Miranda"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cynthia Carolina Diaz Miranda",
+      "timestamp_ms": 1739913653445,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739913319316,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cynthia Carolina Diaz Miranda",
+      "timestamp_ms": 1739913255460,
+      "content": "Ok gracias estoy cotizando, cualquier otra cosa te escribo gracias \u00f0\u009f\u0098\u0083",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739910746067,
+      "content": "La camara y todo funciona bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739910740018,
+      "content": "Holaa si la ram es extendible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cynthia Carolina Diaz Miranda",
+      "timestamp_ms": 1739910630144,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cynthia Carolina Diaz Miranda",
+      "timestamp_ms": 1739910626245,
+      "content": "Hola que procesador tiene, es expandible la Ram? Y la c\u00c3\u00a1mara  funciona?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cynthia Carolina Diaz Miranda",
+      "timestamp_ms": 1739910626047,
+      "content": "Cynthia Carolina inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cynthia Carolina \u00c2\u00b7 Notebook Full / 8 RAM / a\u00c3\u00b1o 2024 / SSD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/cynthiacarolinanotebookfull8ramano2024ssd_9473437362680843",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

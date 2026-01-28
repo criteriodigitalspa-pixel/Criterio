@@ -1,0 +1,92 @@
+{
+  "participants": [
+    {
+      "name": "Erwin Alejandro Aguilera"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732920559190,
+      "content": "Si amigo 130 te lo scepto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erwin Alejandro Aguilera",
+      "timestamp_ms": 1732919247448,
+      "content": "Ok aceptas 130.000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732916128182,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732916124627,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732916123301,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erwin Alejandro Aguilera",
+      "timestamp_ms": 1732915587124,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erwin Alejandro Aguilera",
+      "timestamp_ms": 1732915582144,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erwin Alejandro Aguilera",
+      "timestamp_ms": 1732915581709,
+      "content": "Erwin Alejandro Aguilera",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erwin Alejandro Aguilera",
+      "timestamp_ms": 1732915579487,
+      "content": "Erwin Alejandro asign\u00c3\u00b3 al grupo el nombre \"Erwin Alejandro \u00c2\u00b7 Notebook HP ultra Rapida i5 Potente 12GB RAM Enciende en segundos!\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erwin Alejandro Aguilera",
+      "timestamp_ms": 1732915579487,
+      "content": "Erwin Alejandro cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Erwin Alejandro \u00c2\u00b7 Notebook HP ultra Rapida i5 Potente 12GB RAM Enciende en segundos!",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/erwinalejandronotebookhpultrarapidai5potente12gbramenciendeensegundos_8655334347916304",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

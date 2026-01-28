@@ -1,0 +1,291 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Jorge Jorge"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766706457354,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Jorge",
+      "timestamp_ms": 1766422873348,
+      "content": "Consulta qu\u00c3\u00a9 gpu tiene?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766421612679,
+      "content": "Suerte",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766421611144,
+      "content": "De 32? Un poco exagerado 32 para musica pero bueno hermanito esta bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Jorge",
+      "timestamp_ms": 1766417166440,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/jorgepotentenotebook16gbramultrarapidai511thhp_1398953315229362/audio/747896218326351.mp4",
+          "creation_timestamp": 1766417164
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Jorge",
+      "timestamp_ms": 1766415913920,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/jorgepotentenotebook16gbramultrarapidai511thhp_1398953315229362/audio/1188588996180467.mp4",
+          "creation_timestamp": 1766415911
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766414486975,
+      "content": "A las 5pm amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Jorge",
+      "timestamp_ms": 1766414212224,
+      "content": "Como a qu\u00c3\u00a9 hora yegara eso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Jorge",
+      "timestamp_ms": 1766414172706,
+      "content": "Telefono 936637170 ese es el de wassaph",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Jorge",
+      "timestamp_ms": 1766414149003,
+      "content": "Disculpa Balmaceda 1092",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Jorge",
+      "timestamp_ms": 1766414132761,
+      "content": "Balmaceda 1088",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Jorge",
+      "timestamp_ms": 1766413055440,
+      "content": "Ya",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766410630244,
+      "content": "Y dejame tu numero",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766410627261,
+      "content": "Bkn amigo dame la direccion",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Jorge",
+      "timestamp_ms": 1766410388054,
+      "content": "Est\u00c3\u00a1 bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766410370458,
+      "content": "Sii tiene buen procesador, y con la cantidad de RAM que tiene y el SSDD andaras super",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Jorge",
+      "timestamp_ms": 1766410311319,
+      "content": "Es buena para grabar m\u00c3\u00basica",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Jorge",
+      "timestamp_ms": 1766410292901,
+      "content": "Si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766410282868,
+      "content": "Puedes tipo 5pm?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766410270612,
+      "content": "Hasta que hora puedes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Jorge",
+      "timestamp_ms": 1766410264323,
+      "content": "Yq",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766410262622,
+      "content": "Aaah buenisimo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Jorge",
+      "timestamp_ms": 1766410253807,
+      "content": "Yo trabajo en una barber\u00c3\u00ada, siempre estoy aqu\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Jorge",
+      "timestamp_ms": 1766410252543,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766410252098,
+      "content": "Puedo ir a mostrartelo para que lo revises",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Jorge",
+      "timestamp_ms": 1766410247841,
+      "content": "Si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766410239626,
+      "content": "Claro sin problema, puedes hoy?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Jorge",
+      "timestamp_ms": 1766410218015,
+      "content": "Y me acen falta parde cosita",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Jorge",
+      "timestamp_ms": 1766410203244,
+      "content": "Qu\u00c3\u00a9 pasa que quiero un mont\u00c3\u00b3n estudio mano para grabarme",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Jorge",
+      "timestamp_ms": 1766410196096,
+      "content": "Hermano",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Jorge",
+      "timestamp_ms": 1766410193797,
+      "content": "San Bernardo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766410179075,
+      "content": "Que comuna eres?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Jorge",
+      "timestamp_ms": 1766410154127,
+      "content": "Acen domicilio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766410127820,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Jorge",
+      "timestamp_ms": 1766408840431,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Jorge",
+      "timestamp_ms": 1766408835820,
+      "content": "\u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Jorge",
+      "timestamp_ms": 1766408835277,
+      "content": "Jorge inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jorge \u00c2\u00b7 Potente Notebook 16GB RAM /  Ultra Rapida / i5-11th HP",
+  "is_still_participant": true,
+  "thread_path": "inbox/jorgepotentenotebook16gbramultrarapidai511thhp_1398953315229362",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

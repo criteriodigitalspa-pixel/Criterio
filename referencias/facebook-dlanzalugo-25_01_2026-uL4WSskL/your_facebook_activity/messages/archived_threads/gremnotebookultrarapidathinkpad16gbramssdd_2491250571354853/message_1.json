@@ -1,0 +1,151 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Grem Real"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766759621691,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Grem Real",
+      "timestamp_ms": 1766370188252,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/gremnotebookultrarapidathinkpad16gbramssdd_2491250571354853/audio/2099155057580352.mp4",
+          "creation_timestamp": 1766370185
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Grem Real",
+      "timestamp_ms": 1766370179962,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/gremnotebookultrarapidathinkpad16gbramssdd_2491250571354853/audio/1404998637868214.mp4",
+          "creation_timestamp": 1766370176
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766369947403,
+      "content": "Si claro amigo de donde es?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Grem Real",
+      "timestamp_ms": 1766369081394,
+      "content": "Puede amigo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Grem Real",
+      "timestamp_ms": 1766369061971,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Grem Real",
+      "timestamp_ms": 1766369058296,
+      "content": "Ma\u00c3\u00b1ana mismo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766332813461,
+      "content": "Cuando puedes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766332810850,
+      "content": "Vale amigo te los acepto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Grem Real",
+      "timestamp_ms": 1766330274793,
+      "content": "170 amigo soy de laraquete y tg que ir pagar peaje y todo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766330228270,
+      "content": "180 y es tuyo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Grem Real",
+      "timestamp_ms": 1766328117223,
+      "content": "160",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766323318024,
+      "content": "Paso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Grem Real",
+      "timestamp_ms": 1766321065197,
+      "content": "Tengo 150 para hoy bro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Grem Real",
+      "timestamp_ms": 1766321046687,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Grem Real",
+      "timestamp_ms": 1766321043303,
+      "content": "Buenos d\u00c3\u00adas. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Grem Real",
+      "timestamp_ms": 1766321043097,
+      "content": "Grem inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Grem \u00c2\u00b7 Notebook Ultra Rapida Thinkpad  / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/gremnotebookultrarapidathinkpad16gbramssdd_2491250571354853",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

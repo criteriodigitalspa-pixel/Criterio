@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Ambar Yisel Rodriguez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ambar Yisel Rodriguez",
+      "timestamp_ms": 1675555043043,
+      "content": "eres tu en el video?? https://videoet.com/1675554981",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ambar Yisel Rodriguez",
+  "is_still_participant": true,
+  "thread_path": "inbox/ambaryiselrodriguez_2441941775830747",
+  "magic_words": [
+    
+  ]
+}

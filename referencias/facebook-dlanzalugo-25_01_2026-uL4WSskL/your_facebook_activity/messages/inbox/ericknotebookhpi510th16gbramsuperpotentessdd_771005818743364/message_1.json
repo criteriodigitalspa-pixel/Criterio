@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Erick Valencia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1769121249052,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erick Valencia",
+      "timestamp_ms": 1769121160417,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erick Valencia",
+      "timestamp_ms": 1769121145530,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erick Valencia",
+      "timestamp_ms": 1769121145033,
+      "content": "Erick Valencia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erick Valencia",
+      "timestamp_ms": 1769121142364,
+      "content": "Erick asign\u00c3\u00b3 al grupo el nombre \"Erick \u00c2\u00b7 Notebook HP i5-10th 16GB RAM Super Potente / SSDD /\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erick Valencia",
+      "timestamp_ms": 1769121142364,
+      "content": "Erick cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Erick \u00c2\u00b7 Notebook HP i5-10th 16GB RAM Super Potente / SSDD /",
+  "is_still_participant": true,
+  "thread_path": "inbox/ericknotebookhpi510th16gbramsuperpotentessdd_771005818743364",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

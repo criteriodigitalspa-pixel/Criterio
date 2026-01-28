@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alejandro Javier",
+      "timestamp_ms": 1741644324960,
+      "content": "Alejandro Javier abandon\u00c3\u00b3 el grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Javier",
+      "timestamp_ms": 1741602252687,
+      "content": "Alejandro est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Javier",
+      "timestamp_ms": 1741575428645,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Javier",
+      "timestamp_ms": 1741575424894,
+      "content": "\u00c2\u00bfSigue disponible? Permutas por notebook gamer m\u00c3\u00a1s dinero a mi favor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Javier",
+      "timestamp_ms": 1741575424694,
+      "content": "Alejandro inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Alejandro \u00c2\u00b7 Notebook i5-10th // 16GB RAM // SSDD // 2023",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/alejandronotebooki510th16gbramssdd2023_9230352260374005",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

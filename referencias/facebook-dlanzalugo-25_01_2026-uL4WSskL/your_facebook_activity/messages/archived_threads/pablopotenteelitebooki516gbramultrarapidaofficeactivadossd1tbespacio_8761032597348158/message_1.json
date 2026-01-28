@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Pablo King"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pablo King",
+      "timestamp_ms": 1735744720634,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pablo King",
+      "timestamp_ms": 1735744715146,
+      "content": "Permutas por un  oppo reno 7 de 126 GB y 6 de ram tiene un procesador Snapdragon 680 viene con su mica",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pablo King",
+      "timestamp_ms": 1735744714548,
+      "content": "Pablo King",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pablo King",
+      "timestamp_ms": 1735744712364,
+      "content": "Pablo asign\u00c3\u00b3 al grupo el nombre \"Pablo \u00c2\u00b7 Potente Elitebook i5 16GB Ram Ultra Rapida Office Activado SSD +1TB Espacio\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pablo King",
+      "timestamp_ms": 1735744712364,
+      "content": "Pablo cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Pablo \u00c2\u00b7 Potente Elitebook i5 16GB Ram Ultra Rapida Office Activado SSD +1TB Espacio",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/pablopotenteelitebooki516gbramultrarapidaofficeactivadossd1tbespacio_8761032597348158",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

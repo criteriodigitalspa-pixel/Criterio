@@ -1,0 +1,91 @@
+{
+  "participants": [
+    {
+      "name": "Tiarens Valdivia Gonzalez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tiarens Valdivia Gonzalez",
+      "timestamp_ms": 1739537077208,
+      "content": "Hola.\nEstoy viendo opciones primero.\nGracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739536020980,
+      "content": "Le intereso el equipo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiarens Valdivia Gonzalez",
+      "timestamp_ms": 1739491510808,
+      "content": "Tiarens reaccion\u00c3\u00b3 \u00e2\u009d\u00a4 a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739491474093,
+      "content": "Si tiene alguna duda me avisa",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Tiarens Valdivia Gonzalez"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739491473387,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739491472784,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiarens Valdivia Gonzalez",
+      "timestamp_ms": 1739491142116,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiarens Valdivia Gonzalez",
+      "timestamp_ms": 1739491135291,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tiarens Valdivia Gonzalez",
+      "timestamp_ms": 1739491135000,
+      "content": "Tiarens inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Tiarens \u00c2\u00b7 Notebook Gamer Hp // RYZEN 5 PRO // VEGA 8 2gb // 16gb RAM // SSDD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/tiarensnotebookgamerhpryzen5provega82gb16gbramssdd_9976015745759200",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

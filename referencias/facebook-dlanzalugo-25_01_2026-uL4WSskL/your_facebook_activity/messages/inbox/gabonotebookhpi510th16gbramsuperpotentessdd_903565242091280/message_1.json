@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Gabo Acevedo"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1769169919314,
+      "content": "200mil podria amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabo Acevedo",
+      "timestamp_ms": 1769168958373,
+      "content": "Y no bajas el precio rey?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1769168912985,
+      "content": "Se uso 2 a\u00c3\u00b1os estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabo Acevedo",
+      "timestamp_ms": 1769167592183,
+      "content": "Cu\u00c3\u00a1nto tiempo de uso tiene?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1769161852461,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabo Acevedo",
+      "timestamp_ms": 1769145593431,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabo Acevedo",
+      "timestamp_ms": 1769145581107,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabo Acevedo",
+      "timestamp_ms": 1769145580513,
+      "content": "Gabo inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gabo \u00c2\u00b7 Notebook HP i5-10th 16GB RAM Super Potente / SSDD /",
+  "is_still_participant": true,
+  "thread_path": "inbox/gabonotebookhpi510th16gbramsuperpotentessdd_903565242091280",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

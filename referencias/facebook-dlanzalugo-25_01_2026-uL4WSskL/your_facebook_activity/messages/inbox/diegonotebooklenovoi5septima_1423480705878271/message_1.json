@@ -1,0 +1,103 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Fabi\u00c3\u00a1n Cervantes"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Fabi\u00c3\u00a1n Cervantes",
+      "timestamp_ms": 1765532171610,
+      "content": "Tengo varios",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabi\u00c3\u00a1n Cervantes",
+      "timestamp_ms": 1765532162941,
+      "content": "Hola si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765509932940,
+      "content": "Podria pasar ma\u00c3\u00b1ana a verlos? Necesito algunos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765509921907,
+      "content": "Tienen mas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabi\u00c3\u00a1n Cervantes",
+      "timestamp_ms": 1765504677246,
+      "content": "90 minimo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765504431268,
+      "content": "Y voy ma\u00c3\u00b1ana a buscarlo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765504427945,
+      "content": "80mil me acepta?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765504424900,
+      "content": "Holaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabi\u00c3\u00a1n Cervantes",
+      "timestamp_ms": 1765496559990,
+      "content": "Disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765496075697,
+      "content": "Buenas noches. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765496075269,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook lenovo i5 s\u00c3\u00a9ptima",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebooklenovoi5septima_1423480705878271",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1404490287874779.jpg",
+    "creation_timestamp": 1765496071
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

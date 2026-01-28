@@ -1,0 +1,130 @@
+{
+  "participants": [
+    {
+      "name": "Patricio Urrutia"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737830093328,
+      "content": "De 14\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Urrutia",
+      "timestamp_ms": 1737830077923,
+      "content": "que tama\u00c3\u00b1o de pantalla?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737823807271,
+      "content": "Le intereso el equipo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737763651261,
+      "content": "En general esta muy bien cuidado, no se ha caido ni ha sufrido golpes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737763622141,
+      "content": "Tiene algun rayonsito chico pero casi ni se ven, solo se ven cuando les das luz directa como en el video",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737763572157,
+      "videos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/patricionotebooki516gbramultrapotenteconssdelitebook_9047878161999317/videos/3690211477868097.mp4",
+          "creation_timestamp": 1737763561
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737763557656,
+      "videos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/patricionotebooki516gbramultrapotenteconssdelitebook_9047878161999317/videos/1314360506649525.mp4",
+          "creation_timestamp": 1737763546
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737763556699,
+      "content": "Alli te envio videos amigo mas en detalle",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Urrutia",
+      "timestamp_ms": 1737762824273,
+      "content": "Roto o raspado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Urrutia",
+      "timestamp_ms": 1737762818284,
+      "content": "Detalle o algo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737761113453,
+      "content": "Para cuando seria estimado?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Urrutia",
+      "timestamp_ms": 1737761094876,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Urrutia",
+      "timestamp_ms": 1737761090881,
+      "content": "150?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Urrutia",
+      "timestamp_ms": 1737761090713,
+      "content": "Patricio inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Patricio \u00c2\u00b7 Notebook i5 16GB RAM Ultra Potente con SSD ELITEBOOK",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/patricionotebooki516gbramultrapotenteconssdelitebook_9047878161999317",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

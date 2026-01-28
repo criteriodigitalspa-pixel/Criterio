@@ -1,0 +1,118 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Joshua Crisostomo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Joshua Crisostomo",
+      "timestamp_ms": 1729124403308,
+      "content": "oka gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729124399466,
+      "content": "Gracias igual",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729124389119,
+      "content": "No amigo, me parece que de segunda mano no valen tanto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joshua Crisostomo",
+      "timestamp_ms": 1729124337447,
+      "content": "No tienen detalles",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joshua Crisostomo",
+      "timestamp_ms": 1729124308900,
+      "content": "Los compre en falabella",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joshua Crisostomo",
+      "timestamp_ms": 1729124302256,
+      "content": "Me ocupa mucho espacio y me quiero quedar solo con 1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joshua Crisostomo",
+      "timestamp_ms": 1729124297544,
+      "videos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/jesusnotebookultrapotentei516gbramyssdcorretodocomobalacomonuevaultraliviana_8611786282211502/videos/1915566388927443.mp4",
+          "creation_timestamp": 1729124290
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joshua Crisostomo",
+      "timestamp_ms": 1729124257378,
+      "content": "permutar por un monitor UltraWide de 29 pulgadas, tengo 2 y me sobra 1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joshua Crisostomo",
+      "timestamp_ms": 1729124256470,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joshua Crisostomo",
+      "timestamp_ms": 1729124254820,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joshua Crisostomo",
+      "timestamp_ms": 1729124254334,
+      "content": "Joshua Crisostomo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joshua Crisostomo",
+      "timestamp_ms": 1729124252638,
+      "content": "Joshua asign\u00c3\u00b3 al grupo el nombre \"Jes\u00c3\u00bas \u00c2\u00b7 Notebook Ultra Potente i5 16gb RAM y SSD Corre todo como bala, Como nueva ultra liviana\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joshua Crisostomo",
+      "timestamp_ms": 1729124252638,
+      "content": "Joshua cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jes\u00c3\u00bas \u00c2\u00b7 Notebook Ultra Potente i5 16gb RAM y SSD Corre todo como bala, Como nueva ultra liviana",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/jesusnotebookultrapotentei516gbramyssdcorretodocomobalacomonuevaultraliviana_8611786282211502",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

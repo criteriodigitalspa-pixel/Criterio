@@ -1,0 +1,131 @@
+{
+  "participants": [
+    {
+      "name": "Macarena Plaza"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Macarena Plaza",
+      "timestamp_ms": 1730230361783,
+      "content": "+569 30506718",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730224864519,
+      "content": "Por favor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730222758271,
+      "content": "Me da su numero de telefono",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Macarena Plaza",
+      "timestamp_ms": 1730208033820,
+      "content": "Ok!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730207715309,
+      "content": "Yo te la compro segurp",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730207712222,
+      "content": "Aah vale, el jueves me sirve mas, pero no la vendas antes porfa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Macarena Plaza",
+      "timestamp_ms": 1730207669932,
+      "content": "Pucha hoy no. Necesito coordinar con un poco m\u00c3\u00a1s de plazo. Pero ma\u00c3\u00b1ana podr\u00c3\u00ada ser a las 13:30 hrs .o ya desde el jueves a la hora que quieras.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730207358697,
+      "content": "Puedes tipo 11.30 en metro tobalaba?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Macarena Plaza",
+      "timestamp_ms": 1730207068545,
+      "content": "Ideal de grecia a tobalaba y Tobalaba a Salvador.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Macarena Plaza",
+      "timestamp_ms": 1730207055825,
+      "content": "Metro. L\u00c3\u00adnea 1 y L4",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730206796515,
+      "content": "Disculpa donde entregas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Macarena Plaza",
+      "timestamp_ms": 1730202973467,
+      "content": "Hola si!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730202372770,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730202370579,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 \u00c2\u00a1PRECIO IMPERDIBLE! NOTEBOOK HP Elitebook 840 G3/4 \u00c2\u00a116 GB RAM!\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730202370579,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 \u00c2\u00a1PRECIO IMPERDIBLE! NOTEBOOK HP Elitebook 840 G3/4 \u00c2\u00a116 GB RAM!",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegoprecioimperdiblenotebookhpelitebook840g3416gbram_8736942216326925",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1186872179075905.jpg",
+    "creation_timestamp": 1730202369
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

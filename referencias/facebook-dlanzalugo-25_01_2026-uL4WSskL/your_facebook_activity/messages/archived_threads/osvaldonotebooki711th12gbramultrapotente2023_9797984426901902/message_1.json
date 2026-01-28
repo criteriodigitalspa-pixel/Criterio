@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Osvaldo Bravo Nu\u00c3\u00b1ez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Osvaldo Bravo Nu\u00c3\u00b1ez",
+      "timestamp_ms": 1741957443203,
+      "content": "Estoy cotizando gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741954647122,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme al metro, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741954646485,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Osvaldo Bravo Nu\u00c3\u00b1ez",
+      "timestamp_ms": 1741912005138,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Osvaldo Bravo Nu\u00c3\u00b1ez",
+      "timestamp_ms": 1741912000196,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Osvaldo Bravo Nu\u00c3\u00b1ez",
+      "timestamp_ms": 1741911999950,
+      "content": "Osvaldo inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Osvaldo \u00c2\u00b7 Notebook i7-11Th / 12GB RAM Ultra Potente / 2023",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/osvaldonotebooki711th12gbramultrapotente2023_9797984426901902",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

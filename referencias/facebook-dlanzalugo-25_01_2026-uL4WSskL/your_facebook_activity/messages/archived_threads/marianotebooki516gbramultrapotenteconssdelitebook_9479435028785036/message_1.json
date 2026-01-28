@@ -1,0 +1,709 @@
+{
+  "participants": [
+    {
+      "name": "Maria Ormazabal"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743512323127,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/marianotebooki516gbramultrapotenteconssdelitebook_9479435028785036/photos/631050576491776.jpg",
+          "creation_timestamp": 1743512321
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1743512181688,
+      "content": "Cuenta rut",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1743512178713,
+      "content": "17544537-4\nMar\u00c3\u00ada Ormaz\u00c3\u00a1bal",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743512163159,
+      "content": "Te transferire para que cubras los costos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743512150040,
+      "content": "Pasame tu numero de cuenta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743512143325,
+      "content": "Es super facil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743512138105,
+      "content": "Si, solo hace falta un destornillador",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1743512132551,
+      "content": "???",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1743512130468,
+      "content": "O sabes cu\u00c3\u00a1nto sale cambiar la bater\u00c3\u00ada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1743512119371,
+      "content": "Ok usted sabe cambiar la bater\u00c3\u00ada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743512109695,
+      "content": "La bateria es facil de cambiar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743512097506,
+      "content": "Igual compro un equipo a 3 veces menos del valor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743512082954,
+      "content": "Y un notebook nuevo vale 800mil pesos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743512074395,
+      "content": "Osea los notebooks duran maximo 3 horas la bateria, es raro un notebook que dure mas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1743510797824,
+      "content": "@Diego Lanza",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1743510788207,
+      "content": "Tendria que yo pagar para que la cambien ???",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1743510771637,
+      "content": "Y la bater\u00c3\u00ada como se cambia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1743510754194,
+      "content": "El igual necesito una respuesta tuya",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1743510733955,
+      "content": "T\u00c3\u00ba sab\u00c3\u00adas que era para estudiar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1743510724310,
+      "content": "Mmm igual me da lata ya que no es menor el valor del notebook",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743471288153,
+      "content": "Quedo atento",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743460719133,
+      "content": "Lo mas que podria hacer es transferirte 15mil para que completes y la compres",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743460687575,
+      "content": "17mil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743460684172,
+      "content": "Mira eso vale la bateria nueva",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743460679084,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/marianotebooki516gbramultrapotenteconssdelitebook_9479435028785036/photos/8793916950709511.jpg",
+          "creation_timestamp": 1743460677
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1743460451485,
+      "content": "Shuta que lata eso nunca me lo dijo mmm siempre le coment\u00c3\u00a9 que lo necesitaba para estudiar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743460419702,
+      "content": "Holaa, si la bateria duraba hora y media a dos horas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1743460259833,
+      "content": "\u00f0\u009f\u0098\u00b0\u00f0\u009f\u0098\u00b0\u00f0\u009f\u0098\u00b0",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1743460257744,
+      "content": "\u00f0\u009f\u0098\u00b1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1743460254039,
+      "content": "Sabes me dura 1 hora la bater\u00c3\u00ada eso no es normal",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1743460236010,
+      "content": "Soy la persona que te compr\u00c3\u00b3 el notebook",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1743460218889,
+      "content": "Hola c\u00c3\u00b3mo est\u00c3\u00a1s",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742677938644,
+      "content": "994919000 mi telefono",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742677623888,
+      "content": "Diego jose Lanza\n265223729\nDiegol_9818@hotmail.com\nBANCO_FALABELLA\nCuenta Corriente\n1-984-165487-0",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742677365125,
+      "content": "Diego\n26.503.138-2\nBanco de Chile\nCuenta Vista\n00-008-10250-45\ndixtal98@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1742676751621,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742676702003,
+      "content": "Esa es la torre",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1742676701789,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742676697501,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/marianotebooki516gbramultrapotenteconssdelitebook_9479435028785036/photos/1981655685696820.jpg",
+          "creation_timestamp": 1742676697
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742676693098,
+      "content": "Holaa vale, dame 1 minuto nos vemos abajo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1742676679669,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/marianotebooki516gbramultrapotenteconssdelitebook_9479435028785036/photos/971692364942109.jpg",
+          "creation_timestamp": 1742676679
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1742676659290,
+      "content": "Llegu\u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1742676636699,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742661224660,
+      "content": "Valee",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742661222170,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1742661068123,
+      "content": "+56998536543",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1742661049497,
+      "content": "Le env\u00c3\u00ado mi n\u00c3\u00bamero cualquier cosa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1742661040032,
+      "content": "Muchas gracias aya estar\u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742661027534,
+      "content": "Valee",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1742661004990,
+      "content": "??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1742661001468,
+      "content": "A las 6 podr\u00c3\u00ada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742660989046,
+      "content": "Digame que hora puede pasar no mas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742660978030,
+      "content": "Vale si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742660973686,
+      "content": "Holaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1742660843286,
+      "content": "A\u00c3\u00ban est\u00c3\u00a1 disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1742660837314,
+      "content": "Pero hoy si puedo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1742660828802,
+      "content": "Hola disculpe tuve un problema ese d\u00c3\u00ada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742496498406,
+      "content": "A que hora aproximadamente pasara?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742496490935,
+      "content": "Hola estimada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742474943739,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1742474938262,
+      "content": "Le aviso apenas valla",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1742474933090,
+      "content": "Si ir\u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1742474929595,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742474919862,
+      "content": "Porque escribe muchas personas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742474911398,
+      "content": "Igual dejare la publicacion pendiente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742474885837,
+      "content": "Dale me confirmas no mas porfis",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742474860939,
+      "content": "Aah vivie lejos igual",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1742473714181,
+      "content": "Ya que vivo en paine",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742473710622,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/marianotebooki516gbramultrapotenteconssdelitebook_9479435028785036/photos/922915416421302.jpg",
+          "creation_timestamp": 1742473710
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1742473709662,
+      "content": "Le aviso apenas valla",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742473699529,
+      "content": "Lago pirihueico 6502, la florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1742473693719,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742473692531,
+      "content": "Disculpa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742473686998,
+      "content": "Lago pirihueico 6592, la florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1742473684613,
+      "content": "Se envi\u00c3\u00b3 tu calificaci\u00c3\u00b3n",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1742473682662,
+      "content": "Para ir a verlo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742473678214,
+      "content": "Puedes trabajar comodamente con word, youtube y otras aplicaciones en simultaneo y funciona perfectamente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1742473677146,
+      "content": "Me puede enviar la ubicaci\u00c3\u00b3n",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742473652133,
+      "content": "Va rapida, es fluida, funciona impecable",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742473587867,
+      "content": "Es super buena maquina, y sobre cumple los requisitos de las universidades",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742473566680,
+      "content": "El equipo nunca fallo, mouse, pantalla, sonido, wifi, etc, funcionando impecable",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1742473551288,
+      "content": "Le pregunto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1742473548193,
+      "content": "Por eso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1742473546049,
+      "content": "?? Lo necesito para estudiar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1742473463788,
+      "content": "Tiene",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1742473462051,
+      "content": "Detalles",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742473386756,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme al metro, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742473386309,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1742473329453,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1742473325243,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Ormazabal",
+      "timestamp_ms": 1742473324919,
+      "content": "Maria inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Maria \u00c2\u00b7 Notebook i5 16GB RAM Ultra Potente con SSD ELITEBOOK",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/marianotebooki516gbramultrapotenteconssdelitebook_9479435028785036",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

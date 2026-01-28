@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Francisco Jos\u00c3\u00a9 Aguirre Ornani"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1769161833381,
+      "content": "Durando aprox 4 horas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1769161823672,
+      "content": "Amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1769161821456,
+      "content": "Esta impecable a.igo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1769161813450,
+      "content": "Holaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Jos\u00c3\u00a9 Aguirre Ornani",
+      "timestamp_ms": 1769139464072,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Jos\u00c3\u00a9 Aguirre Ornani",
+      "timestamp_ms": 1769139457820,
+      "content": "Cuanto tiempo tiene de uso? Estado de la bater\u00c3\u00ada?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Jos\u00c3\u00a9 Aguirre Ornani",
+      "timestamp_ms": 1769139456714,
+      "content": "Francisco Jos\u00c3\u00a9 inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Francisco Jos\u00c3\u00a9 \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "inbox/franciscojosenotebooki710thultrarapida16gbramssdd_870088495796110",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

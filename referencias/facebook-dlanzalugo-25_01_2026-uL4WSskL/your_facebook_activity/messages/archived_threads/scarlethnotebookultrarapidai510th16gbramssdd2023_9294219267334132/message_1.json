@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Scarleth Danae Friz Jara"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741485129330,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme al metro, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741485128441,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Scarleth Danae Friz Jara",
+      "timestamp_ms": 1741481267446,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Scarleth Danae Friz Jara",
+      "timestamp_ms": 1741481266071,
+      "content": "\u00c2\u00bfSigue estando disponible este art\u00c3\u00adculo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Scarleth Danae Friz Jara",
+      "timestamp_ms": 1741481265881,
+      "content": "Scarleth inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Scarleth \u00c2\u00b7 Notebook Ultra Rapida i5-10th // 16GB RAM // SSDD // 2023",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/scarlethnotebookultrarapidai510th16gbramssdd2023_9294219267334132",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Andrea Pilar"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728915321426,
+      "content": "Tiene alguna duda?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728914326928,
+      "content": "Hola, si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andrea Pilar",
+      "timestamp_ms": 1728912476495,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andrea Pilar",
+      "timestamp_ms": 1728912473062,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andrea Pilar",
+      "timestamp_ms": 1728912471102,
+      "content": "Andrea cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andrea Pilar",
+      "timestamp_ms": 1728912471101,
+      "content": "Andrea asign\u00c3\u00b3 al grupo el nombre \"Andrea \u00c2\u00b7 Notebook HP Rapido i5 8Ram Teclado retroiluminado Elitebook Potente\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Andrea \u00c2\u00b7 Notebook HP Rapido i5 8Ram Teclado retroiluminado Elitebook Potente",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/andreanotebookhprapidoi58ramtecladoretroiluminadoelitebookpotente_8741862265876895",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

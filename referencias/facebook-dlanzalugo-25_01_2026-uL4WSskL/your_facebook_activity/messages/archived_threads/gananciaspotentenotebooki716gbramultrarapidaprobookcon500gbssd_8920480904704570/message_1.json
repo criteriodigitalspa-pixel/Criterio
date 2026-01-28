@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Inversi\u00c3\u00b3n Ganancias"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Inversi\u00c3\u00b3n Ganancias",
+      "timestamp_ms": 1735153753278,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Inversi\u00c3\u00b3n Ganancias",
+      "timestamp_ms": 1735153749031,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Inversi\u00c3\u00b3n Ganancias",
+      "timestamp_ms": 1735153748692,
+      "content": "Inversi\u00c3\u00b3n Ganancias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Inversi\u00c3\u00b3n Ganancias",
+      "timestamp_ms": 1735153746074,
+      "content": "Ganancias asign\u00c3\u00b3 al grupo el nombre \"Ganancias \u00c2\u00b7 Potente Notebook i7 16GB RAM Ultra Rapida Probook con 500GB SSD\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Inversi\u00c3\u00b3n Ganancias",
+      "timestamp_ms": 1735153746074,
+      "content": "Ganancias cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ganancias \u00c2\u00b7 Potente Notebook i7 16GB RAM Ultra Rapida Probook con 500GB SSD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/gananciaspotentenotebooki716gbramultrarapidaprobookcon500gbssd_8920480904704570",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

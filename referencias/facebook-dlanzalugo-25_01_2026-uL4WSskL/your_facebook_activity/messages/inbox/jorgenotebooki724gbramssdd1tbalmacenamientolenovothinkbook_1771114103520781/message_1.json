@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Jorge Bejarano"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jorge Bejarano",
+      "timestamp_ms": 1758474948563,
+      "content": "Perfecto, quer\u00c3\u00ada saber m\u00c3\u00a1s a fondo las caracter\u00c3\u00adsticas. Tipo, velocidad y latencia de la ram principalmente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1758466763050,
+      "content": "Hola. S\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para que lo pruebes con toda la calma del mundo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Bejarano",
+      "timestamp_ms": 1758466716448,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Bejarano",
+      "timestamp_ms": 1758466713573,
+      "content": "Hola! Sigue disponible? Tengo unas consultas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Bejarano",
+      "timestamp_ms": 1758466713363,
+      "content": "Jorge inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jorge \u00c2\u00b7 Notebook i7/24GB RAM / SSDD / 1TB almacenamiento/Lenovo ThinkBook",
+  "is_still_participant": true,
+  "thread_path": "inbox/jorgenotebooki724gbramssdd1tbalmacenamientolenovothinkbook_1771114103520781",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

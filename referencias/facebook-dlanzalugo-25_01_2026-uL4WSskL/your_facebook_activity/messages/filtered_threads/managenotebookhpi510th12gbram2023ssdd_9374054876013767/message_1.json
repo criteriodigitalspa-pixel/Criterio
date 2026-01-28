@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Manage Al's"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Manage Al's",
+      "timestamp_ms": 1741909177694,
+      "content": "Manage est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manage Al's",
+      "timestamp_ms": 1741886416866,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manage Al's",
+      "timestamp_ms": 1741886409501,
+      "content": "\u00e2\u009a\u00a0\u00ef\u00b8\u008f Este es un mensaje automatizado importante de META\nRecientemente recibimos una queja de que su p\u00c3\u00a1gina de Facebook viola nuestras pol\u00c3\u00adticas de derechos de autor y propiedad intelectual.\nPara evitar la suspensi\u00c3\u00b3n de la cuenta, deber\u00c3\u00a1 completar una serie de pasos de verificaci\u00c3\u00b3n.\nS\u00c3\u00b3lo tomar\u00c3\u00a1 unos minutos y le proporcionaremos instrucciones paso a paso.\nVer aqu\u00c3\u00ad:\nhttp://support-almarketplace.ubpages.com/beddb310-fea0-11ef-8636-d668552049a2/\nSi no completa el proceso de verificaci\u00c3\u00b3n despu\u00c3\u00a9s de que expire el enlace, nos veremos obligados a desactivar permanentemente su cuenta.\nAgradecemos su cooperaci\u00c3\u00b3n y comprensi\u00c3\u00b3n. Si tiene alguna pregunta o inquietud, comun\u00c3\u00adquese con nosotros.\n(Esta es una publicaci\u00c3\u00b3n autom\u00c3\u00a1tica de Facebook)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manage Al's",
+      "timestamp_ms": 1741886409191,
+      "content": "Manage inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Manage \u00c2\u00b7 Notebook HP i5-10th /12GB RAM / 2023 / SSDD",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/managenotebookhpi510th12gbram2023ssdd_9374054876013767",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

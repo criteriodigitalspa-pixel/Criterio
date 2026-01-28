@@ -1,0 +1,104 @@
+{
+  "participants": [
+    {
+      "name": "Richard McQueen"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739891968899,
+      "content": "Si amigo, que vas a estudiar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard McQueen",
+      "timestamp_ms": 1739891825686,
+      "content": "Yo necesito uno que me sirva para estudiar tu trabajar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard McQueen",
+      "timestamp_ms": 1739891805943,
+      "content": "Vi que te dedicas al tema de los Notebooks",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739891361691,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/richardnotebookfull8ramano20241000gbespacio_9204896502950430/photos/1784958528743083.jpg",
+          "creation_timestamp": 1739891360
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard McQueen",
+      "timestamp_ms": 1739890846026,
+      "content": "Que generaci\u00c3\u00b3n es?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739877765687,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739877764387,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739877763470,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard McQueen",
+      "timestamp_ms": 1739871750859,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard McQueen",
+      "timestamp_ms": 1739871746383,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard McQueen",
+      "timestamp_ms": 1739871746057,
+      "content": "Richard inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Richard \u00c2\u00b7 Notebook Full / 8 RAM / a\u00c3\u00b1o 2024 / 1000gb Espacio",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/richardnotebookfull8ramano20241000gbespacio_9204896502950430",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

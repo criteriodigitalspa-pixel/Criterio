@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Benjam\u00c3\u00adn D\u00c3\u00adaz"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743283577298,
+      "content": "Rechazaste la oferta de Benjam\u00c3\u00adn",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjam\u00c3\u00adn D\u00c3\u00adaz",
+      "timestamp_ms": 1743283511334,
+      "content": "Benjam\u00c3\u00adn te ofreci\u00c3\u00b3 $240.000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Benjam\u00c3\u00adn \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "inbox/benjaminnotebooki710thultrarapida202316gbramssdd_23992677810333964",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

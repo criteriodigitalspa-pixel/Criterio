@@ -1,0 +1,92 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Alex Gomez"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1733334003997,
+      "content": "130mil amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Gomez",
+      "timestamp_ms": 1733333103982,
+      "content": "Buena tarde cuando es lo m\u00c3\u00adnimo q pides por el",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1733326514100,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1733326513913,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1733326511796,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Gomez",
+      "timestamp_ms": 1733326227244,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Gomez",
+      "timestamp_ms": 1733326222904,
+      "content": "Buenas tardes. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Gomez",
+      "timestamp_ms": 1733326222602,
+      "content": "Alex Gomez",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Gomez",
+      "timestamp_ms": 1733326220186,
+      "content": "Alex asign\u00c3\u00b3 al grupo el nombre \"Alex \u00c2\u00b7 Notebook Ultra Rapida HP i5 con 12GB RAM Muy Potente Con M2 256GB ENCIENDE EN SEGUNDOS!\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Gomez",
+      "timestamp_ms": 1733326220186,
+      "content": "Alex cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Alex \u00c2\u00b7 Notebook Ultra Rapida HP i5 con 12GB RAM Muy Potente Con M2 256GB ENCIENDE EN SEGUNDOS!",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/alexnotebookultrarapidahpi5con12gbrammuypotenteconm2256gbenciendeensegundos_27830572469923001",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

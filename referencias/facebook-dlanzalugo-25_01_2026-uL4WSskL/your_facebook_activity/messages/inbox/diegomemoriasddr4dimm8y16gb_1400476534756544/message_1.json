@@ -1,0 +1,103 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Electr\u00c3\u00b3nica Mgb"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Electr\u00c3\u00b3nica Mgb",
+      "timestamp_ms": 1766954154391,
+      "content": "Electr\u00c3\u00b3nica vendi\u00c3\u00b3 Memorias DDR 4 DIMM 8GB.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766491433257,
+      "content": "Holaa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Electr\u00c3\u00b3nica Mgb",
+      "timestamp_ms": 1766432702451,
+      "content": "Electr\u00c3\u00b3nica cambi\u00c3\u00b3 el t\u00c3\u00adtulo de la publicaci\u00c3\u00b3n a Memorias DDR 4 DIMM 8GB.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Electr\u00c3\u00b3nica Mgb",
+      "timestamp_ms": 1766432683576,
+      "content": "Electr\u00c3\u00b3nica cambi\u00c3\u00b3 la descripci\u00c3\u00b3n de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Electr\u00c3\u00b3nica Mgb",
+      "timestamp_ms": 1766432682455,
+      "content": "Electr\u00c3\u00b3nica cambi\u00c3\u00b3 el t\u00c3\u00adtulo de la publicaci\u00c3\u00b3n a Memorias DDR 4 DIMM 8.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766426747252,
+      "content": "Hola?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766414972982,
+      "content": "Tiene algun numero de contacto?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766414968710,
+      "content": "Me imteresan de 16gb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766414965285,
+      "content": "Holaa buenaas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766414954553,
+      "content": "Buenos d\u00c3\u00adas. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766414954132,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Memorias DDR 4 DIMM 8 y 16 GB",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegomemoriasddr4dimm8y16gb_1400476534756544",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1751736962141974.jpg",
+    "creation_timestamp": 1766414950
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

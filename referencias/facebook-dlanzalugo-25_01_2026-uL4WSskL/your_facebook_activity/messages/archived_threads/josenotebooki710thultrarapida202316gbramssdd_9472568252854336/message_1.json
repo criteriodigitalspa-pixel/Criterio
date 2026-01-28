@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Jos\u00c3\u00a9 Onetto"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jos\u00c3\u00a9 Onetto",
+      "timestamp_ms": 1745684675058,
+      "content": "Vale compa\nGracias :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1745677410750,
+      "content": "Intel Graphics amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jos\u00c3\u00a9 Onetto",
+      "timestamp_ms": 1745671043832,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jos\u00c3\u00a9 Onetto",
+      "timestamp_ms": 1745671038712,
+      "content": "Hola, que tarjeta grafica tiene??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jos\u00c3\u00a9 Onetto",
+      "timestamp_ms": 1745671038443,
+      "content": "Jos\u00c3\u00a9 inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jos\u00c3\u00a9 \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/josenotebooki710thultrarapida202316gbramssdd_9472568252854336",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

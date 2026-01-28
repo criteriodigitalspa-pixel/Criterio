@@ -1,0 +1,301 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Claudia Gallardo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Claudia Gallardo",
+      "timestamp_ms": 1733493348302,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Claudia Gallardo",
+      "timestamp_ms": 1732839835055,
+      "content": "Muchas gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732839474447,
+      "content": "Me escribe cualquier cosa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732839473219,
+      "content": "Ese mi numero",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732839472789,
+      "content": "994919000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732838996984,
+      "content": "Vale la veo en recepcion, para que pueda probarla",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Claudia Gallardo",
+      "timestamp_ms": 1732838978024,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/claudiaelitebookpotentei516gbramultrarapidaenciendeen8segundos1000gbespacio_28208232695434851/photos/1784073572428187.jpg",
+          "creation_timestamp": 1732838976
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Claudia Gallardo",
+      "timestamp_ms": 1732838932665,
+      "content": "Ya llegamos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732838425500,
+      "content": "Valee",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Claudia Gallardo",
+      "timestamp_ms": 1732838224101,
+      "content": "Efectivo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732838201157,
+      "content": "Consulta, pagara en efectivo o transferencia?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732838188428,
+      "content": "Dale tranqui",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Claudia Gallardo",
+      "timestamp_ms": 1732838162409,
+      "content": "Estamos en un peque\u00c3\u00b1o taco",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Claudia Gallardo",
+      "timestamp_ms": 1732838152424,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/claudiaelitebookpotentei516gbramultrarapidaenciendeen8segundos1000gbespacio_28208232695434851/photos/917196196679613.jpg",
+          "creation_timestamp": 1732838150
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732837720376,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Claudia Gallardo",
+      "timestamp_ms": 1732837622296,
+      "content": "Vamos en camino",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732836344888,
+      "content": "Me confirma porfi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732834450904,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/claudiaelitebookpotentei516gbramultrarapidaenciendeen8segundos1000gbespacio_28208232695434851/photos/1793012608175634.jpg",
+          "creation_timestamp": 1732834449
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732834434023,
+      "content": "Ya estoy aca, me avisa cuando este abajo no mas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Claudia Gallardo",
+      "timestamp_ms": 1732833213525,
+      "content": "Ya genial andamos pagando en el mall y pasamos a su hogar ..",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732833093090,
+      "content": "Estare en unos 30 min",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732833088688,
+      "content": "Estimada voy ya a mi domicilio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Claudia Gallardo",
+      "timestamp_ms": 1732831556625,
+      "content": "Me avisa por favor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732831436116,
+      "content": "Lago pirihueico 6502",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732831421069,
+      "content": "Si estimada, aun no llego de la pega, tendria que ser en un ratito mas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Claudia Gallardo",
+      "timestamp_ms": 1732831361836,
+      "content": "Yo tbm soy de la florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Claudia Gallardo",
+      "timestamp_ms": 1732831146120,
+      "content": "El valor es 160mil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Claudia Gallardo",
+      "timestamp_ms": 1732831048817,
+      "content": "Por favor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Claudia Gallardo",
+      "timestamp_ms": 1732831045628,
+      "content": "Meda su direccion",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Claudia Gallardo",
+      "timestamp_ms": 1732831037323,
+      "content": "Lo podemos ir aver ahora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Claudia Gallardo",
+      "timestamp_ms": 1732831029860,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732830411054,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732830410260,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732830409292,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Claudia Gallardo",
+      "timestamp_ms": 1732828941979,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Claudia Gallardo",
+      "timestamp_ms": 1732828937531,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Claudia Gallardo",
+      "timestamp_ms": 1732828937224,
+      "content": "Claudia inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Claudia \u00c2\u00b7 Elitebook Potente i5 16GB RAM Ultra Rapida enciende en 8 segundos! 1000GB Espacio",
+  "is_still_participant": true,
+  "thread_path": "inbox/claudiaelitebookpotentei516gbramultrarapidaenciendeen8segundos1000gbespacio_28208232695434851",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

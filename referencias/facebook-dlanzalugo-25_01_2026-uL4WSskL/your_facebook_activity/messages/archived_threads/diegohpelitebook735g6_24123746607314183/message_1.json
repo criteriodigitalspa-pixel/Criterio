@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Joaqu\u00c3\u00adn L\u00c3\u00b3pez"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753127736253,
+      "content": "Hola, Joaqu\u00c3\u00adn. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753127735963,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 HP EliteBook 735 G6",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegohpelitebook735g6_24123746607314183",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/540671809135171.jpg",
+    "creation_timestamp": 1753127732
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

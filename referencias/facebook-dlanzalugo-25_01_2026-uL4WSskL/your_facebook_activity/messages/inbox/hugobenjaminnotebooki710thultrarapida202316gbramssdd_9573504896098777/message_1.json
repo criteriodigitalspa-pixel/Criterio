@@ -1,0 +1,193 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Hugo Benjamin Vega Rojas"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743695027368,
+      "content": "Si revisa la foto se nota, tiene un golpesito en la esquina y 2 teclas borradas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hugo Benjamin Vega Rojas",
+      "timestamp_ms": 1743691547190,
+      "content": "Te estoy llamando",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hugo Benjamin Vega Rojas",
+      "timestamp_ms": 1743690803994,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hugo Benjamin Vega Rojas",
+      "timestamp_ms": 1743690797522,
+      "content": "Te llamar\u00c3\u00a9 a penas tenga se\u00c3\u00b1al. Ya que trabajo entre cerros",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hugo Benjamin Vega Rojas",
+      "timestamp_ms": 1743690755477,
+      "content": "Me interesa y esperar\u00c3\u00a9 tu respuesta ya que vivo muy lejos.\nY si me haces una rebaja genial seria",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hugo Benjamin Vega Rojas",
+      "timestamp_ms": 1743690704700,
+      "content": "Muy a las vista, o est\u00c3\u00a1 deteriorado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hugo Benjamin Vega Rojas",
+      "timestamp_ms": 1743690659890,
+      "content": "En qu\u00c3\u00a9 horario te encuentras en tu casa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743690622196,
+      "content": "994919000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743690620361,
+      "content": "Mi numero",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743690608994,
+      "content": "Si esa de 260 tiene detalles esteticos solamente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743690600215,
+      "content": "Hola amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hugo Benjamin Vega Rojas",
+      "timestamp_ms": 1743690556366,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/hugobenjaminnotebooki710thultrarapida202316gbramssdd_9573504896098777/photos/1684196916315158.jpg",
+          "creation_timestamp": 1743690554
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hugo Benjamin Vega Rojas",
+      "timestamp_ms": 1743690555428,
+      "content": "Porfa, me avisas cualquier detalle y nos juntamos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hugo Benjamin Vega Rojas",
+      "timestamp_ms": 1743690534075,
+      "content": "Yo vivo en San Bernardo, especialmente lo herrera",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hugo Benjamin Vega Rojas",
+      "timestamp_ms": 1743690533787,
+      "content": "Esa es tu publicaci\u00c3\u00b3n",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hugo Benjamin Vega Rojas",
+      "timestamp_ms": 1743690333814,
+      "content": "Me puedes enviar tu direcci\u00c3\u00b3n",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hugo Benjamin Vega Rojas",
+      "timestamp_ms": 1743690329981,
+      "content": "Es es el \u00c3\u00baltimo valor y nos juntamos hoy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hugo Benjamin Vega Rojas",
+      "timestamp_ms": 1743690329162,
+      "content": "En la publicaci\u00c3\u00b3n lo tienes a 260 mil, es correcto, yo puedo ir a tu casa y revisar m\u00c3\u00a1s tranquilo.\n998131669",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743687071959,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme al metro, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743687071509,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hugo Benjamin Vega Rojas",
+      "timestamp_ms": 1743685484064,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hugo Benjamin Vega Rojas",
+      "timestamp_ms": 1743685475920,
+      "content": "Sigue disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hugo Benjamin Vega Rojas",
+      "timestamp_ms": 1743685475430,
+      "content": "Hugo Benjamin inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Hugo Benjamin \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "inbox/hugobenjaminnotebooki710thultrarapida202316gbramssdd_9573504896098777",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

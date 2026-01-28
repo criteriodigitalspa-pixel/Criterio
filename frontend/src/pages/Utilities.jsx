@@ -1,5 +1,5 @@
 import React from 'react';
-import { Tag, FileSpreadsheet, ShieldCheck, Activity, ChevronRight, Lock, RefreshCw } from 'lucide-react';
+import { Tag, FileSpreadsheet, ShieldCheck, Activity, ChevronRight, Lock, RefreshCw, Bot, Zap } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 const UtilityCard = ({ title, description, icon: Icon, to, locked = false, comingSoon = false }) => {
@@ -57,10 +57,10 @@ export default function Utilities() {
                 />
 
                 <UtilityCard
-                    title="Homologador de Inventario"
-                    description="Unifica nombres de modelos dispares (ej: 'Thinkpad' vs 'ThinkPad') para evitar productos duplicados en la web."
-                    icon={RefreshCw}
-                    to="/utilities/model-normalizer"
+                    title="Agent Studio (Cerebro IA)"
+                    description="Centro de mando del agente. Gestiona Personalidades (Quién es) y Habilidades (Qué hace) en un solo lugar."
+                    icon={Bot}
+                    to="/agent-studio"
                 />
 
                 <UtilityCard

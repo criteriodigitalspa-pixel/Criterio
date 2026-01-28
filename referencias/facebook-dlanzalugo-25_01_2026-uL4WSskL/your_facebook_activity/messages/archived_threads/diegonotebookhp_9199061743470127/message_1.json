@@ -1,0 +1,73 @@
+{
+  "participants": [
+    {
+      "name": "Valentina Beatriz Vega Valdebenito"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737554635385,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Valentina Beatriz Vega Valdebenito",
+      "timestamp_ms": 1737553747285,
+      "content": "los 120, nada menos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737553671848,
+      "content": "Cuanto es lo minimo estimada?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Valentina Beatriz Vega Valdebenito",
+      "timestamp_ms": 1737553651373,
+      "content": "holaaa, si a\u00c3\u00ban est\u00c3\u00a1 disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737553638484,
+      "content": "Aun lo tiene?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737389115458,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook HP",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebookhp_9199061743470127",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/485851614472363.jpg",
+    "creation_timestamp": 1737389112
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Nacho Savedra"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730117265323,
+      "content": "Abandonaste el grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730116923091,
+      "content": "160 minimo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730116919991,
+      "content": "No amigo gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nacho Savedra",
+      "timestamp_ms": 1730116912200,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nacho Savedra",
+      "timestamp_ms": 1730116907523,
+      "content": "130 hoy??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nacho Savedra",
+      "timestamp_ms": 1730116907041,
+      "content": "Nacho Savedra",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nacho Savedra",
+      "timestamp_ms": 1730116904432,
+      "content": "Nacho asign\u00c3\u00b3 al grupo el nombre \"Nacho \u00c2\u00b7 Ultra Rapida Notebook Potente i7 con 12gb Ram y SSD ENCIENDE EN 10 SEGUNDOS\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nacho Savedra",
+      "timestamp_ms": 1730116904432,
+      "content": "Nacho cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nacho \u00c2\u00b7 Ultra Rapida Notebook Potente i7 con 12gb Ram y SSD ENCIENDE EN 10 SEGUNDOS",
+  "is_still_participant": false,
+  "thread_path": "archived_threads/nachoultrarapidanotebookpotentei7con12gbramyssdenciendeen10segundos_8547013092059623",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,445 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Jersy Garcia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1748914032014,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jersy Garcia",
+      "timestamp_ms": 1748913294569,
+      "content": "Muchas gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1748908413415,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1748907689934,
+      "content": "994919000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jersy Garcia",
+      "timestamp_ms": 1748907197320,
+      "content": "Dale genial",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1748907175679,
+      "content": "Vale voy bajando",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jersy Garcia",
+      "timestamp_ms": 1748907134895,
+      "content": "Estoy abajito",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jersy Garcia",
+      "timestamp_ms": 1748907132256,
+      "content": "Llegue",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jersy Garcia",
+      "timestamp_ms": 1748905510714,
+      "content": "Dale dale genial, te aviso a penas llegue",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1748905013982,
+      "content": "Dale avisame cuando estes llegando y te espero en recepcion",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jersy Garcia",
+      "timestamp_ms": 1748904916042,
+      "content": "Puede que llegue antes rey",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1748904875044,
+      "content": "Estimado le espero entonces a las 8?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jersy Garcia",
+      "timestamp_ms": 1748899356024,
+      "content": "Siiii eso lo mejor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1748899256164,
+      "content": "A mi este notebook me encanta, el modelo es super liviano, super delgado y es muy bonito",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jersy Garcia",
+      "timestamp_ms": 1748899240509,
+      "content": "Pero nada que hacerle toca comprar uno porque es para los estudios",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1748899217192,
+      "content": "Shuuu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jersy Garcia",
+      "timestamp_ms": 1748899212817,
+      "content": "Es minimo el detalle",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jersy Garcia",
+      "timestamp_ms": 1748899205357,
+      "content": "Tenia el mismo, pero el perro tiro del cable y hizo trizas la pantalla \u00f0\u009f\u0098\u00ae\u00e2\u0080\u008d\u00f0\u009f\u0092\u00a8\u00f0\u009f\u0098\u00ae\u00e2\u0080\u008d\u00f0\u009f\u0092\u00a8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jersy Garcia",
+      "timestamp_ms": 1748899189745,
+      "content": "Genial rey eso es genial",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1748899183286,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/jersynotebooki711th12gbramultrapotente2023_27746330945002160/photos/721317850373718.jpg",
+          "creation_timestamp": 1748899182
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1748899169442,
+      "content": "Pero nada de golpes ni nada asi, el equipo esta al 100%",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jersy Garcia",
+      "timestamp_ms": 1748899152689,
+      "content": "Que es para mi hermano",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jersy Garcia",
+      "timestamp_ms": 1748899148166,
+      "content": "Puede dar una fotito mas detalla rey para darla a conocer",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1748899134632,
+      "content": "Creo que en la segundo o tercera foto se ve clarito",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jersy Garcia",
+      "timestamp_ms": 1748899134579,
+      "content": "Es menor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jersy Garcia",
+      "timestamp_ms": 1748899132973,
+      "content": "Oo comprendo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1748899126251,
+      "content": "Durante los meses fue desgastando la pintura",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1748899103000,
+      "content": "Si el de la foto esquina inferior bajo el teclado tiene un desgaste causado por apoyar la mu\u00c3\u00b1eca con un reloj",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jersy Garcia",
+      "timestamp_ms": 1748899058560,
+      "content": "O desgaste visible??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jersy Garcia",
+      "timestamp_ms": 1748899053426,
+      "content": "Algun detalle?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jersy Garcia",
+      "timestamp_ms": 1748899047549,
+      "content": "Maravilloso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1748899024225,
+      "content": "Cerremos a 270",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1748899005852,
+      "content": "Si es la media maquina",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jersy Garcia",
+      "timestamp_ms": 1748898999744,
+      "content": "Acepta ultimo precio 260??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jersy Garcia",
+      "timestamp_ms": 1748898986906,
+      "content": "Yaaa me sirve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jersy Garcia",
+      "timestamp_ms": 1748898981367,
+      "content": "Ooow genial",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1748898976742,
+      "content": "En la ultima foto esta el pantallazo del administrador de tareas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1748898961467,
+      "content": "2.8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jersy Garcia",
+      "timestamp_ms": 1748898940757,
+      "content": "Me da esa info porfa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jersy Garcia",
+      "timestamp_ms": 1748898936197,
+      "content": "En administrador de tarea indica el maximo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jersy Garcia",
+      "timestamp_ms": 1748898925716,
+      "content": "Consulta master cuantos hz tiene el pc en modo speee??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1748898148027,
+      "content": "Torre B",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1748898146015,
+      "content": "Lago pirihueico 6502, la florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jersy Garcia",
+      "timestamp_ms": 1748897465999,
+      "content": "Deme su direcci\u00c3\u00b3n porfavor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jersy Garcia",
+      "timestamp_ms": 1748897459880,
+      "content": "Ahi estare",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jersy Garcia",
+      "timestamp_ms": 1748897457508,
+      "content": "Maravilloso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1748897439014,
+      "content": "Si pues claro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jersy Garcia",
+      "timestamp_ms": 1748897437314,
+      "content": "Se envi\u00c3\u00b3 tu calificaci\u00c3\u00b3n",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jersy Garcia",
+      "timestamp_ms": 1748897434770,
+      "content": "Puedo ir hoy tipo 8??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1748897431487,
+      "content": "Arriba del mall vespucio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jersy Garcia",
+      "timestamp_ms": 1748897430323,
+      "content": "Maravilloso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1748897422367,
+      "content": "Pasos del metro Macul",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jersy Garcia",
+      "timestamp_ms": 1748897408800,
+      "content": "De que parte de la florida es??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jersy Garcia",
+      "timestamp_ms": 1748897403129,
+      "content": "Maravilloso soy de la florida igualmente \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1748897378114,
+      "content": "Puede venir a verlo a mi domicilio en la comuna de la Florida, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1748897377707,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jersy Garcia",
+      "timestamp_ms": 1748897250118,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jersy Garcia",
+      "timestamp_ms": 1748897243895,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jersy Garcia",
+      "timestamp_ms": 1748897243597,
+      "content": "Jersy inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jersy \u00c2\u00b7 Notebook i7-11Th / 12GB RAM Ultra Potente / 2023",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/jersynotebooki711th12gbramultrapotente2023_27746330945002160",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Joaquin Delgado Salcedo"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768068815017,
+      "content": "Hola, buenas. Si te quedo alguna duda o no estas seguro si el equipo te sirve para lo que buscas dime nomas y te ayudo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767967761493,
+      "content": "Holaa 5 a 6 horas estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joaquin Delgado Salcedo",
+      "timestamp_ms": 1767966653451,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joaquin Delgado Salcedo",
+      "timestamp_ms": 1767966648331,
+      "content": "Cu\u00c3\u00a1nto le dura la bater\u00c3\u00ada aprox ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joaquin Delgado Salcedo",
+      "timestamp_ms": 1767966648026,
+      "content": "Joaquin inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Joaquin \u00c2\u00b7 Ultra Potente Thinkpad i7 /16GB RAM / SSDD / Corre Todo",
+  "is_still_participant": true,
+  "thread_path": "inbox/joaquinultrapotentethinkpadi716gbramssddcorretodo_1497123901390579",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

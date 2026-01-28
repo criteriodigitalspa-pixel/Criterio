@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Fabi\u00c3\u00a1n Andr\u00c3\u00a9s Aguilera Navarrete"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Fabi\u00c3\u00a1n Andr\u00c3\u00a9s Aguilera Navarrete",
+      "timestamp_ms": 1757417160192,
+      "content": "Fabi\u00c3\u00a1n baj\u00c3\u00b3 el precio de HP Elitebook 840 G7 a $170.000.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabi\u00c3\u00a1n Andr\u00c3\u00a9s Aguilera Navarrete",
+      "timestamp_ms": 1757124377425,
+      "content": "Fabi\u00c3\u00a1n baj\u00c3\u00b3 el precio de HP Elitebook 840 G7 a $180.000.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabi\u00c3\u00a1n Andr\u00c3\u00a9s Aguilera Navarrete",
+      "timestamp_ms": 1756695115378,
+      "content": "Fabi\u00c3\u00a1n baj\u00c3\u00b3 el precio de HP Elitebook 840 G7 a $190.000.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 HP Elitebook 840 G7",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegohpelitebook840g7_9527152017387608",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1088528922734333.jpg",
+    "creation_timestamp": 1754148389
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

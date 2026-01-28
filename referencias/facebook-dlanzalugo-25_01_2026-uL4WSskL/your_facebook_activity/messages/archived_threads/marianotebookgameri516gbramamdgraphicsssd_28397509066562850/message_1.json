@@ -1,0 +1,111 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Maria Jesusa Espinoza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738793720471,
+      "content": "Dejeme un msj, para guardar su numero",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738793720213,
+      "content": "994919000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Jesusa Espinoza",
+      "timestamp_ms": 1738793227604,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/marianotebookgameri516gbramamdgraphicsssd_28397509066562850/audio/1365697068131366.mp4",
+          "creation_timestamp": 1738793225
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Jesusa Espinoza",
+      "timestamp_ms": 1738793152384,
+      "content": "Me brinda si WhatsApp",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Jesusa Espinoza",
+      "timestamp_ms": 1738793143386,
+      "content": "Yo vivo en la florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Jesusa Espinoza",
+      "timestamp_ms": 1738793137930,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738767958087,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738767957270,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738767955919,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Jesusa Espinoza",
+      "timestamp_ms": 1738767955857,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Jesusa Espinoza",
+      "timestamp_ms": 1738767948675,
+      "content": "Esta disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Jesusa Espinoza",
+      "timestamp_ms": 1738767948407,
+      "content": "Maria inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Maria \u00c2\u00b7 Notebook Gamer // i5 // 16gb RAM // AMD Graphics / SSD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/marianotebookgameri516gbramamdgraphicsssd_28397509066562850",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

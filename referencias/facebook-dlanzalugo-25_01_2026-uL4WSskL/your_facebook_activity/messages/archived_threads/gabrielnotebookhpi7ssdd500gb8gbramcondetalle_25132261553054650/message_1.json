@@ -1,0 +1,72 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gabriel Gabieru",
+      "timestamp_ms": 1736885844552,
+      "content": "Gabriel Gabieru abandon\u00c3\u00b3 el grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1709291595305,
+      "content": "Hola si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriel Gabieru",
+      "timestamp_ms": 1709267689566,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriel Gabieru",
+      "timestamp_ms": 1709267685407,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriel Gabieru",
+      "timestamp_ms": 1709267685209,
+      "content": "Gabriel Gabieru",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriel Gabieru",
+      "timestamp_ms": 1709267683243,
+      "content": "Gabriel cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriel Gabieru",
+      "timestamp_ms": 1709267682803,
+      "content": "Gabriel asign\u00c3\u00b3 al grupo el nombre \"Gabriel \u00c2\u00b7 Notebook HP i7 SSDD 500gb 8GB RAM con Detalle\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gabriel \u00c2\u00b7 Notebook HP i7 SSDD 500gb 8GB RAM con Detalle",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/gabrielnotebookhpi7ssdd500gb8gbramcondetalle_25132261553054650",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/943997693804340.jpg",
+    "creation_timestamp": 1709267680
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

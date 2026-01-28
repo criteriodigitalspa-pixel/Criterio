@@ -1,0 +1,85 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Alan Rosales"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767177538963,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766857652697,
+      "content": "Y si claro, ram a 32 y disco a lo que quieras",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766857633803,
+      "content": "Integrada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766857627175,
+      "content": "Vostro 5471",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alan Rosales",
+      "timestamp_ms": 1766856277728,
+      "content": "Y tanto la ram como el almacenamiento se pueden aumentar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alan Rosales",
+      "timestamp_ms": 1766856256226,
+      "content": "Viene con gr\u00c3\u00a1fica integrada o independiente?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alan Rosales",
+      "timestamp_ms": 1766856151462,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alan Rosales",
+      "timestamp_ms": 1766856145483,
+      "content": "Hola, qu\u00c3\u00a9 modelo de Vostro es? Y de qu\u00c3\u00a9 a\u00c3\u00b1o?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alan Rosales",
+      "timestamp_ms": 1766856145172,
+      "content": "Alan inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Alan \u00c2\u00b7 Notebook Ultra Rapida Dell Vostro / 12GB RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/alannotebookultrarapidadellvostro12gbramssdd_850672254550794",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

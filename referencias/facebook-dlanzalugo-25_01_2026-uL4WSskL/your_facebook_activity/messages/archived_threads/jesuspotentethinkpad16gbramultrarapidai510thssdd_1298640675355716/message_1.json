@@ -1,0 +1,471 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Jesus Ferrada"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766801382459,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jesus Ferrada",
+      "timestamp_ms": 1766625333451,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766621239447,
+      "content": "Hola Estimado, es normal se caliente, igual cualquier cosa me avisas y lo cambiamos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jesus Ferrada",
+      "timestamp_ms": 1766603557175,
+      "content": "Hola Diego consulta, estaba cargando el equipo y elcsrgado se calienta demasiado, que ser\u00c3\u00a1 que pasa???",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jesus Ferrada",
+      "timestamp_ms": 1766576094736,
+      "content": "Ok poleron plomo y gorro azul y mochila azul",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766576060974,
+      "content": "Ya llegando",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766575221472,
+      "content": "Holaa, valedejame voy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jesus Ferrada",
+      "timestamp_ms": 1766575148555,
+      "content": "Estoy en el metro Macul salida departamental",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jesus Ferrada",
+      "timestamp_ms": 1766574993944,
+      "content": "Mi n\u00c3\u00bamero 937402363\nOscar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jesus Ferrada",
+      "timestamp_ms": 1766574741274,
+      "content": "Hola llegue",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766538285114,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jesus Ferrada",
+      "timestamp_ms": 1766538277722,
+      "content": "Dejemos el i3 entonces ma\u00c3\u00b1ana concretamos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766538243349,
+      "content": "El i3 es una generacion mas nueva que este i5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766538216631,
+      "content": "La diferencia en este caso es poca porque el i3 es mas nuevo y eficiente que el i5 de esta publicacion",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jesus Ferrada",
+      "timestamp_ms": 1766538161467,
+      "content": "El i5 es mucho m\u00c3\u00a1s r\u00c3\u00a1pido que el i3 o no tanto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jesus Ferrada",
+      "timestamp_ms": 1766527709372,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766527704764,
+      "content": "Excelente ma\u00c3\u00b1ana a las 9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jesus Ferrada",
+      "timestamp_ms": 1766527676968,
+      "content": "I3 entonces",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766527640946,
+      "content": "Es buenisima maquina igual",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766527632738,
+      "content": "Si estimado le interesa mas ese?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jesus Ferrada",
+      "timestamp_ms": 1766527622094,
+      "content": "Otra publicacion",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jesus Ferrada",
+      "timestamp_ms": 1766527609820,
+      "content": "Vi otro computador que vendes a 180.000 i3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766527554696,
+      "content": "Holaa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jesus Ferrada",
+      "timestamp_ms": 1766527079276,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766522659971,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jesus Ferrada",
+      "timestamp_ms": 1766522529949,
+      "content": "Ok gracias, mala te transfiero \nNos vemos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766522477338,
+      "content": "Diego Jose L\n26.571.884-1\nBanco de Chile\nCuenta Vista\n00-030-55250-62",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jesus Ferrada",
+      "timestamp_ms": 1766522239800,
+      "content": "Me env\u00c3\u00adas tus datos para enrolarte eni banco Bci , para poder transferir",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766522065220,
+      "content": "Como prefiera",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jesus Ferrada",
+      "timestamp_ms": 1766521722035,
+      "content": "Efectivo o transferencia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766521702241,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jesus Ferrada",
+      "timestamp_ms": 1766521696910,
+      "content": "Oscajesus 937502363\nOk cerca de departamental",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766521679504,
+      "content": "+56 9 94919000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766521676597,
+      "content": "Mi numero de telefono es",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766521668305,
+      "content": "Te comento, ese metro tiene 2 salidas, la salida para juntarnos que sea la de la Departamental, en la boleteria de la salida departamental",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jesus Ferrada",
+      "timestamp_ms": 1766521661755,
+      "content": "Env\u00c3\u00adame el n\u00c3\u00bamero  de tel\u00c3\u00a9fono",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jesus Ferrada",
+      "timestamp_ms": 1766521645784,
+      "content": "Ok en las boleterias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766521624147,
+      "content": "Si claro a las 9 metro macul entonces estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jesus Ferrada",
+      "timestamp_ms": 1766521567988,
+      "content": "Consulta juntarnos  en el metro macul puedes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jesus Ferrada",
+      "timestamp_ms": 1766521482669,
+      "content": "Antes de las 09:00 llego, n\u00c3\u00bamero telefono",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766521145933,
+      "content": "Metro Macul linea 4\nDepartamental con vespucio\n\nLago pirihueico 6502, la florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766521089483,
+      "content": "Metro Macul",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jesus Ferrada",
+      "timestamp_ms": 1766521000369,
+      "content": "Cerca del metro pedreros",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766520975191,
+      "content": "Departamental con vespucio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jesus Ferrada",
+      "timestamp_ms": 1766520960174,
+      "content": "D\u00c3\u00b3nde queda",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766520952453,
+      "content": "Estare alli hasta las 10.30am",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766520945072,
+      "content": "Lago pirihueico 6502, la florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jesus Ferrada",
+      "timestamp_ms": 1766520930253,
+      "content": "Yo viv\u00c3\u00ada en el 19 , Enrique volivares",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jesus Ferrada",
+      "timestamp_ms": 1766520901915,
+      "content": "Ma\u00c3\u00b1ana en la ma\u00c3\u00b1ana salgo de turno de noche, en que parte de la florida vives",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jesus Ferrada",
+      "timestamp_ms": 1766520858748,
+      "content": "Donde entregas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766520835901,
+      "content": "No estimado, solo cargador y mouse inalambrico",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jesus Ferrada",
+      "timestamp_ms": 1766520134365,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jesus Ferrada",
+      "timestamp_ms": 1766520131800,
+      "content": "Tiene su caja y manuales",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766520084210,
+      "content": "Sii cargador original Tico C carga rapida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jesus Ferrada",
+      "timestamp_ms": 1766519625142,
+      "content": "Viene con su cargador original",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766519528776,
+      "content": "4 a 5 horas estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jesus Ferrada",
+      "timestamp_ms": 1766519512618,
+      "content": "Bateria duracion",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766519177662,
+      "content": "Estoy en La Florida. Te acomoda la comuna o preferir\u00c3\u00adas que coordinemos en otro punto a convenir?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766519174952,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jesus Ferrada",
+      "timestamp_ms": 1766519166311,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jesus Ferrada",
+      "timestamp_ms": 1766519161656,
+      "content": "\u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jesus Ferrada",
+      "timestamp_ms": 1766519161292,
+      "content": "Jesus inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jesus \u00c2\u00b7 Potente Thinkpad 16GB RAM / Ultra Rapida / i5-10TH / SSDD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/jesuspotentethinkpad16gbramultrarapidai510thssdd_1298640675355716",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

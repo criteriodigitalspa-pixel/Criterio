@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Fbsetec Beltr\u00c3\u00a1n"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754001401759,
+      "content": "2.4ghz en modo normal",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fbsetec Beltr\u00c3\u00a1n",
+      "timestamp_ms": 1753997999598,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fbsetec Beltr\u00c3\u00a1n",
+      "timestamp_ms": 1753997993411,
+      "content": "\u00c2\u00bfSigue disponible? Que frecuencia el procesador??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fbsetec Beltr\u00c3\u00a1n",
+      "timestamp_ms": 1753997993076,
+      "content": "Fbsetec inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Fbsetec \u00c2\u00b7 Notebook i5 16GB RAM Ultra Potente con SSD PROBOOK",
+  "is_still_participant": true,
+  "thread_path": "inbox/fbsetecnotebooki516gbramultrapotenteconssdprobook_24345353535093549",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

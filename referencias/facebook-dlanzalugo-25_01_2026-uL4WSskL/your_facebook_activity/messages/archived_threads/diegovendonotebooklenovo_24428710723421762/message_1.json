@@ -1,0 +1,80 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Daniel Lecaros"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753400565481,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Lecaros",
+      "timestamp_ms": 1753400538620,
+      "content": "Gracias de igual manera",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Lecaros",
+      "timestamp_ms": 1753400530052,
+      "content": "Me dijeron que se lo llevan ahora amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753400489855,
+      "content": "130 y lo busco ma\u00c3\u00b1ana en la ma\u00c3\u00b1ana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Lecaros",
+      "timestamp_ms": 1753400465135,
+      "content": "Gracias igual",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Lecaros",
+      "timestamp_ms": 1753400460721,
+      "content": "Me ofrecieron reci\u00c3\u00a9n 130 amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753400210644,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Vendo Notebook Lenovo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegovendonotebooklenovo_24428710723421762",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1634432891277873.jpg",
+    "creation_timestamp": 1753400207
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Gustavo Grillo Mujica"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gustavo Grillo Mujica",
+      "timestamp_ms": 1703371755332,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gustavo Grillo Mujica",
+      "timestamp_ms": 1703371751207,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gustavo Grillo Mujica",
+      "timestamp_ms": 1703371750766,
+      "content": "Gustavo Grillo Mujica",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gustavo Grillo Mujica",
+      "timestamp_ms": 1703371749487,
+      "content": "Gustavo cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gustavo Grillo Mujica",
+      "timestamp_ms": 1703371749032,
+      "content": "Gustavo asign\u00c3\u00b3 al grupo el nombre \"Gustavo \u00c2\u00b7 Notebook Rapido y Potente Core I5 8GB RAM Lenovo\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gustavo \u00c2\u00b7 Notebook Rapido y Potente Core I5 8GB RAM Lenovo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/gustavonotebookrapidoypotentecorei58gbramlenovo_7241019535963849",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1466670763898517.jpg",
+    "creation_timestamp": 1703371746
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

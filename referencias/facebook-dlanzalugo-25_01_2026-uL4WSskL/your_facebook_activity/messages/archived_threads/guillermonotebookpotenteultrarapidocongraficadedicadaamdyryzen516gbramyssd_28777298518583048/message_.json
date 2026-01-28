@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Guillermo Zu\u00c3\u00b1iga"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Guillermo Zu\u00c3\u00b1iga",
+      "timestamp_ms": 1742420797942,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Guillermo Zu\u00c3\u00b1iga",
+      "timestamp_ms": 1742420794052,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Guillermo Zu\u00c3\u00b1iga",
+      "timestamp_ms": 1742420793868,
+      "content": "Guillermo inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Guillermo \u00c2\u00b7 Notebook Potente ultra Rapido con Grafica Dedicada AMD y Ryzen 5 16GB RAM y SSD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/guillermonotebookpotenteultrarapidocongraficadedicadaamdyryzen516gbramyssd_28777298518583048",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

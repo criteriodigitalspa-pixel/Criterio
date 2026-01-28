@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Metalmox Main"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766801380043,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Metalmox Main",
+      "timestamp_ms": 1766705173557,
+      "content": "Metalmox est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Metalmox Main",
+      "timestamp_ms": 1766682300112,
+      "content": "Metalmox Main te envi\u00c3\u00b3 un mensaje sobre tu publicaci\u00c3\u00b3n: Potente Thinkpad 16GB RAM / Ultra Rapida / i5-10TH / SSDD.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Metalmox Main",
+      "timestamp_ms": 1766682296735,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Metalmox Main",
+      "timestamp_ms": 1766682296495,
+      "content": "Metalmox inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Metalmox \u00c2\u00b7 Potente Thinkpad 16GB RAM / Ultra Rapida / i5-10TH / SSDD",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/metalmoxpotentethinkpad16gbramultrarapidai510thssdd_1918339712103883",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

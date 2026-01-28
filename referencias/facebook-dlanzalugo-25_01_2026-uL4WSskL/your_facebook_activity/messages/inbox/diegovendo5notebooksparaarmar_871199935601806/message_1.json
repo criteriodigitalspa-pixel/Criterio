@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Diego Rojas"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Rojas",
+      "timestamp_ms": 1764940404584,
+      "content": "Diego cambi\u00c3\u00b3 la descripci\u00c3\u00b3n de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Rojas",
+      "timestamp_ms": 1764940401849,
+      "content": "Diego baj\u00c3\u00b3 el precio de Vendo 5 Notebooks para armar a $180.000.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Rojas",
+      "timestamp_ms": 1764764030348,
+      "content": "No respondiste a: S\u00c3\u00ad. \u00c2\u00bfTe interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Rojas",
+      "timestamp_ms": 1764756371240,
+      "content": "S\u00c3\u00ad. \u00c2\u00bfTe interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764730287259,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764730287149,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Vendo 5 Notebooks para armar",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegovendo5notebooksparaarmar_871199935601806",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/748293640886040.jpg",
+    "creation_timestamp": 1764730285
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

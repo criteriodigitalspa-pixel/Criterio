@@ -1,0 +1,380 @@
+[
+  {
+    "timestamp": 1710107083,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Mensaje",
+        "value": "In-app Message 1038661970416419"
+      },
+      {
+        "label": "Tipo de clic",
+        "value": "Primary Click"
+      },
+      {
+        "label": "Total",
+        "value": "3"
+      }
+    ],
+    "fbid": "1038661970416419:100003130521026:pri"
+  },
+  {
+    "timestamp": 1732243293,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Mensaje",
+        "value": "In-app Message 3038324666293493"
+      },
+      {
+        "label": "Tipo de clic",
+        "value": "Primary Click"
+      },
+      {
+        "label": "Total",
+        "value": "1"
+      }
+    ],
+    "fbid": "3038324666293493:100003130521026:pri"
+  },
+  {
+    "timestamp": 1545129089,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Mensaje",
+        "value": "In-app Message 167157967396314"
+      },
+      {
+        "label": "Tipo de clic",
+        "value": "Primary Click"
+      },
+      {
+        "label": "Total",
+        "value": "6"
+      }
+    ],
+    "fbid": "167157967396314:100003130521026:pri"
+  },
+  {
+    "timestamp": 1758953920,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Mensaje",
+        "value": "In-app Message 1041885227692862"
+      },
+      {
+        "label": "Tipo de clic",
+        "value": "Primary Click"
+      },
+      {
+        "label": "Total",
+        "value": "1"
+      }
+    ],
+    "fbid": "1041885227692862:100003130521026:pri"
+  },
+  {
+    "timestamp": 1767323973,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Mensaje",
+        "value": "In-app Message 687482611092507"
+      },
+      {
+        "label": "Tipo de clic",
+        "value": "Primary Click"
+      },
+      {
+        "label": "Total",
+        "value": "1"
+      }
+    ],
+    "fbid": "687482611092507:100003130521026:pri"
+  },
+  {
+    "timestamp": 1694272078,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Mensaje",
+        "value": "[Solo Facebook] \u00c2\u00bfQuieres actualizar tu n\u00c3\u00bamero de tel\u00c3\u00a9fono?"
+      },
+      {
+        "label": "Tipo de clic",
+        "value": "Secondary Click"
+      },
+      {
+        "label": "Total",
+        "value": "1"
+      }
+    ],
+    "fbid": "195575032629772:100003130521026:sec"
+  },
+  {
+    "timestamp": 1704255695,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Mensaje",
+        "value": "t\u00c3\u00adtulo falso"
+      },
+      {
+        "label": "Tipo de clic",
+        "value": "Secondary Click"
+      },
+      {
+        "label": "Total",
+        "value": "1"
+      }
+    ],
+    "fbid": "251149372732681:100003130521026:sec"
+  },
+  {
+    "timestamp": 1545647817,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Mensaje",
+        "value": "In-app Message 167157967396314"
+      },
+      {
+        "label": "Tipo de clic",
+        "value": "Secondary Click"
+      },
+      {
+        "label": "Total",
+        "value": "4"
+      }
+    ],
+    "fbid": "167157967396314:100003130521026:sec"
+  },
+  {
+    "timestamp": 1679892311,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Mensaje",
+        "value": "In-app Message 2105760979624759"
+      },
+      {
+        "label": "Tipo de clic",
+        "value": "Dismiss Click"
+      },
+      {
+        "label": "Total",
+        "value": "2"
+      }
+    ],
+    "fbid": "2105760979624759:100003130521026:dis"
+  },
+  {
+    "timestamp": 1683405570,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Mensaje",
+        "value": "Ahora puedes dejar comentarios en las historias de otras personas para unirte a la conversaci\u00c3\u00b3n. Tambi\u00c3\u00a9n puedes seguir enviando mensajes directos cuando quieras."
+      },
+      {
+        "label": "Tipo de clic",
+        "value": "Dismiss Click"
+      },
+      {
+        "label": "Total",
+        "value": "1"
+      }
+    ],
+    "fbid": "525220766021407:100003130521026:dis"
+  },
+  {
+    "timestamp": 1702600721,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Mensaje",
+        "value": "Ahora en el centro de cuentas"
+      },
+      {
+        "label": "Tipo de clic",
+        "value": "Dismiss Click"
+      },
+      {
+        "label": "Total",
+        "value": "1"
+      }
+    ],
+    "fbid": "2432038833769909:100003130521026:dis"
+  },
+  {
+    "timestamp": 1681626428,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Mensaje",
+        "value": "Est\u00c3\u00a1s a un clic de confirmar {local_device_gmail_account}"
+      },
+      {
+        "label": "Tipo de clic",
+        "value": "Dismiss Click"
+      },
+      {
+        "label": "Total",
+        "value": "2"
+      }
+    ],
+    "fbid": "496781104853457:100003130521026:dis"
+  },
+  {
+    "timestamp": 1704132542,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Mensaje",
+        "value": "Vas a compartir contenido en Facebook e Instagram. Puedes cambiar las opciones para compartir cuando quieras."
+      },
+      {
+        "label": "Tipo de clic",
+        "value": "Dismiss Click"
+      },
+      {
+        "label": "Total",
+        "value": "1"
+      }
+    ],
+    "fbid": "1146620152638077:100003130521026:dis"
+  },
+  {
+    "timestamp": 1704143489,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Mensaje",
+        "value": "\u00c2\u00bfQui\u00c3\u00a9n puede ver tu historia? Toca para revisar o cambiar tu p\u00c3\u00bablico."
+      },
+      {
+        "label": "Tipo de clic",
+        "value": "Dismiss Click"
+      },
+      {
+        "label": "Total",
+        "value": "1"
+      }
+    ],
+    "fbid": "537943548382635:100003130521026:dis"
+  },
+  {
+    "timestamp": 1718161538,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Mensaje",
+        "value": "Pronto podr\u00c3\u00a1s administrar tu informaci\u00c3\u00b3n de pago en un solo lugar"
+      },
+      {
+        "label": "Tipo de clic",
+        "value": "Dismiss Click"
+      },
+      {
+        "label": "Total",
+        "value": "1"
+      }
+    ],
+    "fbid": "987475489195439:100003130521026:dis"
+  },
+  {
+    "timestamp": 1689718264,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Mensaje",
+        "value": "t\u00c3\u00adtulo falso"
+      },
+      {
+        "label": "Tipo de clic",
+        "value": "Dismiss Click"
+      },
+      {
+        "label": "Total",
+        "value": "3"
+      }
+    ],
+    "fbid": "251149372732681:100003130521026:dis"
+  },
+  {
+    "timestamp": 1735744222,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Mensaje",
+        "value": "In-app Message 262807074515849"
+      },
+      {
+        "label": "Tipo de clic",
+        "value": "Dismiss Click"
+      },
+      {
+        "label": "Total",
+        "value": "1"
+      }
+    ],
+    "fbid": "262807074515849:100003130521026:dis"
+  },
+  {
+    "timestamp": 1768492875,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Mensaje",
+        "value": "In-app Message 1346568746415391"
+      },
+      {
+        "label": "Tipo de clic",
+        "value": "Dismiss Click"
+      },
+      {
+        "label": "Total",
+        "value": "1"
+      }
+    ],
+    "fbid": "1346568746415391:100003130521026:dis"
+  }
+]

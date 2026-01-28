@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Messenger"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Messenger",
+      "timestamp_ms": 1752067007757,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Messenger",
+  "is_still_participant": true,
+  "thread_path": "inbox/messenger_24006171739070508",
+  "magic_words": [
+    
+  ]
+}

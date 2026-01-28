@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Basti\u00c3\u00a1n Andr\u00c3\u00a9s Mu\u00c3\u00b1oz Z\u00c3\u00ba\u00c3\u00b1iga"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1733315551223,
+      "content": "Vale amigo sin problema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Basti\u00c3\u00a1n Andr\u00c3\u00a9s Mu\u00c3\u00b1oz Z\u00c3\u00ba\u00c3\u00b1iga",
+      "timestamp_ms": 1733315531122,
+      "content": "S\u00c3\u00baper, estoy buscando vender una tablet Samsung S6. Quiz\u00c3\u00a1 se va hoy, de ser as\u00c3\u00ad te hablo y concretamos algo !",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1733315200695,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1733315200546,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1733315198760,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Basti\u00c3\u00a1n Andr\u00c3\u00a9s Mu\u00c3\u00b1oz Z\u00c3\u00ba\u00c3\u00b1iga",
+      "timestamp_ms": 1733244105006,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Basti\u00c3\u00a1n Andr\u00c3\u00a9s Mu\u00c3\u00b1oz Z\u00c3\u00ba\u00c3\u00b1iga",
+      "timestamp_ms": 1733244101728,
+      "content": "Buenas tardes. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Basti\u00c3\u00a1n Andr\u00c3\u00a9s Mu\u00c3\u00b1oz Z\u00c3\u00ba\u00c3\u00b1iga",
+      "timestamp_ms": 1733244101583,
+      "content": "Basti\u00c3\u00a1n inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Basti\u00c3\u00a1n \u00c2\u00b7 Notebook Ultra Rapida Dell i5 con 16GB RAM Muy Potente Con M2 ENCIENDE EN 7 SEGUNDOS!",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/bastiannotebookultrarapidadelli5con16gbrammuypotenteconm2enciendeen7segundos_28387680584163765",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

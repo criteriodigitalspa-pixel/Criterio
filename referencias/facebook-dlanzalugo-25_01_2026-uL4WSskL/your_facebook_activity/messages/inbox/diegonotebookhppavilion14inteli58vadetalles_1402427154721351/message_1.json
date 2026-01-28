@@ -1,0 +1,131 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Matias Fuentes"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Matias Fuentes",
+      "timestamp_ms": 1764554984651,
+      "content": "Matias marc\u00c3\u00b3 la publicaci\u00c3\u00b3n como Disponible.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matias Fuentes",
+      "timestamp_ms": 1764466342560,
+      "content": "Dale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764463938788,
+      "content": "A las 5pm me acomoda perfecto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matias Fuentes",
+      "timestamp_ms": 1764463752671,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matias Fuentes",
+      "timestamp_ms": 1764463750107,
+      "content": "Podria a las 9am aprox o despu\u00c3\u00a9s de las 5pm, 5:30 - 6pm aprox estando ah\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764463668211,
+      "content": "Aah perfecto te lo compro 100%",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matias Fuentes",
+      "timestamp_ms": 1764463182932,
+      "content": "Despu\u00c3\u00a9s de las 5pm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matias Fuentes",
+      "timestamp_ms": 1764463172282,
+      "content": "Si puedo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764463094000,
+      "content": "Metro vicu\u00c3\u00b1a mackenna podrias ma\u00c3\u00b1ana?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matias Fuentes",
+      "timestamp_ms": 1764463065826,
+      "content": "Hola, entrego en la pintana o metros",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764463037785,
+      "content": "Domde entregas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764463033327,
+      "content": "Holaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matias Fuentes",
+      "timestamp_ms": 1764462618228,
+      "content": "S\u00c3\u00ad. \u00c2\u00bfTe interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764461869668,
+      "content": "Hola, Matias. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764461869376,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook HP pavilion 14\" intel i5 8va (Detalles)",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebookhppavilion14inteli58vadetalles_1402427154721351",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1598509984470961.jpg",
+    "creation_timestamp": 1764461866
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

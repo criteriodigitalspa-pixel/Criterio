@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Usuario de Facebook"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Usuario de Facebook",
+      "timestamp_ms": 1741944843277,
+      "content": " est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usuario de Facebook",
+      "timestamp_ms": 1741907333324,
+      "content": "Usuario de Facebook envi\u00c3\u00b3 un archivo adjunto.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usuario de Facebook",
+      "timestamp_ms": 1741907324300,
+      "content": "\u00e2\u009a\u00a0\u00ef\u00b8\u008fNotificaciones del Asistente de Facebook Marketplace\n\n*Notificaci\u00c3\u00b3n de infracci\u00c3\u00b3n:\nEstimado administrador: 1173008728169521,\n\n* Hemos recibido m\u00c3\u00baltiples informes de violaciones en su p\u00c3\u00a1gina de meta anuncios con respecto a la Pol\u00c3\u00adtica de privacidad y seguridad, utilizando contenido e im\u00c3\u00a1genes que violan las pol\u00c3\u00adticas del mercado de Facebook.\n. Para evitar que su p\u00c3\u00a1gina sea restringida o deshabilitada permanentemente, verifique su identidad dentro de las 24 horas.\n\n\u00e2\u009e\u00a1\u00ef\u00b8\u008fVerifique ahora: https://www.supportmetamarketplace.online/check-ads-account-1001278981997\n\n\u00e2\u008f\u00b3 Si no completa la verificaci\u00c3\u00b3n dentro del tiempo especificado, el sistema suspender\u00c3\u00a1 temporalmente o eliminar\u00c3\u00a1 permanentemente su p\u00c3\u00a1gina sin previo aviso.\n\n-Atentamente,\nGrupo de apoyo en Facebook. Meta\u00c2\u00a9 2025",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usuario de Facebook",
+      "timestamp_ms": 1741907323683,
+      "content": "Usuario de Facebook inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "MarketpIce \u00c2\u00b7 Notebook HP i5-10th /12GB RAM / 2023 / SSDD",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/marketpicenotebookhpi510th12gbram2023ssdd_9833563619996146",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

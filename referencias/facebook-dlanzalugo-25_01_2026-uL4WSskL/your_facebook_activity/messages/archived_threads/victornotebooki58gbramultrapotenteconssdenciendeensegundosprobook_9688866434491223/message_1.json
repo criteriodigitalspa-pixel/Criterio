@@ -1,0 +1,85 @@
+{
+  "participants": [
+    {
+      "name": "Victor Acevedo Q"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741954846499,
+      "content": "Abandonaste el grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741804985963,
+      "content": "Ves los 2 y te llevas el que quieras no mas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741804975106,
+      "content": "Sii pues",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Acevedo Q",
+      "timestamp_ms": 1741804264512,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/victornotebooki58gbramultrapotenteconssdenciendeensegundosprobook_9688866434491223/audio/1176002340121121.mp4",
+          "creation_timestamp": 1741804263
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Acevedo Q",
+      "timestamp_ms": 1741804238136,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/victornotebooki58gbramultrapotenteconssdenciendeensegundosprobook_9688866434491223/audio/626956096858452.mp4",
+          "creation_timestamp": 1741804235
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Acevedo Q",
+      "timestamp_ms": 1741804207883,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Acevedo Q",
+      "timestamp_ms": 1741804202043,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Acevedo Q",
+      "timestamp_ms": 1741804201866,
+      "content": "Victor inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Victor \u00c2\u00b7 Notebook i5 8GB RAM Ultra Potente con SSD ENCIENDE EN SEGUNDOS\n PROBOOK",
+  "is_still_participant": false,
+  "thread_path": "archived_threads/victornotebooki58gbramultrapotenteconssdenciendeensegundosprobook_9688866434491223",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

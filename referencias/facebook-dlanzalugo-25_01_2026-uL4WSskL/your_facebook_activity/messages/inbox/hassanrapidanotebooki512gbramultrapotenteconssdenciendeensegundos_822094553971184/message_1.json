@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Hassan Germal"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765296126729,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764975435832,
+      "content": "Hola estimado, gracias por su oferta pero como podria aceptar eso?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hassan Germal",
+      "timestamp_ms": 1764975226571,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hassan Germal",
+      "timestamp_ms": 1764975221464,
+      "content": "100000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hassan Germal",
+      "timestamp_ms": 1764975220789,
+      "content": "Hassan Germal",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hassan Germal",
+      "timestamp_ms": 1764975218262,
+      "content": "Hassan asign\u00c3\u00b3 al grupo el nombre \"Hassan \u00c2\u00b7 Rapida Notebook i5 / 12GB RAM Ultra Potente con SSD ENCIENDE EN SEGUNDOS\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hassan Germal",
+      "timestamp_ms": 1764975218262,
+      "content": "Hassan cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Hassan \u00c2\u00b7 Rapida Notebook i5 / 12GB RAM Ultra Potente con SSD ENCIENDE EN SEGUNDOS",
+  "is_still_participant": true,
+  "thread_path": "inbox/hassanrapidanotebooki512gbramultrapotenteconssdenciendeensegundos_822094553971184",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

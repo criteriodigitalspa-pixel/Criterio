@@ -1,0 +1,92 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Luchoo Ka"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730913825818,
+      "content": "Paso amigo, muchas gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luchoo Ka",
+      "timestamp_ms": 1730913814034,
+      "content": "En mano",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luchoo Ka",
+      "timestamp_ms": 1730913805118,
+      "content": "tengo 135 mil para esta tarde, te sirve ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luchoo Ka",
+      "timestamp_ms": 1730913788996,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730913777792,
+      "content": "Hola, si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luchoo Ka",
+      "timestamp_ms": 1730913759634,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luchoo Ka",
+      "timestamp_ms": 1730913756754,
+      "content": "Buenas tardes. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luchoo Ka",
+      "timestamp_ms": 1730913756341,
+      "content": "Luchoo Ka",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luchoo Ka",
+      "timestamp_ms": 1730913754551,
+      "content": "Luchoo asign\u00c3\u00b3 al grupo el nombre \"Luchoo \u00c2\u00b7 Potente Notebook Dell i7 enciende en 7 segundos 8RAM y SSD M.2\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luchoo Ka",
+      "timestamp_ms": 1730913754551,
+      "content": "Luchoo cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Luchoo \u00c2\u00b7 Potente Notebook Dell i7 enciende en 7 segundos 8RAM y SSD M.2",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/luchoopotentenotebookdelli7enciendeen7segundos8ramyssdm2_27303415392637752",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

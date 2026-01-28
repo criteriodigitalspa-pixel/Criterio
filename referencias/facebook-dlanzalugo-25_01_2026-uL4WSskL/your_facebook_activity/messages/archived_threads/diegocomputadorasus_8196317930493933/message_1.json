@@ -1,0 +1,164 @@
+{
+  "participants": [
+    {
+      "name": "Belen Gonzalez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Belen Gonzalez",
+      "timestamp_ms": 1728650589178,
+      "content": "Belen vendi\u00c3\u00b3 Computador Asus.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Belen Gonzalez",
+      "timestamp_ms": 1728340221957,
+      "content": "Antes de las 8:30 me parece bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728340187084,
+      "content": "Ma\u00c3\u00b1ana puede ser antes de las 8:30 am o despues de las 19:00 por la pega",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728340152313,
+      "content": "Cuando mas le acomode no tengo problema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Belen Gonzalez",
+      "timestamp_ms": 1728340111646,
+      "content": "Quedaria en 40mil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Belen Gonzalez",
+      "timestamp_ms": 1728340103128,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Belen Gonzalez",
+      "timestamp_ms": 1728340101585,
+      "content": "no podria ser ma\u00c3\u00b1ana?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728340067666,
+      "content": "Si al metro hospital sotero del rio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Belen Gonzalez",
+      "timestamp_ms": 1728340046531,
+      "content": "Claro,lo vendria a buscar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728339936621,
+      "content": "Podria ser en 40mil? Y lo voy a buscar al tiro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Belen Gonzalez",
+      "timestamp_ms": 1728339842227,
+      "content": "Entrega en hospital sotero del rio y en las mercedes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728339805647,
+      "content": "Puede entregar en algun metro?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728339801046,
+      "content": "Estimada buenas tardes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Belen Gonzalez",
+      "timestamp_ms": 1728339548183,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/diegocomputadorasus_8196317930493933/photos/850575697242609.jpg",
+          "creation_timestamp": 1728339547
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Belen Gonzalez",
+      "timestamp_ms": 1728339537482,
+      "content": "A\u00c3\u00ban disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Belen Gonzalez",
+      "timestamp_ms": 1728339534304,
+      "content": "Holaaa sii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728339518711,
+      "content": "Hola, Belen. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728339514418,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Computador Asus\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728339514418,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Computador Asus",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegocomputadorasus_8196317930493933",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/514169728069493.jpg",
+    "creation_timestamp": 1728339513
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

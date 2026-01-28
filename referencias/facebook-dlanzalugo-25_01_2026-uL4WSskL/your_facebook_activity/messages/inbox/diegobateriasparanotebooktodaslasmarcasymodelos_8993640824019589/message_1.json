@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Tecnotodo Ventas"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tecnotodo Ventas",
+      "timestamp_ms": 1730232304887,
+      "content": "\u00c2\u00bfA\u00c3\u00ban te interesa? Responde a: puedes venir a la tienda o pedir despacho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tecnotodo Ventas",
+      "timestamp_ms": 1730223017830,
+      "content": "puedes venir a la tienda o pedir despacho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tecnotodo Ventas",
+      "timestamp_ms": 1730223010981,
+      "content": "original",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tecnotodo Ventas",
+      "timestamp_ms": 1730223006555,
+      "content": "valor 69990",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tecnotodo Ventas",
+      "timestamp_ms": 1730223003830,
+      "content": "hola Diego",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730171752114,
+      "content": "Hola, que precio tiene la bateria de una Dell latitude 5290, no importa si es generica",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730171749616,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Baterias para notebook todas las marcas y modelos\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730171749616,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Baterias para notebook todas las marcas y modelos",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegobateriasparanotebooktodaslasmarcasymodelos_8993640824019589",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/521479647362904.jpg",
+    "creation_timestamp": 1730171748
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

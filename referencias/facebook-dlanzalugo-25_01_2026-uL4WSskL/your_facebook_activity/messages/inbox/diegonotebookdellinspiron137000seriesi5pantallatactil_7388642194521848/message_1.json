@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Cristian Rodrigo Rodrigo"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703933634797,
+      "content": "Publicaciones similares a \"Notebook Dell Inspiron 13 7000 Series I5 Pantalla T\u00c3\u00a1ctil\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703804032294,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703804030350,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703804029979,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Notebook Dell Inspiron 13 7000 Series I5 Pantalla T\u00c3\u00a1ctil\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook Dell Inspiron 13 7000 Series I5 Pantalla T\u00c3\u00a1ctil",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebookdellinspiron137000seriesi5pantallatactil_7388642194521848",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1697682674057887.jpg",
+    "creation_timestamp": 1703804027
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

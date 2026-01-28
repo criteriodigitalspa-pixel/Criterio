@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Limber Pinto"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768849556245,
+      "content": "14\" estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Limber Pinto",
+      "timestamp_ms": 1768849469156,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Limber Pinto",
+      "timestamp_ms": 1768849467047,
+      "content": "\u00c2\u00bfSigue disponible? Tengo 250000 que tama\u00c3\u00b1o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Limber Pinto",
+      "timestamp_ms": 1768849466666,
+      "content": "Limber inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Limber \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "inbox/limbernotebooki710thultrarapida202316gbramssdd_904395248750420",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Mario Ferregut"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757615919234,
+      "content": "Cuando regrese de la pega puedo grabarle un video del notebook",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757615895405,
+      "content": "Hola Mario, el equipo es 2023, esta como nuevo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mario Ferregut",
+      "timestamp_ms": 1757584130972,
+      "content": "Mario est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mario Ferregut",
+      "timestamp_ms": 1757561618913,
+      "content": "M\u00c3\u00a1s fotograf\u00c3\u00adas ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mario Ferregut",
+      "timestamp_ms": 1757561582541,
+      "content": "algun detalle de que a\u00c3\u00b1o es!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mario Ferregut",
+      "timestamp_ms": 1757561541843,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mario Ferregut",
+      "timestamp_ms": 1757561539627,
+      "content": "\u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mario Ferregut",
+      "timestamp_ms": 1757561539407,
+      "content": "Mario inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mario \u00c2\u00b7 Notebook i7/24GB RAM / SSDD / 1TB almacenamiento/Lenovo ThinkBook",
+  "is_still_participant": true,
+  "thread_path": "inbox/marionotebooki724gbramssdd1tbalmacenamientolenovothinkbook_772412922319961",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

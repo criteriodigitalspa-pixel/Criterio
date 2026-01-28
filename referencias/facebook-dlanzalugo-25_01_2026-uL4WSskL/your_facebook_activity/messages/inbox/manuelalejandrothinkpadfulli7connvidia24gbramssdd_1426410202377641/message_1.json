@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Manuel Alejandro Zu\u00c3\u00b1iga Osorio"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767890440270,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Alejandro Zu\u00c3\u00b1iga Osorio",
+      "timestamp_ms": 1767518977230,
+      "content": "Manuel Alejandro est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Alejandro Zu\u00c3\u00b1iga Osorio",
+      "timestamp_ms": 1767485022379,
+      "content": "Manuel Alejandro Zu\u00c3\u00b1iga Osorio te envi\u00c3\u00b3 un mensaje sobre tu publicaci\u00c3\u00b3n: Thinkpad Full i7 con NVIDIA /24GB RAM / SSDD /.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Alejandro Zu\u00c3\u00b1iga Osorio",
+      "timestamp_ms": 1767485018341,
+      "content": "Hola, sigue disponible? \u00c3\u009altimo valor? Las especificaciones son de un hp",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Alejandro Zu\u00c3\u00b1iga Osorio",
+      "timestamp_ms": 1767485018041,
+      "content": "Manuel Alejandro inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Manuel Alejandro \u00c2\u00b7 Thinkpad Full i7 con NVIDIA /24GB RAM / SSDD /",
+  "is_still_participant": true,
+  "thread_path": "inbox/manuelalejandrothinkpadfulli7connvidia24gbramssdd_1426410202377641",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

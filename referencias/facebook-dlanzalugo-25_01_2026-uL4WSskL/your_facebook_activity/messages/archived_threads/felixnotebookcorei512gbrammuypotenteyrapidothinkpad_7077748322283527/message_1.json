@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "F\u00c3\u00a9lix L\u00c3\u00b3pez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703336835027,
+      "content": "Si sigue disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703336831241,
+      "content": "Hola Felix buen dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "F\u00c3\u00a9lix L\u00c3\u00b3pez",
+      "timestamp_ms": 1703336182420,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "F\u00c3\u00a9lix L\u00c3\u00b3pez",
+      "timestamp_ms": 1703336177893,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "F\u00c3\u00a9lix L\u00c3\u00b3pez",
+      "timestamp_ms": 1703336177534,
+      "content": "F\u00c3\u00a9lix L\u00c3\u00b3pez",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "F\u00c3\u00a9lix L\u00c3\u00b3pez",
+      "timestamp_ms": 1703336176204,
+      "content": "F\u00c3\u00a9lix cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "F\u00c3\u00a9lix L\u00c3\u00b3pez",
+      "timestamp_ms": 1703336175838,
+      "content": "F\u00c3\u00a9lix asign\u00c3\u00b3 al grupo el nombre \"F\u00c3\u00a9lix \u00c2\u00b7 Notebook Core i5, 12GB Ram Muy potente y rapido, thinkpad\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "F\u00c3\u00a9lix \u00c2\u00b7 Notebook Core i5, 12GB Ram Muy potente y rapido, thinkpad",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/felixnotebookcorei512gbrammuypotenteyrapidothinkpad_7077748322283527",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/2124918957854415.jpg",
+    "creation_timestamp": 1703336174
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

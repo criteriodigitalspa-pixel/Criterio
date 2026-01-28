@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Maryta Riquelme"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1702741143718,
+      "content": "Holaa, si sigue disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maryta Riquelme",
+      "timestamp_ms": 1702740992928,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maryta Riquelme",
+      "timestamp_ms": 1702740988431,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maryta Riquelme",
+      "timestamp_ms": 1702740988130,
+      "content": "Maryta Riquelme",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maryta Riquelme",
+      "timestamp_ms": 1702740986768,
+      "content": "Maryta cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maryta Riquelme",
+      "timestamp_ms": 1702740986368,
+      "content": "Maryta asign\u00c3\u00b3 al grupo el nombre \"Maryta \u00c2\u00b7 Notebook I5 Pontente y Rapido en Perfectas Condiciones, Corre todo\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Maryta \u00c2\u00b7 Notebook I5 Pontente y Rapido en Perfectas Condiciones, Corre todo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/marytanotebooki5pontenteyrapidoenperfectascondicionescorretodo_24318678221112551",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/143531925520783.jpg",
+    "creation_timestamp": 1702740984
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

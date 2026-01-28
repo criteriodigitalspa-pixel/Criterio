@@ -179,58 +179,6 @@ export default function NotificationCenter({ onNavigate, placement = 'bottom-rig
                                 <div className="p-12 text-center flex flex-col items-center justify-center text-gray-500">
                                     <Bell className="w-8 h-8 mb-4 opacity-20" />
                                     <p className="text-xs mb-4">Sin notificaciones.</p>
-                                    <button
-                                        onClick={async () => {
-                                            try {
-                                                await notificationService.sendNotification(
-                                                    user.uid,
-                                                    "Prueba de Navegación",
-                                                    "Esta notificación debería llevarte a Tareas.",
-                                                    "info",
-                                                    { projectId: "test_project", taskId: "test_task" }
-                                                );
-                                                toast.success("Notificación enviada");
-                                            } catch (e) {
-                                                console.error("Failed to send test notification:", e);
-                                                toast.error("Error al enviar prueba");
-                                            }
-                                        }}
-                                        className="px-3 py-1.5 bg-blue-500/10 text-blue-400 rounded-lg text-xs hover:bg-blue-500/20 transition-colors"
-                                    >
-                                        Enviar Prueba
-                                    </button>
-                                    <button
-                                        onClick={async () => {
-                                            if (!user) {
-                                                alert("Error: No estás logueado en Firebase (User object is null). Recarga la página.");
-                                                return;
-                                            }
-
-                                            const phone = window.prompt(`Enviar prueba desde ${user.email} a número (ej: 569...):`, "569");
-                                            if (!phone) return;
-
-                                            try {
-                                                const { addDoc, collection } = await import('firebase/firestore');
-                                                const { db } = await import('../../services/firebase');
-
-                                                await addDoc(collection(db, 'whatsapp_queue'), {
-                                                    to: phone.replace(/\D/g, ''),
-                                                    message: '🔔 Hola! Click para confirmar que el agente funciona desde Criterio Digital.',
-                                                    status: 'pending',
-                                                    createdAt: new Date(),
-                                                    userId: user.uid,
-                                                    userEmail: user.email // Helpful for debugging
-                                                });
-                                                toast.success("Mensaje enviado a la cola");
-                                            } catch (e) {
-                                                console.error("Failed to queue whatsapp:", e);
-                                                toast.error(`Error: ${e.message}`);
-                                            }
-                                        }}
-                                        className="mt-2 px-3 py-1.5 bg-green-500/10 text-green-400 rounded-lg text-xs hover:bg-green-500/20 transition-colors flex items-center gap-1"
-                                    >
-                                        <span className="text-lg">📱</span> Probar WhatsApp
-                                    </button>
                                 </div>
                             ) : (
                                 <div>
@@ -304,13 +252,11 @@ export default function NotificationCenter({ onNavigate, placement = 'bottom-rig
                             )}
                         </div>
 
-                        {/* Debug Footer */}
-                        <div className="p-2 bg-gray-950 border-t border-gray-800 text-[10px] text-gray-600 font-mono text-center select-all">
-                            ID: {user?.uid?.slice(0, 8)}... | Count: {notifications.length}
-                        </div>
-                    </motion.div>
-                )}
-            </AnimatePresence>
+
+                    </motion.div >
+                )
+                }
+            </AnimatePresence >
         </div >
     );
 }

@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Rudy Andres Gonzalez Mu\u00c3\u00b1oz"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1760486369249,
+      "content": "Solo venta estimDo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rudy Andres Gonzalez Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1760483572194,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rudy Andres Gonzalez Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1760483571527,
+      "content": "Valen 650 d\u00c3\u00b3lares",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rudy Andres Gonzalez Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1760483555683,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rudy Andres Gonzalez Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1760483554476,
+      "content": "Permutas por unos lentes Ives Saint Laurent",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rudy Andres Gonzalez Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1760483554142,
+      "content": "Rudy Andres Gonzalez Mu\u00c3\u00b1oz",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rudy Andres Gonzalez Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1760483552508,
+      "content": "Rudy asign\u00c3\u00b3 al grupo el nombre \"Rudy \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 16gb RAM / SSDD\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rudy Andres Gonzalez Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1760483552508,
+      "content": "Rudy cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rudy \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/rudynotebooki710thultrarapida202316gbramssdd_789772460471791",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

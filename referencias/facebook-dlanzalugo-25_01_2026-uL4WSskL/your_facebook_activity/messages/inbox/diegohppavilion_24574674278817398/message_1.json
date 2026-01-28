@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Anastaciaa Gonz\u00c3\u00a1lez"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anastaciaa Gonz\u00c3\u00a1lez",
+      "timestamp_ms": 1757701871338,
+      "content": "Anastaciaa vendi\u00c3\u00b3 hp pavilion.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anastaciaa Gonz\u00c3\u00a1lez",
+      "timestamp_ms": 1757621484343,
+      "content": "Anastaciaa cambi\u00c3\u00b3 la descripci\u00c3\u00b3n de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anastaciaa Gonz\u00c3\u00a1lez",
+      "timestamp_ms": 1757621480576,
+      "content": "Anastaciaa baj\u00c3\u00b3 el precio de hp pavilion a $130.000.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 hp pavilion",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegohppavilion_24574674278817398",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1286925332804312.jpg",
+    "creation_timestamp": 1753816198
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

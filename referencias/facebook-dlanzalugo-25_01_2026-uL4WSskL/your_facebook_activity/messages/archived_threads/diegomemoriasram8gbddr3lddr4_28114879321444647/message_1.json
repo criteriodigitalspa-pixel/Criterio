@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Formateachile CH"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729123481132,
+      "content": "Ver publicaciones similares",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Formateachile CH",
+      "timestamp_ms": 1729000808650,
+      "content": "\u00c2\u00bfA\u00c3\u00ban te interesa? Responde a: hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Formateachile CH",
+      "timestamp_ms": 1728995173563,
+      "content": "hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Formateachile CH",
+      "timestamp_ms": 1728995170880,
+      "content": "\u00c2\u00bfA\u00c3\u00ban te interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728993878456,
+      "content": "DDR4 de 8gb a cuanto?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728993875926,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Memorias Ram 8Gb DDR3L - DDR4\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728993875926,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Memorias Ram 8Gb DDR3L - DDR4",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegomemoriasram8gbddr3lddr4_28114879321444647",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1327886638192442.jpg",
+    "creation_timestamp": 1728993875
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Tattooart Garcia Jose"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729245517735,
+      "content": "Hola, si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tattooart Garcia Jose",
+      "timestamp_ms": 1729223770230,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tattooart Garcia Jose",
+      "timestamp_ms": 1729223766395,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tattooart Garcia Jose",
+      "timestamp_ms": 1729223766205,
+      "content": "Jose inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jose \u00c2\u00b7 Potente Notebook Lenovo ultra Rapida y Liviana AMD Gold + AMD Grafica + 8gb RAM + SSD + HHD SIN USO",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/josepotentenotebooklenovoultrarapidaylivianaamdgoldamdgrafica8gbramssdhhdsinuso_27582395384692356",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

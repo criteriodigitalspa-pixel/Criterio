@@ -1,0 +1,28 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "\u00c2\u00bfVisible para cualquiera?",
+      "value": "Verdadero"
+    },
+    {
+      "label": "Configuraci\u00c3\u00b3n de visibilidad",
+      "value": "Lista de bloqueados"
+    },
+    {
+      "label": "Fecha de creaci\u00c3\u00b3n",
+      "timestamp_value": 0
+    },
+    {
+      "label": "Fecha de \u00c3\u00baltima modificaci\u00c3\u00b3n",
+      "timestamp_value": 0
+    },
+    {
+      "label": "Persona en la lista de bloqueados",
+      "value": "Yoilimar Rodriguez Montero"
+    }
+  ],
+  "fbid": "3055389294575391"
+}

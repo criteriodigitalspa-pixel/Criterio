@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Salazar Andres"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Salazar Andres",
+      "timestamp_ms": 1765728684795,
+      "content": "Andres vendi\u00c3\u00b3 VENDO POR URGENCIA NOTEBOOK LENOVO T490 LCD TOUCH I5 24GB DE RAM 256GB SSD M2.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765641495158,
+      "content": "Ver publicaciones similares",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765511897865,
+      "content": "Me acepta 100 para ma\u00c3\u00b1ana?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765511892847,
+      "content": "Holaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765511867180,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765511866957,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 VENDO POR URGENCIA NOTEBOOK LENOVO T490 LCD TOUCH I5 24GB DE RAM 256GB SSD M2",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegovendoporurgencianotebooklenovot490lcdtouchi524gbderam256gbssdm2_828144456709692",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/719515187445766.jpg",
+    "creation_timestamp": 1765511863
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

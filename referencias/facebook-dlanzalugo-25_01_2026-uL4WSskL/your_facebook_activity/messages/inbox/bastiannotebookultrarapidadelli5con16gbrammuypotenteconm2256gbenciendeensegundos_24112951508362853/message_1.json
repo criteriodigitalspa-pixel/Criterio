@@ -1,0 +1,88 @@
+{
+  "participants": [
+    {
+      "name": "Basti\u00c3\u00a1n Fritz"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753622747570,
+      "content": "Sigue este enlace para ver nuestro cat\u00c3\u00a1logo en WhatsApp: https://wa.me/c/56994919000",
+      "share": {
+        "link": "https://wa.me/c/56994919000"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753622715734,
+      "content": "Si si tengo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753622712102,
+      "content": "Hola estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Basti\u00c3\u00a1n Fritz",
+      "timestamp_ms": 1753483661419,
+      "content": "Tienes alg\u00c3\u00ban notebook de marca hp parecido en rendimiento a este dell?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753483354784,
+      "content": "El equipo esta listo para usar.\nPuede probarlo y revisar con calma.\nEntrego en:\nMi domicilio en comuna la florida.\n\nDespacho a domicilio 10mil adicional (dependiendo de la comuna).\n\nEstacion de metro a convenir sin costo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753483352376,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Basti\u00c3\u00a1n Fritz",
+      "timestamp_ms": 1753482361684,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Basti\u00c3\u00a1n Fritz",
+      "timestamp_ms": 1753482359642,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Basti\u00c3\u00a1n Fritz",
+      "timestamp_ms": 1753482359456,
+      "content": "Basti\u00c3\u00a1n inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Basti\u00c3\u00a1n \u00c2\u00b7 Notebook Ultra Rapida Dell i5 con 16GB RAM Muy Potente Con M2 256GB ENCIENDE EN SEGUNDOS!",
+  "is_still_participant": true,
+  "thread_path": "inbox/bastiannotebookultrarapidadelli5con16gbrammuypotenteconm2256gbenciendeensegundos_24112951508362853",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

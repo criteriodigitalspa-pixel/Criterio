@@ -1,0 +1,92 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Bazarfil Trado"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754276352542,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bazarfil Trado",
+      "timestamp_ms": 1754079411958,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bazarfil Trado",
+      "timestamp_ms": 1754071902727,
+      "content": "Que modelo es ? \nTiene detalles ?\nCu\u00c3\u00a1nto dura la bater\u00c3\u00ada ? \nHace cu\u00c3\u00a1nto lo tienes ?\n\nSoy de regi\u00c3\u00b3n y ando en stgo hasta hoy en la noche, ando en busca de un notebook para hoy, me estoy quedando en \u00c3\u0091u\u00c3\u00b1oa en casa de un amiga, en qu\u00c3\u00a9 sector se encuentra ? Me gustar\u00c3\u00ada probarlo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754001362028,
+      "content": "Hola estimado la grafica es integrada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bazarfil Trado",
+      "timestamp_ms": 1753997098060,
+      "content": "Bazarfil est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bazarfil Trado",
+      "timestamp_ms": 1753974745753,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bazarfil Trado",
+      "timestamp_ms": 1753974741943,
+      "content": "Tiene gr\u00c3\u00a1fica ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bazarfil Trado",
+      "timestamp_ms": 1753974741546,
+      "content": "Bazarfil Trado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bazarfil Trado",
+      "timestamp_ms": 1753974739703,
+      "content": "Bazarfil asign\u00c3\u00b3 al grupo el nombre \"Bazarfil \u00c2\u00b7 Notebook i5-10Th / 16GB RAM / SSDD / Thinkpad / a\u00c3\u00b1o 2023\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bazarfil Trado",
+      "timestamp_ms": 1753974739703,
+      "content": "Bazarfil cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bazarfil \u00c2\u00b7 Notebook i5-10Th / 16GB RAM / SSDD / Thinkpad / a\u00c3\u00b1o 2023",
+  "is_still_participant": true,
+  "thread_path": "inbox/bazarfilnotebooki510th16gbramssddthinkpadano2023_23944896481872807",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Rodrigo Rojas Aguilar"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rodrigo Rojas Aguilar",
+      "timestamp_ms": 1730308407486,
+      "content": "989117199",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Rojas Aguilar",
+      "timestamp_ms": 1730308402833,
+      "content": "As\u00c3\u00ad es",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730308249950,
+      "content": "Eventualmente siempre necesito y me gustaria mantener tu contacto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730308221346,
+      "content": "Podria darme su numero de telefono por favor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730308213785,
+      "content": "Estimado siempre mantienes stock?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730300585816,
+      "content": "Ver publicaciones similares",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Rojas Aguilar",
+      "timestamp_ms": 1730210561330,
+      "content": "\u00c2\u00bfA\u00c3\u00ban te interesa? Responde a: Si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Rojas Aguilar",
+      "timestamp_ms": 1730173575182,
+      "content": "Si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730170981453,
+      "content": "Hola, Rodrigo. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730170980139,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Memoria ram y disco ssd Notebook\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730170980139,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Memoria ram y disco ssd Notebook",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegomemoriaramydiscossdnotebook_27281653401481957",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/477190348700377.jpg",
+    "creation_timestamp": 1730170979
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

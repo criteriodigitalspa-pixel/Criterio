@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Cesar Rojas Astorga"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1746577188434,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cesar Rojas Astorga",
+      "timestamp_ms": 1746563851058,
+      "content": "Me cuentas, un \u00c3\u00baltimo precio? Estare atento me interesa cerrar pronto Gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cesar Rojas Astorga",
+      "timestamp_ms": 1746555115726,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cesar Rojas Astorga",
+      "timestamp_ms": 1746555110365,
+      "content": "Buenas tardes. \u00c2\u00bfSigue disponible? Hola me interesa puedo pasar ma\u00c3\u00b1ana a retirar ..como est\u00c3\u00a1 est\u00c3\u00a9ticamente?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cesar Rojas Astorga",
+      "timestamp_ms": 1746555110202,
+      "content": "Cesar inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cesar \u00c2\u00b7 Notebook i7 / 16GB RAM Ultra Potente con SSD ELITEBOOK",
+  "is_still_participant": true,
+  "thread_path": "inbox/cesarnotebooki716gbramultrapotenteconssdelitebook_9415980138510690",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

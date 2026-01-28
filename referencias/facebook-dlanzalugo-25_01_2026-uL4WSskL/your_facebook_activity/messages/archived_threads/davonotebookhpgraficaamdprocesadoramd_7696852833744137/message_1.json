@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Davo King"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718852695847,
+      "content": "Hola si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Davo King",
+      "timestamp_ms": 1718852695036,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Davo King",
+      "timestamp_ms": 1718852683183,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Davo King",
+      "timestamp_ms": 1718852682426,
+      "content": "Davo King",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Davo King",
+      "timestamp_ms": 1718852679839,
+      "content": "Davo cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Davo King",
+      "timestamp_ms": 1718852679606,
+      "content": "Davo asign\u00c3\u00b3 al grupo el nombre \"Davo \u00c2\u00b7 Notebook HP, GRAFICA AMD PROCESADOR AMD\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Davo \u00c2\u00b7 Notebook HP, GRAFICA AMD PROCESADOR AMD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/davonotebookhpgraficaamdprocesadoramd_7696852833744137",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1017774356359572.jpg",
+    "creation_timestamp": 1718852674
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Benjamin Ignacio Abarca Salinas"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732329857389,
+      "content": "Le interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732327678520,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Ignacio Abarca Salinas",
+      "timestamp_ms": 1732327627047,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Ignacio Abarca Salinas",
+      "timestamp_ms": 1732327623319,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Ignacio Abarca Salinas",
+      "timestamp_ms": 1732327622934,
+      "content": "Benjamin Ignacio Abarca Salinas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Ignacio Abarca Salinas",
+      "timestamp_ms": 1732327621192,
+      "content": "Benjamin cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Ignacio Abarca Salinas",
+      "timestamp_ms": 1732327621191,
+      "content": "Benjamin asign\u00c3\u00b3 al grupo el nombre \"Benjamin \u00c2\u00b7 Notebook i7-10th Ultra Rapida y potente HP Envy 13\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Benjamin \u00c2\u00b7 Notebook i7-10th Ultra Rapida y potente HP Envy 13",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/benjaminnotebooki710thultrarapidaypotentehpenvy13_9648925088467129",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

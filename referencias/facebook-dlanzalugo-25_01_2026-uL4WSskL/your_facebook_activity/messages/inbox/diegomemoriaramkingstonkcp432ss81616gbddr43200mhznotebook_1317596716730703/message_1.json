@@ -1,0 +1,264 @@
+{
+  "participants": [
+    {
+      "name": "Mauricio Gonzalez S"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mauricio Gonzalez S",
+      "timestamp_ms": 1764204429307,
+      "content": "Mauricio vendi\u00c3\u00b3 \u00f0\u009f\u0092\u00be Memoria RAM Kingston KCP432SS8/16 | 16 GB DDR4 | 3200 MHz | Notebook.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Gonzalez S",
+      "timestamp_ms": 1764204427517,
+      "content": "Mauricio marc\u00c3\u00b3 el art\u00c3\u00adculo como vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Gonzalez S",
+      "timestamp_ms": 1763949170583,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/diegomemoriaramkingstonkcp432ss81616gbddr43200mhznotebook_1317596716730703/photos/2328385190917053.jpg",
+          "creation_timestamp": 1763949169
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Diego Lanza"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763949132816,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Gonzalez S",
+      "timestamp_ms": 1763949127556,
+      "content": "+56920708597",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763949093848,
+      "content": "Yo creo que tengo tu numero",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763949089229,
+      "content": "Vale entonces al medio dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Gonzalez S",
+      "timestamp_ms": 1763949070627,
+      "content": "Yo llego despu\u00c3\u00a9s de las 12",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763949029271,
+      "content": "Vale a que hora puedes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Gonzalez S",
+      "timestamp_ms": 1763948929830,
+      "content": "En el local",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Gonzalez S",
+      "timestamp_ms": 1763948907127,
+      "content": "Si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763948851950,
+      "content": "Osea 3 en total? Puedes ma\u00c3\u00b1ana en metro tabalaba?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Gonzalez S",
+      "timestamp_ms": 1763948800840,
+      "content": "Y dos usadas del mismo lote",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763948786771,
+      "content": "Y usadas o lo que sea? Necesito varias de 16gb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Gonzalez S",
+      "timestamp_ms": 1763948769678,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Gonzalez S",
+      "timestamp_ms": 1763948767309,
+      "content": "Hola me queda una nueva de 16",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763948733773,
+      "content": "De 16gb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763948731735,
+      "content": "Buenas noches",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763948727902,
+      "content": "Te quedan?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763948725218,
+      "content": "Oye necesito mas memorias ram",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763948719458,
+      "content": "Holaa Mauricio como estas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Gonzalez S",
+      "timestamp_ms": 1761261200168,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/diegomemoriaramkingstonkcp432ss81616gbddr43200mhznotebook_1317596716730703/audio/1381215276906095.mp4",
+          "creation_timestamp": 1761261198
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1761261044153,
+      "content": "L4",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1761261044015,
+      "content": "Entregarias en metro macul?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Gonzalez S",
+      "timestamp_ms": 1761259274684,
+      "content": "+569 62145058",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Gonzalez S",
+      "timestamp_ms": 1761259230039,
+      "content": "Si quedan como 3 disponibles",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1761259192378,
+      "content": "Necesito 2",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1761259189143,
+      "content": "Hola Mauricio como esta?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Gonzalez S",
+      "timestamp_ms": 1761259170893,
+      "content": "Hola si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1761258604273,
+      "content": "Hola, Mauricio. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1761258604075,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 \u00f0\u009f\u0092\u00be Memoria RAM Kingston KCP432SS8/16 | 16 GB DDR4 | 3200 MHz | Notebook",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegomemoriaramkingstonkcp432ss81616gbddr43200mhznotebook_1317596716730703",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1355510176210174.jpg",
+    "creation_timestamp": 1761258601
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

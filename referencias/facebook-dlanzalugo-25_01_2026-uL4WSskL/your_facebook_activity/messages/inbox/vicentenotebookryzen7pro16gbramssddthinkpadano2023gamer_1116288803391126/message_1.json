@@ -1,0 +1,69 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Vicente Spee"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1758404767389,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757980480077,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/vicentenotebookryzen7pro16gbramssddthinkpadano2023gamer_1116288803391126/photos/1488955635453016.jpg",
+          "creation_timestamp": 1757980478
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757980474612,
+      "content": "Hola. S\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para que lo pruebes con toda la calma del mundo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vicente Spee",
+      "timestamp_ms": 1757980180884,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vicente Spee",
+      "timestamp_ms": 1757980178650,
+      "content": "Hola me das la versi\u00c3\u00b3n del ryzen 7 porfa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vicente Spee",
+      "timestamp_ms": 1757980178345,
+      "content": "Vicente inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Vicente \u00c2\u00b7 Notebook Ryzen 7PRO / 16GB RAM / SSDD / Thinkpad / a\u00c3\u00b1o 2023 / Gamer",
+  "is_still_participant": true,
+  "thread_path": "inbox/vicentenotebookryzen7pro16gbramssddthinkpadano2023gamer_1116288803391126",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

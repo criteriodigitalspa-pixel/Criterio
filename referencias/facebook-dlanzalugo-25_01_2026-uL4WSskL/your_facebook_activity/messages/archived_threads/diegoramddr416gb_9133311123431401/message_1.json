@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Manuel Gonzales"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Manuel Gonzales",
+      "timestamp_ms": 1756932524061,
+      "content": "Manuel marc\u00c3\u00b3 la publicaci\u00c3\u00b3n como Disponible.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732277809634,
+      "content": "Publicaciones similares a \"RAM DDR4 16GB\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Gonzales",
+      "timestamp_ms": 1732154453964,
+      "content": "\u00c2\u00bfA\u00c3\u00ban te interesa? Responde a: \u00c2\u00bfA\u00c3\u00ban te interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manuel Gonzales",
+      "timestamp_ms": 1732148211537,
+      "content": "\u00c2\u00bfA\u00c3\u00ban te interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732148204891,
+      "content": "Buenas noches. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732148201863,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 RAM DDR4 16GB\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732148201863,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 RAM DDR4 16GB",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegoramddr416gb_9133311123431401",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/446640524824450.jpg",
+    "creation_timestamp": 1732148200
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

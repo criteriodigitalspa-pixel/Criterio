@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Miguel Tinedo"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729168680544,
+      "content": "No amigo gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Miguel Tinedo",
+      "timestamp_ms": 1729167502322,
+      "content": "https://www.facebook.com/marketplace/item/1661205377992872/?mibextid=dXMIcH",
+      "share": {
+        "link": "https://www.facebook.com/marketplace/item/1661205377992872/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Miguel Tinedo",
+      "timestamp_ms": 1729167495165,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Miguel Tinedo",
+      "timestamp_ms": 1729167490702,
+      "content": "Hola, como est\u00c3\u00a1s?\n\nPermutas por aud\u00c3\u00adfonos Bluetooth de alta gama? Tiene terminaciones en cuero y aluminio, etc...\n\nTe los prestar\u00c3\u00ada cargados para que los pruebes obviamente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Miguel Tinedo",
+      "timestamp_ms": 1729167490482,
+      "content": "Miguel inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Miguel \u00c2\u00b7 Notebook Ultra Potente i5 16gb RAM y SSD Corre todo como bala, Como nueva ultra liviana",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/miguelnotebookultrapotentei516gbramyssdcorretodocomobalacomonuevaultraliviana_8878230112228028",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

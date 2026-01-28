@@ -1,0 +1,97 @@
+{
+  "participants": [
+    {
+      "name": "Nelson Donaire Flores"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740607803670,
+      "content": "Le intereso el equipo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740577535705,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nelson Donaire Flores",
+      "timestamp_ms": 1740577485801,
+      "content": "Estoy en mi trabajo ahora. Despu\u00c3\u00a9s me contacto para coordinar. Muuuchas Graaaacias.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740577419381,
+      "content": "Yo estoy detras del lider de departamental",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740577406858,
+      "content": "O alguna estacion de metro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740577397604,
+      "content": "Puede ser en mi domicilio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740577393322,
+      "content": "Holaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nelson Donaire Flores",
+      "timestamp_ms": 1740577357032,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nelson Donaire Flores",
+      "timestamp_ms": 1740577349886,
+      "content": "Hola. Buen d\u00c3\u00ada. D\u00c3\u00b3nde puedo ir a ver el equipo. Soy de La Florida tambi\u00c3\u00a9n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nelson Donaire Flores",
+      "timestamp_ms": 1740577349705,
+      "content": "Nelson inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nelson \u00c2\u00b7 Notebook i5 16GB RAM Ultra Potente con SSD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/nelsonnotebooki516gbramultrapotenteconssd_28556720703971484",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

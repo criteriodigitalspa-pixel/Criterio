@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Pedro Cordoba Arboleda"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703346641726,
+      "content": "Buenas, si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pedro Cordoba Arboleda",
+      "timestamp_ms": 1703343539524,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pedro Cordoba Arboleda",
+      "timestamp_ms": 1703343535213,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pedro Cordoba Arboleda",
+      "timestamp_ms": 1703343534856,
+      "content": "Pedro Cordoba Arboleda",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pedro Cordoba Arboleda",
+      "timestamp_ms": 1703343532838,
+      "content": "Pedro Cordoba cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pedro Cordoba Arboleda",
+      "timestamp_ms": 1703343532451,
+      "content": "Pedro Cordoba asign\u00c3\u00b3 al grupo el nombre \"Pedro Cordoba \u00c2\u00b7 Notebook Rapido y Potente Core I5 8GB RAM Lenovo\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Pedro Cordoba \u00c2\u00b7 Notebook Rapido y Potente Core I5 8GB RAM Lenovo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/pedrocordobanotebookrapidoypotentecorei58gbramlenovo_6980323888681937",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/690016746264358.jpg",
+    "creation_timestamp": 1703343529
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

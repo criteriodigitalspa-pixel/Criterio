@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "David Villegas"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728962111313,
+      "content": "Le intereso?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728957218656,
+      "content": "Si disponibl",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "David Villegas",
+      "timestamp_ms": 1728957143010,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "David Villegas",
+      "timestamp_ms": 1728957141627,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "David Villegas",
+      "timestamp_ms": 1728957141307,
+      "content": "David Villegas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "David Villegas",
+      "timestamp_ms": 1728957138183,
+      "content": "David asign\u00c3\u00b3 al grupo el nombre \"David \u00c2\u00b7 NOTEBOOK HP 8GB RAM EXCELENTE ESTADO AMD\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "David Villegas",
+      "timestamp_ms": 1728957138183,
+      "content": "David cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "David \u00c2\u00b7 NOTEBOOK HP 8GB RAM EXCELENTE ESTADO AMD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/davidnotebookhp8gbramexcelenteestadoamd_9503220309693904",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

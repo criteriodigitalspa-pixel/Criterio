@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Carlos Julio Socorro D\u00c3\u00acaz"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Carlos Julio Socorro D\u00c3\u00acaz",
+      "timestamp_ms": 1740659605273,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos Julio Socorro D\u00c3\u00acaz",
+      "timestamp_ms": 1740659595434,
+      "content": "Buenos d\u00c3\u00adas\nDe cuantas i es?\nY que generaci\u00c3\u00b3n es?\nGracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos Julio Socorro D\u00c3\u00acaz",
+      "timestamp_ms": 1740659595058,
+      "content": "Carlos Julio inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Carlos Julio \u00c2\u00b7 Notebook Full / 8 RAM / Gold / 2023 /  SSD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/carlosjulionotebookfull8ramgold2023ssd_9773573069333890",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

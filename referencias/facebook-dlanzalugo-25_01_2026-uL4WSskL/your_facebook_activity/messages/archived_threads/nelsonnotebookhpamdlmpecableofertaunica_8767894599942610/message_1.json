@@ -1,0 +1,83 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Nelson Avila"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nelson Avila",
+      "timestamp_ms": 1729478406538,
+      "content": "Me lo puedes guardar para el fin de mes por favor es que ah\u00c3\u00ad me pagan",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nelson Avila",
+      "timestamp_ms": 1729478364504,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729478334726,
+      "content": "No, tiene cargador, la bateria esta en buen estado igual, aprox 2 horas\n Funciona todo, teclas touchpad, todo le funciona bien\n Esta bien cuidada igual\nSolo un poco de desgaste estetico por uso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nelson Avila",
+      "timestamp_ms": 1729477969589,
+      "content": "Hola buenas tiene detalles?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729477913628,
+      "content": "Hola, s\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nelson Avila",
+      "timestamp_ms": 1729477908174,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nelson Avila",
+      "timestamp_ms": 1729477905107,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nelson Avila",
+      "timestamp_ms": 1729477904910,
+      "content": "Nelson inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nelson \u00c2\u00b7 Notebook HP AMD - \u00c2\u00a1lmpecable! Oferta \u00c3\u00banica",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/nelsonnotebookhpamdlmpecableofertaunica_8767894599942610",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

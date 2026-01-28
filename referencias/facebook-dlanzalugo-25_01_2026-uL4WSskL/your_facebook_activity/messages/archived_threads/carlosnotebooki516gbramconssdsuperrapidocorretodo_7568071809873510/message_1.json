@@ -1,0 +1,80 @@
+{
+  "participants": [
+    {
+      "name": "Carlos Briones"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Carlos Briones",
+      "timestamp_ms": 1703367403869,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703363621215,
+      "content": "No amigo, integrada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos Briones",
+      "timestamp_ms": 1703358720824,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos Briones",
+      "timestamp_ms": 1703358716895,
+      "content": "Hola, tiene tarjeta de video dedicada?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos Briones",
+      "timestamp_ms": 1703358716611,
+      "content": "Carlos Briones",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos Briones",
+      "timestamp_ms": 1703358715115,
+      "content": "Carlos cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos Briones",
+      "timestamp_ms": 1703358714739,
+      "content": "Carlos asign\u00c3\u00b3 al grupo el nombre \"Carlos \u00c2\u00b7 Notebook i5 16gb Ram con SSD, super rapido, corre todo\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Carlos \u00c2\u00b7 Notebook i5 16gb Ram con SSD, super rapido, corre todo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/carlosnotebooki516gbramconssdsuperrapidocorretodo_7568071809873510",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1418836275717613.jpg",
+    "creation_timestamp": 1703358712
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

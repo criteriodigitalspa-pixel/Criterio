@@ -1,0 +1,85 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Hendry Paredes"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1769114924997,
+      "content": "+56 9 94919000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hendry Paredes",
+      "timestamp_ms": 1769114916725,
+      "content": "Me pasa su n\u00c3\u00bamero para mantener el contacto por fis?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1769114880867,
+      "content": "Aah super amigo, si claro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hendry Paredes",
+      "timestamp_ms": 1769107190419,
+      "content": "Pero si la quiero",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hendry Paredes",
+      "timestamp_ms": 1769107171678,
+      "content": "Me interesa pero para el d\u00c3\u00ada 30 que es el d\u00c3\u00ada que cobro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1769093581140,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hendry Paredes",
+      "timestamp_ms": 1769093574175,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hendry Paredes",
+      "timestamp_ms": 1769093569432,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hendry Paredes",
+      "timestamp_ms": 1769093569216,
+      "content": "Hendry inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Hendry \u00c2\u00b7 Notebook Elitebook HP 12GB RAM Super Potente/ I5 / SSDD /",
+  "is_still_participant": true,
+  "thread_path": "inbox/hendrynotebookelitebookhp12gbramsuperpotentei5ssdd_1214292060125937",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

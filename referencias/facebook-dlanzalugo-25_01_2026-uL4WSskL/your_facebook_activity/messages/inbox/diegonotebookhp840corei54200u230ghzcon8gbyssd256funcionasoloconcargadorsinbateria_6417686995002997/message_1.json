@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Hernan Astorga"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703931900963,
+      "content": "Ver publicaciones similares",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hernan Astorga",
+      "timestamp_ms": 1703813137780,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hernan Astorga",
+      "timestamp_ms": 1703806180174,
+      "content": "Si quedan",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703802296653,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703802294514,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703802294202,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Notebook Hp 840 core i5 4200U. 2.30Ghz con 8gb  y ssd256 Funciona solo con cargador SIN BATERIA\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook Hp 840 core i5 4200U. 2.30Ghz con 8gb  y ssd256 Funciona solo con cargador SIN BATERIA",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebookhp840corei54200u230ghzcon8gbyssd256funcionasoloconcargadorsinbateria_6417686995002997",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/330803539793921.jpg",
+    "creation_timestamp": 1703802291
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

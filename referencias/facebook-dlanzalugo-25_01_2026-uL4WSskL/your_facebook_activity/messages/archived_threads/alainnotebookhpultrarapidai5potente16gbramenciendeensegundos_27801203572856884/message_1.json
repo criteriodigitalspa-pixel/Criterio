@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Alain Gottreux"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alain Gottreux",
+      "timestamp_ms": 1734480030939,
+      "content": "Gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alain Gottreux",
+      "timestamp_ms": 1734480029353,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734480008861,
+      "content": "Hola amigo, se acaba de vender disculpe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alain Gottreux",
+      "timestamp_ms": 1734479845936,
+      "content": "Buenas tardes, que sist operativo tiene",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alain Gottreux",
+      "timestamp_ms": 1734479829270,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alain Gottreux",
+      "timestamp_ms": 1734479827594,
+      "content": "Buenas noches. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alain Gottreux",
+      "timestamp_ms": 1734479827444,
+      "content": "Alain inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Alain \u00c2\u00b7 Notebook HP ultra Rapida i5 Potente 16GB RAM Enciende en segundos!",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/alainnotebookhpultrarapidai5potente16gbramenciendeensegundos_27801203572856884",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

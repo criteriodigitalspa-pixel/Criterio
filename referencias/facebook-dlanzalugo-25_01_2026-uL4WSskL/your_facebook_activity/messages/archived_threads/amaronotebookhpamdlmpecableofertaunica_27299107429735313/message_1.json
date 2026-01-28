@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Amaro Martinez"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729558470922,
+      "content": "Hola si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Amaro Martinez",
+      "timestamp_ms": 1729545149559,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Amaro Martinez",
+      "timestamp_ms": 1729545145360,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Amaro Martinez",
+      "timestamp_ms": 1729545145079,
+      "content": "Amaro Martinez",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Amaro Martinez",
+      "timestamp_ms": 1729545143452,
+      "content": "Amaro cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Amaro Martinez",
+      "timestamp_ms": 1729545143451,
+      "content": "Amaro asign\u00c3\u00b3 al grupo el nombre \"Amaro \u00c2\u00b7 Notebook HP AMD - \u00c2\u00a1lmpecable! Oferta \u00c3\u00banica\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Amaro \u00c2\u00b7 Notebook HP AMD - \u00c2\u00a1lmpecable! Oferta \u00c3\u00banica",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/amaronotebookhpamdlmpecableofertaunica_27299107429735313",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

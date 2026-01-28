@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Mohammed Braim Steff"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750290109621,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mohammed Braim Steff",
+      "timestamp_ms": 1750206714851,
+      "content": "Amigo me puedes enviar si tu equipo soporta actualizaci\u00c3\u00b3n win11, gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mohammed Braim Steff",
+      "timestamp_ms": 1750205934388,
+      "content": "Ya dale, muchas gracias amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750205742620,
+      "content": "Windows 10 amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mohammed Braim Steff",
+      "timestamp_ms": 1750203972372,
+      "content": "Tiene alg\u00c3\u00ban Windows activo??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mohammed Braim Steff",
+      "timestamp_ms": 1750203847573,
+      "content": "Hola. \u00c2\u00bfSigue disponible? \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mohammed Braim Steff",
+      "timestamp_ms": 1750203847347,
+      "content": "Mohammed Braim inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mohammed Braim \u00c2\u00b7 Notebook i5 12GB RAM Ultra Potente con SSD PROBOOK",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/mohammedbraimnotebooki512gbramultrapotenteconssdprobook_24200215266269396",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

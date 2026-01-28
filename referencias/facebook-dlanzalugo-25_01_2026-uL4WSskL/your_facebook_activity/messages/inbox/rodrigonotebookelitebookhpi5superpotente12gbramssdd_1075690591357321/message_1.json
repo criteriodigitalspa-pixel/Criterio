@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Rodrigo Larraguibel"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rodrigo Larraguibel",
+      "timestamp_ms": 1768761565887,
+      "content": "D\u00c3\u00b3nde est\u00c3\u00a1 ubicado ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Larraguibel",
+      "timestamp_ms": 1768761555278,
+      "content": "Ok, favor enviame los detalles por Whatsapp +56996799197",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768755541153,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Larraguibel",
+      "timestamp_ms": 1768755464609,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Larraguibel",
+      "timestamp_ms": 1768755460034,
+      "content": "\u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Larraguibel",
+      "timestamp_ms": 1768755459561,
+      "content": "Rodrigo Larraguibel",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Larraguibel",
+      "timestamp_ms": 1768755457376,
+      "content": "Rodrigo asign\u00c3\u00b3 al grupo el nombre \"Rodrigo \u00c2\u00b7 Notebook Elitebook HP i5 Super Potente/ 12GB RAM / SSDD /\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo Larraguibel",
+      "timestamp_ms": 1768755457376,
+      "content": "Rodrigo cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rodrigo \u00c2\u00b7 Notebook Elitebook HP i5 Super Potente/ 12GB RAM / SSDD /",
+  "is_still_participant": true,
+  "thread_path": "inbox/rodrigonotebookelitebookhpi5superpotente12gbramssdd_1075690591357321",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Jaime Vasquez"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728953462263,
+      "content": "Eres de santiago?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728953458012,
+      "content": "60mil y es tuya amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jaime Vasquez",
+      "timestamp_ms": 1728953448272,
+      "content": "Cuanto un ultimo precio?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728953365017,
+      "content": "Ninguno amigo, esta funcionando al 100, y esta bien cuidada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jaime Vasquez",
+      "timestamp_ms": 1728953325813,
+      "content": "Detalles?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728953276581,
+      "content": "Hola, s\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jaime Vasquez",
+      "timestamp_ms": 1728953275336,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jaime Vasquez",
+      "timestamp_ms": 1728953269862,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jaime Vasquez",
+      "timestamp_ms": 1728953269504,
+      "content": "Jaime Vasquez",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jaime Vasquez",
+      "timestamp_ms": 1728953267287,
+      "content": "Jaime asign\u00c3\u00b3 al grupo el nombre \"JI \u00c2\u00b7 NOTEBOOK HP 8GB RAM EXCELENTE ESTADO AMD\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jaime Vasquez",
+      "timestamp_ms": 1728953267287,
+      "content": "Jaime cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "JI \u00c2\u00b7 NOTEBOOK HP 8GB RAM EXCELENTE ESTADO AMD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/jinotebookhp8gbramexcelenteestadoamd_8554761834569787",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

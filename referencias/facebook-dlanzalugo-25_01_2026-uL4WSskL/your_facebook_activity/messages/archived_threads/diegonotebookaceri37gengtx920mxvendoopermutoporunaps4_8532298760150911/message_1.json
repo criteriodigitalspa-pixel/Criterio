@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Sebastian Ortiz"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sebastian Ortiz",
+      "timestamp_ms": 1728742079157,
+      "content": "Sebastian vendi\u00c3\u00b3 Notebook acer i3 7 gen gtx 920mx vendo o permuto por una ps 4.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Ortiz",
+      "timestamp_ms": 1728529682739,
+      "content": "Sebastian vendi\u00c3\u00b3 Notebook acer i3 7 gen gtx 920mx vendo o permuto por una ps 4.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Ortiz",
+      "timestamp_ms": 1728529682331,
+      "content": "Sebastian marc\u00c3\u00b3 la publicaci\u00c3\u00b3n como Disponible.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728469834160,
+      "content": "Publicaciones similares a \"Notebook acer i3 7 gen gtx 920mx vendo o permuto por una ps 4\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728340231159,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728340230080,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Notebook acer i3 7 gen gtx 920mx vendo o permuto por una ps 4\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728340230080,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook acer i3 7 gen gtx 920mx vendo o permuto por una ps 4",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebookaceri37gengtx920mxvendoopermutoporunaps4_8532298760150911",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1077334633953568.jpg",
+    "creation_timestamp": 1728340228
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Ignacia Paz"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766804633702,
+      "content": "Hola, Ignacia. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766804633415,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Computador HP",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegocomputadorhp_1560781651625402",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/2110746116126940.jpg",
+    "creation_timestamp": 1766804630
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

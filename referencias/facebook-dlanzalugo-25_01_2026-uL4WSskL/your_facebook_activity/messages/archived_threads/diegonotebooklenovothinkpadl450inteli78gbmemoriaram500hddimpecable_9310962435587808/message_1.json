@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "ZonaGame Santiago"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728463359301,
+      "content": "Ver publicaciones similares",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ZonaGame Santiago",
+      "timestamp_ms": 1728342365443,
+      "content": "\u00c2\u00bfA\u00c3\u00ban te interesa? Responde a: Hola buenos d\u00c3\u00adas, ya vend\u00c3\u00ad este notebook pero le puedo pasar una lista con los disponibles \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ZonaGame Santiago",
+      "timestamp_ms": 1728334606093,
+      "content": "Hola buenos d\u00c3\u00adas, ya vend\u00c3\u00ad este notebook pero le puedo pasar una lista con los disponibles \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728333754368,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728333752903,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Notebook Lenovo Thinkpad L450 Intel i7 / 8gb memoria ram / 500hdd impecable \u00f0\u009f\u0092\u00af\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728333752903,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook Lenovo Thinkpad L450 Intel i7 / 8gb memoria ram / 500hdd impecable \u00f0\u009f\u0092\u00af",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebooklenovothinkpadl450inteli78gbmemoriaram500hddimpecable_9310962435587808",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/573878558399592.jpg",
+    "creation_timestamp": 1728333752
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Marcelo Antonio Osorio Zavala"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1702819754408,
+      "content": "Marcel le interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1702758808758,
+      "content": "Igual depende del uso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1702758804852,
+      "content": "La bateria le dura sus 3 horas amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1702758795193,
+      "content": "Marcelo buenas tardes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelo Antonio Osorio Zavala",
+      "timestamp_ms": 1702757874531,
+      "content": "Hola cuanto dura la bater\u00c3\u00ada aprox",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelo Antonio Osorio Zavala",
+      "timestamp_ms": 1702757857115,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelo Antonio Osorio Zavala",
+      "timestamp_ms": 1702757853119,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelo Antonio Osorio Zavala",
+      "timestamp_ms": 1702757852779,
+      "content": "Marcelo Antonio Osorio Zavala",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelo Antonio Osorio Zavala",
+      "timestamp_ms": 1702757851111,
+      "content": "Marcelo Antonio cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marcelo Antonio Osorio Zavala",
+      "timestamp_ms": 1702757850596,
+      "content": "Marcelo Antonio asign\u00c3\u00b3 al grupo el nombre \"Marcelo Antonio \u00c2\u00b7 Notebook I5 Pontente y Rapido en Perfectas Condiciones, Corre todo\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Marcelo Antonio \u00c2\u00b7 Notebook I5 Pontente y Rapido en Perfectas Condiciones, Corre todo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/marceloantonionotebooki5pontenteyrapidoenperfectascondicionescorretodo_7070610209660094",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/2330259157166102.jpg",
+    "creation_timestamp": 1702757848
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

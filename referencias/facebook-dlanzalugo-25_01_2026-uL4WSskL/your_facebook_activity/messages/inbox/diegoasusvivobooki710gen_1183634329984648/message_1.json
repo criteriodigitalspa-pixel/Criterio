@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Jean Franco"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jean Franco",
+      "timestamp_ms": 1764806562866,
+      "content": "Jean vendi\u00c3\u00b3 Asus VivoBook i7 10gen.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764801708984,
+      "content": "Hola, Jean. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764801708657,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Asus VivoBook i7 10gen",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegoasusvivobooki710gen_1183634329984648",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1384469463355728.jpg",
+    "creation_timestamp": 1764801704
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

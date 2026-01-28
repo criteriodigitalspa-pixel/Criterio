@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Israel Sepulveda"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765894150647,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Israel Sepulveda",
+      "timestamp_ms": 1765185033396,
+      "content": "Israel est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Israel Sepulveda",
+      "timestamp_ms": 1765145503559,
+      "content": "Necesito 2",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Israel Sepulveda",
+      "timestamp_ms": 1765145338214,
+      "content": "Israel Sepulveda te envi\u00c3\u00b3 un mensaje sobre tu publicaci\u00c3\u00b3n: RAM 8GB PC4 DDRR4 Notebook.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Israel Sepulveda",
+      "timestamp_ms": 1765145334349,
+      "content": "Buenas noches. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Israel Sepulveda",
+      "timestamp_ms": 1765145333952,
+      "content": "Israel inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Israel \u00c2\u00b7 RAM 8GB PC4 DDRR4 Notebook",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/israelram8gbpc4ddrr4notebook_880027814710987",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

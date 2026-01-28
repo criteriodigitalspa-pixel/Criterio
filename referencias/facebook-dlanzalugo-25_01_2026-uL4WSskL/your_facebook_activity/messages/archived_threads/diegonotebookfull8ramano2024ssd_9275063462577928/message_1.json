@@ -1,0 +1,102 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Diego Bustamante"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739995837328,
+      "content": "Le intereso el equipo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739913693488,
+      "videos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/diegonotebookfull8ramano2024ssd_9275063462577928/videos/507004212073976.mp4",
+          "creation_timestamp": 1739913692
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739905078975,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/diegonotebookfull8ramano2024ssd_9275063462577928/photos/658186103202960.jpg",
+          "creation_timestamp": 1739905077
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Bustamante",
+      "timestamp_ms": 1739903343741,
+      "content": "aah perfecto, pero tiene por ah\u00c3\u00ad las especificaciones?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739902759720,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739902759171,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739902758596,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Bustamante",
+      "timestamp_ms": 1739902625069,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Bustamante",
+      "timestamp_ms": 1739902620875,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?\ncu\u00c3\u00a1l fue el uso que se le di\u00c3\u00b3 al notebook?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Bustamante",
+      "timestamp_ms": 1739902620575,
+      "content": "Diego inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook Full / 8 RAM / a\u00c3\u00b1o 2024 / SSD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebookfull8ramano2024ssd_9275063462577928",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

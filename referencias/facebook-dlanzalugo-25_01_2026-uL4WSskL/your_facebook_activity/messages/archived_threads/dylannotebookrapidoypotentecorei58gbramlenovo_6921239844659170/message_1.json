@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Dylan Vidal Riquelme"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703346617141,
+      "content": "Hola, si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dylan Vidal Riquelme",
+      "timestamp_ms": 1703341484342,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dylan Vidal Riquelme",
+      "timestamp_ms": 1703341480328,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dylan Vidal Riquelme",
+      "timestamp_ms": 1703341480041,
+      "content": "Dylan Vidal Riquelme",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dylan Vidal Riquelme",
+      "timestamp_ms": 1703341478042,
+      "content": "Dylan cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dylan Vidal Riquelme",
+      "timestamp_ms": 1703341477615,
+      "content": "Dylan asign\u00c3\u00b3 al grupo el nombre \"Dylan \u00c2\u00b7 Notebook Rapido y Potente Core I5 8GB RAM Lenovo\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dylan \u00c2\u00b7 Notebook Rapido y Potente Core I5 8GB RAM Lenovo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/dylannotebookrapidoypotentecorei58gbramlenovo_6921239844659170",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/750214887011380.jpg",
+    "creation_timestamp": 1703341475
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

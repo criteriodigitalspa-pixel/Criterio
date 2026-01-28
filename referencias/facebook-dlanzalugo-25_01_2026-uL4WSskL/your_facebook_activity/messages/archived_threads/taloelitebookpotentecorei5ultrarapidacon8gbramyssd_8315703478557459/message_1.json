@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Talo Ip Stbn"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Talo Ip Stbn",
+      "timestamp_ms": 1729433832466,
+      "content": "Sorry encontre el mismo a la mitad \nSaludos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729423682228,
+      "content": "Le interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729395480188,
+      "content": "Si tiene alguna duda me avisas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729380301661,
+      "content": "Si amigo cuanto ofreces?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729380297712,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Talo Ip Stbn",
+      "timestamp_ms": 1729380283550,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Talo Ip Stbn",
+      "timestamp_ms": 1729380279347,
+      "content": "Hola. \u00c2\u00bfSigue disponible?  Conversable ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Talo Ip Stbn",
+      "timestamp_ms": 1729380279021,
+      "content": "Talo inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Talo \u00c2\u00b7 Elitebook Potente Core i5 Ultra Rapida con 8gb Ram y SSD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/taloelitebookpotentecorei5ultrarapidacon8gbramyssd_8315703478557459",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

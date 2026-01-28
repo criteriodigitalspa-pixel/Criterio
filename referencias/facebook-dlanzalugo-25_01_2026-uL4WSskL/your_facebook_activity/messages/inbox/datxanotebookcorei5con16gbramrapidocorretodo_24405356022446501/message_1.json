@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Datxa Isaias Lameda A\u00c3\u00b1ez"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703198568121,
+      "content": "Buenas tardes, si sigue disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Datxa Isaias Lameda A\u00c3\u00b1ez",
+      "timestamp_ms": 1703198321947,
+      "content": "Datxa Isaias Lameda A\u00c3\u00b1ez",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Datxa Isaias Lameda A\u00c3\u00b1ez",
+      "timestamp_ms": 1703198321929,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Datxa Isaias Lameda A\u00c3\u00b1ez",
+      "timestamp_ms": 1703198318494,
+      "content": "Datxa asign\u00c3\u00b3 al grupo el nombre \"Datxa \u00c2\u00b7 Notebook Core i5 con 16GB RAM Rapido Corre Todo\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Datxa Isaias Lameda A\u00c3\u00b1ez",
+      "timestamp_ms": 1703198318494,
+      "content": "Datxa cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Datxa Isaias Lameda A\u00c3\u00b1ez",
+      "timestamp_ms": 1703198318494,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Datxa \u00c2\u00b7 Notebook Core i5 con 16GB RAM Rapido Corre Todo",
+  "is_still_participant": true,
+  "thread_path": "inbox/datxanotebookcorei5con16gbramrapidocorretodo_24405356022446501",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

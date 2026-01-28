@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Jose Alejandro Reveco Zenteno"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jose Alejandro Reveco Zenteno",
+      "timestamp_ms": 1754754370335,
+      "content": "Jose vendi\u00c3\u00b3 Memoria Ram DDR-4.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Memoria Ram DDR-4",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegomemoriaramddr4_24086647997627039",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1482603629390746.jpg",
+    "creation_timestamp": 1750073079
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

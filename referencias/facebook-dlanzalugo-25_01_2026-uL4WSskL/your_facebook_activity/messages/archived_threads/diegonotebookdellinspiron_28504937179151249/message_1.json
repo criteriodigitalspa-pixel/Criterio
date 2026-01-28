@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Roberto Cuevas Vassallo"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Roberto Cuevas Vassallo",
+      "timestamp_ms": 1738610995147,
+      "content": "\u00c2\u00bfA\u00c3\u00ban te interesa? Responde a: Lo siento, no est\u00c3\u00a1 disponible.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Roberto Cuevas Vassallo",
+      "timestamp_ms": 1738603854217,
+      "content": "Lo siento, no est\u00c3\u00a1 disponible.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738590737809,
+      "content": "Hola, Roberto. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738590737615,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 NOTEBOOK Dell Inspiron",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebookdellinspiron_28504937179151249",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1822123988531696.jpg",
+    "creation_timestamp": 1738590735
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

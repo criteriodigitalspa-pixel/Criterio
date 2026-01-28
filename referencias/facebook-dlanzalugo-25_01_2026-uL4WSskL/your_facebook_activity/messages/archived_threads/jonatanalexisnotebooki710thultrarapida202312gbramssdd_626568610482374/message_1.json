@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Jonatan Alexis Sanhueza Hervitt"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764733202609,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764502522627,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonatan Alexis Sanhueza Hervitt",
+      "timestamp_ms": 1764479949568,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonatan Alexis Sanhueza Hervitt",
+      "timestamp_ms": 1764479944849,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonatan Alexis Sanhueza Hervitt",
+      "timestamp_ms": 1764479944407,
+      "content": "Jonatan Alexis inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jonatan Alexis \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 12gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/jonatanalexisnotebooki710thultrarapida202312gbramssdd_626568610482374",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

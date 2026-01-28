@@ -599,21 +599,68 @@ export const taskService = {
             }
 
 
+            // Sanitize: Firestore hates 'undefined', requires 'null'
+            // Sanitize: Firestore hates 'undefined', requires 'null'
+            const sanitize = (value) => {
+                if (value === undefined) return null;
+                if (value === null) return null;
+
+                // Pass-through primitives
+                if (typeof value !== 'object') return value;
+
+                // Pass-through Dates
+                if (value instanceof Date) return value;
+
+                // Pass-through Firestore Timestamps & FieldValues (sentinels)
+                // "seconds" check is for Timestamp. "_methodName" often exists on FieldValues (like serverTimestamp)
+                // We can't easily detect serverTimestamp() object structure officially, but we can assume objects with specific properties shouldn't be touched if they aren't plain objects.
+                // Safest approach: if it has 'seconds' (Timestamp) keep it. If it seems to be a complex object we don't know, maybe we should still traverse? 
+                // Creating a simplified check for plain objects and arrays.
+
+                if (Array.isArray(value)) {
+                    return value.map(item => sanitize(item));
+                }
+
+                // FieldValue check (serverTimestamp) - typically has _methodName or similar in SDK, but here simplified:
+                // If it creates an issue, we can explicitly exclude 'createdAt' from sanitization before passing it.
+                // But 'createdAt' is added AFTER sanitization in the usage below? 
+                // WAIT. 'createdAt: serverTimestamp()' is passed INTO the objects being sanitized below.
+                // serverTimestamp() is an object.
+                // Let's modify the usage to add serverTimestamp OUTSIDE the sanitize call if possible, or support it.
+
+                // Simple heuristic: If it looks like a plain object, recurse. 
+                // If it looks like a Firestore Sentinel (non-plain), keep it.
+                // constructor.name check?
+                if (value.constructor && value.constructor.name !== 'Object' && value.constructor.name !== 'Array') {
+                    // Likely a class instance (Timestamp, FieldValue, etc)
+                    return value;
+                }
+
+                const newObj = {};
+                Object.keys(value).forEach(key => {
+                    newObj[key] = sanitize(value[key]);
+                });
+                return newObj;
+            };
+
             const dataToSave = {
-                status: 'todo',
-                projectId: null,
-                ...taskData,
-                assignedTo: taskData.assignedTo || [],
-                createdBy: userId,
-                createdAt: serverTimestamp(),
-                completed: false,
-                members: taskMembers // CRITICAL: Allow these users to read the task
+                ...sanitize({
+                    status: 'todo',
+                    projectId: null,
+                    ...taskData,
+                    assignedTo: taskData.assignedTo || [],
+                    createdBy: userId,
+                    completed: false,
+                    members: taskMembers
+                }),
+                createdAt: serverTimestamp() // Add this AFTER sanitization to avoid traversing the sentinel
             };
 
             // Support Client-Side IDs for true optimistic UI
             let savedTask;
             if (taskData.customId) {
                 const id = taskData.customId;
+                // Delete customId from dataToSave is not needed if we sanitize, but good practice to keep clean
                 delete dataToSave.customId;
                 await setDoc(doc(db, TASKS_COLLECTION, id), dataToSave);
                 console.log(`[TaskService] Task saved to Firestore with ID: ${id}`);
@@ -684,7 +731,10 @@ export const taskService = {
                 localTasks.push(localTask);
                 localStorage.setItem('pending_tasks', JSON.stringify(localTasks));
                 console.log(`[TaskService] Task saved to LOCAL storage (Fallback). ID: ${tempId}`);
-                toast.error("Sin conexión. Tarea guardada localmente.");
+
+                // Show ACTUAL error, but keep friendly fallback msg
+                toast.error(`Aviso: ${error.message} (Guardada localmente)`);
+
                 return localTask;
             } catch (localError) {
                 console.error("[TaskService] Critical: Failed to save locally too.", localError);
@@ -1033,6 +1083,72 @@ export const taskService = {
             updates.members = arrayUnion(...updates.assignedTo);
         }
 
+        // --- RECURRENCE LOGIC (Client-Side Trigger) ---
+        if (updates.status === 'done') {
+            const taskSnap = await getDoc(docRef);
+            if (taskSnap.exists()) {
+                const task = taskSnap.data();
+                if (task.recurrence && task.recurrence.type) {
+
+                    // Check LIMIT
+                    const currentCount = task.recurrence.count || 0;
+                    const limit = task.recurrence.limit; // number or null
+
+                    // If limit is set (>0) and we reached it, STOP.
+                    if (limit && limit > 0 && currentCount >= limit) {
+                        console.log("🛑 Recurrence limit reached. No new task.");
+                        return; // Exit recurrence logic (update still happens below)
+                    }
+
+                    // Import dynamically to avoid top-level madness if needed, or assume it's available
+                    // We'll trust the main bundle. 
+                    // If 'recurrence' exists, calculate next date.
+                    import('../utils/recurrenceUtils').then(({ calculateNextDueDate }) => {
+                        const nextDate = calculateNextDueDate(new Date(), task.recurrence);
+                        if (nextDate) {
+                            const nextTask = {
+                                ...task,
+                                status: 'todo',
+                                completed: false,
+                                createdAt: serverTimestamp(),
+                                description: task.description || '', // Ensure field exists
+                                // Recurrence: Keep it so it recurs again!
+                                // Due Date: Next calculated date
+
+                                // RECURRENCE UPDATE
+                                recurrence: {
+                                    ...task.recurrence,
+                                    count: currentCount + 1 // Increment count
+                                },
+
+                                // TIMING
+                                dueDate: nextDate.toISOString().split('T')[0], // Store as YYYY-MM-DD string as per current convention
+                                startTime: task.recurrence.time || task.startTime || '', // Use preferred time
+
+                                isRecurringInstance: true,
+                                originalTaskId: taskId // Traceability
+                            };
+                            delete nextTask.id; // Ensure new ID
+
+                            addDoc(collection(db, TASKS_COLLECTION), nextTask).then(newRef => {
+                                console.log("♻️ Recurring task created:", newRef.id);
+
+                                // Notify User (Optional Checkbox)
+                                if (task.recurrence.notifyOnRecurrence) {
+                                    notificationService.sendNotification(
+                                        task.ownerId || task.createdBy, // Notify owner? Or Assignees?
+                                        "Tarea Recurrente Creada",
+                                        `Instancia ${currentCount + 2} de "${task.text}"`,
+                                        "info"
+                                    );
+                                }
+                            });
+                        }
+                    });
+                }
+            }
+        }
+
         await updateDoc(docRef, updates);
     },
 
@@ -1093,18 +1209,33 @@ export const taskService = {
 
     async deleteTask(taskId) {
         console.log(`[TaskService] Deleting task: ${taskId}`);
+
+        // 1. Check if Local Task
+        if (taskId && taskId.toString().startsWith('local_')) {
+            console.log("[TaskService] Deleting local-only task.");
+            // Skip Firestore
+        } else {
+            // 2. Try Firestore
+            try {
+                await deleteDoc(doc(db, TASKS_COLLECTION, taskId));
+                console.log(`[TaskService] Firestore delete success: ${taskId}`);
+            } catch (e) {
+                console.error(`[TaskService] Firestore delete failed for ${taskId}:`, e);
+                // Show ACTUAL error to user
+                toast.error(`Error al eliminar: ${e.message}`);
+            }
+        }
+
+        // 3. Always clean local storage (just in case)
         try {
-            await deleteDoc(doc(db, TASKS_COLLECTION, taskId));
-            console.log(`[TaskService] Firestore delete success: ${taskId}`);
-        } catch (e) {
-            console.error(`[TaskService] Firestore delete failed for ${taskId}:`, e);
-            toast.error("Error al eliminar (Revisa consola)");
-            // Handle local delete
             const localTasks = JSON.parse(localStorage.getItem('pending_tasks') || '[]');
             if (localTasks.some(t => t.id === taskId)) {
                 const filtered = localTasks.filter(t => t.id !== taskId);
                 localStorage.setItem('pending_tasks', JSON.stringify(filtered));
+                console.log("[TaskService] Local cache cleaned.");
             }
+        } catch (localErr) {
+            console.warn("Failed to clean local cache", localErr);
         }
     },
 

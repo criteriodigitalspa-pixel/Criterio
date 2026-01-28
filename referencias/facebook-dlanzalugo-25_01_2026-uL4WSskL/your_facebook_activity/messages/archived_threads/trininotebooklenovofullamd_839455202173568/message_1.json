@@ -1,0 +1,120 @@
+{
+  "participants": [
+    {
+      "name": "Trini Mayora"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765984418832,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Trini Mayora",
+      "timestamp_ms": 1765887091451,
+      "content": "Puedo el dia de ma\u00c3\u00b1ana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765887037271,
+      "content": "Providencia metro ines de suadrez",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765887028729,
+      "content": "Holaaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Trini Mayora",
+      "timestamp_ms": 1765855226356,
+      "content": "Hola?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Trini Mayora",
+      "timestamp_ms": 1765842721262,
+      "content": "Soy de la florida metro mirador",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Trini Mayora",
+      "timestamp_ms": 1765842675080,
+      "content": "Que metro ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Trini Mayora",
+      "timestamp_ms": 1765842666917,
+      "content": "Donde entregas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765839624779,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Trini Mayora",
+      "timestamp_ms": 1765838807753,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Trini Mayora",
+      "timestamp_ms": 1765838806322,
+      "content": "Estoy interesad@",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Trini Mayora",
+      "timestamp_ms": 1765838805949,
+      "content": "Trini Mayora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Trini Mayora",
+      "timestamp_ms": 1765838803833,
+      "content": "Trini asign\u00c3\u00b3 al grupo el nombre \"Trini \u00c2\u00b7 Notebook Lenovo Full AMD\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Trini Mayora",
+      "timestamp_ms": 1765838803833,
+      "content": "Trini cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Trini \u00c2\u00b7 Notebook Lenovo Full AMD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/trininotebooklenovofullamd_839455202173568",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

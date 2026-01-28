@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Paloma Jara"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703119239363,
+      "content": "Si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703119235335,
+      "content": "Hola buenas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paloma Jara",
+      "timestamp_ms": 1703118988199,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paloma Jara",
+      "timestamp_ms": 1703118979658,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paloma Jara",
+      "timestamp_ms": 1703118979223,
+      "content": "Paloma Jara",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paloma Jara",
+      "timestamp_ms": 1703118975484,
+      "content": "Paloma cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paloma Jara",
+      "timestamp_ms": 1703118974854,
+      "content": "Paloma asign\u00c3\u00b3 al grupo el nombre \"Paloma \u00c2\u00b7 Notebook Core i5 con 16GB RAM Rapido Corre Todo\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Paloma \u00c2\u00b7 Notebook Core i5 con 16GB RAM Rapido Corre Todo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/palomanotebookcorei5con16gbramrapidocorretodo_6982544445160701",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/658945559650895.jpg",
+    "creation_timestamp": 1703118968
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

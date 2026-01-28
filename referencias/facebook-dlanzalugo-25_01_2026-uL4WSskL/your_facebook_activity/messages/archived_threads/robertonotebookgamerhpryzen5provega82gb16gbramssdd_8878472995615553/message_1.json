@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Roberto Carlos"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Roberto Carlos",
+      "timestamp_ms": 1739563091625,
+      "content": "las fotos son distintas entre si parece qu eno es el mismo de foto en foto hay hasta un stiker de intel por alli",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Roberto Carlos",
+      "timestamp_ms": 1739563070198,
+      "content": "me das el nuemro de modelo exacto y fotos?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Roberto Carlos",
+      "timestamp_ms": 1739562818674,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Roberto Carlos",
+      "timestamp_ms": 1739562813563,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Roberto Carlos",
+      "timestamp_ms": 1739562813200,
+      "content": "Roberto inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Roberto \u00c2\u00b7 Notebook Gamer Hp // RYZEN 5 PRO // VEGA 8 2gb // 16gb RAM // SSDD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/robertonotebookgamerhpryzen5provega82gb16gbramssdd_8878472995615553",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

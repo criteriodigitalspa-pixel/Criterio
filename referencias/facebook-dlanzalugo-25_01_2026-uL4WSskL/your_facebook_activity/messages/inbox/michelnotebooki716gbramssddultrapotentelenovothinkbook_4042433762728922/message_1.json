@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Michel Santos"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767982430878,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Michel Santos",
+      "timestamp_ms": 1767982166018,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Michel Santos",
+      "timestamp_ms": 1767982162242,
+      "content": "Buenas tardes. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Michel Santos",
+      "timestamp_ms": 1767982161838,
+      "content": "Michel Santos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Michel Santos",
+      "timestamp_ms": 1767982159443,
+      "content": "Michel asign\u00c3\u00b3 al grupo el nombre \"Michel \u00c2\u00b7 Notebook i7/16GB RAM / SSDD / Ultra Potente / Lenovo ThinkBook\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Michel Santos",
+      "timestamp_ms": 1767982159443,
+      "content": "Michel cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Michel \u00c2\u00b7 Notebook i7/16GB RAM / SSDD / Ultra Potente / Lenovo ThinkBook",
+  "is_still_participant": true,
+  "thread_path": "inbox/michelnotebooki716gbramssddultrapotentelenovothinkbook_4042433762728922",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

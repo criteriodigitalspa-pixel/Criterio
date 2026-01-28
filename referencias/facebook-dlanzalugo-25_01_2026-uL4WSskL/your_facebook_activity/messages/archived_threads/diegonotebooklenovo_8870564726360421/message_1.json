@@ -1,0 +1,89 @@
+{
+  "participants": [
+    {
+      "name": "Catalina Varela"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Catalina Varela",
+      "timestamp_ms": 1728603827261,
+      "content": "Catalina cambi\u00c3\u00b3 el precio de Notebook lenovo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728464961662,
+      "content": "Ver publicaciones similares",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Catalina Varela",
+      "timestamp_ms": 1728336738946,
+      "content": "220",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728336368033,
+      "content": "Cuanto lo minimo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Catalina Varela",
+      "timestamp_ms": 1728336321982,
+      "content": "No",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Catalina Varela",
+      "timestamp_ms": 1728336318858,
+      "content": "Catalina acept\u00c3\u00b3 tu oferta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728335356590,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728335355121,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728335355120,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Notebook lenovo\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook lenovo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebooklenovo_8870564726360421",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/520835770704975.jpg",
+    "creation_timestamp": 1728335354
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "R\u00c3\u00b3 Alonso"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "R\u00c3\u00b3 Alonso",
+      "timestamp_ms": 1769101622156,
+      "content": "Hola, ya no gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "R\u00c3\u00b3 \u00c2\u00b7 Notebook Elitebook HP i5 Super Potente/ 12GB RAM / SSDD /",
+  "is_still_participant": true,
+  "thread_path": "inbox/ronotebookelitebookhpi5superpotente12gbramssdd_1365380671579550",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

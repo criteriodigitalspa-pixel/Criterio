@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Andrea Valdivia"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738364045541,
+      "content": "Hola estimada esta en la ultima foto el modelo exacto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andrea Valdivia",
+      "timestamp_ms": 1738363193674,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andrea Valdivia",
+      "timestamp_ms": 1738363185942,
+      "content": "Que procesador tiene??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andrea Valdivia",
+      "timestamp_ms": 1738363185272,
+      "content": "Andrea inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Andrea \u00c2\u00b7 Notebook HP Full / 8 RAM / 2023",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/andreanotebookhpfull8ram2023_9152307501525721",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

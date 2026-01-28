@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Dani Daniel"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1733149335179,
+      "content": "Le interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1733097564716,
+      "content": "100 amigos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dani Daniel",
+      "timestamp_ms": 1733096882284,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dani Daniel",
+      "timestamp_ms": 1733096878127,
+      "content": "Hola buenas tardes cu\u00c3\u00a1l es su \u00c3\u00baltimo precio ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dani Daniel",
+      "timestamp_ms": 1733096877865,
+      "content": "Dani Daniel",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dani Daniel",
+      "timestamp_ms": 1733096875470,
+      "content": "Dani asign\u00c3\u00b3 al grupo el nombre \"Dani \u00c2\u00b7 Notebook Ultra Rapida Dell i5 con 8GB RAM Muy Potente Con M2 256GB ENCIENDE EN 7 SEGUNDOS!\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dani Daniel",
+      "timestamp_ms": 1733096875470,
+      "content": "Dani cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dani \u00c2\u00b7 Notebook Ultra Rapida Dell i5 con 8GB RAM Muy Potente Con M2 256GB ENCIENDE EN 7 SEGUNDOS!",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/daninotebookultrarapidadelli5con8gbrammuypotenteconm2256gbenciendeen7segundos_9214997128524597",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "RM Vendedor"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737308643595,
+      "videos": [
+        {
+          "uri": "your_facebook_activity/messages/filtered_threads/vendedorultrarapidanotebookpotentei7con16gbramyssdenciendeensegundos_9284884951571553/videos/1690601648475720.mp4",
+          "creation_timestamp": 1737308643
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737302124751,
+      "content": "Con gradicos bajos y renderizado 3d al 60% corre a 30-40 fps",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "RM Vendedor",
+      "timestamp_ms": 1737298368056,
+      "content": "Y como corre los juegos como fortnite?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737292372149,
+      "content": "2gb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "RM Vendedor",
+      "timestamp_ms": 1737291708071,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "RM Vendedor",
+      "timestamp_ms": 1737291706394,
+      "content": "Y cuantos gb?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737291655314,
+      "content": "Si amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "RM Vendedor",
+      "timestamp_ms": 1737291635851,
+      "content": "Integrada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737291305426,
+      "content": "Intel graphics HD 600",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "RM Vendedor",
+      "timestamp_ms": 1737290807112,
+      "content": "Tiene tarjeta gr\u00c3\u00a1fica?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737286467623,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737286466804,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737286466029,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "RM Vendedor",
+      "timestamp_ms": 1737286253420,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "RM Vendedor",
+      "timestamp_ms": 1737286247904,
+      "content": "Hola buenas, estoy interesado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "RM Vendedor",
+      "timestamp_ms": 1737286247531,
+      "content": "RM Vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "RM Vendedor",
+      "timestamp_ms": 1737286244938,
+      "content": "Vendedor asign\u00c3\u00b3 al grupo el nombre \"Vendedor \u00c2\u00b7 Ultra Rapida Notebook Potente i7 con 16gb Ram y SSD ENCIENDE EN SEGUNDOS\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "RM Vendedor",
+      "timestamp_ms": 1737286244938,
+      "content": "Vendedor cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Vendedor \u00c2\u00b7 Ultra Rapida Notebook Potente i7 con 16gb Ram y SSD ENCIENDE EN SEGUNDOS",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/vendedorultrarapidanotebookpotentei7con16gbramyssdenciendeensegundos_9284884951571553",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

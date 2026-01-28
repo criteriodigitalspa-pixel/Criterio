@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Aura Ruderalis"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703270097385,
+      "content": "Hola Aura, si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aura Ruderalis",
+      "timestamp_ms": 1703270076039,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aura Ruderalis",
+      "timestamp_ms": 1703270071930,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aura Ruderalis",
+      "timestamp_ms": 1703270071605,
+      "content": "Aura Ruderalis",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aura Ruderalis",
+      "timestamp_ms": 1703270069833,
+      "content": "Aura cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aura Ruderalis",
+      "timestamp_ms": 1703270069349,
+      "content": "Aura asign\u00c3\u00b3 al grupo el nombre \"Aura \u00c2\u00b7 Notebook Core i5, 12GB Ram Muy potente y rapido, thinkpad\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Aura \u00c2\u00b7 Notebook Core i5, 12GB Ram Muy potente y rapido, thinkpad",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/auranotebookcorei512gbrammuypotenteyrapidothinkpad_7363094577034598",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/374852735041710.jpg",
+    "creation_timestamp": 1703270068
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

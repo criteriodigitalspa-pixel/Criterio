@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Fernando Sandoval"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Fernando Sandoval",
+      "timestamp_ms": 1759916727876,
+      "content": "Fernando est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Sandoval",
+      "timestamp_ms": 1759876864788,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Sandoval",
+      "timestamp_ms": 1759876861105,
+      "content": "Hola, buenas tardes \u00f0\u009f\u0091\u008b\u00f0\u009f\u008f\u00bb \nEstar\u00c3\u00ada interesado en recibir en parte de pago una impresora 3D ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Sandoval",
+      "timestamp_ms": 1759876860665,
+      "content": "Fernando inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Fernando \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "inbox/fernandonotebooki710thultrarapida202316gbramssdd_1154970539901979",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

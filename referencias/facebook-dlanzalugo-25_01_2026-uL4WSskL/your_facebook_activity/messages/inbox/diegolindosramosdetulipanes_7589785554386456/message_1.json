@@ -1,0 +1,89 @@
+{
+  "participants": [
+    {
+      "name": "Paula Ivonne Orellana"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Paula Ivonne Orellana",
+      "timestamp_ms": 1730031079586,
+      "content": "Paula vendi\u00c3\u00b3 Lindos ramos de tulipanes.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paula Ivonne Orellana",
+      "timestamp_ms": 1711809539823,
+      "content": "Paula cambi\u00c3\u00b3 la descripci\u00c3\u00b3n de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1708002514035,
+      "content": "Publicaciones similares a \"Lindos ramos de tulipanes\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paula Ivonne Orellana",
+      "timestamp_ms": 1707877541060,
+      "content": "Solo tenemos retiro en Irarrazaval 930 \u00c3\u0091u\u00c3\u00b1oa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1707876277812,
+      "content": "Cuanto con despacho hasta la Florida?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Paula Ivonne Orellana",
+      "timestamp_ms": 1707873293242,
+      "content": "Hola \nRamo 6 tulipanes $21.000  \nRamo 10 tulipanes\nSolo rosados disponibles",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1707872910547,
+      "content": "Hola, Paula. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1707872907233,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1707872906687,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Lindos ramos de tulipanes\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Lindos ramos de tulipanes",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegolindosramosdetulipanes_7589785554386456",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1047482679644297.jpg",
+    "creation_timestamp": 1707872902
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,346 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Andres Torrico"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728962077566,
+      "content": "190.000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728962072797,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/andresnotebookhpultrarapidaypotentecorei58gbramsinusoestacomonueva_8588590967895867/photos/1994339837699158.jpg",
+          "creation_timestamp": 1728962070
+        },
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/andresnotebookhpultrarapidaypotentecorei58gbramsinusoestacomonueva_8588590967895867/photos/2302486730106226.jpg",
+          "creation_timestamp": 1728962070
+        },
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/andresnotebookhpultrarapidaypotentecorei58gbramsinusoestacomonueva_8588590967895867/photos/527608993332822.jpg",
+          "creation_timestamp": 1728962070
+        },
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/andresnotebookhpultrarapidaypotentecorei58gbramsinusoestacomonueva_8588590967895867/photos/565162236187641.jpg",
+          "creation_timestamp": 1728962071
+        },
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/andresnotebookhpultrarapidaypotentecorei58gbramsinusoestacomonueva_8588590967895867/photos/864046682517949.jpg",
+          "creation_timestamp": 1728962071
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728962055942,
+      "content": "180.000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728962041157,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/andresnotebookhpultrarapidaypotentecorei58gbramsinusoestacomonueva_8588590967895867/photos/469198868781278.jpg",
+          "creation_timestamp": 1728962038
+        },
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/andresnotebookhpultrarapidaypotentecorei58gbramsinusoestacomonueva_8588590967895867/photos/1006798784554208.jpg",
+          "creation_timestamp": 1728962038
+        },
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/andresnotebookhpultrarapidaypotentecorei58gbramsinusoestacomonueva_8588590967895867/photos/2712424258930588.jpg",
+          "creation_timestamp": 1728962039
+        },
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/andresnotebookhpultrarapidaypotentecorei58gbramsinusoestacomonueva_8588590967895867/photos/929620688636601.jpg",
+          "creation_timestamp": 1728962039
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Torrico",
+      "timestamp_ms": 1728957679266,
+      "content": "Quisiera nueva",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728941854039,
+      "content": "No pero tengo otras",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728941843555,
+      "content": "Hola amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Torrico",
+      "timestamp_ms": 1728941475921,
+      "content": "Sigur disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Torrico",
+      "timestamp_ms": 1728941469769,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728740539189,
+      "content": "Pero puedo acercarme a cualquier metro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728740533849,
+      "content": "Si amigo, en comuna la florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Torrico",
+      "timestamp_ms": 1728739405783,
+      "content": "Usted esta en Santiago",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728733542734,
+      "content": "Buen dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728733540445,
+      "content": "Hola amigo me confirma",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728696828345,
+      "content": "Tipo 9.30am",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728696816451,
+      "content": "Si es en la ma\u00c3\u00b1ana mejor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728696811050,
+      "content": "En mi domicilio, en la florida cerca del mall plaza vespucio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Torrico",
+      "timestamp_ms": 1728696732463,
+      "content": "Donde lo recojo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Torrico",
+      "timestamp_ms": 1728696724513,
+      "content": "Okey ma\u00c3\u00b1ana le pago 130",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728696663481,
+      "content": "En 80mil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728696659477,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/andresnotebookhpultrarapidaypotentecorei58gbramsinusoestacomonueva_8588590967895867/photos/2293832477622986.jpg",
+          "creation_timestamp": 1728696657
+        },
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/andresnotebookhpultrarapidaypotentecorei58gbramsinusoestacomonueva_8588590967895867/photos/1721499048633459.jpg",
+          "creation_timestamp": 1728696658
+        },
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/andresnotebookhpultrarapidaypotentecorei58gbramsinusoestacomonueva_8588590967895867/photos/1290331625654922.jpg",
+          "creation_timestamp": 1728696658
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728696644218,
+      "content": "Pero por ese presupuesto le puedo vender este",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728696608801,
+      "content": "No amigo esta regalado ya, ma\u00c3\u00b1ana tengo coordinado 3 personas interesadas a 130mil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Torrico",
+      "timestamp_ms": 1728695943039,
+      "content": "O lo llamo si me da su numero de telefono",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Torrico",
+      "timestamp_ms": 1728695923126,
+      "content": "Ma\u00c3\u00b1ana la recojo donde me diga",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Torrico",
+      "timestamp_ms": 1728695896351,
+      "content": "Okey por 100 no se animas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728695884444,
+      "content": "No tiene uso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728695874220,
+      "content": "Esta como nueva",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Torrico",
+      "timestamp_ms": 1728695861097,
+      "content": "Esta en buenas condiciones",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728695840494,
+      "content": "El publicado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728695833834,
+      "content": "Esta como nueva pero no tengo la caja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Torrico",
+      "timestamp_ms": 1728695825402,
+      "content": "Que valor tiene",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Torrico",
+      "timestamp_ms": 1728695817542,
+      "content": "O algo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Torrico",
+      "timestamp_ms": 1728695813309,
+      "content": "En caja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Torrico",
+      "timestamp_ms": 1728695804798,
+      "content": "Esta nueva",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728695484699,
+      "content": "Si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Torrico",
+      "timestamp_ms": 1728695224333,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Torrico",
+      "timestamp_ms": 1728695220184,
+      "content": "Buenos noches. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Torrico",
+      "timestamp_ms": 1728695219903,
+      "content": "Andres inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Andres \u00c2\u00b7 NOTEBOOK HP ULTRA RAPIDA Y POTENTE  CORE I5 8GB RAM, SIN USO ESTA COMO NUEVA",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/andresnotebookhpultrarapidaypotentecorei58gbramsinusoestacomonueva_8588590967895867",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

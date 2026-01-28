@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Alan Estay"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alan Estay",
+      "timestamp_ms": 1768438122644,
+      "content": "Alan cambi\u00c3\u00b3 la descripci\u00c3\u00b3n de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alan Estay",
+      "timestamp_ms": 1768225526695,
+      "content": "No respondiste a: Hola si a\u00c3\u00ban disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alan Estay",
+      "timestamp_ms": 1768190437410,
+      "content": "Hola si a\u00c3\u00ban disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768189379902,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768189379586,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook Asus vivobook",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebookasusvivobook_1284817210143096",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/850686194387514.jpg",
+    "creation_timestamp": 1768189376
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

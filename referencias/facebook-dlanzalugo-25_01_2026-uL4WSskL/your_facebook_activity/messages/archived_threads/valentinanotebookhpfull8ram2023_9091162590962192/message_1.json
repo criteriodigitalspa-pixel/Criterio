@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Valentina Millaray Mu\u00c3\u00b1oz Garc\u00c3\u00a9s"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738412365419,
+      "content": "Le intereso el equipo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738377656592,
+      "content": "Le intereso el equipo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738377522730,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Valentina Millaray Mu\u00c3\u00b1oz Garc\u00c3\u00a9s",
+      "timestamp_ms": 1738370730778,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Valentina Millaray Mu\u00c3\u00b1oz Garc\u00c3\u00a9s",
+      "timestamp_ms": 1738370726446,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Valentina Millaray Mu\u00c3\u00b1oz Garc\u00c3\u00a9s",
+      "timestamp_ms": 1738370726126,
+      "content": "Valentina inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Valentina \u00c2\u00b7 Notebook HP Full / 8 RAM / 2023",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/valentinanotebookhpfull8ram2023_9091162590962192",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

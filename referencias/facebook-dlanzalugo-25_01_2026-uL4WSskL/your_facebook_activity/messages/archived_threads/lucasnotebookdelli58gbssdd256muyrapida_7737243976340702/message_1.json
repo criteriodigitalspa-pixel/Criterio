@@ -1,0 +1,85 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Luca Giogia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718382234031,
+      "content": "Lucas buen dia, aun le interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718333378191,
+      "content": "Si tiene consultas d\u00c3\u00adgame no mas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718333349185,
+      "content": "Si sigue disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718333344701,
+      "content": "Hola Lucas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luca Giogia",
+      "timestamp_ms": 1718333302256,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luca Giogia",
+      "timestamp_ms": 1718333295183,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luca Giogia",
+      "timestamp_ms": 1718333294183,
+      "content": "Luca Giogia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luca Giogia",
+      "timestamp_ms": 1718333292256,
+      "content": "Luca asign\u00c3\u00b3 al grupo el nombre \"Lucas \u00c2\u00b7 Notebook Dell I5 8GB SSDD 256 Muy Rapida\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luca Giogia",
+      "timestamp_ms": 1718333292256,
+      "content": "Luca cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lucas \u00c2\u00b7 Notebook Dell I5 8GB SSDD 256 Muy Rapida",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/lucasnotebookdelli58gbssdd256muyrapida_7737243976340702",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

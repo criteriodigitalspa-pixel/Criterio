@@ -1,0 +1,141 @@
+{
+  "participants": [
+    {
+      "name": "Jaaby Raww"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jaaby Raww",
+      "timestamp_ms": 1732309732157,
+      "content": "Jaaby reaccion\u00c3\u00b3 \u00f0\u009f\u0091\u008d a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732309535436,
+      "content": "Claro sin problema, podria dejarlo en 170 como minimo",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Jaaby Raww",
+          "timestamp": 1732309732
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jaaby Raww",
+      "timestamp_ms": 1732309382427,
+      "content": "Es conversable su valor?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jaaby Raww",
+      "timestamp_ms": 1732309371437,
+      "content": "Yo soy de Maip\u00c3\u00ba y lo busco para mi hijo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jaaby Raww",
+      "timestamp_ms": 1732309359354,
+      "content": "Espero el 28 tenerle alguna repuesta y ojal\u00c3\u00a1 est\u00c3\u00a9 a\u00c3\u00ban disponible.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jaaby Raww",
+      "timestamp_ms": 1732309322727,
+      "content": "Sisi me interesa. Y me gustar\u00c3\u00ada mucho poder ir verlo, pero el sueldo a finde mes define.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732308454480,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732308449254,
+      "content": "Mousepad, bateria, teclado, pantalla",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732308438540,
+      "content": "Sii todo funcionando",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jaaby Raww",
+      "timestamp_ms": 1732308355044,
+      "content": "Hola buenas, funcionando al 100%?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732307925773,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jaaby Raww",
+      "timestamp_ms": 1732307674367,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jaaby Raww",
+      "timestamp_ms": 1732307668093,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jaaby Raww",
+      "timestamp_ms": 1732307667645,
+      "content": "Jaaby Raww",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jaaby Raww",
+      "timestamp_ms": 1732307664316,
+      "content": "Jaaby asign\u00c3\u00b3 al grupo el nombre \"Jaaby \u00c2\u00b7 POTENTE NOTEBOOK I7 ULTRA RAPIDO 12GB RAM Y SSD ENCIENDE EN SEGUNDOS\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jaaby Raww",
+      "timestamp_ms": 1732307664316,
+      "content": "Jaaby cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jaaby \u00c2\u00b7 POTENTE NOTEBOOK I7 ULTRA RAPIDO 12GB RAM Y SSD ENCIENDE EN SEGUNDOS",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/jaabypotentenotebooki7ultrarapido12gbramyssdenciendeensegundos_8772534222807402",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

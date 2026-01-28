@@ -1,0 +1,85 @@
+{
+  "participants": [
+    {
+      "name": "Angie Gutierrez Gomez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728656532026,
+      "content": "Hola, no muchas gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angie Gutierrez Gomez",
+      "timestamp_ms": 1728656465975,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728656459295,
+      "content": "Si disponinle",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angie Gutierrez Gomez",
+      "timestamp_ms": 1728656458355,
+      "content": "Hola, aceptas 80 para recogerlo hoy?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angie Gutierrez Gomez",
+      "timestamp_ms": 1728656452575,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angie Gutierrez Gomez",
+      "timestamp_ms": 1728656448379,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angie Gutierrez Gomez",
+      "timestamp_ms": 1728656447897,
+      "content": "Angie Gutierrez Gomez",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angie Gutierrez Gomez",
+      "timestamp_ms": 1728656445053,
+      "content": "Angie asign\u00c3\u00b3 al grupo el nombre \"Angie \u00c2\u00b7 Rapida Notebook HP core i5 con 8GB Ram y  SSD Corre cualquier programa\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angie Gutierrez Gomez",
+      "timestamp_ms": 1728656445053,
+      "content": "Angie cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Angie \u00c2\u00b7 Rapida Notebook HP core i5 con 8GB Ram y  SSD Corre cualquier programa",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/angierapidanotebookhpcorei5con8gbramyssdcorrecualquierprograma_6716200878503644",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

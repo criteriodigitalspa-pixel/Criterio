@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Adrian Gonzalez Hidalgo"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Adrian Gonzalez Hidalgo",
+      "timestamp_ms": 1745796514419,
+      "content": "Adrian cambi\u00c3\u00b3 la descripci\u00c3\u00b3n de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737798572681,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737798572544,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Hp EliteBook 840 G3",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegohpelitebook840g3_9574220172590357",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1331964714373472.jpg",
+    "creation_timestamp": 1737798569
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

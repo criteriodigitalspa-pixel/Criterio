@@ -1,0 +1,158 @@
+{
+  "participants": [
+    {
+      "name": "Garrett Mcnamara"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739996663023,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/garrettnotebookfull8ramano20231000gb_8950007321774727/photos/1671385613778024.jpg",
+          "creation_timestamp": 1739996661
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Garrett Mcnamara",
+      "timestamp_ms": 1739996399826,
+      "content": "Cual core es?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Garrett Mcnamara",
+      "timestamp_ms": 1739996393473,
+      "content": "Disculpe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Garrett Mcnamara",
+      "timestamp_ms": 1739996391162,
+      "content": "Si amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739995796321,
+      "content": "Le intereso el equipo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739926140896,
+      "content": "Y lo quitaron mal",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739926133786,
+      "content": "Es un pelado por un sticker que tenia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Garrett Mcnamara",
+      "timestamp_ms": 1739925625065,
+      "content": "El golpe que tiene es micho ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Garrett Mcnamara",
+      "timestamp_ms": 1739925609521,
+      "content": "Ola buenas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739924879545,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739924878033,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739924877509,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739924877048,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Garrett Mcnamara",
+      "timestamp_ms": 1739924659821,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Garrett Mcnamara",
+      "timestamp_ms": 1739924654760,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Garrett Mcnamara",
+      "timestamp_ms": 1739924654329,
+      "content": "Garrett Mcnamara",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Garrett Mcnamara",
+      "timestamp_ms": 1739924651591,
+      "content": "Garrett asign\u00c3\u00b3 al grupo el nombre \"Garrett \u00c2\u00b7 Notebook Full / 8 RAM / a\u00c3\u00b1o 2023 / 1000GB\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Garrett Mcnamara",
+      "timestamp_ms": 1739924651591,
+      "content": "Garrett cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Garrett \u00c2\u00b7 Notebook Full / 8 RAM / a\u00c3\u00b1o 2023 / 1000GB",
+  "is_still_participant": true,
+  "thread_path": "inbox/garrettnotebookfull8ramano20231000gb_8950007321774727",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

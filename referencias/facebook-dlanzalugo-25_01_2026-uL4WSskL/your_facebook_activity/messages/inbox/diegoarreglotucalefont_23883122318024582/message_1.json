@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Geremi Gonzalez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Geremi Gonzalez",
+      "timestamp_ms": 1752530336242,
+      "content": "\u00c2\u00bfA\u00c3\u00ban te interesa? Responde a: Hola buenas tardes si totalmente disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geremi Gonzalez",
+      "timestamp_ms": 1752523395980,
+      "content": "Hola buenas tardes si totalmente disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geremi Gonzalez",
+      "timestamp_ms": 1752523364387,
+      "content": "S\u00c3\u00ad. \u00c2\u00bfTe interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1752521953025,
+      "content": "Hola, Jesus. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1752521952758,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Arreglo tu calefont",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegoarreglotucalefont_23883122318024582",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/626938956542104.jpg",
+    "creation_timestamp": 1752521949
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

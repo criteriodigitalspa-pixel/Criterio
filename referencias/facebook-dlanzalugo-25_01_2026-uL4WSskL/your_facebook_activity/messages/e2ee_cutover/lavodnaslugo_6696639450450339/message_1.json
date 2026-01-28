@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Lavodnas Lugo"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lavodnas Lugo",
+      "timestamp_ms": 1705042224821,
+      "content": "Lavodnas envi\u00c3\u00b3 un archivo adjunto.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lavodnas Lugo",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/lavodnaslugo_6696639450450339",
+  "magic_words": [
+    
+  ]
+}

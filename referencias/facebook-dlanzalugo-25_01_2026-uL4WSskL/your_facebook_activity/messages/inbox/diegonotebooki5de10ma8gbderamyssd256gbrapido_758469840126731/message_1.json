@@ -1,0 +1,89 @@
+{
+  "participants": [
+    {
+      "name": "Katherine Belardy"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Katherine Belardy",
+      "timestamp_ms": 1757093331706,
+      "content": "Katherine vendi\u00c3\u00b3 Notebook i5 de 10ma, 8GB de RAM Y SSD 256gb - R\u00c3\u00a1pido\u00f0\u009f\u0094\u00a5.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Katherine Belardy",
+      "timestamp_ms": 1757018898823,
+      "content": "Katherine baj\u00c3\u00b3 el precio de Notebook i5 de 10ma, 8GB de RAM Y SSD 256gb - R\u00c3\u00a1pido\u00f0\u009f\u0094\u00a5 a $139.990.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Katherine Belardy",
+      "timestamp_ms": 1756924282470,
+      "content": "Meta podr\u00c3\u00ada usar tecnolog\u00c3\u00ada para revisar los mensajes de Marketplace con el fin de detectar y reducir las estafas y el fraude.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Katherine Belardy",
+      "timestamp_ms": 1756924281474,
+      "content": "En mi domicilio en la comuna de el bosque",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756924223428,
+      "content": "Donde entregas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756924220443,
+      "content": "Holaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Katherine Belardy",
+      "timestamp_ms": 1756924204243,
+      "content": "Hola buenas disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756921140002,
+      "content": "Buenas tardes. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756921139815,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook i5 de 10ma, 8GB de RAM Y SSD 256gb - R\u00c3\u00a1pido\u00f0\u009f\u0094\u00a5",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebooki5de10ma8gbderamyssd256gbrapido_758469840126731",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1324868276023085.jpg",
+    "creation_timestamp": 1756921137
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

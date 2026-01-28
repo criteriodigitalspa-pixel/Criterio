@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Robinson Igor Tiznado"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742489755576,
+      "content": "Hola, no estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robinson Igor Tiznado",
+      "timestamp_ms": 1742488880779,
+      "content": "Tiene la licencia de windows ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robinson Igor Tiznado",
+      "timestamp_ms": 1742488877623,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robinson Igor Tiznado",
+      "timestamp_ms": 1742488870048,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robinson Igor Tiznado",
+      "timestamp_ms": 1742488869671,
+      "content": "Robinson Igor inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Robinson Igor \u00c2\u00b7 Notebook i5 8GB RAM Ultra Potente con SSD ENCIENDE EN SEGUNDOS\n PROBOOK",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/robinsonigornotebooki58gbramultrapotenteconssdenciendeensegundosprobook_9396969590389956",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

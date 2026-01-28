@@ -1,0 +1,110 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Casa Roller"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Casa Roller",
+      "timestamp_ms": 1760176450673,
+      "content": "Casa vendi\u00c3\u00b3 laptop HP 15 dw2xxx inter core i7.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Casa Roller",
+      "timestamp_ms": 1760176450458,
+      "content": "Casa vendi\u00c3\u00b3 laptop HP 15 dw2xxx inter core i7.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Casa Roller",
+      "timestamp_ms": 1760176449995,
+      "content": "Casa marc\u00c3\u00b3 el art\u00c3\u00adculo como vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753961227911,
+      "content": "Ver publicaciones similares",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Casa Roller",
+      "timestamp_ms": 1753855710729,
+      "content": "los otros dias todo el dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Casa Roller",
+      "timestamp_ms": 1753855687183,
+      "content": "ma\u00c3\u00b1ana despues de las 5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753847995834,
+      "content": "Cuando puede?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Casa Roller",
+      "timestamp_ms": 1753845824290,
+      "content": "ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753831630246,
+      "content": "Es que me queda un poquito lejos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753831624824,
+      "content": "Amigo 190 y lo voy a buscar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Casa Roller",
+      "timestamp_ms": 1753828261583,
+      "content": "200.000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753827996308,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 laptop HP 15 dw2xxx inter core i7",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegolaptophp15dw2xxxintercorei7_24428443400176874",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/24116393744686106.jpg",
+    "creation_timestamp": 1753827994
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

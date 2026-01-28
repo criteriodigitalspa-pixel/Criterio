@@ -1,0 +1,223 @@
+{
+  "participants": [
+    {
+      "name": "Carlos \u00c3\u0081lvarez Pacheco"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739815151471,
+      "content": "2ghz",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739815149296,
+      "content": "2 perdon",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739815125037,
+      "content": "Es de 1.9hz",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739815120739,
+      "content": "Vale amigo sin problema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos \u00c3\u0081lvarez Pacheco",
+      "timestamp_ms": 1739815073786,
+      "content": "El procesador?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos \u00c3\u0081lvarez Pacheco",
+      "timestamp_ms": 1739815059490,
+      "content": "De cu\u00c3\u00a1ntos GHz es?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos \u00c3\u0081lvarez Pacheco",
+      "timestamp_ms": 1739815005765,
+      "content": "En la semana no puedo por mi horario de trabajo y porque soy de Casablanca",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos \u00c3\u0081lvarez Pacheco",
+      "timestamp_ms": 1739814977145,
+      "content": "Si lo tienes a\u00c3\u00ban pasar\u00c3\u00a9 a verlo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos \u00c3\u0081lvarez Pacheco",
+      "timestamp_ms": 1739814965161,
+      "content": "Mira el s\u00c3\u00a1bado viajo a Santiago a la Florida ya que estoy haciendo un curso de Dj",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos \u00c3\u0081lvarez Pacheco",
+      "timestamp_ms": 1739814947497,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos \u00c3\u0081lvarez Pacheco",
+      "timestamp_ms": 1739814944591,
+      "content": "Me sirve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos \u00c3\u0081lvarez Pacheco",
+      "timestamp_ms": 1739814938134,
+      "content": "Carlos reaccion\u00c3\u00b3 \u00e2\u009d\u00a4 a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739814903726,
+      "content": "Podria dejarlo en 200mil estimado",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Carlos \u00c3\u0081lvarez Pacheco"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos \u00c3\u0081lvarez Pacheco",
+      "timestamp_ms": 1739814889720,
+      "content": "Por lo que veo cumple con lo que necesito",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos \u00c3\u0081lvarez Pacheco",
+      "timestamp_ms": 1739814877152,
+      "content": "Es conversable el valor?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos \u00c3\u0081lvarez Pacheco",
+      "timestamp_ms": 1739814863888,
+      "content": "Carlos reaccion\u00c3\u00b3 \u00f0\u009f\u0091\u008d a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739813395632,
+      "content": "Cargador original, todo impecable",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Carlos \u00c3\u0081lvarez Pacheco"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739813389877,
+      "content": "La bateria esta buena",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739813382663,
+      "content": "No amigo, esta impecable",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos \u00c3\u0081lvarez Pacheco",
+      "timestamp_ms": 1739803821490,
+      "content": "Tiene alg\u00c3\u00ban detalle importante que se deba saber",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos \u00c3\u0081lvarez Pacheco",
+      "timestamp_ms": 1739803813269,
+      "content": "Perfecto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739802595127,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739802593766,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739802593414,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos \u00c3\u0081lvarez Pacheco",
+      "timestamp_ms": 1739800760933,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos \u00c3\u0081lvarez Pacheco",
+      "timestamp_ms": 1739800757463,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos \u00c3\u0081lvarez Pacheco",
+      "timestamp_ms": 1739800757263,
+      "content": "Carlos inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Carlos \u00c2\u00b7 Notebook i7-8th 16GB RAM Ultra Potente con SSD ENCIENDE EN SEGUNDOS\n PROBOOK",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/carlosnotebooki78th16gbramultrapotenteconssdenciendeensegundosprobook_9222327421191874",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

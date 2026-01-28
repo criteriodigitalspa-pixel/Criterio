@@ -1,0 +1,104 @@
+{
+  "participants": [
+    {
+      "name": "Jose Luis Felipe Rozas"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729391906574,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/joseluisnotebookhpamdlmpecableofertaunica_9391714747511510/photos/470420058676822.jpg",
+          "creation_timestamp": 1729391905
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729391893513,
+      "content": "En las foto sale amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Luis Felipe Rozas",
+      "timestamp_ms": 1729388706557,
+      "content": "qu\u00c3\u00a9 procesador y cu\u00c3\u00a1nto disco duo tiene?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729388345508,
+      "content": "Hp 245",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Luis Felipe Rozas",
+      "timestamp_ms": 1729385548533,
+      "content": "qu\u00c3\u00a9 modelo es?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729384336824,
+      "content": "Hola so diaponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Luis Felipe Rozas",
+      "timestamp_ms": 1729383540187,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Luis Felipe Rozas",
+      "timestamp_ms": 1729383536776,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Luis Felipe Rozas",
+      "timestamp_ms": 1729383535707,
+      "content": "Jose Luis Felipe Rozas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Luis Felipe Rozas",
+      "timestamp_ms": 1729383532427,
+      "content": "Jose Luis Felipe asign\u00c3\u00b3 al grupo el nombre \"Jose Luis \u00c2\u00b7 Notebook HP AMD - \u00c2\u00a1lmpecable! Oferta \u00c3\u00banica\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Luis Felipe Rozas",
+      "timestamp_ms": 1729383532427,
+      "content": "Jose Luis Felipe cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jose Luis \u00c2\u00b7 Notebook HP AMD - \u00c2\u00a1lmpecable! Oferta \u00c3\u00banica",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/joseluisnotebookhpamdlmpecableofertaunica_9391714747511510",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

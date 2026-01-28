@@ -1,0 +1,128 @@
+{
+  "participants": [
+    {
+      "name": "Erick Joel Paiva Lindo"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732664393525,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732629177807,
+      "content": "Le intereso?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732541948432,
+      "videos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/erickjoelnotebookultrarapidadelli5con16gbrammuypotenteconm2500gbenciendeen7segundos_8081215728646160/videos/2247821355587411.mp4",
+          "creation_timestamp": 1732541940
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732541937527,
+      "videos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/erickjoelnotebookultrarapidadelli5con16gbrammuypotenteconm2500gbenciendeen7segundos_8081215728646160/videos/1108923683945661.mp4",
+          "creation_timestamp": 1732541928
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732541754647,
+      "videos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/erickjoelnotebookultrarapidadelli5con16gbrammuypotenteconm2500gbenciendeen7segundos_8081215728646160/videos/547164091613578.mp4",
+          "creation_timestamp": 1732541743
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732534300174,
+      "content": "Tengo que tomarselas amigo, cuando vuelva de la pega te las paso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erick Joel Paiva Lindo",
+      "timestamp_ms": 1732532016003,
+      "content": "Tienes m\u00c3\u00a1s fotos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732531944584,
+      "content": "Hola si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erick Joel Paiva Lindo",
+      "timestamp_ms": 1732530961408,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erick Joel Paiva Lindo",
+      "timestamp_ms": 1732530957084,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erick Joel Paiva Lindo",
+      "timestamp_ms": 1732530956565,
+      "content": "Erick Joel Paiva Lindo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erick Joel Paiva Lindo",
+      "timestamp_ms": 1732530954525,
+      "content": "Erick Joel asign\u00c3\u00b3 al grupo el nombre \"Erick Joel \u00c2\u00b7 Notebook Ultra Rapida Dell i5 con 16GB RAM Muy Potente Con M2 500GB ENCIENDE EN 7 SEGUNDOS!\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erick Joel Paiva Lindo",
+      "timestamp_ms": 1732530954525,
+      "content": "Erick Joel cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Erick Joel \u00c2\u00b7 Notebook Ultra Rapida Dell i5 con 16GB RAM Muy Potente Con M2 500GB ENCIENDE EN 7 SEGUNDOS!",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/erickjoelnotebookultrarapidadelli5con16gbrammuypotenteconm2500gbenciendeen7segundos_8081215728646160",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

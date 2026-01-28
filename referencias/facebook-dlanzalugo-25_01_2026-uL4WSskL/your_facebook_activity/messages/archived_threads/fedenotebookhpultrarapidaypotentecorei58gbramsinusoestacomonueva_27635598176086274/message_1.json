@@ -1,0 +1,413 @@
+{
+  "participants": [
+    {
+      "name": "Fede Rinaldi"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728749947883,
+      "content": "Diego Jose Lanza Lugo\n26.522.372-9\nBanco Ita\u00c3\u00ba\nCuenta corriente\n0225177493\nDIEGOL_9818@HOTMAIL.COM",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728749798407,
+      "content": "Torre B",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728749752911,
+      "content": "Estoy aca en la recepcion",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728749728670,
+      "content": "Vale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fede Rinaldi",
+      "timestamp_ms": 1728749710908,
+      "content": "Voy, ya estacion\u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728749710711,
+      "content": "Si si hay",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fede Rinaldi",
+      "timestamp_ms": 1728749624640,
+      "content": "Hay estacionamiento de visitas o busco lugar afuera?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728749594880,
+      "content": "Estare en recepcion",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728749591194,
+      "content": "Bajo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fede Rinaldi",
+      "timestamp_ms": 1728749580490,
+      "content": "Llegu\u00c3\u00a9, bajas o subo al depto?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728748418169,
+      "content": "Vale vale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fede Rinaldi",
+      "timestamp_ms": 1728748110298,
+      "content": "Diego estoy saliendo, el gps me marca 25 minutos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728744335547,
+      "content": "Valee",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fede Rinaldi",
+      "timestamp_ms": 1728744272049,
+      "content": "Si si, voy igual a ver las otras. No me hab\u00c3\u00ada decidido por ninguna igual",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Diego Lanza",
+          "timestamp": 1728744330
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728743980303,
+      "content": "Estimado vendi a precio completo la que te ofreci a 130, pero igual tengo las otras por si quisieras verlas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728734504519,
+      "content": "Vale gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fede Rinaldi",
+      "timestamp_ms": 1728734083115,
+      "content": "Entre las 13 y 13:30",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fede Rinaldi",
+      "timestamp_ms": 1728734072102,
+      "content": "Hola Diego, si voy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728733929440,
+      "content": "Hola buen dia, me confirma si vendra hoy por favor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728653892420,
+      "content": "936180863",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728653887954,
+      "content": "Vale te dejo mi numero",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fede Rinaldi",
+      "timestamp_ms": 1728652903945,
+      "content": "Gracias Diego",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fede Rinaldi",
+      "timestamp_ms": 1728652903433,
+      "content": "Oka, ma\u00c3\u00b1ana entre las 13:00 y 13:30 estoy por all\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728652559891,
+      "content": "Hoy estoy fuera y llego a las 6.30pm, ma\u00c3\u00b1ama estare todo el dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728652535909,
+      "content": "Lago pirihueico 6502 Torre B",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fede Rinaldi",
+      "timestamp_ms": 1728652380806,
+      "content": "Pasame la direcci\u00c3\u00b3n y te digo si voy ahora o ma\u00c3\u00b1ana, yo vivo en \u00c3\u0091u\u00c3\u00b1oa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fede Rinaldi",
+      "timestamp_ms": 1728652380449,
+      "content": "Bueno dale, me parece bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728652236740,
+      "content": "Las 2 son HP y tiene los mismo componentes, i5, 8 gb de ram",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728652198036,
+      "content": "Y se va con la que mas le guste",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728652190996,
+      "content": "Si gusta puede acercarse y probar las 2",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728652184615,
+      "content": "Y de 140 se la puedo dejar en 130 minimo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728652167648,
+      "content": "Mira esa HP la tengo en 110, va super rapida, se la puedo dejar en 100mil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728652152630,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/fedenotebookhpultrarapidaypotentecorei58gbramsinusoestacomonueva_27635598176086274/photos/1052051203090422.jpg",
+          "creation_timestamp": 1728652150
+        },
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/fedenotebookhpultrarapidaypotentecorei58gbramsinusoestacomonueva_27635598176086274/photos/1253194062532470.jpg",
+          "creation_timestamp": 1728652150
+        },
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/fedenotebookhpultrarapidaypotentecorei58gbramsinusoestacomonueva_27635598176086274/photos/1582096622440975.jpg",
+          "creation_timestamp": 1728652150
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fede Rinaldi",
+      "timestamp_ms": 1728652133113,
+      "content": "En qu\u00c3\u00a9 parte de la florida vives? algo de referencia?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fede Rinaldi",
+      "timestamp_ms": 1728652068894,
+      "content": "Estoy buscando una que tenga i5 y 8gb de ram. La uso para cosas basicas, pero no quiero algo tan lento tampoco. Me gusta esa, si me la dejas en 120 la busco",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728651862569,
+      "content": "Pero si quiere digame su necesidad y le ayudo a elegir",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728651836809,
+      "content": "La diferencia de precio es por la memoria RAM y esta es la mas cara por que es la mas moderna",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728651654412,
+      "content": "Si, todas estan en buen estado, pero esta en concreto es la mas nueva",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fede Rinaldi",
+      "timestamp_ms": 1728651392494,
+      "content": "Pero me gustar\u00c3\u00ada saber por qu\u00c3\u00a9 la diferencia de precio, en todas le pusiste que est\u00c3\u00a1n en buen estado y tienen caracteristicas similares",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fede Rinaldi",
+      "timestamp_ms": 1728651342570,
+      "content": "O la HP que tienes en $110.000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fede Rinaldi",
+      "timestamp_ms": 1728651259618,
+      "content": "La tienes disponible?=",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fede Rinaldi",
+      "timestamp_ms": 1728651249987,
+      "content": "Oka, estoy viendo una Dell con 16gb que tienes publicada tambien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728651081784,
+      "content": "Me falta la pura caja pero esta nueva",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728651059866,
+      "content": "Esta en perfecto estado, la bateria esta impecable, cargador original",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728650954956,
+      "content": "Hola amigo, podria verla en mi domicilio que queda en la florida y la prueba con calma, o si quiere se la puedo acercar a cualquier Metro que le acomode",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fede Rinaldi",
+      "timestamp_ms": 1728650891042,
+      "content": "Donde la puedo ver? Me interesa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728650245037,
+      "content": "Si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728650241306,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fede Rinaldi",
+      "timestamp_ms": 1728649774716,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fede Rinaldi",
+      "timestamp_ms": 1728649770267,
+      "content": "Buenos d\u00c3\u00adas. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fede Rinaldi",
+      "timestamp_ms": 1728649769799,
+      "content": "Fede Rinaldi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fede Rinaldi",
+      "timestamp_ms": 1728649767565,
+      "content": "Fede asign\u00c3\u00b3 al grupo el nombre \"Fede \u00c2\u00b7 NOTEBOOK HP ULTRA RAPIDA Y POTENTE  CORE I5 8GB RAM, SIN USO ESTA COMO NUEVA\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fede Rinaldi",
+      "timestamp_ms": 1728649767565,
+      "content": "Fede cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Fede \u00c2\u00b7 NOTEBOOK HP ULTRA RAPIDA Y POTENTE  CORE I5 8GB RAM, SIN USO ESTA COMO NUEVA",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/fedenotebookhpultrarapidaypotentecorei58gbramsinusoestacomonueva_27635598176086274",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

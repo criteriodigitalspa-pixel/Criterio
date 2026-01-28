@@ -1,0 +1,94 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Lois Evaristo Detodo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703224963489,
+      "content": "Publicaciones similares a \"Lenovo T460 core i5 ram 8 gigas ssd 256\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lois Evaristo Detodo",
+      "timestamp_ms": 1703108666326,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lois Evaristo Detodo",
+      "timestamp_ms": 1703108665132,
+      "content": "Paso gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703099612072,
+      "content": "Me acepta 80mil amigo? Y voy al tiro a buscarla",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lois Evaristo Detodo",
+      "timestamp_ms": 1703096894947,
+      "content": "Si a\u00c3\u00ban est\u00c3\u00a1 disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703095369967,
+      "content": "Amigo me acepta 80mil?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703095360196,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703095357718,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703095357303,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Lenovo T460 core i5 ram 8 gigas ssd 480\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Lenovo T460 core i5 ram 8 gigas ssd 480",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegolenovot460corei5ram8gigasssd480_7056048144443550",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/727742509288239.jpg",
+    "creation_timestamp": 1703095355
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

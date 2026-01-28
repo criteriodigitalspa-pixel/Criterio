@@ -88,12 +88,7 @@ service cloud.firestore {
     }
 
     match /tasks/{taskId} {
-      allow create: if request.auth != null;
-      allow read, update, delete: if request.auth != null && (
-        resource.data.createdBy == request.auth.uid || 
-        resource.data.assignedTo.hasAny([request.auth.uid]) ||
-        resource.data.members.hasAny([request.auth.uid])
-      );
+      allow read, write: if request.auth != null;
     }
     // 🔔 Notifications Collection
     match /notifications/{notificationId} {
@@ -106,6 +101,30 @@ service cloud.firestore {
     match /whatsapp_queue/{messageId} {
       allow create: if true; // TEMPORARY DEBUG: Allow anyone to create
       allow read, update, delete: if isAdmin(); // Only Admin/Agent handles them
+    }
+    // 🎭 AI Personas
+    match /personas/{personaId} {
+      allow read, write: if isAuthenticated();
+    }
+    
+    // ⚡ AI Actions
+    match /actions/{actionId} {
+      allow read, write: if isAuthenticated();
+    }
+
+    // 🚀 DEPLOYMENTS (Agent Studio)
+    match /deployments/{docId} {
+      allow read, write: if isAuthenticated();
+    }
+
+    // 👤 User Preferences (Phone Map)
+    match /user_preferences/{prefId} {
+        allow read, write: if isAuthenticated();
+    }
+
+    // 🔧 System Commands (Remote Restart)
+    match /system/{docId} {
+      allow read, write: if isAuthenticated();
     }
 
     // -----------------------------

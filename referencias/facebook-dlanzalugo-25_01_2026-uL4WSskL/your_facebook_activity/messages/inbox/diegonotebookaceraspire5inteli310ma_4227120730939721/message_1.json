@@ -1,0 +1,117 @@
+{
+  "participants": [
+    {
+      "name": "Chacon Alberto"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Chacon Alberto",
+      "timestamp_ms": 1767183522062,
+      "content": "Alberto cambi\u00c3\u00b3 la descripci\u00c3\u00b3n de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chacon Alberto",
+      "timestamp_ms": 1766884307485,
+      "content": "Alberto baj\u00c3\u00b3 el precio de Notebook Acer Aspire 5 Intel i3 10ma a $110.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chacon Alberto",
+      "timestamp_ms": 1766884295827,
+      "content": "Alberto actualiz\u00c3\u00b3 las fotos de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chacon Alberto",
+      "timestamp_ms": 1766884294918,
+      "content": "Alberto cambi\u00c3\u00b3 la descripci\u00c3\u00b3n de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chacon Alberto",
+      "timestamp_ms": 1766756392346,
+      "content": "Alberto cambi\u00c3\u00b3 la descripci\u00c3\u00b3n de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chacon Alberto",
+      "timestamp_ms": 1766756390886,
+      "content": "Alberto cambi\u00c3\u00b3 el precio de Notebook Acer Aspire 5 Intel i3 10ma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chacon Alberto",
+      "timestamp_ms": 1765537410699,
+      "content": "Hola Diego. Precio \u00c3\u00banico",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765537238651,
+      "content": "Aceptas 80?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765537233866,
+      "content": "Holaa sii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chacon Alberto",
+      "timestamp_ms": 1765534470100,
+      "content": "Meta podr\u00c3\u00ada usar tecnolog\u00c3\u00ada para revisar los mensajes de Marketplace con el fin de detectar y reducir las estafas y el fraude.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chacon Alberto",
+      "timestamp_ms": 1765534467269,
+      "content": "S\u00c3\u00ad. \u00c2\u00bfTe interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765512380529,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765512380226,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook Acer Aspire 5 Intel i3 10ma",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebookaceraspire5inteli310ma_4227120730939721",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1386813989589331.jpg",
+    "creation_timestamp": 1765512377
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

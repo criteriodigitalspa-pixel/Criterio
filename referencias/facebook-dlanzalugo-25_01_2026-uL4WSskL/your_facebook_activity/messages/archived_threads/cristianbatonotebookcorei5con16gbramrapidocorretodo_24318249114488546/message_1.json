@@ -1,0 +1,131 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Cristian Bato Alvarez"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703037363219,
+      "content": "Cristian cuentame, te intereso?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703026100467,
+      "content": "Es super buen equipo, se siente de muy alta calidad y funciona bastante rapido",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703025329995,
+      "content": "Sin golpes ni rayas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703025293438,
+      "content": "Ninguno, esta muy buen cuidada sin ningun detalle",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristian Bato Alvarez",
+      "timestamp_ms": 1703024871024,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristian Bato Alvarez",
+      "timestamp_ms": 1703024868507,
+      "content": "Detalles",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703014645544,
+      "content": "Si sigue disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703014641760,
+      "content": "Hola Cristian",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703014637740,
+      "content": "Precauci\u00c3\u00b3n con las estafas frecuentes al usar apps de pago",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703014635214,
+      "content": "Buenas tardes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristian Bato Alvarez",
+      "timestamp_ms": 1703014617539,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristian Bato Alvarez",
+      "timestamp_ms": 1703014612791,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristian Bato Alvarez",
+      "timestamp_ms": 1703014612401,
+      "content": "Cristian Bato Alvarez",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristian Bato Alvarez",
+      "timestamp_ms": 1703014610820,
+      "content": "Cristian Bato cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristian Bato Alvarez",
+      "timestamp_ms": 1703014610467,
+      "content": "Cristian Bato asign\u00c3\u00b3 al grupo el nombre \"Cristian Bato \u00c2\u00b7 Notebook Core i5 con 16GB RAM Rapido Corre Todo\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cristian Bato \u00c2\u00b7 Notebook Core i5 con 16GB RAM Rapido Corre Todo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/cristianbatonotebookcorei5con16gbramrapidocorretodo_24318249114488546",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/723328253077426.jpg",
+    "creation_timestamp": 1703014608
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

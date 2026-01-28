@@ -1,0 +1,127 @@
+{
+  "participants": [
+    {
+      "name": "Cristina Fredericksen"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Cristina Fredericksen",
+      "timestamp_ms": 1730066137715,
+      "content": "Cristina cambi\u00c3\u00b3 la descripci\u00c3\u00b3n de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristina Fredericksen",
+      "timestamp_ms": 1728774250063,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/diegonotebookhp_8463557957092750/photos/511617425188214.jpg",
+          "creation_timestamp": 1728774249
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728760279106,
+      "content": "Que disco t ram tiene amigo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728760208562,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728521169503,
+      "content": "Ver publicaciones similares",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristina Fredericksen",
+      "timestamp_ms": 1728408946251,
+      "content": "En alg\u00c3\u00ban metro de la l\u00c3\u00adnea 2 o en el metro los Toesca",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728394432695,
+      "content": "Donde entrega?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristina Fredericksen",
+      "timestamp_ms": 1728394394386,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/diegonotebookhp_8463557957092750/photos/1064806441724021.jpg",
+          "creation_timestamp": 1728394393
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728394290393,
+      "content": "Sabe las especificaciones?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristina Fredericksen",
+      "timestamp_ms": 1728394212672,
+      "content": "Hola solo lo dejo en 70mil esta impecable.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728391562907,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728391561462,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Notebook hp\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728391561462,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook hp",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebookhp_8463557957092750",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1642570026692624.jpg",
+    "creation_timestamp": 1728391560
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

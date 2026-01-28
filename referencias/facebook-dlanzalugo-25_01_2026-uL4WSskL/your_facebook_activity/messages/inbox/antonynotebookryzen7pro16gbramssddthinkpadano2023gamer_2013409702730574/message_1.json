@@ -1,0 +1,76 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Torres Antony"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1758404764604,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Torres Antony",
+      "timestamp_ms": 1756904444707,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/antonynotebookryzen7pro16gbramssddthinkpadano2023gamer_2013409702730574/audio/3311659008982068.mp4",
+          "creation_timestamp": 1756904443
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756904328733,
+      "content": "Podria saber porque quisieras cambiar de un thinkpad a otro?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756904312999,
+      "content": "Hola Antony buen dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Torres Antony",
+      "timestamp_ms": 1756902545748,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Torres Antony",
+      "timestamp_ms": 1756902543018,
+      "content": "Hola quer\u00c3\u00ada saber si puedo dar un equipo en parte de pago es un tinkipad l14 gn1 i5 10th con 16 o 32 de ram",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Torres Antony",
+      "timestamp_ms": 1756902542737,
+      "content": "Antony inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Antony \u00c2\u00b7 Notebook Ryzen 7PRO / 16GB RAM / SSDD / Thinkpad / a\u00c3\u00b1o 2023 / Gamer",
+  "is_still_participant": true,
+  "thread_path": "inbox/antonynotebookryzen7pro16gbramssddthinkpadano2023gamer_2013409702730574",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

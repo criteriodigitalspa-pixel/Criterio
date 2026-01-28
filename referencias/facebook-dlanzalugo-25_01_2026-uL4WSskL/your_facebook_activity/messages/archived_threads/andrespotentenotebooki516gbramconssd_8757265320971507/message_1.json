@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Andres Quintero"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728922019887,
+      "content": "Le intereso? Tiene alguna duda?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728904586413,
+      "content": "Si buen dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Quintero",
+      "timestamp_ms": 1728901349950,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Quintero",
+      "timestamp_ms": 1728901346065,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Quintero",
+      "timestamp_ms": 1728901345605,
+      "content": "Andres Quintero",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Quintero",
+      "timestamp_ms": 1728901342950,
+      "content": "Andres asign\u00c3\u00b3 al grupo el nombre \"Andres \u00c2\u00b7 POTENTE NOTEBOOK I5 16GB RAM CON SSD\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Quintero",
+      "timestamp_ms": 1728901342950,
+      "content": "Andres cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Andres \u00c2\u00b7 POTENTE NOTEBOOK I5 16GB RAM CON SSD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/andrespotentenotebooki516gbramconssd_8757265320971507",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

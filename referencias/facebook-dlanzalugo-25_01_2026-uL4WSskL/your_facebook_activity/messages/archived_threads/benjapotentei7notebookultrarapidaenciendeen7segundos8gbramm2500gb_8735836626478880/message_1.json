@@ -1,0 +1,111 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Benja Pearce"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Benja Pearce",
+      "timestamp_ms": 1730236321285,
+      "content": "Dale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730236310537,
+      "content": "Si en un par de dias no lo vendo, y aun tienes el play te lo permuto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730236296342,
+      "content": "Vale, justo quiero comprarme una ps4, pero esperare un par de dias a ver si vendo el note a precio completo, porque creo vale un poco mas el notebook",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benja Pearce",
+      "timestamp_ms": 1730236064072,
+      "content": "Tiene todo lo k se ve en la foto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benja Pearce",
+      "timestamp_ms": 1730236032334,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/benjapotentei7notebookultrarapidaenciendeen7segundos8gbramm2500gb_8735836626478880/photos/1724939101616223.jpg",
+          "creation_timestamp": 1730236032
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benja Pearce",
+      "timestamp_ms": 1730236027655,
+      "content": "Ps4 fat 500 gb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730236011204,
+      "content": "Que ofreces amigo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benja Pearce",
+      "timestamp_ms": 1730235773490,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benja Pearce",
+      "timestamp_ms": 1730235768354,
+      "content": "Permutas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benja Pearce",
+      "timestamp_ms": 1730235767711,
+      "content": "Benja Pearce",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benja Pearce",
+      "timestamp_ms": 1730235765374,
+      "content": "Benja asign\u00c3\u00b3 al grupo el nombre \"Benja \u00c2\u00b7 Potente i7 Notebook Ultra Rapida ENCIENDE EN 7 SEGUNDOS! 8GB RAM M.2-500GB\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benja Pearce",
+      "timestamp_ms": 1730235765374,
+      "content": "Benja cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Benja \u00c2\u00b7 Potente i7 Notebook Ultra Rapida ENCIENDE EN 7 SEGUNDOS! 8GB RAM M.2-500GB",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/benjapotentei7notebookultrarapidaenciendeen7segundos8gbramm2500gb_8735836626478880",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

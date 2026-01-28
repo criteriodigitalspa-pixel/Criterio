@@ -1,0 +1,108 @@
+{
+  "participants": [
+    {
+      "name": "Irismar Mendez Hidalgo"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Irismar Mendez Hidalgo",
+      "timestamp_ms": 1707873397732,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Irismar Mendez Hidalgo",
+      "timestamp_ms": 1707873396091,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/diegohermososramosdetulipanescontamosconservicioadomicilio_8015724728443340/photos/417221100747594.jpg",
+          "creation_timestamp": 1707873395
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1707873113747,
+      "content": "Cual de los ramos seria?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Irismar Mendez Hidalgo",
+      "timestamp_ms": 1707873065900,
+      "content": "Todo 35000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1707873055789,
+      "content": "La Florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Irismar Mendez Hidalgo",
+      "timestamp_ms": 1707873016002,
+      "content": "Comuna",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1707873004091,
+      "content": "Hola si, queria saber precio de los ramos de tulipanes, y cuanto por el envio para ma\u00c3\u00b1ana si se puede por favor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Irismar Mendez Hidalgo",
+      "timestamp_ms": 1707872883310,
+      "content": "\u00c2\u00bfA\u00c3\u00ban te interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1707872820780,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1707872817346,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1707872816767,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Hermosos \u00f0\u009f\u0092\u0090 ramosde tulipanes contamos con servicio a Domicilio\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Hermosos \u00f0\u009f\u0092\u0090 ramosde tulipanes contamos con servicio a Domicilio",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegohermososramosdetulipanescontamosconservicioadomicilio_8015724728443340",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1129210165116594.jpg",
+    "creation_timestamp": 1707872811
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

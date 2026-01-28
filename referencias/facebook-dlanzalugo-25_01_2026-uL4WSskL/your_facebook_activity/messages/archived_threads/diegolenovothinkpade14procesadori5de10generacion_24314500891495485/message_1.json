@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Matias Lara"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Matias Lara",
+      "timestamp_ms": 1754155424099,
+      "content": "Matias est\u00c3\u00a1 esperando tu respuesta sobre esta publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matias Lara",
+      "timestamp_ms": 1754148666563,
+      "content": "Matias rechaz\u00c3\u00b3 tu oferta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754148636409,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Lenovo Thinkpad E14 procesador I5 de 10 generaci\u00c3\u00b3n!!",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegolenovothinkpade14procesadori5de10generacion_24314500891495485",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1915706835891466.jpg",
+    "creation_timestamp": 1754148631
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

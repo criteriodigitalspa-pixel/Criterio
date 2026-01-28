@@ -1,0 +1,62 @@
+{
+  "participants": [
+    {
+      "name": "Patricio Urrutia"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737846126000,
+      "videos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/patricionotebookultrarapidadelli5con16gbrammuypotentessd500gbenciendeensegundos_9126086954135906/videos/1295022455065706.mp4",
+          "creation_timestamp": 1737845943
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737845287585,
+      "content": "Hola si claro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Urrutia",
+      "timestamp_ms": 1737844856046,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Urrutia",
+      "timestamp_ms": 1737844851982,
+      "content": "M\u00c3\u00a1s fotos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Urrutia",
+      "timestamp_ms": 1737844851776,
+      "content": "Patricio inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Patricio \u00c2\u00b7 Notebook Ultra Rapida Dell i5 con 16GB RAM Muy Potente SSD 500GB ENCIENDE EN SEGUNDOS!",
+  "is_still_participant": true,
+  "thread_path": "inbox/patricionotebookultrarapidadelli5con16gbrammuypotentessd500gbenciendeensegundos_9126086954135906",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

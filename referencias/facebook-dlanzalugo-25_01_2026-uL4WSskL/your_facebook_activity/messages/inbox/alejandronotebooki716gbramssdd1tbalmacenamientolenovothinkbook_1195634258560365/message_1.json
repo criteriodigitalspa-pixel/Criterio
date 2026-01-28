@@ -1,0 +1,88 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Alejandro Javier"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alejandro Javier",
+      "timestamp_ms": 1765212928250,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765212549281,
+      "content": "No bro solo efectivo o transferencia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Javier",
+      "timestamp_ms": 1765209074020,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Javier",
+      "timestamp_ms": 1765186365020,
+      "content": "Alejandro est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Javier",
+      "timestamp_ms": 1765153711000,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/alejandronotebooki716gbramssdd1tbalmacenamientolenovothinkbook_1195634258560365/photos/1870687363530495.jpg",
+          "creation_timestamp": 1765153710
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Javier",
+      "timestamp_ms": 1765153707460,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Javier",
+      "timestamp_ms": 1765153705809,
+      "content": "Hola. Permutas:\n\nHonor Magic 5 pro en muy buen estado. Con cargador y cable carga r\u00c3\u00a1pida original . 3 carcasas.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Javier",
+      "timestamp_ms": 1765153705636,
+      "content": "Alejandro inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Alejandro \u00c2\u00b7 Notebook i7/16GB RAM / SSDD / 1TB almacenamiento/Lenovo ThinkBook",
+  "is_still_participant": true,
+  "thread_path": "inbox/alejandronotebooki716gbramssdd1tbalmacenamientolenovothinkbook_1195634258560365",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Chandia Alberto James"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732467648703,
+      "content": "Le escribi al whatsapp",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chandia Alberto James",
+      "timestamp_ms": 1732467600789,
+      "content": "Ojala pueda ahora que ando en santiago centro vivo en nos despues ya no podre devolverme",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chandia Alberto James",
+      "timestamp_ms": 1732467288827,
+      "content": "+56932066087 me puede mandar la direccion para ir ahora por favor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732465690350,
+      "content": "Aceptaste la oferta de James",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chandia Alberto James",
+      "timestamp_ms": 1732465393003,
+      "content": "James te ofreci\u00c3\u00b3 $280.000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chandia Alberto James",
+      "timestamp_ms": 1732465391316,
+      "content": "James asign\u00c3\u00b3 al grupo el nombre \"James \u00c2\u00b7 Notebook i7-10th Ultra Rapida y potente HP Envy 13\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chandia Alberto James",
+      "timestamp_ms": 1732465391316,
+      "content": "James cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "James \u00c2\u00b7 Notebook i7-10th Ultra Rapida y potente HP Envy 13",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/jamesnotebooki710thultrarapidaypotentehpenvy13_9043317495729660",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

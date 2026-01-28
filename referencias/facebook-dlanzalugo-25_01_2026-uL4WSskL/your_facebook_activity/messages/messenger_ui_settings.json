@@ -1,0 +1,60 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Barra lateral de informaci\u00c3\u00b3n contra\u00c3\u00adda",
+      "value": "Falso"
+    },
+    {
+      "label": "Sonido activado",
+      "value": "Verdadero"
+    },
+    {
+      "label": "Secci\u00c3\u00b3n de personas contra\u00c3\u00adda",
+      "value": "Falso"
+    },
+    {
+      "label": "Secci\u00c3\u00b3n de archivos contra\u00c3\u00adda",
+      "value": "Falso"
+    },
+    {
+      "label": "Secci\u00c3\u00b3n de fotos contra\u00c3\u00adda",
+      "value": "Falso"
+    },
+    {
+      "label": "Secci\u00c3\u00b3n de grupos contra\u00c3\u00adda",
+      "value": "Falso"
+    },
+    {
+      "label": "Secci\u00c3\u00b3n de aprobaci\u00c3\u00b3n de grupos contra\u00c3\u00adda",
+      "value": "Falso"
+    },
+    {
+      "label": "Secci\u00c3\u00b3n de enlaces contra\u00c3\u00adda",
+      "value": "Falso"
+    },
+    {
+      "label": "Secci\u00c3\u00b3n de descripci\u00c3\u00b3n contra\u00c3\u00adda",
+      "value": "Falso"
+    },
+    {
+      "label": "Secci\u00c3\u00b3n de mensaje guardado contra\u00c3\u00adda",
+      "value": "Falso"
+    },
+    {
+      "label": "Secci\u00c3\u00b3n de privacidad contra\u00c3\u00adda",
+      "value": "Falso"
+    },
+    {
+      "label": "Secci\u00c3\u00b3n de enlace del grupo contra\u00c3\u00adda",
+      "value": "Falso"
+    },
+    {
+      "label": "Secci\u00c3\u00b3n de enlaces de la p\u00c3\u00a1gina contra\u00c3\u00adda",
+      "value": "Falso"
+    }
+  ],
+  "fbid": "1234604646653874"
+}

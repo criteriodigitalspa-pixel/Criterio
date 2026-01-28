@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Loyda Sarai Fernandez Calderon"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730894478930,
+      "content": "Santisgo, comuna la florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Loyda Sarai Fernandez Calderon",
+      "timestamp_ms": 1730894434356,
+      "content": "Done lo vende para ir",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730845485004,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Loyda Sarai Fernandez Calderon",
+      "timestamp_ms": 1730845412075,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Loyda Sarai Fernandez Calderon",
+      "timestamp_ms": 1730845407995,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Loyda Sarai Fernandez Calderon",
+      "timestamp_ms": 1730845407815,
+      "content": "Loyda Sarai inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Loyda Sarai \u00c2\u00b7 Potente Notebook Dell i7 enciende en 7 segundos 8RAM y SSD M.2",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/loydasaraipotentenotebookdelli7enciendeen7segundos8ramyssdm2_9074334315923801",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

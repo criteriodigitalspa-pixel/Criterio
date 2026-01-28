@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Vera Vera"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vera Vera",
+      "timestamp_ms": 1768754766427,
+      "content": "Vera cambi\u00c3\u00b3 el precio de TV SMART TV 55 pulgadas CONTROL ORIGINAL CAJA BOLETA CON GARANTIA DE 3 a\u00c3\u00b1os UNICA DUE\u00c3\u0091A.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vera Vera",
+      "timestamp_ms": 1768514407607,
+      "content": "No respondiste a: S\u00c3\u00ad. \u00c2\u00bfTe interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vera Vera",
+      "timestamp_ms": 1768507868340,
+      "content": "S\u00c3\u00ad. \u00c2\u00bfTe interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768421150877,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768421150470,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 TV SMART TV 55 pulgadas CONTROL ORIGINAL CAJA BOLETA CON GARANTIA DE 3 a\u00c3\u00b1os UNICA DUE\u00c3\u0091A.",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegotvsmarttv55pulgadascontroloriginalcajaboletacongarantiade3anosunicaduena_1398797995018628",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/965947782491051.jpg",
+    "creation_timestamp": 1768421146
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

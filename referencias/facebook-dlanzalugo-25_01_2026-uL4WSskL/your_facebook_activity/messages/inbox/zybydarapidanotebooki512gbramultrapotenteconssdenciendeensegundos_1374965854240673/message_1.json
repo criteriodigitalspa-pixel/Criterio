@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "\u00d9\u0084\u00d9\u008a\u00d9\u0088 \u00d8\u00aa\u00d8\u00b4 \u00d8\u00b2\u00d9\u008a\u00d8\u00a8\u00d9\u008a\u00d8\u00af\u00d8\u00a7"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765296124542,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764636125222,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00d9\u0084\u00d9\u008a\u00d9\u0088 \u00d8\u00aa\u00d8\u00b4 \u00d8\u00b2\u00d9\u008a\u00d8\u00a8\u00d9\u008a\u00d8\u00af\u00d8\u00a7",
+      "timestamp_ms": 1764636103371,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00d9\u0084\u00d9\u008a\u00d9\u0088 \u00d8\u00aa\u00d8\u00b4 \u00d8\u00b2\u00d9\u008a\u00d8\u00a8\u00d9\u008a\u00d8\u00af\u00d8\u00a7",
+      "timestamp_ms": 1764636099529,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00d9\u0084\u00d9\u008a\u00d9\u0088 \u00d8\u00aa\u00d8\u00b4 \u00d8\u00b2\u00d9\u008a\u00d8\u00a8\u00d9\u008a\u00d8\u00af\u00d8\u00a7",
+      "timestamp_ms": 1764636099351,
+      "content": "\u00e2\u0080\u008e\u00d8\u00b2\u00d9\u008a\u00d8\u00a8\u00d9\u008a\u00d8\u00af\u00d8\u00a7\u00e2\u0080\u008e inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00d8\u00b2\u00d9\u008a\u00d8\u00a8\u00d9\u008a\u00d8\u00af\u00d8\u00a7 \u00c2\u00b7 Rapida Notebook i5 / 12GB RAM Ultra Potente con SSD ENCIENDE EN SEGUNDOS",
+  "is_still_participant": true,
+  "thread_path": "inbox/zybydarapidanotebooki512gbramultrapotenteconssdenciendeensegundos_1374965854240673",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

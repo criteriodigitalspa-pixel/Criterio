@@ -1,0 +1,41 @@
+{
+  "timestamp": 1704143724,
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Identificador de registro asociado con este dispositivo m\u00c3\u00b3vil",
+      "value": "6n3Dp8RP"
+    },
+    {
+      "label": "Identificador \u00c3\u00banico",
+      "value": "AXEP3J3USGQKACQIVWNZWSPGSCY66L72RO4TYJU2774LZY36RDJR6"
+    },
+    {
+      "label": "Nombre que asignaste a este dispositivo",
+      "value": ""
+    },
+    {
+      "label": "Agente del usuario",
+      "value": "[FBAN/Orca-Android;FBAV/439.0.0.29.119;FBBV/548243065;FBDM/{density=2.8125,width=1080,height=2106};FBLC/es_US;FBCR/WOM;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.orca;FBDV/SM-S908E;FBSV/13;FBLR/0;FBBK/1;FBCA/arm64-v8a:;]"
+    },
+    {
+      "label": "\u00c3\u009altima vez que se activ\u00c3\u00b3 o desactiv\u00c3\u00b3 el dispositivo",
+      "timestamp_value": 1704143724
+    },
+    {
+      "label": "\u00c3\u009altima vez que se us\u00c3\u00b3 el dispositivo",
+      "timestamp_value": 0
+    },
+    {
+      "label": "Estado",
+      "value": "Activado"
+    },
+    {
+      "label": "Nombre",
+      "value": "Samsung Galaxy S22 Ultra 5G"
+    }
+  ],
+  "fbid": "6942326462548302"
+}

@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Bernarda Ester Candia Candia"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729082612112,
+      "content": "Buenos dias, Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729079370965,
+      "content": "El publicado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729079367312,
+      "content": "Hola, si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bernarda Ester Candia Candia",
+      "timestamp_ms": 1729078519629,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bernarda Ester Candia Candia",
+      "timestamp_ms": 1729078515101,
+      "content": "Precio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bernarda Ester Candia Candia",
+      "timestamp_ms": 1729078514921,
+      "content": "Bernarda Ester inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bernarda Ester \u00c2\u00b7 Notebook Ultra Potente i5 16gb RAM y SSD Corre todo como bala, Como nueva ultra liviana",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/bernardaesternotebookultrapotentei516gbramyssdcorretodocomobalacomonuevaultraliviana_27164888686487921",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Giancarlo Torricelli Fanjul"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Giancarlo Torricelli Fanjul",
+      "timestamp_ms": 1732382341090,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Giancarlo Torricelli Fanjul",
+      "timestamp_ms": 1732382336281,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Giancarlo Torricelli Fanjul",
+      "timestamp_ms": 1732382336045,
+      "content": "Giancarlo inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Giancarlo \u00c2\u00b7 Notebook Ultra Rapida Dell i5 con 16GB RAM Muy Potente Con M2 256GB ENCIENDE EN 7 SEGUNDOS!",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/giancarlonotebookultrarapidadelli5con16gbrammuypotenteconm2256gbenciendeen7segundos_8709694342455289",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

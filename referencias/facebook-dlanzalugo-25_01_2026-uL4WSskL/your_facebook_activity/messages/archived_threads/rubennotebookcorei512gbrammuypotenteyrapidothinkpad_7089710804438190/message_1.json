@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Ruben Lobos"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ruben Lobos",
+      "timestamp_ms": 1703370838123,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ruben Lobos",
+      "timestamp_ms": 1703370835264,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ruben Lobos",
+      "timestamp_ms": 1703370834907,
+      "content": "Ruben Lobos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ruben Lobos",
+      "timestamp_ms": 1703370833670,
+      "content": "Ruben cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ruben Lobos",
+      "timestamp_ms": 1703370833314,
+      "content": "Ruben asign\u00c3\u00b3 al grupo el nombre \"Ruben \u00c2\u00b7 Notebook Core i5, 12GB Ram Muy potente y rapido, thinkpad\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ruben \u00c2\u00b7 Notebook Core i5, 12GB Ram Muy potente y rapido, thinkpad",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/rubennotebookcorei512gbrammuypotenteyrapidothinkpad_7089710804438190",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/687653166793542.jpg",
+    "creation_timestamp": 1703370831
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

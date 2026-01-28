@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Cristopher Moniz"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Cristopher Moniz",
+      "timestamp_ms": 1735745015967,
+      "content": "Vi que dec\u00c3\u00ada que entregabas en metro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristopher Moniz",
+      "timestamp_ms": 1735745005733,
+      "content": "Me intereso tu oferta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristopher Moniz",
+      "timestamp_ms": 1735744924184,
+      "content": "Feliz a\u00c3\u00b1o broder",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735744577550,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristopher Moniz",
+      "timestamp_ms": 1735744220714,
+      "content": "Hola. \u00c2\u00bfSigue disponible? \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristopher Moniz",
+      "timestamp_ms": 1735744219744,
+      "content": "Cristopher Moniz",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristopher Moniz",
+      "timestamp_ms": 1735744215130,
+      "content": "Cristopher asign\u00c3\u00b3 al grupo el nombre \"Cristopher \u00c2\u00b7 Potente Elitebook i5 16GB Ram Ultra Rapida Office Activado SSD +1TB Espacio\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristopher Moniz",
+      "timestamp_ms": 1735744215130,
+      "content": "Cristopher cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cristopher \u00c2\u00b7 Potente Elitebook i5 16GB Ram Ultra Rapida Office Activado SSD +1TB Espacio",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/cristopherpotenteelitebooki516gbramultrarapidaofficeactivadossd1tbespacio_9727829477246406",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

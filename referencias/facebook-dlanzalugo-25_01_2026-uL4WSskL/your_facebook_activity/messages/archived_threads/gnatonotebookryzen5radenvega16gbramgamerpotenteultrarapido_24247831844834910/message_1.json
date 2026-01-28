@@ -1,0 +1,120 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Nato Fuchs"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nato Fuchs",
+      "timestamp_ms": 1750662063329,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750565736887,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750533262160,
+      "content": "200",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nato Fuchs",
+      "timestamp_ms": 1750533250404,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nato Fuchs",
+      "timestamp_ms": 1750533249715,
+      "content": "\u00c3\u009altimo precio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750533189662,
+      "content": "Radeon vega de 2gb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nato Fuchs",
+      "timestamp_ms": 1750533123899,
+      "content": "Cu\u00c3\u00a1l es la gr\u00c3\u00a1fica que tiene",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750532897230,
+      "content": "Entrego en mi domicilio en la comuna de la Florida o puedo acercar a  metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750532895620,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nato Fuchs",
+      "timestamp_ms": 1750532456904,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nato Fuchs",
+      "timestamp_ms": 1750532445814,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nato Fuchs",
+      "timestamp_ms": 1750532445358,
+      "content": "Nato Fuchs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nato Fuchs",
+      "timestamp_ms": 1750532443232,
+      "content": "Nato asign\u00c3\u00b3 al grupo el nombre \"Gnato \u00c2\u00b7 Notebook RYZEN 5 / RADEN VEGA / 16GB RAM / GAMER / Potente ultra Rapido\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nato Fuchs",
+      "timestamp_ms": 1750532443232,
+      "content": "Nato cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gnato \u00c2\u00b7 Notebook RYZEN 5 / RADEN VEGA / 16GB RAM / GAMER / Potente ultra Rapido",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/gnatonotebookryzen5radenvega16gbramgamerpotenteultrarapido_24247831844834910",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

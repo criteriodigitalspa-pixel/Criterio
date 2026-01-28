@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Sofia Abuyeres Rojas"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sofia Abuyeres Rojas",
+      "timestamp_ms": 1703877750723,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sofia Abuyeres Rojas",
+      "timestamp_ms": 1703852732840,
+      "content": "Hola disponible retiro en metro ines de Su\u00c3\u00a1rez o los leones O en mi domicilio en providencia para que lo puedas revisar bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703802722798,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703802720355,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703802719964,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Computador Lenovo\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Computador Lenovo",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegocomputadorlenovo_6883391018397346",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/882859669885981.jpg",
+    "creation_timestamp": 1703802717
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

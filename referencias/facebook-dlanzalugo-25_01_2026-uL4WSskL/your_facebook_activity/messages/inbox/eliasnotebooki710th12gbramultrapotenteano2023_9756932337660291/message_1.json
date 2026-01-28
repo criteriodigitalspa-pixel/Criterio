@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "El\u00c3\u00adas Trato"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1745334508873,
+      "content": "Abandonaste el grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "El\u00c3\u00adas Trato",
+      "timestamp_ms": 1745147422199,
+      "content": "El\u00c3\u00adas est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "El\u00c3\u00adas Trato",
+      "timestamp_ms": 1745095363910,
+      "content": "El\u00c3\u00adas envi\u00c3\u00b3 un archivo adjunto.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "El\u00c3\u00adas Trato",
+      "timestamp_ms": 1745095358035,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible? 230",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "El\u00c3\u00adas Trato",
+      "timestamp_ms": 1745095357789,
+      "content": "El\u00c3\u00adas inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "El\u00c3\u00adas \u00c2\u00b7 Notebook i7-10Th / 12GB RAM Ultra Potente // a\u00c3\u00b1o 2023",
+  "is_still_participant": false,
+  "thread_path": "inbox/eliasnotebooki710th12gbramultrapotenteano2023_9756932337660291",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

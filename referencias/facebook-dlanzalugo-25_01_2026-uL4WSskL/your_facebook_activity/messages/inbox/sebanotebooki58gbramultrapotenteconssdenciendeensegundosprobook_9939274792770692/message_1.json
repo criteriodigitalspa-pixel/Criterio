@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Seba Guevara"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743337044677,
+      "content": "No migo gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Seba Guevara",
+      "timestamp_ms": 1743327406274,
+      "content": "Seba est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Seba Guevara",
+      "timestamp_ms": 1743283247614,
+      "content": "En Instagram \nMe puedes encontrar \nPor este nombre \nFragmental_ink \n\nLe dejo de \u00c3\u00a9l link de mi perfil tambi\u00c3\u00a9n \n\nhttps://www.instagram.com/fragmental_ink?igsh=NDh1NTlzcDgxam5t&utm_source=qr",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Seba Guevara",
+      "timestamp_ms": 1743283146712,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Seba Guevara",
+      "timestamp_ms": 1743283139150,
+      "content": "Hola buenas tardes, consulta lo permutar\u00c3\u00ada por mi trabajo soy de la comuna de La Florida y soy tatuador si le interesa me comenta para que lo hablemos le dejo mi perfil de Instagram para que pueda seguir mi p\u00c3\u00a1gina y aprecie mi trabajo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Seba Guevara",
+      "timestamp_ms": 1743283138884,
+      "content": "Seba inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Seba \u00c2\u00b7 Notebook i5 8GB RAM Ultra Potente con SSD ENCIENDE EN SEGUNDOS\n PROBOOK",
+  "is_still_participant": true,
+  "thread_path": "inbox/sebanotebooki58gbramultrapotenteconssdenciendeensegundosprobook_9939274792770692",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

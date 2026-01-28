@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Monse Victoriano"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768172269590,
+      "content": "Holaa, uso de oficina, es al 100% muy bien cuidad9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monse Victoriano",
+      "timestamp_ms": 1768170860344,
+      "content": "Hola qu\u00c3\u00a9 tal!! Fue de uso personal el equipo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768166863474,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monse Victoriano",
+      "timestamp_ms": 1768161492582,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monse Victoriano",
+      "timestamp_ms": 1768161486166,
+      "content": "Buenas tardes. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monse Victoriano",
+      "timestamp_ms": 1768161485999,
+      "content": "Monse inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Monse \u00c2\u00b7 Notebook i7/16GB RAM / SSDD / Ultra Potente / Lenovo ThinkBook",
+  "is_still_participant": true,
+  "thread_path": "inbox/monsenotebooki716gbramssddultrapotentelenovothinkbook_755452577035836",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

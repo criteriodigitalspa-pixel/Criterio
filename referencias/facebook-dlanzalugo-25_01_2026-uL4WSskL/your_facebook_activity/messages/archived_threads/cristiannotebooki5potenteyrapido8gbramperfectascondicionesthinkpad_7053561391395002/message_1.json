@@ -1,0 +1,134 @@
+{
+  "participants": [
+    {
+      "name": "Cristian Vega"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703209764239,
+      "content": "De rm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristian Vega",
+      "timestamp_ms": 1703209696675,
+      "content": "Eres de quillota??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703209504203,
+      "content": "110mil con 8gb de ram",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703209480370,
+      "content": "130mil con 16gb de ram",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703209465979,
+      "content": "Me queda esa en 110mil amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703209456957,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/cristiannotebooki5potenteyrapido8gbramperfectascondicionesthinkpad_7053561391395002/photos/357305343583684.jpg",
+          "creation_timestamp": 1703209455
+        },
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/cristiannotebooki5potenteyrapido8gbramperfectascondicionesthinkpad_7053561391395002/photos/2421209581400832.jpg",
+          "creation_timestamp": 1703209455
+        },
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/cristiannotebooki5potenteyrapido8gbramperfectascondicionesthinkpad_7053561391395002/photos/343362385225743.jpg",
+          "creation_timestamp": 1703209455
+        },
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/cristiannotebooki5potenteyrapido8gbramperfectascondicionesthinkpad_7053561391395002/photos/731037385233057.jpg",
+          "creation_timestamp": 1703209455
+        },
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/cristiannotebooki5potenteyrapido8gbramperfectascondicionesthinkpad_7053561391395002/photos/1088078075888500.jpg",
+          "creation_timestamp": 1703209455
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristian Vega",
+      "timestamp_ms": 1703209414212,
+      "content": "Precio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703092142415,
+      "content": "Hola Cristian, si sigue disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristian Vega",
+      "timestamp_ms": 1703092114435,
+      "content": "Cristian Vega",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristian Vega",
+      "timestamp_ms": 1703092114426,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristian Vega",
+      "timestamp_ms": 1703092110254,
+      "content": "Cristian asign\u00c3\u00b3 al grupo el nombre \"Cristian \u00c2\u00b7 Notebook I5 Potente y Rapido 8GB RAM, Perfectas condiciones Thinkpad\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristian Vega",
+      "timestamp_ms": 1703092110254,
+      "content": "Cristian cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristian Vega",
+      "timestamp_ms": 1703092110254,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cristian \u00c2\u00b7 Notebook I5 Potente y Rapido 8GB RAM, Perfectas condiciones Thinkpad",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/cristiannotebooki5potenteyrapido8gbramperfectascondicionesthinkpad_7053561391395002",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

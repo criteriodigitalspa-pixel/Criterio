@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Bastian MOl"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765894150653,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bastian MOl",
+      "timestamp_ms": 1764724388085,
+      "content": "Bastian MOl te envi\u00c3\u00b3 un mensaje sobre tu publicaci\u00c3\u00b3n: RAM 8GB PC4 DDRR4 Notebook.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bastian MOl",
+      "timestamp_ms": 1764724385748,
+      "content": "hola, que CL tiene?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bastian MOl",
+      "timestamp_ms": 1764724385474,
+      "content": "Bastian inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bastian \u00c2\u00b7 RAM 8GB PC4 DDRR4 Notebook",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/bastianram8gbpc4ddrr4notebook_717405990989949",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

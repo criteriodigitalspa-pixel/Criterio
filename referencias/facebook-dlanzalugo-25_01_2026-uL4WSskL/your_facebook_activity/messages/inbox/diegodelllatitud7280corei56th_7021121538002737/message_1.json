@@ -1,0 +1,73 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Led OK"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Led OK",
+      "timestamp_ms": 1703892608442,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Led OK",
+      "timestamp_ms": 1703813435527,
+      "content": "Si aun disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Led OK",
+      "timestamp_ms": 1703813430939,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239343222814.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703812928835,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703812926398,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703812926097,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Dell latitud 7280 corei5 6th\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Dell latitud 7280 corei5 6th",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegodelllatitud7280corei56th_7021121538002737",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/354226224019763.jpg",
+    "creation_timestamp": 1703812924
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

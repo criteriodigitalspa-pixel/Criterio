@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Juan Antoniio Sepulveda Sotomayor"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Juan Antoniio Sepulveda Sotomayor",
+      "timestamp_ms": 1768499053303,
+      "content": "Juan Antoniio vendi\u00c3\u00b3 Computador acer 2025.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Computador acer 2025",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegocomputadoracer2025_26121032107481238",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1952282872365409.jpg",
+    "creation_timestamp": 1767900350
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

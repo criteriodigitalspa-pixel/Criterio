@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Alejandro Hernandez Ochoa"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1747414032418,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1746995104073,
+      "content": "La iris plus",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Hernandez Ochoa",
+      "timestamp_ms": 1746979448759,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Hernandez Ochoa",
+      "timestamp_ms": 1746979443718,
+      "content": "que tarjeta grafica utiliza?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro Hernandez Ochoa",
+      "timestamp_ms": 1746979443453,
+      "content": "Alejandro inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Alejandro \u00c2\u00b7 Notebook i7-13th /16GB RAM / SSDD / Nueva 3 meses de uso",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/alejandronotebooki713th16gbramssddnueva3mesesdeuso_9541568392621605",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

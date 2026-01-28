@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Seba A. Herrera"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729030066042,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Notebook lenovo\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729030066042,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook lenovo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebooklenovo_9283447051682093",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/900475034869013.jpg",
+    "creation_timestamp": 1729030065
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Mario Campo H"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767972602545,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mario Campo H",
+      "timestamp_ms": 1767748662950,
+      "content": "Mario est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mario Campo H",
+      "timestamp_ms": 1767725373606,
+      "content": "Mario Campo H te envi\u00c3\u00b3 un mensaje sobre tu publicaci\u00c3\u00b3n: Potente Dell i7 / 16GB RAM / Ultra Rapida / con SSDD.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mario Campo H",
+      "timestamp_ms": 1767725370002,
+      "content": "Hola consulta, solo venta o puermutas? Tengo un hp victus 16, quiero cambiar por uno m\u00c3\u00a1s b\u00c3\u00a1sico y sacar algo de dinero a favor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mario Campo H",
+      "timestamp_ms": 1767725369757,
+      "content": "Mario inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mario \u00c2\u00b7 Potente Dell i7 / 16GB RAM / Ultra Rapida / con SSDD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/mariopotentedelli716gbramultrarapidaconssdd_1509603926788187",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

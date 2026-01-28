@@ -75,15 +75,14 @@ const start = (firestoreDb, appLogger) => {
             // 2. Ignore status updates / broadcast
             if (msg.id.remote.includes('status') || msg.id.remote.includes('broadcast')) return;
 
-            // [SECURITY] WHITELIST CHECK
-            const adminNumbers = (process.env.ADMIN_NUMBER || "").split(',').map(n => n.trim());
+            // [SECURITY] DYNAMIC WHITELIST CHECK (App Controlled)
             const sender = msg.from.replace(/\D/g, ''); // Extract digits only
-
-            // Check if sender is in whitelist
-            const isAllowed = adminNumbers.some(admin => sender.includes(admin));
+            const isAllowed = await aiService.isUserAllowed(sender);
 
             if (!isAllowed) {
-                // console.log(`⛔ [BLOCKED] Sender ${sender} not in whitelist`);
+                // Determine if we should reply with "Unauthorized" or stay silent.
+                // For now, silent (anti-spam).
+                // console.log(`⛔ [BLOCKED] Sender ${sender} not in User Matrix.`);
                 return;
             }
 

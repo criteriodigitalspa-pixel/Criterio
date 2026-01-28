@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Italo Fuentes Herrera"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729100704513,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729093258601,
+      "content": "Hola, si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Italo Fuentes Herrera",
+      "timestamp_ms": 1729093133605,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Italo Fuentes Herrera",
+      "timestamp_ms": 1729093129380,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Italo Fuentes Herrera",
+      "timestamp_ms": 1729093128929,
+      "content": "Italo Fuentes Herrera",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Italo Fuentes Herrera",
+      "timestamp_ms": 1729093126891,
+      "content": "Italo asign\u00c3\u00b3 al grupo el nombre \"Italo \u00c2\u00b7 Potente Notebook HP Rapido i5 8Ram Teclado retroiluminado Elitebook Potente\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Italo Fuentes Herrera",
+      "timestamp_ms": 1729093126891,
+      "content": "Italo cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Italo \u00c2\u00b7 Potente Notebook HP Rapido i5 8Ram Teclado retroiluminado Elitebook Potente",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/italopotentenotebookhprapidoi58ramtecladoretroiluminadoelitebookpotente_8440325819382575",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

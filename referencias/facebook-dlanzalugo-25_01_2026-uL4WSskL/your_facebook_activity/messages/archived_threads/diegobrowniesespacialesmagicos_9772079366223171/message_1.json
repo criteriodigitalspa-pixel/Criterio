@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Vane Bratz"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1749747069749,
+      "content": "Hola, Vane. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1749747069411,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Brownies espaciales m\u00c3\u00a1gicos",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegobrowniesespacialesmagicos_9772079366223171",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/3169962563160283.jpg",
+    "creation_timestamp": 1749747065
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

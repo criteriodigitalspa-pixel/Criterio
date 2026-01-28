@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Macarena Brice\u00c3\u00b1o Veliz"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734795617536,
+      "content": "Ver publicaciones similares",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Macarena Brice\u00c3\u00b1o Veliz",
+      "timestamp_ms": 1734699106142,
+      "content": "Macarena est\u00c3\u00a1 esperando tu respuesta sobre esta publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Macarena Brice\u00c3\u00b1o Veliz",
+      "timestamp_ms": 1734689940089,
+      "content": "Macarena rechaz\u00c3\u00b3 tu oferta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734666012272,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734666010618,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Notebook\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734666010618,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebook_27769707339342344",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/576077741706728.jpg",
+    "creation_timestamp": 1734666009
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

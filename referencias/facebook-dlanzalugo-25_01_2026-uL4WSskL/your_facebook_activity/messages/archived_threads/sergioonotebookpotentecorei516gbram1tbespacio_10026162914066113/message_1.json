@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "SerGio'o PereiRa SB"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728639014729,
+      "content": "Hola, si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "SerGio'o PereiRa SB",
+      "timestamp_ms": 1728615465283,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "SerGio'o PereiRa SB",
+      "timestamp_ms": 1728615460872,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "SerGio'o PereiRa SB",
+      "timestamp_ms": 1728615460541,
+      "content": "SerGio'o inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "SerGio'o \u00c2\u00b7 Notebook Potente Core i5 16gb ram 1tb Espacio",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/sergioonotebookpotentecorei516gbram1tbespacio_10026162914066113",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Mar\u00c3\u00ada Bel\u00c3\u00a9n Cox"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729645136467,
+      "content": "Le intereso? Tiene alguna duda?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729476330936,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mar\u00c3\u00ada Bel\u00c3\u00a9n Cox",
+      "timestamp_ms": 1729476323601,
+      "content": "Oka, saludos!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729476309813,
+      "content": "Excelente, si tienes alguna duda o necesitas ayuda me preguntas, sin compromiso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mar\u00c3\u00ada Bel\u00c3\u00a9n Cox",
+      "timestamp_ms": 1729476267801,
+      "content": "Muchas gracias!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mar\u00c3\u00ada Bel\u00c3\u00a9n Cox",
+      "timestamp_ms": 1729476264261,
+      "content": "Ya genial, d\u00c3\u00a9jame programarme y te vuelvo a escribir para coordinar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729476217762,
+      "content": "Podria acercarme a cualquier estacion de metro o podria verlo en mi domicilio en la florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mar\u00c3\u00ada Bel\u00c3\u00a9n Cox",
+      "timestamp_ms": 1729476200643,
+      "content": "Si, donde se podr\u00c3\u00ada ver?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729423706508,
+      "content": "Le interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729395423429,
+      "content": "Si tiene alguna duda me avis",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729391874593,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mar\u00c3\u00ada Bel\u00c3\u00a9n Cox",
+      "timestamp_ms": 1729389468486,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mar\u00c3\u00ada Bel\u00c3\u00a9n Cox",
+      "timestamp_ms": 1729389464884,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mar\u00c3\u00ada Bel\u00c3\u00a9n Cox",
+      "timestamp_ms": 1729389464390,
+      "content": "Mar\u00c3\u00ada Bel\u00c3\u00a9n Cox",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mar\u00c3\u00ada Bel\u00c3\u00a9n Cox",
+      "timestamp_ms": 1729389462063,
+      "content": "Mar\u00c3\u00ada Bel\u00c3\u00a9n asign\u00c3\u00b3 al grupo el nombre \"Mar\u00c3\u00ada Bel\u00c3\u00a9n \u00c2\u00b7 Elitebook Potente Core i5 Ultra Rapida con 8gb Ram y SSD\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mar\u00c3\u00ada Bel\u00c3\u00a9n Cox",
+      "timestamp_ms": 1729389462063,
+      "content": "Mar\u00c3\u00ada Bel\u00c3\u00a9n cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mar\u00c3\u00ada Bel\u00c3\u00a9n \u00c2\u00b7 Elitebook Potente Core i5 Ultra Rapida con 8gb Ram y SSD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/mariabelenelitebookpotentecorei5ultrarapidacon8gbramyssd_8492668824102702",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

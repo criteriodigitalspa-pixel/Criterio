@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Alex Joaqu\u00c3\u00adn Aquino Coro"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768255097248,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768152936439,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Joaqu\u00c3\u00adn Aquino Coro",
+      "timestamp_ms": 1768152875727,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Joaqu\u00c3\u00adn Aquino Coro",
+      "timestamp_ms": 1768152870980,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Joaqu\u00c3\u00adn Aquino Coro",
+      "timestamp_ms": 1768152870495,
+      "content": "Alex Joaqu\u00c3\u00adn Aquino Coro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Joaqu\u00c3\u00adn Aquino Coro",
+      "timestamp_ms": 1768152867746,
+      "content": "Alex Joaqu\u00c3\u00adn asign\u00c3\u00b3 al grupo el nombre \"Alex Joaqu\u00c3\u00adn \u00c2\u00b7 Potente Dell i7 / 16GB RAM / Ultra Rapida / con SSDD\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Joaqu\u00c3\u00adn Aquino Coro",
+      "timestamp_ms": 1768152867746,
+      "content": "Alex Joaqu\u00c3\u00adn cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Alex Joaqu\u00c3\u00adn \u00c2\u00b7 Potente Dell i7 / 16GB RAM / Ultra Rapida / con SSDD",
+  "is_still_participant": true,
+  "thread_path": "inbox/alexjoaquinpotentedelli716gbramultrarapidaconssdd_863981469561807",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "participants": [
+    {
+      "name": "Brixn Alejandro"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739938161714,
+      "content": "Si la integrada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739937907627,
+      "videos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/brixnnotebookyogax1i5ssd8ramtouch360_9129912233783355/videos/1945391889325099.mp4",
+          "creation_timestamp": 1739937891
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739937882867,
+      "videos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/brixnnotebookyogax1i5ssd8ramtouch360_9129912233783355/videos/1207052344464609.mp4",
+          "creation_timestamp": 1739937861
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brixn Alejandro",
+      "timestamp_ms": 1739937881879,
+      "content": "Integrada?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brixn Alejandro",
+      "timestamp_ms": 1739937875434,
+      "content": "Dispone de tarjeta gr\u00c3\u00a1fica?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739937862111,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739937844488,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brixn Alejandro",
+      "timestamp_ms": 1739937758794,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brixn Alejandro",
+      "timestamp_ms": 1739937754969,
+      "content": "Hola. \u00c2\u00bfSigue disponible? M\u00c3\u00a1s informaci\u00c3\u00b3n xfavor.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brixn Alejandro",
+      "timestamp_ms": 1739937754769,
+      "content": "Brixn inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Brixn \u00c2\u00b7 Notebook Yoga X1 // i5 // SSD// 8 RAM // Touch 360\u00c2\u00b0",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/brixnnotebookyogax1i5ssd8ramtouch360_9129912233783355",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

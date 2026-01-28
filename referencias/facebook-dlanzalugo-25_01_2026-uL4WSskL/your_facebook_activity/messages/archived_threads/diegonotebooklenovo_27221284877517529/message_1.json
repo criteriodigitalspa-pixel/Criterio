@@ -1,0 +1,103 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Jos\u00c3\u00a9 Ignacio Inostroza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jos\u00c3\u00a9 Ignacio Inostroza",
+      "timestamp_ms": 1729268309403,
+      "content": "vale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729268303281,
+      "content": "Vale pense que tenia 8 disculpa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jos\u00c3\u00a9 Ignacio Inostroza",
+      "timestamp_ms": 1729268285227,
+      "content": "si compa, parece que si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729268262970,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729268261537,
+      "content": "Amigo tiene solo 4gb de ram",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jos\u00c3\u00a9 Ignacio Inostroza",
+      "timestamp_ms": 1729267971202,
+      "content": "Jos\u00c3\u00a9 Ignacio acept\u00c3\u00b3 tu oferta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jos\u00c3\u00a9 Ignacio Inostroza",
+      "timestamp_ms": 1729267559924,
+      "content": "aceptas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jos\u00c3\u00a9 Ignacio Inostroza",
+      "timestamp_ms": 1729266950106,
+      "content": "80 y te lo llevas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729266907941,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729266906512,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 notebook lenovo\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729266906512,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 notebook lenovo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebooklenovo_27221284877517529",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1069275221311882.jpg",
+    "creation_timestamp": 1729266905
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

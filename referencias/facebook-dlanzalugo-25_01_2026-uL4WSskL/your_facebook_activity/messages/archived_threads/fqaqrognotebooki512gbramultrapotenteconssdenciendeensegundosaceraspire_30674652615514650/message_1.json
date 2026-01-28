@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Fqa Qrog Awr"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1752597094436,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1752357837167,
+      "content": "150mil podria estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1752357829629,
+      "content": "Rechazaste la oferta de Fqa Qrog",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fqa Qrog Awr",
+      "timestamp_ms": 1752357755666,
+      "content": "Fqa Qrog te ofreci\u00c3\u00b3 $140.000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Fqa Qrog \u00c2\u00b7 Notebook i5 12GB RAM Ultra Potente con SSD ENCIENDE EN SEGUNDOS ACER ASPIRE",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/fqaqrognotebooki512gbramultrapotenteconssdenciendeensegundosaceraspire_30674652615514650",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

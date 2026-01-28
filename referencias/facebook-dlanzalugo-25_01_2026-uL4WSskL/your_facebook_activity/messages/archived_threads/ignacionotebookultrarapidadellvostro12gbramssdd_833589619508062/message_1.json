@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Ignacio Carre\u00c3\u00b1o"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767177538875,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766809127666,
+      "content": "Hola, s\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ignacio Carre\u00c3\u00b1o",
+      "timestamp_ms": 1766807734014,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ignacio Carre\u00c3\u00b1o",
+      "timestamp_ms": 1766807731321,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ignacio Carre\u00c3\u00b1o",
+      "timestamp_ms": 1766807730910,
+      "content": "Ignacio Carre\u00c3\u00b1o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ignacio Carre\u00c3\u00b1o",
+      "timestamp_ms": 1766807728784,
+      "content": "Ignacio asign\u00c3\u00b3 al grupo el nombre \"Ignacio \u00c2\u00b7 Notebook Ultra Rapida Dell Vostro / 12GB RAM / SSDD\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ignacio Carre\u00c3\u00b1o",
+      "timestamp_ms": 1766807728784,
+      "content": "Ignacio cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ignacio \u00c2\u00b7 Notebook Ultra Rapida Dell Vostro / 12GB RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/ignacionotebookultrarapidadellvostro12gbramssdd_833589619508062",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

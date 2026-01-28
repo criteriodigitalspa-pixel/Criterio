@@ -1,0 +1,97 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Antonio Rivera"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741106954786,
+      "content": "Le intereso el equipo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741054822133,
+      "content": "Total tiene 1200gb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741054817961,
+      "content": "Son 2 discos, 1 de 256gb y otro de 1tb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Antonio Rivera",
+      "timestamp_ms": 1741054675874,
+      "content": "y almacenamiento",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741051695614,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/antonionotebooki78th16gbramssd1tbultrapotenteprobookenciendeensegundos_8886255068140855/photos/2415378245493648.jpg",
+          "creation_timestamp": 1741051693
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Antonio Rivera",
+      "timestamp_ms": 1741051374152,
+      "content": "me puede enviar una foto del compu prendido con la info del",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741050743858,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Antonio Rivera",
+      "timestamp_ms": 1741049429750,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Antonio Rivera",
+      "timestamp_ms": 1741049420994,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Antonio Rivera",
+      "timestamp_ms": 1741049420794,
+      "content": "Antonio inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Antonio \u00c2\u00b7 Notebook i7-8th / 16GB RAM/ SSD + 1TB Ultra Potente / PROBOOK / Enciende en segundos!",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/antonionotebooki78th16gbramssd1tbultrapotenteprobookenciendeensegundos_8886255068140855",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

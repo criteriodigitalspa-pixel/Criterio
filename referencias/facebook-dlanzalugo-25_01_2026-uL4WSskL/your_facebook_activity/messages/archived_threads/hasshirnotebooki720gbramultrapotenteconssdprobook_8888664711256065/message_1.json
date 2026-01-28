@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Hasshir Nanjari"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738427773485,
+      "content": "Tiene intel graphics 620 HD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hasshir Nanjari",
+      "timestamp_ms": 1738427749980,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hasshir Nanjari",
+      "timestamp_ms": 1738427743590,
+      "content": "Tiene tarjeta de video??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hasshir Nanjari",
+      "timestamp_ms": 1738427743314,
+      "content": "Hasshir inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Hasshir \u00c2\u00b7 Notebook i7 20GB RAM Ultra Potente con SSD PROBOOK",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/hasshirnotebooki720gbramultrapotenteconssdprobook_8888664711256065",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Diego Jos\u00c3\u00a9 Err\u00c3\u00a1zuriz Ba\u00c3\u00b1ados"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743453772286,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme al metro, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743453771904,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Jos\u00c3\u00a9 Err\u00c3\u00a1zuriz Ba\u00c3\u00b1ados",
+      "timestamp_ms": 1743453168858,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Jos\u00c3\u00a9 Err\u00c3\u00a1zuriz Ba\u00c3\u00b1ados",
+      "timestamp_ms": 1743453158365,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Jos\u00c3\u00a9 Err\u00c3\u00a1zuriz Ba\u00c3\u00b1ados",
+      "timestamp_ms": 1743453158022,
+      "content": "Diego inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebooki710thultrarapida202316gbramssdd_9036336979799230",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

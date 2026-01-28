@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Enzo Carre\u00c3\u00b1o"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Enzo Carre\u00c3\u00b1o",
+      "timestamp_ms": 1741633313375,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741633218249,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme al metro, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741633217647,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Enzo Carre\u00c3\u00b1o",
+      "timestamp_ms": 1741632561864,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Enzo Carre\u00c3\u00b1o",
+      "timestamp_ms": 1741632554073,
+      "content": "Hola. En qu\u00c3\u00a9 comuna vive?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Enzo Carre\u00c3\u00b1o",
+      "timestamp_ms": 1741632553801,
+      "content": "Enzo inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Enzo \u00c2\u00b7 Notebook i5-10Th / 12GB RAM Ultra Potente/ 2023",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/enzonotebooki510th12gbramultrapotente2023_9260451000698436",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

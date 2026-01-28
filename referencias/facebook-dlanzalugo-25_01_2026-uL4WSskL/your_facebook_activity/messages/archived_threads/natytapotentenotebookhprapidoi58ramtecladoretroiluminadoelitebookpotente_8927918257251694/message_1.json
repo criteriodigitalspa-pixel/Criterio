@@ -1,0 +1,99 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Natyta Contreras Bravo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Natyta Contreras Bravo",
+      "timestamp_ms": 1729110425771,
+      "content": "Y que generaci\u00c3\u00b3n es",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Natyta Contreras Bravo",
+      "timestamp_ms": 1729110420127,
+      "content": "Quer\u00c3\u00ada saber m\u00c3\u00a1s detalles del Notebook",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729110378448,
+      "content": "Digame no mas y te ayudo a decidirte",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729110365660,
+      "content": "Tiene alguna duda?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729106502404,
+      "content": "Si esta disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729106499283,
+      "content": "Holaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Natyta Contreras Bravo",
+      "timestamp_ms": 1729105759255,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Natyta Contreras Bravo",
+      "timestamp_ms": 1729105753404,
+      "content": "Buenas tardes. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Natyta Contreras Bravo",
+      "timestamp_ms": 1729105752655,
+      "content": "Natyta Contreras Bravo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Natyta Contreras Bravo",
+      "timestamp_ms": 1729105750215,
+      "content": "Natyta asign\u00c3\u00b3 al grupo el nombre \"Natyta \u00c2\u00b7 Potente Notebook HP Rapido i5 8Ram Teclado retroiluminado Elitebook Potente\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Natyta Contreras Bravo",
+      "timestamp_ms": 1729105750215,
+      "content": "Natyta cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Natyta \u00c2\u00b7 Potente Notebook HP Rapido i5 8Ram Teclado retroiluminado Elitebook Potente",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/natytapotentenotebookhprapidoi58ramtecladoretroiluminadoelitebookpotente_8927918257251694",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

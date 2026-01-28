@@ -1,0 +1,345 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Victor Cordovez Hidalgo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759527702156,
+      "content": "Vale victor gracias a ti",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Cordovez Hidalgo",
+      "timestamp_ms": 1759527656964,
+      "content": "Muchas gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Cordovez Hidalgo",
+      "timestamp_ms": 1759527530924,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/victornotebooki710thultrarapida202316gbramssdd_1136319548600841/photos/1134308701501910.jpg",
+          "creation_timestamp": 1759527528
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Cordovez Hidalgo",
+      "timestamp_ms": 1759527157664,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759527083203,
+      "content": "Alli va bajando mi polola de llama Fabiola. En recepcion lo pruebas y todo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Cordovez Hidalgo",
+      "timestamp_ms": 1759527045444,
+      "content": "Estoy abajo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759527004669,
+      "content": "Valee",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Cordovez Hidalgo",
+      "timestamp_ms": 1759526985330,
+      "content": "Llegando",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759525896335,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/victornotebooki710thultrarapida202316gbramssdd_1136319548600841/photos/761196700250021.jpg",
+          "creation_timestamp": 1759525894
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759525873391,
+      "content": "Valee",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Cordovez Hidalgo",
+      "timestamp_ms": 1759525853737,
+      "content": "Le aviso cuando llegue y este afuera",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Cordovez Hidalgo",
+      "timestamp_ms": 1759525841077,
+      "content": "Voy saliendo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759525717016,
+      "content": "Me avisa cuando este llegando estimado para esperarle en recepcion",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Cordovez Hidalgo",
+      "timestamp_ms": 1759519381801,
+      "content": "Ya 18:30 estoy por all\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Cordovez Hidalgo",
+      "timestamp_ms": 1759519365277,
+      "content": "Si buena hora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759519192746,
+      "content": "Claro puede ser tipo 6.30pm puedes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Cordovez Hidalgo",
+      "timestamp_ms": 1759518618083,
+      "content": "A que hora se puede?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Cordovez Hidalgo",
+      "timestamp_ms": 1759518612072,
+      "content": "Si ir\u00c3\u00a9 a verlo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Cordovez Hidalgo",
+      "timestamp_ms": 1759517912379,
+      "content": "Ando en la florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759517882055,
+      "content": "De que comuna eres?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759517874055,
+      "content": "O una estacion de metro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759517868142,
+      "content": "Lago pirihueico 6502, la florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Cordovez Hidalgo",
+      "timestamp_ms": 1759517828284,
+      "content": "Donde se puede ver",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Cordovez Hidalgo",
+      "timestamp_ms": 1759517814412,
+      "content": "Ya ahora si, perd\u00c3\u00b3n",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759508226928,
+      "content": "Me avisas estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759504868909,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/victornotebooki710thultrarapida202316gbramssdd_1136319548600841/photos/1133374178761371.jpg",
+          "creation_timestamp": 1759504868
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Cordovez Hidalgo",
+      "timestamp_ms": 1759504681803,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Cordovez Hidalgo",
+      "timestamp_ms": 1759504678050,
+      "content": "Consulta el procesador i7 de que modelo es?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759503975040,
+      "content": "O si quieres nos juntamos en algun metro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759503969871,
+      "content": "Aah vale, mira puedes venir a mi domicilio que esta cerca ya asi lo pruebas y todo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Cordovez Hidalgo",
+      "timestamp_ms": 1759503656047,
+      "content": "Estoy en avenida la Florida con rojas Magallanes mas o menos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Cordovez Hidalgo",
+      "timestamp_ms": 1759503609280,
+      "content": "Ando por el dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Cordovez Hidalgo",
+      "timestamp_ms": 1759503605614,
+      "content": "No soy de aca",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Cordovez Hidalgo",
+      "timestamp_ms": 1759503590575,
+      "content": "As\u00c3\u00ad es",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759503557890,
+      "content": "Excelente me habias dicho que estabas aca en la florida cierto?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Cordovez Hidalgo",
+      "timestamp_ms": 1759503454932,
+      "content": "Pero este cumple mas con lo que necesito",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Cordovez Hidalgo",
+      "timestamp_ms": 1759503438778,
+      "content": "Te hab\u00c3\u00ada hablado por el otro igual",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759503351990,
+      "content": "Estoy en La Florida. Te acomoda la comuna o preferir\u00c3\u00adas que coordinemos en otro punto a convenir?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759503344380,
+      "content": "Hola. S\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para que lo pruebes con toda la calma del mundo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Cordovez Hidalgo",
+      "timestamp_ms": 1759503237408,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Cordovez Hidalgo",
+      "timestamp_ms": 1759503235618,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Cordovez Hidalgo",
+      "timestamp_ms": 1759503235188,
+      "content": "Victor Cordovez Hidalgo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Cordovez Hidalgo",
+      "timestamp_ms": 1759503232706,
+      "content": "Victor asign\u00c3\u00b3 al grupo el nombre \"Victor \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 16gb RAM / SSDD\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Cordovez Hidalgo",
+      "timestamp_ms": 1759503232706,
+      "content": "Victor cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Victor \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "inbox/victornotebooki710thultrarapida202316gbramssdd_1136319548600841",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

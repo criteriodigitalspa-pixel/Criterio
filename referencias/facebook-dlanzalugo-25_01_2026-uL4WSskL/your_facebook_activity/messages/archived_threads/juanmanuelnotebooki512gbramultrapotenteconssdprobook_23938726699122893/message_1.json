@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Juan Manuel Luchoni Romero"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750290110797,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750290022477,
+      "content": "Lo siento, no est\u00c3\u00a1 disponible.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Manuel Luchoni Romero",
+      "timestamp_ms": 1750289009004,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Manuel Luchoni Romero",
+      "timestamp_ms": 1750288997479,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Manuel Luchoni Romero",
+      "timestamp_ms": 1750288997072,
+      "content": "Juan Manuel Luchoni Romero",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Manuel Luchoni Romero",
+      "timestamp_ms": 1750288993824,
+      "content": "Juan Manuel asign\u00c3\u00b3 al grupo el nombre \"Juan Manuel \u00c2\u00b7 Notebook i5 12GB RAM Ultra Potente con SSD PROBOOK\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Manuel Luchoni Romero",
+      "timestamp_ms": 1750288993824,
+      "content": "Juan Manuel cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Juan Manuel \u00c2\u00b7 Notebook i5 12GB RAM Ultra Potente con SSD PROBOOK",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/juanmanuelnotebooki512gbramultrapotenteconssdprobook_23938726699122893",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

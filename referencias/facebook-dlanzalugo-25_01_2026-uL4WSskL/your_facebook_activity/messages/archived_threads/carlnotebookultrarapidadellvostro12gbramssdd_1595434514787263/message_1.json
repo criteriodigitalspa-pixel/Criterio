@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Carl Johnson"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767177538985,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carl Johnson",
+      "timestamp_ms": 1767090271692,
+      "content": "Carl est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carl Johnson",
+      "timestamp_ms": 1767038181782,
+      "content": "Carl Johnson te envi\u00c3\u00b3 un mensaje sobre tu publicaci\u00c3\u00b3n: Notebook Ultra Rapida Dell Vostro / 12GB RAM / SSDD.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carl Johnson",
+      "timestamp_ms": 1767038175770,
+      "content": "Hola, permutas por una bici Trek?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carl Johnson",
+      "timestamp_ms": 1767038175244,
+      "content": "Carl Johnson",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carl Johnson",
+      "timestamp_ms": 1767038172665,
+      "content": "Carl asign\u00c3\u00b3 al grupo el nombre \"Carl \u00c2\u00b7 Notebook Ultra Rapida Dell Vostro / 12GB RAM / SSDD\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carl Johnson",
+      "timestamp_ms": 1767038172665,
+      "content": "Carl cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Carl \u00c2\u00b7 Notebook Ultra Rapida Dell Vostro / 12GB RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/carlnotebookultrarapidadellvostro12gbramssdd_1595434514787263",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

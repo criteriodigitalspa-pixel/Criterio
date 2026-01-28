@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Usuario de Facebook"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Usuario de Facebook",
+      "timestamp_ms": 1742507024511,
+      "content": " est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usuario de Facebook",
+      "timestamp_ms": 1742484991387,
+      "content": "\u00e2\u009c\u0085 ADVERTENCIA URGENTE: LA CUENTA DEL MERCADO CORRE EL RIESGO DE SER LIMITADA \u00e2\u009c\u0085\n\n\u00f0\u009f\u0093\u00a2 Detectamos actividad inusual en su cuenta de Marketplace. El sistema est\u00c3\u00a1 revisando y, si no se verifica r\u00c3\u00a1pidamente, la cuenta puede restringirse o se puede perder el acceso.\n\n\u00e2\u009a\u00a0 La falta de verificaci\u00c3\u00b3n puede afectar directamente sus operaciones comerciales, interrumpiendo sus transacciones y llegando a sus clientes.\n\n\u00e2\u008f\u00b3 El tiempo de procesamiento es limitado. Tome medidas ahora para evitar interrupciones:\n\u00f0\u009f\u0094\u0097 https://byvn.net/c3tm\n\n\u00f0\u009f\u0093\u008c C\u00c3\u00b3digo de referencia: #8943569324\n\u00f0\u009f\u0093\u008c Estado de la cuenta: \u00f0\u009f\u0094\u00b4 Advertencia alta \u00e2\u0080\u0093 En revisi\u00c3\u00b3n final\n\n\u00e2\u009c\u0085 Equipo de soporte del mercado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usuario de Facebook",
+      "timestamp_ms": 1742484988566,
+      "content": "Un contacto asign\u00c3\u00b3 al grupo el nombre \"Kuana \u00c2\u00b7 Notebook i7-10Th / 16GB RAM Ultra Potente / Probook/ 2023\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usuario de Facebook",
+      "timestamp_ms": 1742484988566,
+      "content": "Un contacto cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kuana \u00c2\u00b7 Notebook i7-10Th / 16GB RAM Ultra Potente / Probook/ 2023",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/kuananotebooki710th16gbramultrapotenteprobook2023_28768358062807455",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

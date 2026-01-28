@@ -1,0 +1,30 @@
+{
+  "timestamp": 1738367256,
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Coordenadas",
+      "dict": [
+        {
+          "label": "latitude",
+          "value": "-33.418486164985"
+        },
+        {
+          "label": "longitude",
+          "value": "-70.600814274571"
+        }
+      ]
+    },
+    {
+      "label": "Ubicaci\u00c3\u00b3n actual compartida",
+      "value": "Falso"
+    },
+    {
+      "label": "Identificador del mensaje",
+      "value": ""
+    }
+  ],
+  "fbid": "9612788195418581"
+}

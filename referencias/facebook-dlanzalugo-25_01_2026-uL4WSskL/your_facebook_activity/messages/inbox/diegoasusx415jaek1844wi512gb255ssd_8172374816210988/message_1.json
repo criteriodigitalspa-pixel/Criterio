@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Andi Teran Santos"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Andi Teran Santos",
+      "timestamp_ms": 1736461076138,
+      "content": "Andi vendi\u00c3\u00b3 Asus X415ja Ek1844W i5 12GB 255ssd.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andi Teran Santos",
+      "timestamp_ms": 1729691604375,
+      "content": "\u00c2\u00bfA\u00c3\u00ban te interesa? Responde a: 220",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andi Teran Santos",
+      "timestamp_ms": 1729681457731,
+      "content": "220",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729632941290,
+      "content": "Precio?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729632938309,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Asus X415ja Ek1844W i5 12GB 255ssd\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729632938309,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Asus X415ja Ek1844W i5 12GB 255ssd",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegoasusx415jaek1844wi512gb255ssd_8172374816210988",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/989517806220741.jpg",
+    "creation_timestamp": 1729632937
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Crist\u00c3\u00b3bal Antonio Dom\u00c3\u00adnguez Rivera"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Crist\u00c3\u00b3bal Antonio Dom\u00c3\u00adnguez Rivera",
+      "timestamp_ms": 1744885715965,
+      "content": "Crist\u00c3\u00b3bal Antonio est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Crist\u00c3\u00b3bal Antonio Dom\u00c3\u00adnguez Rivera",
+      "timestamp_ms": 1744853692401,
+      "content": "260 ma\u00c3\u00b1ana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Crist\u00c3\u00b3bal Antonio Dom\u00c3\u00adnguez Rivera",
+      "timestamp_ms": 1744852222637,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Crist\u00c3\u00b3bal Antonio Dom\u00c3\u00adnguez Rivera",
+      "timestamp_ms": 1744852216560,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Crist\u00c3\u00b3bal Antonio Dom\u00c3\u00adnguez Rivera",
+      "timestamp_ms": 1744852216160,
+      "content": "Crist\u00c3\u00b3bal Antonio inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Crist\u00c3\u00b3bal Antonio \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "inbox/cristobalantonionotebooki710thultrarapida202316gbramssdd_9091325184307510",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

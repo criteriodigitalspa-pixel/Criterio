@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Jonathan Alexander Silva Perez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jonathan Alexander Silva Perez",
+      "timestamp_ms": 1738884906237,
+      "content": "Jonathan vendi\u00c3\u00b3 Notebook Dell Latitude 5490.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Alexander Silva Perez",
+      "timestamp_ms": 1738334350664,
+      "content": "\u00c2\u00bfA\u00c3\u00ban te interesa? Responde a: Hola, si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Alexander Silva Perez",
+      "timestamp_ms": 1738325870094,
+      "content": "Hola, si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738325748658,
+      "content": "Buenos d\u00c3\u00adas. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738325748478,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook Dell Latitude 5490",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebookdelllatitude5490_9362885280429629",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/607607825387246.jpg",
+    "creation_timestamp": 1738325745
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

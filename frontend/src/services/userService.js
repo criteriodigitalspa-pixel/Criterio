@@ -119,6 +119,11 @@ export const userService = {
         }
     },
 
+    // Alias for compatibility
+    getUser: async (uid) => {
+        return userService.getUserProfile(uid);
+    },
+
     // Get all users (Admin only ideally)
     getAllUsers: async () => {
         try {

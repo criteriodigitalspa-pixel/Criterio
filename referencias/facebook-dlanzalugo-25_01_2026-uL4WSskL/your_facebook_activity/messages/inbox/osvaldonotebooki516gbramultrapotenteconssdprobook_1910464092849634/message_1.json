@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Osvaldo Lillo C\u00c3\u00a1mpora"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759441569518,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Osvaldo Lillo C\u00c3\u00a1mpora",
+      "timestamp_ms": 1759087908634,
+      "content": "Porque hay otra TPM 1.2 que no me permite correr el juego que quiero.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Osvaldo Lillo C\u00c3\u00a1mpora",
+      "timestamp_ms": 1759087874515,
+      "content": "Pero TPM 2.0 ??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759087091143,
+      "content": "Si tiene tpm, pero va con windows 10",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Osvaldo Lillo C\u00c3\u00a1mpora",
+      "timestamp_ms": 1759087064669,
+      "content": "O window 11?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Osvaldo Lillo C\u00c3\u00a1mpora",
+      "timestamp_ms": 1759086102685,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Osvaldo Lillo C\u00c3\u00a1mpora",
+      "timestamp_ms": 1759086100665,
+      "content": "Hola, sabes si tiene sistema de seguridad TPM 2.0 ???",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Osvaldo Lillo C\u00c3\u00a1mpora",
+      "timestamp_ms": 1759086100429,
+      "content": "Osvaldo inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Osvaldo \u00c2\u00b7 Notebook i5 16GB RAM Ultra Potente con SSD PROBOOK",
+  "is_still_participant": true,
+  "thread_path": "inbox/osvaldonotebooki516gbramultrapotenteconssdprobook_1910464092849634",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

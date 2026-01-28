@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Compumagic Esparza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Compumagic Esparza",
+      "timestamp_ms": 1703871605448,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Compumagic Esparza",
+      "timestamp_ms": 1703856776440,
+      "content": "Esta impecable",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Compumagic Esparza",
+      "timestamp_ms": 1703856769073,
+      "content": "95.000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703805171667,
+      "content": "Disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703253482231,
+      "content": "Publicaciones similares a \"Notebook empresarial core i5 se sexta lenovo\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703123877505,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703123873699,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703123873244,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Notebook empresarial core i5 se sexta lenovo\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook empresarial core i5 se sexta lenovo",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebookempresarialcorei5sesextalenovo_7098712696834735",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/2191096537906358.jpg",
+    "creation_timestamp": 1703123868
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

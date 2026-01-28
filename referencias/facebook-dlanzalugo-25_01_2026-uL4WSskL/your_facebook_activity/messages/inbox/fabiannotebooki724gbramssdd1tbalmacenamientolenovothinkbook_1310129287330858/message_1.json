@@ -1,0 +1,141 @@
+{
+  "participants": [
+    {
+      "name": "Fabian Diaz"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Fabian Diaz",
+      "timestamp_ms": 1758678232919,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabian Diaz",
+      "timestamp_ms": 1758651096276,
+      "content": "Me avisas ya est\u00c3\u00a1 semana puedo comprarlo ojal\u00c3\u00a1 hoy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabian Diaz",
+      "timestamp_ms": 1758638924062,
+      "content": "D\u00c3\u00b3nde est\u00c3\u00a1s?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabian Diaz",
+      "timestamp_ms": 1758638919616,
+      "content": "Podemos verlo hoy?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabian Diaz",
+      "timestamp_ms": 1758638778782,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabian Diaz",
+      "timestamp_ms": 1758415173879,
+      "content": "Me interesaria comprar ambos con factura luego de verlos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabian Diaz",
+      "timestamp_ms": 1758415154622,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabian Diaz",
+      "timestamp_ms": 1758415152154,
+      "content": "Super, talvez pueda ya el martes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1758415094079,
+      "content": "Si este mismo de esta publicacion",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabian Diaz",
+      "timestamp_ms": 1758415078996,
+      "content": "Tienes dos iguales?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1758415058098,
+      "content": "Si estimado le parece coordinar para que los revises ma\u00c3\u00b1ana?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabian Diaz",
+      "timestamp_ms": 1758414663076,
+      "content": "De preferencia si o muy similares",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1758412176037,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1758412174415,
+      "content": "Hola estimado buenas tardes. Necesita 2 iguales",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabian Diaz",
+      "timestamp_ms": 1758411158830,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabian Diaz",
+      "timestamp_ms": 1758411156605,
+      "content": "Hola, sigue disponible? Tienes dos de esos disponibles?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabian Diaz",
+      "timestamp_ms": 1758411156399,
+      "content": "Fabian inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Fabian \u00c2\u00b7 Notebook i7/24GB RAM / SSDD / 1TB almacenamiento/Lenovo ThinkBook",
+  "is_still_participant": true,
+  "thread_path": "inbox/fabiannotebooki724gbramssdd1tbalmacenamientolenovothinkbook_1310129287330858",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

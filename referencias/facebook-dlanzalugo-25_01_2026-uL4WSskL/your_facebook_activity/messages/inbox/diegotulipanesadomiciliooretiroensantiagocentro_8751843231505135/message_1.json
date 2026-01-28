@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Ivette Quero Caballero"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ivette Quero Caballero",
+      "timestamp_ms": 1735957376314,
+      "content": "Ivette vendi\u00c3\u00b3 TULIPANES \u00f0\u009f\u00a9\u00b7\u00f0\u009f\u00a9\u00b7\u00f0\u009f\u00a9\u00b7 A DOMICILIO O RETIRO EN SANTIAGO CENTRO.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 TULIPANES \u00f0\u009f\u00a9\u00b7\u00f0\u009f\u00a9\u00b7\u00f0\u009f\u00a9\u00b7 A DOMICILIO O RETIRO EN SANTIAGO CENTRO",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegotulipanesadomiciliooretiroensantiagocentro_8751843231505135",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1205725493851078.jpg",
+    "creation_timestamp": 1730307883
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

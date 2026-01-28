@@ -1,0 +1,117 @@
+{
+  "participants": [
+    {
+      "name": "Michael Delgadillo"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Michael Delgadillo",
+      "timestamp_ms": 1768876063301,
+      "content": "Michael vendi\u00c3\u00b3 Lenovo e14.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Michael Delgadillo",
+      "timestamp_ms": 1768876062930,
+      "content": "Michael marc\u00c3\u00b3 el art\u00c3\u00adculo como vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Michael Delgadillo",
+      "timestamp_ms": 1767055771302,
+      "content": "Michael actualiz\u00c3\u00b3 las fotos de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Michael Delgadillo",
+      "timestamp_ms": 1767055770463,
+      "content": "Michael cambi\u00c3\u00b3 el precio de Lenovo e14.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Michael Delgadillo",
+      "timestamp_ms": 1767055713075,
+      "content": "Michael marc\u00c3\u00b3 la publicaci\u00c3\u00b3n como Disponible.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Michael Delgadillo",
+      "timestamp_ms": 1765761557817,
+      "content": "Michael vendi\u00c3\u00b3 Lenovo e14.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Michael Delgadillo",
+      "timestamp_ms": 1765669415445,
+      "content": "Michael actualiz\u00c3\u00b3 las fotos de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Michael Delgadillo",
+      "timestamp_ms": 1765669414533,
+      "content": "Michael cambi\u00c3\u00b3 la descripci\u00c3\u00b3n de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Michael Delgadillo",
+      "timestamp_ms": 1765669413803,
+      "content": "Michael baj\u00c3\u00b3 el precio de Lenovo e14 a $110.000.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Michael Delgadillo",
+      "timestamp_ms": 1765638737330,
+      "content": "No le\u00c3\u00addo: S\u00c3\u00ad. \u00c2\u00bfTe interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Michael Delgadillo",
+      "timestamp_ms": 1765511595509,
+      "content": "S\u00c3\u00ad. \u00c2\u00bfTe interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765511126596,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765511126302,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Lenovo e14",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegolenovoe14_3333358020162545",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/748860510876075.jpg",
+    "creation_timestamp": 1765511123
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

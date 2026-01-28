@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Charlie Andres Ossandon Henriquez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Charlie Andres Ossandon Henriquez",
+      "timestamp_ms": 1768640631544,
+      "content": "Charlie Andres Ossandon Henriquez te envi\u00c3\u00b3 un mensaje sobre tu publicaci\u00c3\u00b3n: Ultra Potente Thinkpad i7 /16GB RAM / SSDD / Corre Todo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Charlie Andres Ossandon Henriquez",
+      "timestamp_ms": 1768640628773,
+      "content": "NO PERMUTAS X MEZA MEZCLADORA BEAT MIX 2",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Charlie Andres Ossandon Henriquez",
+      "timestamp_ms": 1768640628500,
+      "content": "Charlie inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Charlie \u00c2\u00b7 Ultra Potente Thinkpad i7 /16GB RAM / SSDD / Corre Todo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/charlieultrapotentethinkpadi716gbramssddcorretodo_1188081786853845",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

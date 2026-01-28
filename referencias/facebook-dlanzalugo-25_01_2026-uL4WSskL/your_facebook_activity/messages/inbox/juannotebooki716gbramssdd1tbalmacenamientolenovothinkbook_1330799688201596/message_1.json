@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Juan Pablo"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763498228518,
+      "content": "Igual el equipo los vale, es un maquinon buenisimo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763498188408,
+      "content": "Hola estimado. Claro entiendo, igual si quieres hacerme una oferta razonable dime no mas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Pablo",
+      "timestamp_ms": 1763497643615,
+      "content": "Ta bueno pero me faltan lukas aun",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763483851615,
+      "content": "Hola estimado, el equipo tiene 2 a\u00c3\u00b1ls de uso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Pablo",
+      "timestamp_ms": 1763483618047,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Pablo",
+      "timestamp_ms": 1763483613823,
+      "content": "Nuevo hace cuanto lo compro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Pablo",
+      "timestamp_ms": 1763483613467,
+      "content": "Juan inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Juan \u00c2\u00b7 Notebook i7/16GB RAM / SSDD / 1TB almacenamiento/Lenovo ThinkBook",
+  "is_still_participant": true,
+  "thread_path": "inbox/juannotebooki716gbramssdd1tbalmacenamientolenovothinkbook_1330799688201596",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

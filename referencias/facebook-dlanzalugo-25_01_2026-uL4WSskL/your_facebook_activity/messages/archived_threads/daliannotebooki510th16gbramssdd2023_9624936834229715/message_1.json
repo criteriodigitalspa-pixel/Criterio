@@ -1,0 +1,102 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Dalian Fuentes"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dalian Fuentes",
+      "timestamp_ms": 1741650334921,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741650270238,
+      "content": "Gracias igual",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741650268258,
+      "content": "No porque no lo valga si no porque no puedo destinar 500 para eso en este momento",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741650252086,
+      "content": "Si me interesaria pero 500mil es mucha plata",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741650242241,
+      "content": "Amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741650239672,
+      "content": "Hola migo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dalian Fuentes",
+      "timestamp_ms": 1741650186146,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/daliannotebooki510th16gbramssdd2023_9624936834229715/photos/1200108518392013.jpg",
+          "creation_timestamp": 1741650185
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dalian Fuentes",
+      "timestamp_ms": 1741627834299,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dalian Fuentes",
+      "timestamp_ms": 1741627826104,
+      "content": "Tengo un pc para permutar + 500 a mi favor \nIntel(R) Core i5-9400F CPU\n2.90GHz \n16,0 GB\nNVIDIA GeForce RTX 3050 3 ventiladores \nLo doy con:\nMonitor curvo 165Hz \nMaus y teclado gamer",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dalian Fuentes",
+      "timestamp_ms": 1741627825651,
+      "content": "Dalian inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dalian \u00c2\u00b7 Notebook i5-10th // 16GB RAM // SSDD // 2023",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/daliannotebooki510th16gbramssdd2023_9624936834229715",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

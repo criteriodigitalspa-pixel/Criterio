@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Krishna Siomara"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703271826939,
+      "content": "Holaa, si sigue disponible \u00f0\u009f\u0098\u0084",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krishna Siomara",
+      "timestamp_ms": 1703271769653,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krishna Siomara",
+      "timestamp_ms": 1703271764777,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krishna Siomara",
+      "timestamp_ms": 1703271764398,
+      "content": "Krishna Siomara",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krishna Siomara",
+      "timestamp_ms": 1703271762797,
+      "content": "Krishna cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krishna Siomara",
+      "timestamp_ms": 1703271762483,
+      "content": "Krishna asign\u00c3\u00b3 al grupo el nombre \"Krishna \u00c2\u00b7 Notebook Rapido y Potente Core I5 8GB RAM Lenovo\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Krishna \u00c2\u00b7 Notebook Rapido y Potente Core I5 8GB RAM Lenovo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/krishnanotebookrapidoypotentecorei58gbramlenovo_7039333309479037",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/883419696778225.jpg",
+    "creation_timestamp": 1703271759
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Elio Castejon"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732962188876,
+      "content": "Holaa, Hp 240 g6",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Elio Castejon",
+      "timestamp_ms": 1732937807398,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Elio Castejon",
+      "timestamp_ms": 1732937803711,
+      "content": "Hola. \u00c2\u00bfSigue disponible? Que modelo es, gracias.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Elio Castejon",
+      "timestamp_ms": 1732937803537,
+      "content": "Elio inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Elio \u00c2\u00b7 Notebook HP ultra Rapida i5 Potente 12GB RAM Enciende en segundos!",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/elionotebookhpultrarapidai5potente12gbramenciendeensegundos_8751926738262194",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

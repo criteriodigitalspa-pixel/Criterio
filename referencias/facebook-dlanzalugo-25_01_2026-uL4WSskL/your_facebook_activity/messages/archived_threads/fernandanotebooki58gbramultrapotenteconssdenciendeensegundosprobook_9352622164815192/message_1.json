@@ -1,0 +1,102 @@
+{
+  "participants": [
+    {
+      "name": "Fernanda Andrea"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Fernanda Andrea",
+      "timestamp_ms": 1742151764175,
+      "content": "\u00c3\u009altimo precio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742150914137,
+      "content": "Vale estimado ma\u00c3\u00b1ana esta bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernanda Andrea",
+      "timestamp_ms": 1742150875609,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/fernandanotebooki58gbramultrapotenteconssdenciendeensegundosprobook_9352622164815192/audio/495155473664329.mp4",
+          "creation_timestamp": 1742150873
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernanda Andrea",
+      "timestamp_ms": 1742150700090,
+      "content": "957265068",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernanda Andrea",
+      "timestamp_ms": 1742150688721,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/fernandanotebooki58gbramultrapotenteconssdenciendeensegundosprobook_9352622164815192/audio/1359226311757154.mp4",
+          "creation_timestamp": 1742150687
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742150607661,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme al metro, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742150607025,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernanda Andrea",
+      "timestamp_ms": 1742150117148,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernanda Andrea",
+      "timestamp_ms": 1742150112189,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernanda Andrea",
+      "timestamp_ms": 1742150111746,
+      "content": "Fernanda inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Fernanda \u00c2\u00b7 Notebook i5 8GB RAM Ultra Potente con SSD ENCIENDE EN SEGUNDOS\n PROBOOK",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/fernandanotebooki58gbramultrapotenteconssdenciendeensegundosprobook_9352622164815192",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

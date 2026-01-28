@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Denisse Ruz"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729266581914,
+      "content": "Podria acercarme a cualquier estacion de metro o podria verlo en mi domicilio en la florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Denisse Ruz",
+      "timestamp_ms": 1729266427656,
+      "content": "Hola donde entregas ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729261181706,
+      "content": "Hola, si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Denisse Ruz",
+      "timestamp_ms": 1729257759764,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Denisse Ruz",
+      "timestamp_ms": 1729257754887,
+      "content": "\u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Denisse Ruz",
+      "timestamp_ms": 1729257754371,
+      "content": "Denisse Ruz",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Denisse Ruz",
+      "timestamp_ms": 1729257751828,
+      "content": "Denisse asign\u00c3\u00b3 al grupo el nombre \"Denisse \u00c2\u00b7 Potente Notebook i5 con 8gb Ram corre todo\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Denisse Ruz",
+      "timestamp_ms": 1729257751828,
+      "content": "Denisse cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Denisse \u00c2\u00b7 Potente Notebook i5 con 8gb Ram corre todo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/denissepotentenotebooki5con8gbramcorretodo_8421684384533224",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

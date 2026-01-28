@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Jose Luis Tamarony Martinez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jose Luis Tamarony Martinez",
+      "timestamp_ms": 1740968798943,
+      "content": "\u00c2\u00bfA\u00c3\u00ban te interesa? Responde a: Hola amigo d\u00c3\u00adgame",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Luis Tamarony Martinez",
+      "timestamp_ms": 1740962631389,
+      "content": "Hola amigo d\u00c3\u00adgame",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740954171723,
+      "content": "Buenas noches. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740954171493,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Ventas de notebook",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegoventasdenotebook_29033278826263548",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/3523025911325957.jpg",
+    "creation_timestamp": 1740954168
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

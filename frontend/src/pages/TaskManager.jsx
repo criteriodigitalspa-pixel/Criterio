@@ -12,7 +12,7 @@ import {
     CheckCircle2, AlertCircle, Calendar as CalendarIcon, Calendar, ChevronRight, MoreVertical, Plus,
     Layout, Hash, Briefcase, PanelLeftClose, UserPlus, Trash2, Check, Clock, Search, XCircle,
     ArrowUpCircle, Filter, X, Kanban, List as ListIcon, FolderPlus, MoreHorizontal, ChevronDown,
-    Circle, RefreshCw, Link as LinkIcon, Users, Table, ShieldCheck, Settings
+    Circle, RefreshCw, Link as LinkIcon, Users, Table, ShieldCheck, Settings, LayoutDashboard, Lightbulb
 } from 'lucide-react';
 import toast from 'react-hot-toast';
 import clsx from 'clsx';
@@ -23,11 +23,15 @@ import EditProjectModal from '../components/projects/EditProjectModal';
 // NotificationCenter & UserMenu moved to DashboardLayout
 import EmptyState from '../components/layout/EmptyState';
 import AreaDashboard from '../components/tasks/AreaDashboard';
+import PersonalDashboard from '../components/tasks/PersonalDashboard';
 import CalendarView from '../components/tasks/CalendarView';
+import TableView from '../components/tasks/TableView';
 import SidebarList from '../components/tasks/SidebarList';
+import IdeaInbox from './IdeaInbox';
 import TaskCard from '../components/tasks/TaskCard';
 import TaskCardSkeleton from '../components/tasks/TaskCardSkeleton';
-import TableView from '../components/tasks/TableView';
+import html2canvas from 'html2canvas';
+import TaskReceipt from '../components/tasks/TaskReceipt';
 import {
     DndContext,
     closestCenter,
@@ -109,10 +113,14 @@ export default function TaskManager() {
             const found = firestoreTasks.find(t => t.id === taskId);
             if (found) {
                 setSelectedTask(found);
+                setIsLocalSidebarCollapsed(true);
             } else {
                 // If not found (maybe loading, or other project), fetch it
                 taskService.getTask(taskId).then(task => {
-                    if (task) setSelectedTask(task);
+                    if (task) {
+                        setSelectedTask(task);
+                        setIsLocalSidebarCollapsed(true);
+                    }
                 });
             }
             // Optional: Clear state so it doesn't reopen if we navigate away and back
@@ -121,6 +129,14 @@ export default function TaskManager() {
     }, [location.state, firestoreTasks]); // Check when tasks load too
 
     const [selectedTask, setSelectedTask] = useState(null);
+
+    // Wrapper to auto-collapse sidebar when task is selected (User request)
+    const handleTaskClick = (task) => {
+        setSelectedTask(task);
+        if (task) {
+            setIsLocalSidebarCollapsed(true);
+        }
+    };
 
     // Google Tasks State
     const [isGoogleConnected, setIsGoogleConnected] = useState(false);
@@ -140,21 +156,37 @@ export default function TaskManager() {
 
     // Optimistic UI State
     const [optimisticTasks, setOptimisticTasks] = useState([]);
+    const [activeProjectMembers, setActiveProjectMembers] = useState([]);
+
+    // Image Generation State
+    const receiptRef = useRef(null);
+    const [tempTaskForImage, setTempTaskForImage] = useState(null);
 
     // Derived Consolidated Tasks
-    const tasks = activeProjectId ? [
-        // Optimistic: Only show if they belong to this project (Simple check)
-        ...optimisticTasks.filter(t =>
+    const tasks = activeProjectId ? (() => {
+        // 1. Optimistic (Excluding those already in Firestore)
+        const effectiveOptimistic = optimisticTasks.filter(t =>
             activeProjectId === 'my-tasks'
                 ? true
                 : String(t.projectId) === String(activeProjectId)
-        ).filter(t => !firestoreTasks.find(ft => ft.id === t.id)),
+        ).filter(t => !firestoreTasks.find(ft => ft.id === t.id));
 
-        // Database: Trust the subscription implicitly. If it's here, it belongs here.
-        ...firestoreTasks,
+        // 2. Google Tasks Deduplication (Heuristic: Title Match)
+        // Hides Google Tasks that identify as duplicates of Firestore tasks
+        const firestoreTitles = new Set(firestoreTasks.map(t => (t.text || '').toLowerCase().trim()));
 
-        ...googleTasks
-    ] : [];
+        const uniqueGoogleTasks = googleTasks.filter(gt => {
+            // Only filter if we have a title match to avoid "Ghost" duplicates after sync
+            if (!gt.text) return true;
+            return !firestoreTitles.has(gt.text.toLowerCase().trim());
+        });
+
+        return [
+            ...effectiveOptimistic,
+            ...firestoreTasks,
+            ...uniqueGoogleTasks
+        ];
+    })() : [];
 
     // Menu State
     const [activeMenuProject, setActiveMenuProject] = useState(null); // projectId
@@ -167,14 +199,16 @@ export default function TaskManager() {
     const [newAreaName, setNewAreaName] = useState('');
     const [creatingProjectInArea, setCreatingProjectInArea] = useState(null);
     const [newProjectName, setNewProjectName] = useState('');
+
     const [newTaskText, setNewTaskText] = useState('');
+    const [newTaskDescription, setNewTaskDescription] = useState('');
     const [newTaskDate, setNewTaskDate] = useState('');
     const [newTaskAssignees, setNewTaskAssignees] = useState([]);
     const [isQuickAddExpanded, setIsQuickAddExpanded] = useState(false);
 
     // Layout Context (Main Sidebar)
     const { setIsSidebarCollapsed, isSidebarCollapsed: isMainCollapsed } = useOutletContext() || {};
-    const [isLocalSidebarCollapsed, setIsLocalSidebarCollapsed] = useState(true);
+    const [isLocalSidebarCollapsed, setIsLocalSidebarCollapsed] = useState(false);
     const [isHoverExpanded, setIsHoverExpanded] = useState(false);
     const hoverTimeoutRef = useRef(null);
     const sidebarRef = useRef(null);
@@ -193,6 +227,37 @@ export default function TaskManager() {
 
     }, [activeProjectId, setIsSidebarCollapsed]);
 
+    // Default Dashboard View for My Tasks
+    useEffect(() => {
+        if (activeProjectId === 'my-tasks') {
+            setViewMode('dashboard');
+        } else {
+            if (viewMode === 'dashboard') setViewMode('board');
+        }
+    }, [activeProjectId]);
+
+    // Fetch members when project changes
+    useEffect(() => {
+        if (!activeProjectId || activeProjectId === 'my-tasks') {
+            setActiveProjectMembers([]);
+            return;
+        }
+        const fetchMembers = async () => {
+            const members = await taskService.getProjectMembers(activeProjectId);
+            setActiveProjectMembers(members);
+        };
+        fetchMembers();
+    }, [activeProjectId]);
+
+
+    // CLEANUP: Remove optimistic tasks once they appear in Firestore
+    useEffect(() => {
+        if (firestoreTasks.length > 0 && optimisticTasks.length > 0) {
+            setOptimisticTasks(prev => prev.filter(optim =>
+                !firestoreTasks.some(real => real.id === optim.id)
+            ));
+        }
+    }, [firestoreTasks]);
 
     // --- ITEM UPDATE (Edit Project/Area) ---
     const handleUpdateItem = async (itemId, updates) => {
@@ -517,17 +582,33 @@ export default function TaskManager() {
         }
     };
 
-    const handleCreateProject = async (e, areaId) => {
+    const handleCreateProject = async (e, areaId, nameOverride = null) => {
         if (e && e.preventDefault) e.preventDefault();
-        if (!newProjectName.trim()) return;
+
+        // Use override if provided (from Sidebar), else fall back to existing state (Modal)
+        const nameToUse = nameOverride !== null ? nameOverride : newProjectName;
+
+        if (!nameToUse || !nameToUse.trim()) return;
+
         try {
-            const res = await taskService.addProject(newProjectName, areaId, user.uid);
-            setNewProjectName('');
+            const res = await taskService.addProject(nameToUse, areaId, user.uid);
+
+            // Clear correct state
+            if (nameOverride !== null) {
+                // If it came from sidebar, we don't necessarily clear 'newProjectName' global state, 
+                // but the Sidebar component clears its own state via the callback we passed?
+                // Actually Sidebar handles its own clearing via 'setNewProjectName' passed to it.
+                // WE JUST NEED TO RETURN SUCCESS so sidebar knows.
+            } else {
+                setNewProjectName('');
+            }
+
             setCreatingProjectInArea(null);
-            setActiveProjectId(res.id);
+            if (res && res.id) setActiveProjectId(res.id);
             if (areaId) setExpandedAreas(prev => ({ ...prev, [areaId]: true }));
             toast.success("Proyecto creado");
         } catch (error) {
+            console.error(error);
             toast.error("Error al crear proyecto");
         }
     };
@@ -588,6 +669,7 @@ export default function TaskManager() {
         const optimTask = {
             id: newId,
             text: newTaskText,
+            description: newTaskDescription,
             projectId: activeProjectId,
             status: 'todo',
             createdAt: { seconds: Date.now() / 1000 },
@@ -600,6 +682,7 @@ export default function TaskManager() {
         // 1. Optimistic Update (Immediate Feedback)
         setOptimisticTasks(prev => [optimTask, ...prev]);
         setNewTaskText('');
+        setNewTaskDescription('');
         setNewTaskDate('');
         setNewTaskAssignees([]);
         setIsQuickAddExpanded(false);
@@ -608,6 +691,7 @@ export default function TaskManager() {
             // 2. Actual Server Call with PRE-GENERATED ID
             await taskService.addTask({
                 text: optimTask.text,
+                description: optimTask.description,
                 projectId: activeProjectId,
                 status: 'todo',
                 subtasks: [],
@@ -616,17 +700,64 @@ export default function TaskManager() {
                 assignedTo: newTaskAssignees
             }, user.uid);
 
+            // 3. Trigger Notification (Creating with Assignees)
+            // 3. Trigger Notification (Image Based)
+            if (newTaskAssignees.length > 0) {
+                // Set Render State
+                setTempTaskForImage(optimTask);
+
+                // Capture and Send (Async)
+                setTimeout(async () => {
+                    if (receiptRef.current) {
+                        try {
+                            const canvas = await html2canvas(receiptRef.current, {
+                                scale: 2,
+                                backgroundColor: '#0F172A',
+                                logging: false,
+                                useCORS: true
+                            });
+                            const base64Data = canvas.toDataURL('image/png').split(',')[1];
+
+                            const notificationServiceMod = await import('../services/notificationService');
+                            const userServiceMod = await import('../services/userService');
+
+                            newTaskAssignees.forEach(async (assigneeId) => {
+                                const assignedUser = await userServiceMod.userService.getUser(assigneeId);
+                                if (assignedUser && assignedUser.phoneNumber) {
+                                    // Send Image with Caption
+                                    notificationServiceMod.notificationService.queueWhatsAppNotification(assignedUser.phoneNumber, {
+                                        body: `*Nueva Tarea Asignada* 📝\n${optimTask.text}\n\nVer en App: https://app.criteriodigital.cl/tasks`,
+                                        media: {
+                                            mimetype: 'image/png',
+                                            data: base64Data,
+                                            filename: 'receipt.png'
+                                        },
+                                        taskId: newId
+                                    });
+                                }
+                            });
+                        } catch (err) {
+                            console.error("Error generating task receipt:", err);
+                        } finally {
+                            setTempTaskForImage(null); // Clean up
+                        }
+                    }
+                }, 500);
+            }
+
             // 3. NO CLEANUP HERE.
             // We rely on the passive useEffect to remove this optimistic task 
             // ONLY when it appears in the firestoreTasks list.
 
         } catch (error) {
             console.error(error);
-            toast.error("Error al crear tarea");
+            toast.error("Error al crear tarea: " + (error.message || "Desconocido"));
             // Rollback on error
             setOptimisticTasks(prev => prev.filter(t => t.id !== newId));
             setNewTaskText(optimTask.text);
+            setNewTaskDescription(optimTask.description);
         }
+
     };
 
     const updateTaskStatus = async (taskId, newStatus) => {
@@ -945,20 +1076,34 @@ export default function TaskManager() {
                         <Settings className="w-3 h-3" /> Editar
                     </button>
 
-                    {/* INVITAR (Only Projects) */}
-                    {activeMenuProject.type === 'project' && (
-                        <button
-                            onClick={(e) => {
-                                e.stopPropagation();
-                                let target = projects.find(p => p.id === activeMenuProject.id);
-                                setInviteModalProject({ ...target });
+                    {/* INVITAR */}
+                    <button
+                        onClick={(e) => {
+                            e.stopPropagation();
+                            let target;
+                            let isArea = false;
+
+                            if (activeMenuProject.type === 'area') {
+                                target = areas.find(a => a.id === activeMenuProject.id);
+                                isArea = true;
+                            } else {
+                                target = projects.find(p => p.id === activeMenuProject.id);
+                            }
+
+                            if (target) {
+                                // Pass full object + isArea flag for the modal
+                                setInviteModalProject({ ...target, isArea });
                                 setActiveMenuProject(null);
-                            }}
-                            className="w-full text-left px-3 py-2 text-xs text-gray-300 hover:bg-blue-600 hover:text-white flex items-center gap-2"
-                        >
-                            <UserPlus className="w-3 h-3" /> Invitar
-                        </button>
-                    )}
+                            } else {
+                                // Fallback: try to use activeMenuProject itself if it has enough data
+                                setInviteModalProject({ ...activeMenuProject, isArea: activeMenuProject.type === 'area' });
+                                setActiveMenuProject(null);
+                            }
+                        }}
+                        className="w-full text-left px-3 py-2 text-xs text-gray-300 hover:bg-blue-600 hover:text-white flex items-center gap-2"
+                    >
+                        <UserPlus className="w-3 h-3" /> Invitar
+                    </button>
 
                     {/* ELIMINAR */}
                     <button
@@ -1021,6 +1166,24 @@ export default function TaskManager() {
 
                 {/* Sidebar List */}
                 <div className="flex-1 overflow-hidden flex flex-col">
+
+                    {/* Inbox Link */}
+                    <div className="px-3 pb-2 pt-2">
+                        <button
+                            onClick={() => setActiveProjectId('ideas')}
+                            className={clsx(
+                                "w-full flex items-center gap-2 px-3 py-2 rounded-lg transition-colors text-sm font-medium",
+                                activeProjectId === 'ideas' ? "bg-yellow-500/10 text-yellow-400 border border-yellow-500/20" : "text-gray-400 hover:bg-gray-800/60 hover:text-white border border-transparent"
+                            )}
+                            title="Bandeja de Ideas"
+                        >
+                            <div className={clsx("flex items-center justify-center", activeProjectId === 'ideas' ? "text-yellow-400" : "text-gray-500")}>
+                                <Lightbulb className="w-4 h-4" />
+                            </div>
+                            {!isEffectiveCollapsed && <span>Ideas Inbox</span>}
+                        </button>
+                    </div>
+
                     <SidebarList
                         areas={areas}
                         projects={projects}
@@ -1133,16 +1296,7 @@ export default function TaskManager() {
 
                                 <div className="flex items-center gap-3">
                                     {/* Nueva Tarea - Always Visible */}
-                                    <button
-                                        onClick={() => {
-                                            setIsQuickAddExpanded(true);
-                                            setTimeout(() => document.querySelector('input[placeholder="+ Nueva Tarea..."]')?.focus(), 100);
-                                        }}
-                                        className="flex items-center gap-2 px-3 py-1.5 bg-blue-600 hover:bg-blue-500 text-white rounded-lg transition-colors shadow-lg shadow-blue-900/20"
-                                    >
-                                        <Plus className="w-4 h-4" />
-                                        <span className="text-xs font-bold hidden sm:inline">Nueva Tarea</span>
-                                    </button>
+                                    {/* Nueva Tarea Button REMOVED */}
 
                                     {/* Invite Button - Project Context Only */}
                                     {(activeProjectId && !activeProjectId.startsWith('AREA:') && displayProject) && (
@@ -1170,7 +1324,19 @@ export default function TaskManager() {
                                     </button>
 
                                     <div className="h-6 w-px bg-gray-700 mx-2"></div>
+
+
+
                                     <div className="flex bg-gray-800 p-1 rounded-lg border border-gray-700">
+                                        {activeProjectId === 'my-tasks' && (
+                                            <button
+                                                onClick={() => setViewMode('dashboard')}
+                                                className={clsx("p-2 rounded-md transition-all", viewMode === 'dashboard' ? "bg-gray-700 text-white shadow" : "text-gray-400 hover:text-gray-200")}
+                                                title="Dashboard Personal"
+                                            >
+                                                <LayoutDashboard className="w-4 h-4" />
+                                            </button>
+                                        )}
                                         <button
                                             onClick={() => setViewMode('board')}
                                             className={clsx("p-2 rounded-md transition-all", viewMode === 'board' ? "bg-gray-700 text-white shadow" : "text-gray-400 hover:text-gray-200")}
@@ -1178,6 +1344,7 @@ export default function TaskManager() {
                                         >
                                             <Kanban className="w-4 h-4" />
                                         </button>
+
                                         <button
                                             onClick={() => setViewMode('calendar')}
                                             className={clsx("p-2 rounded-md transition-all", viewMode === 'calendar' ? "bg-gray-700 text-white shadow" : "text-gray-400 hover:text-gray-200")}
@@ -1201,16 +1368,30 @@ export default function TaskManager() {
                             </header>
 
                             <div className="flex-1 overflow-x-auto p-6 relative z-10 flex flex-col">
-                                {activeProjectId?.startsWith('AREA:') ? (
-                                    <AreaDashboard
-                                        area={areas.find(a => a.id === activeProjectId.split(':')[1])}
-                                        projects={projects.filter(p => p.areaId === activeProjectId.split(':')[1])}
-                                        projectStats={projectStats}
-                                    />
+                                {activeProjectId && activeProjectId.startsWith('AREA:') ? (
+                                    (() => {
+                                        const areaId = activeProjectId.split(':')[1];
+                                        const areaObj = areas.find(a => a.id === areaId);
+                                        // If area not found yet (loading or deleted), handle gracefully
+                                        if (!areaObj) return <div className="p-8 text-gray-500">Cargando área...</div>;
+
+                                        return (
+                                            <AreaDashboard
+                                                area={areaObj}
+                                                projects={projects}
+                                                onProjectClick={setActiveProjectId}
+                                                projectStats={projectStats}
+                                            />
+                                        );
+                                    })()
+                                ) : activeProjectId === 'ideas' ? (
+                                    <IdeaInbox activeProjectId={activeProjectId} />
+                                ) : (activeProjectId === 'my-tasks' && viewMode === 'dashboard') ? (
+                                    <PersonalDashboard tasks={tasks} />
                                 ) : (viewMode === 'calendar' && activeProjectId !== 'DEBUG_ALL') ? (
-                                    <CalendarView tasks={tasks} onTaskClick={setSelectedTask} />
+                                    <CalendarView tasks={tasks} onTaskClick={handleTaskClick} />
                                 ) : viewMode === 'table' ? (
-                                    <TableView tasks={tasks} onTaskClick={setSelectedTask} />
+                                    <TableView tasks={tasks} onTaskClick={handleTaskClick} />
                                 ) : viewMode === 'board' ? (
                                     <div className="flex h-full gap-6">
                                         {getColumns().map(col => {
@@ -1247,6 +1428,15 @@ export default function TaskManager() {
                                                                 {colTasks.length}
                                                             </span>
                                                         </div>
+                                                        {col.id === 'todo' && (
+                                                            <button
+                                                                onClick={() => setSelectedTask({ id: 'new', projectId: activeProjectId, status: 'todo' })}
+                                                                className="p-1 hover:bg-blue-500/20 rounded-md group transition-colors"
+                                                                title="Nueva Tarea"
+                                                            >
+                                                                <Plus className="w-5 h-5 text-gray-400 group-hover:text-blue-400" />
+                                                            </button>
+                                                        )}
                                                     </div>
 
                                                     <div className="flex-1 overflow-y-auto p-3 space-y-3 scrollbar-thin">
@@ -1271,7 +1461,7 @@ export default function TaskManager() {
                                                                         <TaskCard
                                                                             key={task.id}
                                                                             task={task}
-                                                                            onClick={setSelectedTask}
+                                                                            onClick={handleTaskClick}
                                                                             onStatusChange={(status) => taskService.updateTask(task.id, { status })}
                                                                             onDragStart={handleDragStart}
                                                                             isMultiSelectMode={isMultiSelectMode}
@@ -1292,82 +1482,7 @@ export default function TaskManager() {
                                                                 )}
                                                             </AnimatePresence>
                                                         )}
-                                                        {col.id === 'todo' && (
-                                                            <div className={clsx(
-                                                                "mt-2 bg-gray-900 border border-gray-700 rounded-xl overflow-hidden transition-all",
-                                                                isQuickAddExpanded ? "shadow-lg ring-1 ring-blue-500/50" : "border-dashed bg-transparent"
-                                                            )}>
-                                                                <form onSubmit={handleAddTask}>
-                                                                    <input
-                                                                        className={clsx(
-                                                                            "w-full bg-transparent px-4 py-3 text-sm text-gray-300 placeholder-gray-500 outline-none",
-                                                                            !isQuickAddExpanded && "cursor-text"
-                                                                        )}
-                                                                        placeholder="+ Nueva Tarea..."
-                                                                        value={newTaskText}
-                                                                        onChange={e => setNewTaskText(e.target.value)}
-                                                                        onFocus={() => setIsQuickAddExpanded(true)}
-                                                                    />
-
-                                                                    {/* Expanded Controls */}
-                                                                    {isQuickAddExpanded && (
-                                                                        <div className="px-4 pb-3 flex items-center justify-between animate-in fade-in slide-in-from-top-1 duration-200 border-t border-gray-800/50 pt-2">
-                                                                            <div className="flex items-center gap-2">
-                                                                                {/* Date Picker Trigger */}
-                                                                                <div className="relative group flex items-center">
-                                                                                    <input
-                                                                                        type="date"
-                                                                                        className="absolute inset-0 opacity-0 cursor-pointer w-8 z-10"
-                                                                                        value={newTaskDate}
-                                                                                        onChange={e => setNewTaskDate(e.target.value)}
-                                                                                    />
-                                                                                    <button type="button" className={clsx("p-1.5 rounded hover:bg-gray-800 transition-colors relative", newTaskDate ? "text-blue-400 bg-blue-400/10" : "text-gray-500")}>
-                                                                                        <Calendar className="w-4 h-4" />
-                                                                                    </button>
-                                                                                    {newTaskDate && <span className="ml-1 text-[10px] text-blue-400 font-mono">{new Date(newTaskDate).toLocaleDateString(undefined, { day: '2-digit', month: '2-digit' })}</span>}
-                                                                                </div>
-
-                                                                                {/* Assignee Trigger (Simple Toggle Me) */}
-                                                                                <div className="relative">
-                                                                                    <button
-                                                                                        type="button"
-                                                                                        onClick={() => {
-                                                                                            setNewTaskAssignees(prev =>
-                                                                                                prev.includes(user.uid)
-                                                                                                    ? prev.filter(id => id !== user.uid)
-                                                                                                    : [...prev, user.uid]
-                                                                                            );
-                                                                                        }}
-                                                                                        className={clsx("p-1.5 rounded hover:bg-gray-800 transition-colors flex items-center gap-1", newTaskAssignees.includes(user.uid) ? "text-green-400 bg-green-400/10" : "text-gray-500")}
-                                                                                        title="Asignar a mí"
-                                                                                    >
-                                                                                        <Users className="w-4 h-4" />
-                                                                                        {newTaskAssignees.length > 0 && <span className="text-xs font-bold">{newTaskAssignees.length}</span>}
-                                                                                    </button>
-                                                                                </div>
-                                                                            </div>
-
-                                                                            <div className="flex items-center gap-2">
-                                                                                <button
-                                                                                    type="button"
-                                                                                    onClick={() => setIsQuickAddExpanded(false)}
-                                                                                    className="p-1.5 text-gray-400 hover:text-white hover:bg-gray-800 rounded transition-colors"
-                                                                                >
-                                                                                    <X className="w-4 h-4" />
-                                                                                </button>
-                                                                                <button
-                                                                                    type="submit"
-                                                                                    disabled={!newTaskText.trim()}
-                                                                                    className="bg-blue-600 hover:bg-blue-500 text-white px-3 py-1.5 rounded-lg text-xs font-bold transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
-                                                                                >
-                                                                                    Crear
-                                                                                </button>
-                                                                            </div>
-                                                                        </div>
-                                                                    )}
-                                                                </form>
-                                                            </div>
-                                                        )}
+                                                        {/* Footer Form REMOVED */}
                                                     </div>
                                                 </div>
                                             );
@@ -1382,8 +1497,9 @@ export default function TaskManager() {
                                             </div>
                                         ))}
                                     </div>
-                                )}
-                            </div>
+                                )
+                                }
+                            </div >
                         </>
                     ) : (
                         <div className="flex-1 flex flex-col items-center justify-center bg-gray-950 p-8">
@@ -1597,32 +1713,46 @@ export default function TaskManager() {
             </AnimatePresence >
 
             <AnimatePresence>
-                {editModalItem && (
+                {editModalItem && editModalItem.id && (
                     <EditProjectModal
                         isOpen={!!editModalItem}
                         item={editModalItem}
-                        type={editModalItem.type}
+                        type={editModalItem.type || 'project'}
                         onClose={() => setEditModalItem(null)}
                         onSave={handleUpdateItem}
                     />
                 )}
             </AnimatePresence>
 
-            <AnimatePresence>
+            <AnimatePresence mode="wait">
                 {selectedTask && (
                     <TaskDetailPanel
+                        key={selectedTask.id}
                         task={selectedTask}
+                        activeProjectId={activeProjectId === 'my-tasks' ? selectedTask.projectId : activeProjectId}
                         project={activeProject}
                         allTasks={firestoreTasks}
+
+                        // Pass Members
+                        projectMembers={activeProjectMembers}
+
                         onClose={() => setSelectedTask(null)}
                         onUpdate={(taskId, updates) => {
-                            // Optimistic updates handled by type
-                            if (selectedTask?.type === 'google') {
-                                setGoogleTasks(prev => prev.map(t => t.id === taskId ? { ...t, ...updates } : t));
+                            if (taskId === 'new') {
+                                // Add new task to state ONLY if not already present (Listener vs Optimistic race)
+                                setFirestoreTasks(prev => {
+                                    if (prev.some(t => t.id === updates.id)) return prev;
+                                    return [updates, ...prev];
+                                });
                             } else {
-                                setFirestoreTasks(prev => prev.map(t => t.id === taskId ? { ...t, ...updates } : t));
+                                // Update existing
+                                if (selectedTask?.type === 'google') {
+                                    setGoogleTasks(prev => prev.map(t => t.id === taskId ? { ...t, ...updates } : t));
+                                } else {
+                                    setFirestoreTasks(prev => prev.map(t => t.id === taskId ? { ...t, ...updates } : t));
+                                }
+                                setSelectedTask(prev => ({ ...prev, ...updates }));
                             }
-                            setSelectedTask(prev => ({ ...prev, ...updates }));
                         }}
                         onDelete={(taskId) => {
                             // Robust Delete: Remove from ALL possible local states immediately
@@ -1638,7 +1768,16 @@ export default function TaskManager() {
                 )}
             </AnimatePresence>
 
-
+            {/* HIDDEN RECEIPT RENDERER */}
+            <div style={{ position: 'fixed', top: '-9999px', left: '-9999px', pointerEvents: 'none' }}>
+                {tempTaskForImage && (
+                    <TaskReceipt
+                        ref={receiptRef}
+                        task={tempTaskForImage}
+                        project={projects.find(p => p.id === tempTaskForImage.projectId)}
+                    />
+                )}
+            </div>
 
         </div >
     );

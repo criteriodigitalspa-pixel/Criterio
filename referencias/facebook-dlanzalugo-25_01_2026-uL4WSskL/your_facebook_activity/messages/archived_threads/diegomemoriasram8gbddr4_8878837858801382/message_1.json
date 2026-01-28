@@ -1,0 +1,94 @@
+{
+  "participants": [
+    {
+      "name": "Diego Aedo Quiroga"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Aedo Quiroga",
+      "timestamp_ms": 1730331931435,
+      "content": "Diego vendi\u00c3\u00b3 Memorias RAM 8GB DDR4.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Aedo Quiroga",
+      "timestamp_ms": 1730308364069,
+      "content": "Diego cambi\u00c3\u00b3 la descripci\u00c3\u00b3n de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Aedo Quiroga",
+      "timestamp_ms": 1730308341374,
+      "content": "Diego cambi\u00c3\u00b3 el precio de Memorias RAM 8GB DDR4.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729123503186,
+      "content": "Publicaciones similares a \"Memorias RAM 8GB DDR4\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Aedo Quiroga",
+      "timestamp_ms": 1729004994785,
+      "content": "Diego est\u00c3\u00a1 esperando tu respuesta sobre esta publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Aedo Quiroga",
+      "timestamp_ms": 1728998747277,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728993900098,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728993897440,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728993897439,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Memorias RAM 8GB DDR4\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Memorias RAM 8GB DDR4",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegomemoriasram8gbddr4_8878837858801382",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/566184629236230.jpg",
+    "creation_timestamp": 1728993896
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Bryan Madariaga"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739896277628,
+      "content": "Le intereso el equipo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739813452236,
+      "content": "Le intereso el equipo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739718004552,
+      "content": "180mil ultimo precio amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryan Madariaga",
+      "timestamp_ms": 1739717917384,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryan Madariaga",
+      "timestamp_ms": 1739717911020,
+      "content": "Hola buenas me harias un precio como para hoy mismo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryan Madariaga",
+      "timestamp_ms": 1739717910783,
+      "content": "Bryan inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bryan \u00c2\u00b7 Notebook Yoga X1 // i5 // SSD// 8 RAM // Touch 360\u00c2\u00b0",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/bryannotebookyogax1i5ssd8ramtouch360_28758154030464790",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

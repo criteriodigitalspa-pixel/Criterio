@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "David Andres Martinez Mu\u00c3\u00b1oz"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754276352520,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "David Andres Martinez Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1754045283223,
+      "content": "David est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "David Andres Martinez Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1754008206306,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "David Andres Martinez Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1754008204976,
+      "content": "\u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "David Andres Martinez Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1754008204796,
+      "content": "David inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "David \u00c2\u00b7 Notebook i5-10Th / 16GB RAM / SSDD / Thinkpad / a\u00c3\u00b1o 2023",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/davidnotebooki510th16gbramssddthinkpadano2023_24126831486997112",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Jes\u00c3\u00baa Gonz\u00c3\u00a1lez"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jes\u00c3\u00baa Gonz\u00c3\u00a1lez",
+      "timestamp_ms": 1767813522717,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767813251481,
+      "content": "EL PRECIO NO INCLUYE IVA\nPARA BOLETA SE DEBE AGREGAR EL 19%",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767813229890,
+      "content": "Entregamos con boleta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767813218875,
+      "content": "Hola estimado somos tienda",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jes\u00c3\u00baa Gonz\u00c3\u00a1lez",
+      "timestamp_ms": 1767812751555,
+      "content": "Hola, entrega boleta de compra, tiene boleta de cuando la compr\u00c3\u00b3? Es para enviar fuera del pa\u00c3\u00ads",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767812589684,
+      "content": "Estoy en La Florida. Te acomoda la comuna o preferir\u00c3\u00adas que coordinemos en otro punto a convenir?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767812588372,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jes\u00c3\u00baa Gonz\u00c3\u00a1lez",
+      "timestamp_ms": 1767811249069,
+      "content": "Cu\u00c3\u00a1nto es lo menos que la deja?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jes\u00c3\u00baa Gonz\u00c3\u00a1lez",
+      "timestamp_ms": 1767811240471,
+      "content": "Hola buenas tardes, de que comuna es?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jes\u00c3\u00baa Gonz\u00c3\u00a1lez",
+      "timestamp_ms": 1767811229202,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jes\u00c3\u00baa Gonz\u00c3\u00a1lez",
+      "timestamp_ms": 1767811226277,
+      "content": "Buenas tardes. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jes\u00c3\u00baa Gonz\u00c3\u00a1lez",
+      "timestamp_ms": 1767811226032,
+      "content": "Jes\u00c3\u00baa inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jes\u00c3\u00baa \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/jesuanotebooki710thultrarapida202316gbramssdd_861766383166110",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

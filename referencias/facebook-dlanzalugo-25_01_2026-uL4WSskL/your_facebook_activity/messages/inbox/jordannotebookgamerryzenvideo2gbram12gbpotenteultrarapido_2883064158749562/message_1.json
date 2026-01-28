@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Jordan Gonzalez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757853457252,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jordan Gonzalez",
+      "timestamp_ms": 1757330143030,
+      "content": "Jordan est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jordan Gonzalez",
+      "timestamp_ms": 1757306872486,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jordan Gonzalez",
+      "timestamp_ms": 1757306869517,
+      "content": "Permutas x xbox series S 500gb digital+ disco duro externo Game Drive Xbox de 5000gb est\u00c3\u00a1 me cost\u00c3\u00b3 150 incluye dos mandos uno de Xbox one S en super buen estado y uno tiene un peque\u00c3\u00b1o defecto en el gatillo derecho est\u00c3\u00a1 medio suelto pero funcionan al 100 ambos mandos incluye un cargador de pilas que funciona + cable HDMI",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jordan Gonzalez",
+      "timestamp_ms": 1757306869306,
+      "content": "Jordan inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jordan \u00c2\u00b7 Notebook Gamer RYZEN  / Video 2GB / RAM 12GB/  Potente ultra Rapido",
+  "is_still_participant": true,
+  "thread_path": "inbox/jordannotebookgamerryzenvideo2gbram12gbpotenteultrarapido_2883064158749562",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

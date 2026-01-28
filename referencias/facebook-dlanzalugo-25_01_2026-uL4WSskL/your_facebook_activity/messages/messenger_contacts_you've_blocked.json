@@ -1,0 +1,36 @@
+{
+  "messenger_contacts_blocked_v2": {
+    "name": "Contactos de Messenger que bloqueaste",
+    "description": "Contactos que bloqueaste en Messenger",
+    "entries": [
+      {
+        "timestamp": 1740833552,
+        "data": {
+          "name": "Hor\u00c3\u00b3scopo Sagrado",
+          "uri": "https://facebook.com/horoscoposagrado"
+        }
+      },
+      {
+        "timestamp": 1702555637,
+        "data": {
+          "name": "Luis Felipe Navas",
+          "uri": "https://www.facebook.com/LFNR28"
+        }
+      },
+      {
+        "timestamp": 1481508937,
+        "data": {
+          "name": "Jarg Anton",
+          "uri": "https://www.facebook.com/jesus.galvis.9"
+        }
+      },
+      {
+        "timestamp": 1452714362,
+        "data": {
+          "name": "Pedrito Aponte",
+          "uri": "https://www.facebook.com/pedrito.aponte.1"
+        }
+      }
+    ]
+  }
+}

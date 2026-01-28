@@ -1,0 +1,152 @@
+{
+  "participants": [
+    {
+      "name": "Nicolas Alexander Ramirez Poblete"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730380436526,
+      "content": "Oye a que hora puedo pasar a buscar la bateria?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730380428406,
+      "content": "Buenas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730380425847,
+      "content": "Nicoo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Alexander Ramirez Poblete",
+      "timestamp_ms": 1730310688427,
+      "content": "Wena dieguin",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730298430732,
+      "content": "El jueves la busco",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730298423435,
+      "content": "Tienes justo la bateria que necesito",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730298399591,
+      "content": "Soy Diego Lanza, el hermano de la Angie",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730298389894,
+      "content": "Oye me estoy dando cuenta que eres Nico de nielsen \u00f0\u009f\u00a4\u00a3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730298293135,
+      "content": "Sabes cuanta vida tiene la bateria?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730298284501,
+      "content": "Dale dejemoslo para el jueves",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Alexander Ramirez Poblete",
+      "timestamp_ms": 1730296462461,
+      "content": "Hoy desde las 20 en adelante",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Alexander Ramirez Poblete",
+      "timestamp_ms": 1730296454774,
+      "content": "Desde el jueves todo el dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730286717760,
+      "content": "Cuando puedes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Alexander Ramirez Poblete",
+      "timestamp_ms": 1730286548789,
+      "content": "Entrego metro lo prado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Alexander Ramirez Poblete",
+      "timestamp_ms": 1730286543998,
+      "content": "Hola si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730171308795,
+      "content": "Hola, Nicolas. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730171306024,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Bater\u00c3\u00ada notebook Dell WDX0R\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730171306024,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Bater\u00c3\u00ada notebook Dell WDX0R",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegobaterianotebookdellwdx0r_27411801105133958",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/3816211388627472.jpg",
+    "creation_timestamp": 1730171305
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

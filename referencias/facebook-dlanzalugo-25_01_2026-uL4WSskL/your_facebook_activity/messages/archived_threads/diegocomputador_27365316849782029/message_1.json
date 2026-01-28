@@ -1,0 +1,103 @@
+{
+  "participants": [
+    {
+      "name": "Marianela Silva Miranda"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Marianela Silva Miranda",
+      "timestamp_ms": 1729707168258,
+      "content": "Santiago centro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marianela Silva Miranda",
+      "timestamp_ms": 1729707165074,
+      "content": "Entrego en mi negocio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marianela Silva Miranda",
+      "timestamp_ms": 1729707159374,
+      "content": "Todo est\u00c3\u00a1 bien con el computador",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729685196186,
+      "content": "Donde entregas? Puede ser en algun metro?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729685187587,
+      "content": "Tiene su cargador y bateria buena?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marianela Silva Miranda",
+      "timestamp_ms": 1729683986709,
+      "content": "Acepto la oferta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marianela Silva Miranda",
+      "timestamp_ms": 1729683986501,
+      "content": "Si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marianela Silva Miranda",
+      "timestamp_ms": 1729683966889,
+      "content": "Marianela acept\u00c3\u00b3 tu oferta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729645519477,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729645518132,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Computador\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729645518132,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Computador",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegocomputador_27365316849782029",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1084590942607036.jpg",
+    "creation_timestamp": 1729645516
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Francisco Javier Rodriguez Salamanca"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734473101133,
+      "content": "Me avisa no mas y cerramos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734473093306,
+      "content": "Ya llegue de la pega",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734473083949,
+      "content": "Vale estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Javier Rodriguez Salamanca",
+      "timestamp_ms": 1734446782637,
+      "content": "Si.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734446615660,
+      "content": "Seria para hoy?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734446610633,
+      "content": "Holaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Javier Rodriguez Salamanca",
+      "timestamp_ms": 1734445987114,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Javier Rodriguez Salamanca",
+      "timestamp_ms": 1734445981497,
+      "content": "Hola. Aceptar\u00c3\u00adas 140mil?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Javier Rodriguez Salamanca",
+      "timestamp_ms": 1734445980816,
+      "content": "Francisco Javier Rodriguez Salamanca",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Javier Rodriguez Salamanca",
+      "timestamp_ms": 1734445977971,
+      "content": "Francisco Javier asign\u00c3\u00b3 al grupo el nombre \"Francisco Javier \u00c2\u00b7 Notebook HP ultra Rapida i5 Potente 16GB RAM Enciende en segundos!\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Javier Rodriguez Salamanca",
+      "timestamp_ms": 1734445977971,
+      "content": "Francisco Javier cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Francisco Javier \u00c2\u00b7 Notebook HP ultra Rapida i5 Potente 16GB RAM Enciende en segundos!",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/franciscojaviernotebookhpultrarapidai5potente16gbramenciendeensegundos_8911093475649876",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

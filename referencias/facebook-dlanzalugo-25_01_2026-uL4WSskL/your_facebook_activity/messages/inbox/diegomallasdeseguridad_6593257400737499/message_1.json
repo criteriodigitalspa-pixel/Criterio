@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Mallas Costanera"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mallas Costanera",
+      "timestamp_ms": 1709213428119,
+      "content": "Mallas cambi\u00c3\u00b3 el precio de Mallas de seguridad.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Mallas de seguridad",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegomallasdeseguridad_6593257400737499",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1216524935649525.jpg",
+    "creation_timestamp": 1681513054
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Michael Vidal"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Michael Vidal",
+      "timestamp_ms": 1728454615359,
+      "content": "Michael cambi\u00c3\u00b3 la descripci\u00c3\u00b3n de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728451563834,
+      "content": "Ver publicaciones similares",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Michael Vidal",
+      "timestamp_ms": 1728324425262,
+      "content": "La bater\u00c3\u00ada dura 4-5 horas aproximadamente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Michael Vidal",
+      "timestamp_ms": 1728324399274,
+      "content": "Igualmente \u00c3\u00a9l equipo cuenta con garant\u00c3\u00ada durante 6 meses + soporte t\u00c3\u00a9cnico 24/7",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Michael Vidal",
+      "timestamp_ms": 1728324392983,
+      "content": "ESPECIFICACIONES\n\u00e2\u0080\u0093 Marca: ASUS\n\u00e2\u0080\u0093 Modelo: X515MA-BR423W\n\u00e2\u0080\u0093 Color: Gris (Slate Grey).\n\u00e2\u0080\u0093 Sistema Operativo: Windows 11 Home 64bit preinstalado en espa\u00c3\u00b1ol.\n\u00e2\u0080\u0093 Procesador: Intel Celeron N4020 1.1GHz (4M Cache, hasta 2.8 GHz).\n\u00e2\u0080\u0093 Memoria RAM: 4GB DRAM DDR4 sodimm.\n\u00e2\u0080\u0093 Almacenamiento: 128GB M.2 NVMe PCIe 3.0 SSD. (Slot SATA 2.5\u00e2\u0080\u00b3 libre).\n\u00e2\u0080\u0093 Pantalla LED 15.6 pulgadas HD 1366 x 768.\n\u00e2\u0080\u0093 Video Intel UHD Graphics 600.\n\u00e2\u0080\u0093 Teclado en ESPA\u00c3\u0091OL completo con teclado num\u00c3\u00a9rico.\n\u00e2\u0080\u0093 Sonido integrado de alta definici\u00c3\u00b3n.\n\u00e2\u0080\u0093 WiFi 5 802.11ac dual band+ Bluetooth 4.1.\n\u00e2\u0080\u0093 C\u00c3\u00a1mara web con micr\u00c3\u00b3fono integrada.\n\u00e2\u0080\u0093 Bater\u00c3\u00ada de 2 celdas 37WHr.\n\u00e2\u0080\u0093 Dimensiones: 36.02 x 23.49 x 1.99cm.\n\u00e2\u0080\u0093 Peso: 1.80kg\n\u00e2\u0080\u0093 Puertos disponibles: HDMI ; USB 3.2 Tipo C; USB 3.2; x2 USB 2.0; Combo audio jack.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728324345499,
+      "content": "Que especificaciones tiene amigo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Michael Vidal",
+      "timestamp_ms": 1728324009325,
+      "content": "\u00c2\u00bfA\u00c3\u00ban te interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728321959232,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728321956378,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Notebook Alta gama\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728321956378,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook Alta gama",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebookaltagama_8698238540211090",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/8457888200956288.jpg",
+    "creation_timestamp": 1728321955
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

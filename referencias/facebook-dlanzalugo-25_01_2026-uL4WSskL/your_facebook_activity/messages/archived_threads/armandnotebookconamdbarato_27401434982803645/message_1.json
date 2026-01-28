@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Armand Oport Cast"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729010481644,
+      "content": "Si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Armand Oport Cast",
+      "timestamp_ms": 1729010390672,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Armand Oport Cast",
+      "timestamp_ms": 1729010385632,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Armand Oport Cast",
+      "timestamp_ms": 1729010385202,
+      "content": "Armand Oport Cast",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Armand Oport Cast",
+      "timestamp_ms": 1729010382975,
+      "content": "Armand asign\u00c3\u00b3 al grupo el nombre \"Armand \u00c2\u00b7 Notebook con AMD barato\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Armand Oport Cast",
+      "timestamp_ms": 1729010382975,
+      "content": "Armand cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Armand \u00c2\u00b7 Notebook con AMD barato",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/armandnotebookconamdbarato_27401434982803645",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

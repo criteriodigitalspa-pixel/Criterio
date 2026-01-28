@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Alejandrito L\u00c3\u00b3pez"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757555295443,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757212676825,
+      "content": "Estoy en La Florida. Te acomoda la comuna o preferir\u00c3\u00adas que coordinemos en otro punto a convenir?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757212675115,
+      "content": "Hola. S\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para que lo pruebes con toda la calma del mundo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandrito L\u00c3\u00b3pez",
+      "timestamp_ms": 1757212629417,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandrito L\u00c3\u00b3pez",
+      "timestamp_ms": 1757212628040,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandrito L\u00c3\u00b3pez",
+      "timestamp_ms": 1757212627571,
+      "content": "Alejandrito L\u00c3\u00b3pez",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandrito L\u00c3\u00b3pez",
+      "timestamp_ms": 1757212625145,
+      "content": "Alejandrito asign\u00c3\u00b3 al grupo el nombre \"Alejandrito \u00c2\u00b7 Notebook i7-13th /16GB RAM / SSDD / Nueva A\u00c3\u00b1o 2025\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandrito L\u00c3\u00b3pez",
+      "timestamp_ms": 1757212625145,
+      "content": "Alejandrito cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Alejandrito \u00c2\u00b7 Notebook i7-13th /16GB RAM / SSDD / Nueva A\u00c3\u00b1o 2025",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/alejandritonotebooki713th16gbramssddnuevaano2025_819856983800086",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

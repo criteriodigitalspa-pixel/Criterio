@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Xin Martin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Xin Martin",
+      "timestamp_ms": 1761221145977,
+      "content": "Martin cambi\u00c3\u00b3 la descripci\u00c3\u00b3n de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xin Martin",
+      "timestamp_ms": 1761154903939,
+      "content": "Martin baj\u00c3\u00b3 el precio de Pc hp en buen estado a $30.000.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718291555946,
+      "content": "Publicaciones similares a \"Pc hp en buen estado\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718161951007,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718161948438,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718161948205,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Pc hp en buen estado\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Pc hp en buen estado",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegopchpenbuenestado_25718940737753104",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/970588581415518.jpg",
+    "creation_timestamp": 1718161945
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

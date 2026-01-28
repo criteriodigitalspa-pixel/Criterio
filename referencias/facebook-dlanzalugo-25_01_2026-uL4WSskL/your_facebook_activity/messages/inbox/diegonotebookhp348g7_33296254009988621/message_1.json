@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Angela Bastidas"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Angela Bastidas",
+      "timestamp_ms": 1766970579286,
+      "content": "Angela elimin\u00c3\u00b3 el art\u00c3\u00adculo de Marketplace.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angela Bastidas",
+      "timestamp_ms": 1766538640959,
+      "content": "Angela marc\u00c3\u00b3 la publicaci\u00c3\u00b3n como Disponible.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angela Bastidas",
+      "timestamp_ms": 1766538634440,
+      "content": "Angela vendi\u00c3\u00b3 Notebook HP 348 G7.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angela Bastidas",
+      "timestamp_ms": 1766446405338,
+      "content": "Angela est\u00c3\u00a1 esperando tu respuesta sobre esta publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angela Bastidas",
+      "timestamp_ms": 1766439439867,
+      "content": "S\u00c3\u00ad. \u00c2\u00bfTe interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766415275813,
+      "content": "Buenos d\u00c3\u00adas. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766415275481,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook HP 348 G7",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebookhp348g7_33296254009988621",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/852088750887338.jpg",
+    "creation_timestamp": 1766415271
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

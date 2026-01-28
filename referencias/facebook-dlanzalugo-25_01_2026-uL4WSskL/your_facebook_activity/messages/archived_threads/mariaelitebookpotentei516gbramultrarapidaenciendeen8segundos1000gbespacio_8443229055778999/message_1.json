@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Maria Cristina Farf\u00c3\u00a1n Villagra"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732753923976,
+      "content": "Holaa si, 1.6kg y pantalla de 14\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Cristina Farf\u00c3\u00a1n Villagra",
+      "timestamp_ms": 1732752704917,
+      "content": "Cuanto pesa, y cuanto mide la pantalla?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Cristina Farf\u00c3\u00a1n Villagra",
+      "timestamp_ms": 1732752679746,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Cristina Farf\u00c3\u00a1n Villagra",
+      "timestamp_ms": 1732752675893,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Cristina Farf\u00c3\u00a1n Villagra",
+      "timestamp_ms": 1732752675621,
+      "content": "Maria Cristina Farf\u00c3\u00a1n Villagra",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Cristina Farf\u00c3\u00a1n Villagra",
+      "timestamp_ms": 1732752673579,
+      "content": "Maria asign\u00c3\u00b3 al grupo el nombre \"Maria \u00c2\u00b7 Elitebook Potente i5 16GB RAM Ultra Rapida enciende en 8 segundos! 1000GB Espacio\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Cristina Farf\u00c3\u00a1n Villagra",
+      "timestamp_ms": 1732752673579,
+      "content": "Maria cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Maria \u00c2\u00b7 Elitebook Potente i5 16GB RAM Ultra Rapida enciende en 8 segundos! 1000GB Espacio",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/mariaelitebookpotentei516gbramultrarapidaenciendeen8segundos1000gbespacio_8443229055778999",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

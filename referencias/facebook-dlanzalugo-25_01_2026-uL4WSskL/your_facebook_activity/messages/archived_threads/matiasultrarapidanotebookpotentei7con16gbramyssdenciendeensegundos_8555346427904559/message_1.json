@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Matias Cristi"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737327998247,
+      "content": "Acabado de aluminio, muy buen equipo y de calidad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737327957153,
+      "content": "La pantalla es de 14\" tama\u00c3\u00b1o estandr",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matias Cristi",
+      "timestamp_ms": 1737327918728,
+      "content": "Gracias, la pantalla de cuantas pulgadas es?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737327669982,
+      "content": "Lo vendo porque tengo otros",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737327654061,
+      "content": "Hola Matias, esta como nuevo, no tiene golpes ni nada, todo esta al 100%, teclado, pantalla, mousepad, bateria, camara, todo funciona impecable",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matias Cristi",
+      "timestamp_ms": 1737327537116,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matias Cristi",
+      "timestamp_ms": 1737327533922,
+      "content": "Hola, \u00c2\u00bfesta bueno en general? \u00c2\u00bfPorqu\u00c3\u00a9 lo vendes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Matias Cristi",
+      "timestamp_ms": 1737327533759,
+      "content": "Matias inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Matias \u00c2\u00b7 Ultra Rapida Notebook Potente i7 con 16gb Ram y SSD ENCIENDE EN SEGUNDOS",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/matiasultrarapidanotebookpotentei7con16gbramyssdenciendeensegundos_8555346427904559",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

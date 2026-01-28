@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Marco Aravena"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Marco Aravena",
+      "timestamp_ms": 1767484069182,
+      "content": "Marco Aravena te envi\u00c3\u00b3 un mensaje sobre tu publicaci\u00c3\u00b3n: Notebook i7-10th Ultra Rapida / 16gb RAM / SSDD.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marco Aravena",
+      "timestamp_ms": 1767484066153,
+      "content": "Sabes que tarjeta gr\u00c3\u00a1fica tiene ???",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Marco Aravena",
+      "timestamp_ms": 1767484065991,
+      "content": "Marco inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Marco \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "inbox/marconotebooki710thultrarapida202316gbramssdd_2279047529265319",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

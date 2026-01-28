@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Rebeca Montero Mu\u00c3\u00b1oz"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703940650371,
+      "content": "Ver publicaciones similares",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rebeca Montero Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1703818673132,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rebeca Montero Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1703812637699,
+      "content": "Hola! \nLe env\u00c3\u00ado las alternativas de menu para banqueteria\n\nhttps://bit.ly/46CNOLD\n\n\nSi desea cotizar solo Canap\u00c3\u00a9, por favor indiqueme la cantidad para enviarle la informaci\u00c3\u00b3n. \n\nPor otro lado si desea una cotizaci\u00c3\u00b3n personalizada h\u00c3\u00a1ganoslo saber y con gusto se lo haremos llegar.",
+      "share": {
+        "link": "https://bit.ly/46CNOLD"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703811047754,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703811046156,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703811045873,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Canap\u00c3\u00a9s (banqueteria a domicilio)\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Canap\u00c3\u00a9s (banqueteria a domicilio)",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegocanapesbanqueteriaadomicilio_7257432140973606",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/740773171241915.jpg",
+    "creation_timestamp": 1703811044
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

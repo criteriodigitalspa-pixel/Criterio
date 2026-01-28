@@ -1,0 +1,90 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Arg Ram"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740165803982,
+      "content": "Si necesita otra cosa digame que es para ayudarlo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740165793529,
+      "content": "En la foto esta toda la informacion tecnica",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Arg Ram",
+      "timestamp_ms": 1740165742150,
+      "content": "No s\u00c3\u00a9 ve nada en la foto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740164627372,
+      "content": "Y esas son las especificaciones",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740164623502,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/argnotebookfull8ramano2023ssdespacio_9464574620266143/photos/623471050416096.jpg",
+          "creation_timestamp": 1740164621
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740164612409,
+      "content": "Hola tiene windows 10",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Arg Ram",
+      "timestamp_ms": 1740163894109,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Arg Ram",
+      "timestamp_ms": 1740163886419,
+      "content": "Caracter\u00c3\u00adsticas del sistema por favor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Arg Ram",
+      "timestamp_ms": 1740163886085,
+      "content": "Arg inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Arg \u00c2\u00b7 Notebook Full / 8 RAM / a\u00c3\u00b1o 2023 / SSD Espacio",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/argnotebookfull8ramano2023ssdespacio_9464574620266143",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

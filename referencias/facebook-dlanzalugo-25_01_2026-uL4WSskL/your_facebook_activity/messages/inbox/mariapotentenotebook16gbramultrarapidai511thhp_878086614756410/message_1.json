@@ -1,0 +1,347 @@
+{
+  "participants": [
+    {
+      "name": "Maria Puentes"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766706457367,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766514232097,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766514223820,
+      "content": "Sin problema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766514221614,
+      "content": "Aah vale no se preocupe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Puentes",
+      "timestamp_ms": 1766514086614,
+      "content": "Amigo, sabe que? Muchas gracias por su tiempo pero ya no voy a comprar el equipo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Puentes",
+      "timestamp_ms": 1766509253902,
+      "content": "Bueno, te espero a las 6 entonces \u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766505901831,
+      "content": "Con total seguridad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766505896524,
+      "content": "Puedo pasar hoy a eso de las 6pm, puedes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766505889250,
+      "content": "Ya me entregaron el auto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766505884221,
+      "content": "Disculpeme no vi los msj",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766505880124,
+      "content": "Hola Mariaa como esta?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Puentes",
+      "timestamp_ms": 1766500998707,
+      "content": "Hola amigo, buenos d\u00c3\u00adas, disculpe la molestia, a la final si va a traer la laptop hoy??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Puentes",
+      "timestamp_ms": 1766432751435,
+      "content": "Es que es un regalo de navidad para m\u00c3\u00ad hermana y necesito seguridad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Puentes",
+      "timestamp_ms": 1766432224402,
+      "content": "Entiendo, a qu\u00c3\u00a9 hora podr\u00c3\u00ada ma\u00c3\u00b1ana??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Puentes",
+      "timestamp_ms": 1766432000886,
+      "content": "Me puede escribir desde WhatsApp?? Por favor, es que los mensajes de facebook no me cargan",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766431838288,
+      "content": "Hola disculpe sabes que el auto esta en el taller, me lo entregarian a las 3pm pero parece que ahora quedara para ma\u00c3\u00b1ana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766429604484,
+      "content": "Oka",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Puentes",
+      "timestamp_ms": 1766429345995,
+      "content": "Con efectivo amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766429200937,
+      "content": "Disculpa como paga?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Puentes",
+      "timestamp_ms": 1766427258149,
+      "content": "Puedo a las 5\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Puentes",
+      "timestamp_ms": 1766426360883,
+      "content": "C\u00c3\u00b3mo a qu\u00c3\u00a9 hora podr\u00c3\u00ada venir m\u00c3\u00a1s o menos??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Puentes",
+      "timestamp_ms": 1766426339126,
+      "content": "Est\u00c3\u00a1 bien, no se preocupe, me confund\u00c3\u00ad \u00f0\u009f\u0098\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766426164858,
+      "content": "No disculpe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Puentes",
+      "timestamp_ms": 1766425962971,
+      "content": "Est\u00c3\u00a1 publicaci\u00c3\u00b3n es de usted de casualidad??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Puentes",
+      "timestamp_ms": 1766425943109,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/mariapotentenotebook16gbramultrarapidai511thhp_878086614756410/photos/846958331476120.jpg",
+          "creation_timestamp": 1766425942
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766425818288,
+      "content": "Super Genial",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Puentes",
+      "timestamp_ms": 1766425717979,
+      "content": "Igual te dejo mi n\u00c3\u00bamero +56989952492",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Puentes",
+      "timestamp_ms": 1766425645043,
+      "content": "No amigo, es una casa, antes era una veterinaria por lo que tengo entendido, si colocas esa direcci\u00c3\u00b3n en el Google maps llegas directo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766425533834,
+      "content": "Puedes a eso de las 5 o 6?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Puentes",
+      "timestamp_ms": 1766425522650,
+      "content": "C\u00c3\u00b3mo a qu\u00c3\u00a9 hora podr\u00c3\u00ada traerla??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766425245309,
+      "content": "Peluqueria canina enrealidad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766425227467,
+      "content": "Es una veterinaria?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Puentes",
+      "timestamp_ms": 1766425180368,
+      "content": "Lo prado, Escultor Frazer 121",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766425170631,
+      "content": "Pero de que comuna eres?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Puentes",
+      "timestamp_ms": 1766425158922,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Puentes",
+      "timestamp_ms": 1766425156429,
+      "content": "Me parece bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766425150270,
+      "content": "De que comuna eres?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Puentes",
+      "timestamp_ms": 1766425102186,
+      "content": "Ok \u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb, estoy de acuerdo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766424168609,
+      "content": "Esta impecble el equipo es buenisima maquina",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766424156686,
+      "content": "Podriamos cerrar en 200 le parece? Y se la llevo a domicilio y la prueba y todo con calma",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Puentes",
+      "timestamp_ms": 1766424002589,
+      "content": "Tengo 180 a la mano para buscarla hoy mismo, si le parece",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Puentes",
+      "timestamp_ms": 1766423857834,
+      "content": "Buenas tardes, estoy interesada, ese es el mejor precio que me puedes dar??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766423155619,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Puentes",
+      "timestamp_ms": 1766423000563,
+      "content": "Hola. \u00c2\u00bfSigue disponible? \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Puentes",
+      "timestamp_ms": 1766422999370,
+      "content": "Maria inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Maria \u00c2\u00b7 Potente Notebook 16GB RAM /  Ultra Rapida / i5-11th HP",
+  "is_still_participant": true,
+  "thread_path": "inbox/mariapotentenotebook16gbramultrarapidai511thhp_878086614756410",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

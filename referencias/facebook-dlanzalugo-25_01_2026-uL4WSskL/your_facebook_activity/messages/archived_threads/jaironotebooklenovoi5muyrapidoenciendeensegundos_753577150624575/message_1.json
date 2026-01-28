@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "J'airo Hernand\u00c3\u00a9 ZG"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764774944546,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764295959153,
+      "content": "De nada, un placer",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "J'airo Hernand\u00c3\u00a9 ZG",
+      "timestamp_ms": 1764294836014,
+      "content": "Cualkier cosa le hablar\u00c3\u00a9 el 1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "J'airo Hernand\u00c3\u00a9 ZG",
+      "timestamp_ms": 1764294835853,
+      "content": "Estupendo mi estimado muchas gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764294605690,
+      "content": "Te podria aceptar 180mil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764294599514,
+      "content": "Holaa, gracias por tu oferta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764294580918,
+      "content": "Rechazaste la oferta de J'airo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "J'airo Hernand\u00c3\u00a9 ZG",
+      "timestamp_ms": 1764293991431,
+      "content": "J'airo te ofreci\u00c3\u00b3 $170.000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "J'airo \u00c2\u00b7 Notebook Lenovo i5 / Muy rapido / ENCIENDE EN SEGUNDOS /",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/jaironotebooklenovoi5muyrapidoenciendeensegundos_753577150624575",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

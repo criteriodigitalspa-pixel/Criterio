@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Alonso Medel"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1760401770145,
+      "content": "Solo venta estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alonso Medel",
+      "timestamp_ms": 1760401681267,
+      "content": "tengo un macbook pro 2017, tiene la pantalla mala pero el equipo conectado a monitor funciona super bien, tiene 16 de ram, intel i7 y ssd de 500gb + unos audifonos de estudio Shure SRH840 con todos sus accesorios y caja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alonso Medel",
+      "timestamp_ms": 1760401568634,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alonso Medel",
+      "timestamp_ms": 1760401564322,
+      "content": "Hola! tienes alg\u00c3\u00ban equipo que te interese permutar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alonso Medel",
+      "timestamp_ms": 1760401564043,
+      "content": "Alonso inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Alonso \u00c2\u00b7 Notebook i7/24GB RAM / SSDD / 1TB almacenamiento/Lenovo ThinkBook",
+  "is_still_participant": true,
+  "thread_path": "inbox/alonsonotebooki724gbramssdd1tbalmacenamientolenovothinkbook_1494496741761012",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Carlos Mu\u00c3\u00b1oz Villalobos"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Carlos Mu\u00c3\u00b1oz Villalobos",
+      "timestamp_ms": 1739881401616,
+      "content": "Carlos vendi\u00c3\u00b3 Notebook i5 10cima generaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos Mu\u00c3\u00b1oz Villalobos",
+      "timestamp_ms": 1738698184174,
+      "content": "\u00c2\u00bfA\u00c3\u00ban te interesa? Responde a: Ese me queda",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos Mu\u00c3\u00b1oz Villalobos",
+      "timestamp_ms": 1738690982289,
+      "content": "Ese me queda",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos Mu\u00c3\u00b1oz Villalobos",
+      "timestamp_ms": 1738690975975,
+      "content": "Computadora port\u00c3\u00a1til Concha Plata\nIntel\u00c2\u00ae Core\u00e2\u0084\u00a2 i3 i3-7020U 2.3 GHz\nPantalla  (15.6\") HD 1366 x 768 Pixeles SVA \nTeclado num\u00c3\u00a9rico excelente estado \n8 GB DDR4-SDRAM 2133 MHz 1 x 8 GB\n256 SSD Unidad de disco duro\nIntel\u00c2\u00ae HD Graphics 620\nWi-Fi 4 (802.11n) Ethernet 10,100,1000 Mbit/s Bluetooth 4.2\nI\u00c3\u00b3n de litio 41 Wh\nWindows 10 Home 64-bit\nOffice 2016\nBater\u00c3\u00ada  y cargador",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738591049436,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook i5 10cima generaci\u00c3\u00b3n",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebooki510cimageneracion_9853455484681708",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1296529621677458.jpg",
+    "creation_timestamp": 1738591047
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Valeria Sanhueza Acu\u00c3\u00b1a"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Valeria Sanhueza Acu\u00c3\u00b1a",
+      "timestamp_ms": 1756942476767,
+      "content": "Valeria vendi\u00c3\u00b3 Notebook HP ProBook 440 G8 (i5-1135G7, Ram 16GB, SSD 240GB).",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756871223294,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756871223119,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook HP ProBook 440 G8 (i5-1135G7, Ram 16GB, SSD 240GB)",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebookhpprobook440g8i51135g7ram16gbssd240gb_1198983029048668",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1436258294263791.jpg",
+    "creation_timestamp": 1756871219
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

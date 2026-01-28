@@ -1,0 +1,106 @@
+{
+  "participants": [
+    {
+      "name": "Claudio Henr\u00c3\u00adquez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767294650561,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765731347581,
+      "content": "En metro ines de suarez linea 6",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Claudio Henr\u00c3\u00adquez",
+      "timestamp_ms": 1765731309680,
+      "content": "Donde entregas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765727434998,
+      "content": "Ya esta regalado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765727434878,
+      "content": "El publicado estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Claudio Henr\u00c3\u00adquez",
+      "timestamp_ms": 1765727393667,
+      "content": "Cu\u00c3\u00a1l ser\u00c3\u00ada el \u00c3\u00baltimo precio?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765469595326,
+      "content": "Esta buena dura horas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765469588610,
+      "content": "Hola Clauido",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Claudio Henr\u00c3\u00adquez",
+      "timestamp_ms": 1765469131584,
+      "content": "En que estado est\u00c3\u00a1 la bater\u00c3\u00ada?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Claudio Henr\u00c3\u00adquez",
+      "timestamp_ms": 1765469123005,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Claudio Henr\u00c3\u00adquez",
+      "timestamp_ms": 1765469118859,
+      "content": "\u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Claudio Henr\u00c3\u00adquez",
+      "timestamp_ms": 1765469118505,
+      "content": "Claudio inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Claudio \u00c2\u00b7 Notebook Full / HP Stream / Liviana y compacta",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/claudionotebookfullhpstreamlivianaycompacta_1423699155752499",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

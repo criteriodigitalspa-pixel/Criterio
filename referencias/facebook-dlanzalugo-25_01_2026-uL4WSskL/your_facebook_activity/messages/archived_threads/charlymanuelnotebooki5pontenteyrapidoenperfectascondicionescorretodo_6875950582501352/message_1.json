@@ -1,0 +1,190 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Charly Manuel Garcia Valenzuela"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1702822563676,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Charly Manuel Garcia Valenzuela",
+      "timestamp_ms": 1702821892780,
+      "content": "Estoy cotizando otros m\u00c3\u00a1s y le confirmo si me decido",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1702819602739,
+      "content": "Le interesa amigo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1702817119386,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/charlymanuelnotebooki5pontenteyrapidoenperfectascondicionescorretodo_6875950582501352/photos/735728507990179.jpg",
+          "creation_timestamp": 1702817119
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1702817087138,
+      "content": "Estan todas funcionando",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1702817077834,
+      "content": "La bateria dura sus 3 horas, igual depende del uso puede durar hasta un poco mas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Charly Manuel Garcia Valenzuela",
+      "timestamp_ms": 1702817024912,
+      "content": "Las teclas est\u00c3\u00a1n gastadas funcionan todas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Charly Manuel Garcia Valenzuela",
+      "timestamp_ms": 1702817005955,
+      "content": "Cuantas horas dura la bateria",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1702816987290,
+      "content": "Y no tiene golpes ni nada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1702816976377,
+      "content": "Su cargador original",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1702816966402,
+      "content": "No tiene ningun detalle esta funcionando al 100",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1702816952632,
+      "content": "Igual la bateria esta bastante buena",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1702816945244,
+      "content": "Uso real 6 meses de uso, pero duro guardado caleta de tiempo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1702816905608,
+      "content": "No amigo nunca tuvo fallos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Charly Manuel Garcia Valenzuela",
+      "timestamp_ms": 1702816886694,
+      "content": "Es reparado?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Charly Manuel Garcia Valenzuela",
+      "timestamp_ms": 1702816870394,
+      "content": "Cuanto tiene de uso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1702816815600,
+      "content": "Hola Charly si esta disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Charly Manuel Garcia Valenzuela",
+      "timestamp_ms": 1702816705318,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Charly Manuel Garcia Valenzuela",
+      "timestamp_ms": 1702816701095,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Charly Manuel Garcia Valenzuela",
+      "timestamp_ms": 1702816700773,
+      "content": "Charly Manuel Garcia Valenzuela",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Charly Manuel Garcia Valenzuela",
+      "timestamp_ms": 1702816699178,
+      "content": "Charly Manuel cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Charly Manuel Garcia Valenzuela",
+      "timestamp_ms": 1702816698674,
+      "content": "Charly Manuel asign\u00c3\u00b3 al grupo el nombre \"Charly Manuel \u00c2\u00b7 Notebook I5 Pontente y Rapido en Perfectas Condiciones, Corre todo\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Charly Manuel \u00c2\u00b7 Notebook I5 Pontente y Rapido en Perfectas Condiciones, Corre todo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/charlymanuelnotebooki5pontenteyrapidoenperfectascondicionescorretodo_6875950582501352",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/937081244597225.jpg",
+    "creation_timestamp": 1702816696
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

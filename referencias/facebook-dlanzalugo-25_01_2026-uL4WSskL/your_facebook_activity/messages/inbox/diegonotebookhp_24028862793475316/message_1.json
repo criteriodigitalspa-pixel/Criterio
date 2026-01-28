@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Luciano Perez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Luciano Perez",
+      "timestamp_ms": 1754054675518,
+      "content": "Luciano est\u00c3\u00a1 esperando tu respuesta sobre esta publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luciano Perez",
+      "timestamp_ms": 1754012780567,
+      "content": "Luciano rechaz\u00c3\u00b3 tu oferta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753985029813,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook HP",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebookhp_24028862793475316",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/599012243283266.jpg",
+    "creation_timestamp": 1753985025
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

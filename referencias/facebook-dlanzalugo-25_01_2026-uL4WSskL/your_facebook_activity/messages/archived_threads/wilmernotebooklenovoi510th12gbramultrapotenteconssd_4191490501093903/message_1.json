@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Wilmer Camacho"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756873736854,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756853891779,
+      "content": "Compita agradezco tu oferta pero crees que me puedas ofrecer algo mas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756853872607,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wilmer Camacho",
+      "timestamp_ms": 1756853859012,
+      "content": "Hola mano me acepta una oferta de 200.000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wilmer Camacho",
+      "timestamp_ms": 1756853839904,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wilmer Camacho",
+      "timestamp_ms": 1756853836323,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wilmer Camacho",
+      "timestamp_ms": 1756853836144,
+      "content": "Wilmer inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Wilmer \u00c2\u00b7 Notebook Lenovo i5-10th / 12GB RAM / Ultra Potente con SSD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/wilmernotebooklenovoi510th12gbramultrapotenteconssd_4191490501093903",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

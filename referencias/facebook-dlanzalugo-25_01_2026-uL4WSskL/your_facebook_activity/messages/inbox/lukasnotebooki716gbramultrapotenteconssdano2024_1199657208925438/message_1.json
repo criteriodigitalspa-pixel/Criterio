@@ -1,0 +1,495 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Lukas Salvador"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765894147774,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764462010175,
+      "content": "Me comenta compi para pasar a dejartelo ma\u00c3\u00b1ana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764449250364,
+      "content": "Yo hoy llego a mi casa a las 9pm, si quieres lo podemos cerrar ma\u00c3\u00b1ana te parece?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lukas Salvador",
+      "timestamp_ms": 1764449069141,
+      "content": "Como lo hacemos para el hp de $200.000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lukas Salvador",
+      "timestamp_ms": 1764449051062,
+      "content": "Okay por el momento prefiero conservarlo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764448143008,
+      "content": "Segun veo la foto, entendiendo que no tenga golpes ni nada raro, seria el Asus +170mil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lukas Salvador",
+      "timestamp_ms": 1764448021068,
+      "content": "Asus m\u00c3\u00a1s que cantidad de dinero pedir\u00c3\u00adas para el cambio?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lukas Salvador",
+      "timestamp_ms": 1764447998741,
+      "content": "Pero sigue siendo de mi inter\u00c3\u00a9s",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lukas Salvador",
+      "timestamp_ms": 1764447982611,
+      "content": "Acabo de verlo, no me hab\u00c3\u00ada percatado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764447895173,
+      "content": "La ultima foto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764447838589,
+      "content": "Aah ya, el equipo de esta publicacion tiene un peque\u00c3\u00b1o trizado en una esquina, en la zona del hdmi, para que pilles la foto y estes seguro (no afecta en absolutamente nada, el HDMi esta impecable)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lukas Salvador",
+      "timestamp_ms": 1764447736627,
+      "content": "En que parte de la florida? Hoy puedes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lukas Salvador",
+      "timestamp_ms": 1764447690641,
+      "content": "https://www.facebook.com/share/1838PucP1L/?mibextid=wwXIfr",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lukas Salvador",
+      "timestamp_ms": 1764447675552,
+      "content": "el hp de este anuncio me interesa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764447626219,
+      "content": "Yo vivo en la florida entonces cualquier dia esta bien, y hora ojala antes de las 11 o despues de las 18hr, pero en general me puedo acomodar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lukas Salvador",
+      "timestamp_ms": 1764447618103,
+      "content": "Lukas reaccion\u00c3\u00b3 \u00f0\u009f\u0091\u008d a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764447583271,
+      "content": "Y si claro podriamos llegar a un acuerdo todo depende de cual equipo quieras de los que tengo publicado y alli te puedo hacer mas o menos descuento a cambio de tu Asus",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Lukas Salvador"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lukas Salvador",
+      "timestamp_ms": 1764447581442,
+      "content": "Que d\u00c3\u00adas y en que horarios dispones?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lukas Salvador",
+      "timestamp_ms": 1764447571983,
+      "content": "Me acomoda la florida, vivo en geronimo de alderete con av la florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764447504490,
+      "content": "Yo soy de comuna la florida y trabajo en provicencia, entre esas dos comunas me muevo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764447483991,
+      "content": "Aah ya te entendi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lukas Salvador",
+      "timestamp_ms": 1764447439964,
+      "content": "Y en caso de que te sirva el asus ver a que podemos llegar por otro equipo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lukas Salvador",
+      "timestamp_ms": 1764447421283,
+      "content": "El hp lo quiero comprar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lukas Salvador",
+      "timestamp_ms": 1764447404433,
+      "content": "Nop",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764447381341,
+      "content": "Aah vale, y ese quieres cambiarlo por el otro HP de 200?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lukas Salvador",
+      "timestamp_ms": 1764447278394,
+      "content": "Es un asus",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lukas Salvador",
+      "timestamp_ms": 1764447271045,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/lukasnotebooki716gbramultrapotenteconssdano2024_1199657208925438/photos/2270831513436038.jpg",
+          "creation_timestamp": 1764447269
+        },
+        {
+          "uri": "your_facebook_activity/messages/inbox/lukasnotebooki716gbramultrapotenteconssdano2024_1199657208925438/photos/1325931322552099.jpg",
+          "creation_timestamp": 1764447270
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lukas Salvador",
+      "timestamp_ms": 1764447265179,
+      "content": "De donde eres?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764446990700,
+      "content": "Y cual notebook tienes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764446976882,
+      "content": "Vale te acepto los 200mil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lukas Salvador",
+      "timestamp_ms": 1764446511995,
+      "content": "y otra consulta, recibes notebook en parte de pago? A ver si renuevo el m\u00c3\u00ado tambi\u00c3\u00a9n",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lukas Salvador",
+      "timestamp_ms": 1764446467014,
+      "content": "Llegas a $200.000?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lukas Salvador",
+      "timestamp_ms": 1764446451443,
+      "content": "Me interesa ese por el momento",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764446330901,
+      "content": "Hola si esta disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lukas Salvador",
+      "timestamp_ms": 1764446159574,
+      "content": "Ese lo tienes disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lukas Salvador",
+      "timestamp_ms": 1764446155727,
+      "content": "https://www.facebook.com/share/1ZPC3J8ofj/?mibextid=wwXIfr",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lukas Salvador",
+      "timestamp_ms": 1764446101051,
+      "content": "Hola Diego",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764362567508,
+      "content": "Claro sin problema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lukas Salvador",
+      "timestamp_ms": 1764362505838,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lukas Salvador",
+      "timestamp_ms": 1764362503493,
+      "content": "Okay entendido, mas tardar el lunes te doy una respuesta m\u00c3\u00a1s concreta ya que estoy cotizando y no me puedo salir del presupuesto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764362419849,
+      "content": "Windows activo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764362410488,
+      "content": "Estan todos con sus cargadores originales",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764362404570,
+      "content": "Son de remates estimado, empresas que quiebran",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764362387390,
+      "content": "Lenovo Thinkbook, i7-11, 16gb ram, 1250GB espacio, Lector de huellas, cubierta de mas alta calidad, Estas a 400mil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lukas Salvador",
+      "timestamp_ms": 1764362378661,
+      "content": "Y otra consulta. Origen de los equipos? Son reacondicionados?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lukas Salvador",
+      "timestamp_ms": 1764362349888,
+      "content": "Valor de ese y caracter\u00c3\u00adsticas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764362300267,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/lukasnotebooki716gbramultrapotenteconssdano2024_1199657208925438/photos/1415112926916861.jpg",
+          "creation_timestamp": 1764362296
+        },
+        {
+          "uri": "your_facebook_activity/messages/inbox/lukasnotebooki716gbramultrapotenteconssdano2024_1199657208925438/photos/3952306341696734.jpg",
+          "creation_timestamp": 1764362295
+        },
+        {
+          "uri": "your_facebook_activity/messages/inbox/lukasnotebooki716gbramultrapotenteconssdano2024_1199657208925438/photos/1555672622230545.jpg",
+          "creation_timestamp": 1764362296
+        },
+        {
+          "uri": "your_facebook_activity/messages/inbox/lukasnotebooki716gbramultrapotenteconssdano2024_1199657208925438/photos/751354917256543.jpg",
+          "creation_timestamp": 1764362297
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lukas Salvador",
+      "timestamp_ms": 1764362166368,
+      "content": "Tienes algo est\u00c3\u00a9ticamente m\u00c3\u00a1s parecido al hp?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lukas Salvador",
+      "timestamp_ms": 1764362156448,
+      "content": "No me gusta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764362133906,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/lukasnotebooki716gbramultrapotenteconssdano2024_1199657208925438/photos/4224725247802415.jpg",
+          "creation_timestamp": 1764362133
+        },
+        {
+          "uri": "your_facebook_activity/messages/inbox/lukasnotebooki716gbramultrapotenteconssdano2024_1199657208925438/photos/869466825545832.jpg",
+          "creation_timestamp": 1764362133
+        },
+        {
+          "uri": "your_facebook_activity/messages/inbox/lukasnotebooki716gbramultrapotenteconssdano2024_1199657208925438/photos/699397646262759.jpg",
+          "creation_timestamp": 1764362133
+        },
+        {
+          "uri": "your_facebook_activity/messages/inbox/lukasnotebooki716gbramultrapotenteconssdano2024_1199657208925438/photos/869704892410942.jpg",
+          "creation_timestamp": 1764362133
+        },
+        {
+          "uri": "your_facebook_activity/messages/inbox/lukasnotebooki716gbramultrapotenteconssdano2024_1199657208925438/photos/1162034356140882.jpg",
+          "creation_timestamp": 1764362133
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lukas Salvador",
+      "timestamp_ms": 1764362037146,
+      "content": "Tienes fotos?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lukas Salvador",
+      "timestamp_ms": 1764362035084,
+      "content": "De que a\u00c3\u00b1o es?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764361952028,
+      "content": "Si claro tengo este y tengo un Lenovo thinkpad i7 tambien con 16gb de ram. Los 2 por 580mil podriamos cerrar, con cargador original y todo funcionando perfecto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764361873789,
+      "content": "Hola amigo buenas tardes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lukas Salvador",
+      "timestamp_ms": 1764361521026,
+      "content": "Necesito 2 con prestaciones parecidas y precio tambi\u00c3\u00a9n. Puede enviarme lo que tienes disponible por favor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lukas Salvador",
+      "timestamp_ms": 1764361491953,
+      "content": "Estoy interesado en el notebook",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lukas Salvador",
+      "timestamp_ms": 1764361467627,
+      "content": "Hola que tal",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lukas Salvador",
+      "timestamp_ms": 1764361412789,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lukas Salvador",
+      "timestamp_ms": 1764361408425,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lukas Salvador",
+      "timestamp_ms": 1764361407959,
+      "content": "Lukas inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lukas \u00c2\u00b7 Notebook i7 / 16GB RAM Ultra Potente con SSD / A\u00c3\u00b1o 2024",
+  "is_still_participant": true,
+  "thread_path": "inbox/lukasnotebooki716gbramultrapotenteconssdano2024_1199657208925438",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Jonathan Howsmon Davis"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718465248419,
+      "content": "Le interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718452821325,
+      "content": "Hola, s\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Howsmon Davis",
+      "timestamp_ms": 1718451791326,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Howsmon Davis",
+      "timestamp_ms": 1718451785203,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Howsmon Davis",
+      "timestamp_ms": 1718451783589,
+      "content": "Jonathan asign\u00c3\u00b3 al grupo el nombre \"Jonathan \u00c2\u00b7 Notebook HP, GRAFICA AMD PROCESADOR AMD\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Howsmon Davis",
+      "timestamp_ms": 1718451783589,
+      "content": "Jonathan cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jonathan \u00c2\u00b7 Notebook HP, GRAFICA AMD PROCESADOR AMD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/jonathannotebookhpgraficaamdprocesadoramd_7633310996746414",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

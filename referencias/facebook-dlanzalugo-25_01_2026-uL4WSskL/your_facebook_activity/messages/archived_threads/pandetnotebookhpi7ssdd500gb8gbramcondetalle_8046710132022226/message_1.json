@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Pandet RD"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1709291603703,
+      "content": "Hola si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pandet RD",
+      "timestamp_ms": 1709269788054,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pandet RD",
+      "timestamp_ms": 1709269783654,
+      "content": "Hola, disponible? Donde entregar\u00c3\u00adas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pandet RD",
+      "timestamp_ms": 1709269783474,
+      "content": "Pandet RD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pandet RD",
+      "timestamp_ms": 1709269781192,
+      "content": "Pandet cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pandet RD",
+      "timestamp_ms": 1709269780859,
+      "content": "Pandet asign\u00c3\u00b3 al grupo el nombre \"Pandet \u00c2\u00b7 Notebook HP i7 SSDD 500gb 8GB RAM con Detalle\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Pandet \u00c2\u00b7 Notebook HP i7 SSDD 500gb 8GB RAM con Detalle",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/pandetnotebookhpi7ssdd500gb8gbramcondetalle_8046710132022226",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1903647433404203.jpg",
+    "creation_timestamp": 1709269778
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

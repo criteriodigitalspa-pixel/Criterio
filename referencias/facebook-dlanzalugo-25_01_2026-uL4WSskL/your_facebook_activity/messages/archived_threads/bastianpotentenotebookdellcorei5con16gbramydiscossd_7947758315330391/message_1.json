@@ -1,0 +1,96 @@
+{
+  "participants": [
+    {
+      "name": "Bastian Sepulveda"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728604622857,
+      "content": "Abandonaste el grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728586012823,
+      "content": "Me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728580234111,
+      "content": "Le parece?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728580231560,
+      "content": "130 y cerramos amiigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bastian Sepulveda",
+      "timestamp_ms": 1728575402997,
+      "content": "Lo dejar\u00c3\u00ada en 115.000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728575335410,
+      "content": "Hola Si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bastian Sepulveda",
+      "timestamp_ms": 1728570083310,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bastian Sepulveda",
+      "timestamp_ms": 1728570079315,
+      "content": "\u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bastian Sepulveda",
+      "timestamp_ms": 1728570079051,
+      "content": "Bastian Sepulveda",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bastian Sepulveda",
+      "timestamp_ms": 1728570076209,
+      "content": "Bastian asign\u00c3\u00b3 al grupo el nombre \"Bastian \u00c2\u00b7 POTENTE Notebook Dell core i5 con 16GB Ram y disco SSD\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bastian Sepulveda",
+      "timestamp_ms": 1728570076209,
+      "content": "Bastian cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bastian \u00c2\u00b7 POTENTE Notebook Dell core i5 con 16GB Ram y disco SSD",
+  "is_still_participant": false,
+  "thread_path": "archived_threads/bastianpotentenotebookdellcorei5con16gbramydiscossd_7947758315330391",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

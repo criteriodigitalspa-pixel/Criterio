@@ -1,0 +1,87 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Maria Camila Arias"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738611855735,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Camila Arias",
+      "timestamp_ms": 1738611849049,
+      "content": "No caballero la verdad es el precio fijo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738611828002,
+      "content": "Vale, y podria quedar en 70mil el precio?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Camila Arias",
+      "timestamp_ms": 1738611809104,
+      "content": "Lo siento solo puedo entregar en metro parque Almagro o mi domicilio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738611635746,
+      "content": "Entregaria en estacion de metro Macul?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Camila Arias",
+      "timestamp_ms": 1738611413993,
+      "content": "Hola, si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738590770925,
+      "content": "Hola, Maria Camila. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738590770741,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 \u00e2\u009c\u00a8Se vende Notebook Hp 240 g7 \u00e2\u009c\u00a8\u00e2\u009c\u00a8",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegosevendenotebookhp240g7_9873062079375080",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1028969669035629.jpg",
+    "creation_timestamp": 1738590767
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

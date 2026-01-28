@@ -1,0 +1,94 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Andres Munoz"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Andres Munoz",
+      "timestamp_ms": 1766710306967,
+      "content": "Andres vendi\u00c3\u00b3 Notebook Dell ( Proce I7 - 16 Ram - 512GB SSD ).",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766544725965,
+      "content": "Ver publicaciones similares",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Munoz",
+      "timestamp_ms": 1766530616979,
+      "content": "Andres marc\u00c3\u00b3 la publicaci\u00c3\u00b3n como Disponible.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Munoz",
+      "timestamp_ms": 1766454792712,
+      "content": "Andres vendi\u00c3\u00b3 Notebook Dell ( Proce I7 - 16 Ram - 512GB SSD ).",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766415352119,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Munoz",
+      "timestamp_ms": 1766415327964,
+      "content": "Hola, no sorry bro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766415120024,
+      "content": "Hola amigo veo tiene igual varios detalles esteticos, podria quedar en 180mil?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766415093309,
+      "content": "Buenos d\u00c3\u00adas. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766415092978,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook Dell ( Proce I7 - 16 Ram - 512GB SSD )",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebookdellprocei716ram512gbssd_1215461143845703",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1472744330943911.jpg",
+    "creation_timestamp": 1766415087
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

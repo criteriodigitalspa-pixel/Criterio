@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Eugenio Villagra"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728477020646,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eugenio Villagra",
+      "timestamp_ms": 1728477009809,
+      "content": "Paso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728476051061,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728476050086,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Notebook HP . Impecable.\nLeer abajo .precio unico\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728476050086,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook HP . Impecable.\nLeer abajo .precio unico",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebookhpimpecableleerabajopreciounico_27001338312842890",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/451286184630633.jpg",
+    "creation_timestamp": 1728476049
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

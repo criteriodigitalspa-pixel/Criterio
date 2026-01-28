@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Mateo Naranjo"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766801380009,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mateo Naranjo",
+      "timestamp_ms": 1766742737677,
+      "content": "Mateo est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mateo Naranjo",
+      "timestamp_ms": 1766720738293,
+      "content": "Tambien queria saber si me lo podria Dejar en 120 porque es lo Unico que me queda",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mateo Naranjo",
+      "timestamp_ms": 1766720723821,
+      "content": "Mateo Naranjo te envi\u00c3\u00b3 un mensaje sobre tu publicaci\u00c3\u00b3n: Potente Thinkpad 16GB RAM / Ultra Rapida / i5-10TH / SSDD.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mateo Naranjo",
+      "timestamp_ms": 1766720719612,
+      "content": "\u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mateo Naranjo",
+      "timestamp_ms": 1766720719268,
+      "content": "Mateo inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mateo \u00c2\u00b7 Potente Thinkpad 16GB RAM / Ultra Rapida / i5-10TH / SSDD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/mateopotentethinkpad16gbramultrarapidai510thssdd_1860724427869990",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

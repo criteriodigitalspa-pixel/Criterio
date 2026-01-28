@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Gabriel Eliseo"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768688976501,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriel Eliseo",
+      "timestamp_ms": 1768613302332,
+      "content": "Donde entrega",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768611623255,
+      "content": "Aceptaste la oferta de Gabriel",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriel Eliseo",
+      "timestamp_ms": 1768609880818,
+      "content": "Gabriel te ofreci\u00c3\u00b3 $170.000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gabriel \u00c2\u00b7 Notebook Elitebook HP 16GB RAM Super Potente/ I5 / SSDD /",
+  "is_still_participant": true,
+  "thread_path": "inbox/gabrielnotebookelitebookhp16gbramsuperpotentei5ssdd_797381180033098",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

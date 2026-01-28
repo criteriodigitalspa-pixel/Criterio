@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Brayan Beltran"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Brayan Beltran",
+      "timestamp_ms": 1711096627651,
+      "content": "Brayan vendi\u00c3\u00b3 HP ProBook 440 g2 i5 desarme.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1708570314420,
+      "content": "Publicaciones similares a \"HP ProBook 440 g2 i5 desarme\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1708440711525,
+      "content": "Hola, Brayan. El procesador funciona?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1708440709866,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1708440709502,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 HP ProBook 440 g2 i5 desarme\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 HP ProBook 440 g2 i5 desarme",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegohpprobook440g2i5desarme_7614400755239102",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1562854391220594.jpg",
+    "creation_timestamp": 1708440707
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

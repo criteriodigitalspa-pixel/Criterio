@@ -1,0 +1,122 @@
+{
+  "participants": [
+    {
+      "name": "Pedro Sazo"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pedro Sazo",
+      "timestamp_ms": 1703122554389,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703122495502,
+      "content": "Jajaja dale ma\u00c3\u00b1ana te confirmo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pedro Sazo",
+      "timestamp_ms": 1703120991860,
+      "content": "Jajaja. Disculpa la oferta, pero es lo que tengo disponible por ahora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pedro Sazo",
+      "timestamp_ms": 1703120968227,
+      "content": "Tengo 125",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703120019795,
+      "content": "Tengo una persona interesada a precio completo para ma\u00c3\u00b1ana, si esta persona me deja mal te aviso y te la vendo a 120",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pedro Sazo",
+      "timestamp_ms": 1703117310643,
+      "content": "me faltan 20 mil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pedro Sazo",
+      "timestamp_ms": 1703117297077,
+      "content": "una consulta, es el \u00c3\u00baltimo precio?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703117240336,
+      "content": "Si Pedro disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pedro Sazo",
+      "timestamp_ms": 1703117195785,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pedro Sazo",
+      "timestamp_ms": 1703117191172,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pedro Sazo",
+      "timestamp_ms": 1703117190823,
+      "content": "Pedro Sazo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pedro Sazo",
+      "timestamp_ms": 1703117188638,
+      "content": "Pedro cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pedro Sazo",
+      "timestamp_ms": 1703117188214,
+      "content": "Pedro asign\u00c3\u00b3 al grupo el nombre \"Pedro \u00c2\u00b7 Notebook Core i5 con 16GB RAM Rapido Corre Todo\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Pedro \u00c2\u00b7 Notebook Core i5 con 16GB RAM Rapido Corre Todo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/pedronotebookcorei5con16gbramrapidocorretodo_7027278824033696",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/326687690260411.jpg",
+    "creation_timestamp": 1703117185
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Daniel El\u00c3\u00adas L\u00c3\u00b3pez \u00c3\u0081lvarez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742741439991,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme al metro, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel El\u00c3\u00adas L\u00c3\u00b3pez \u00c3\u0081lvarez",
+      "timestamp_ms": 1742736807632,
+      "content": "Y donde entregas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742735686970,
+      "content": "No amigo, gracias igual",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel El\u00c3\u00adas L\u00c3\u00b3pez \u00c3\u0081lvarez",
+      "timestamp_ms": 1742731086055,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel El\u00c3\u00adas L\u00c3\u00b3pez \u00c3\u0081lvarez",
+      "timestamp_ms": 1742731080732,
+      "content": "Hola. Lo dejar\u00c3\u00adas en 150? Solo tenho ese presupuesto.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel El\u00c3\u00adas L\u00c3\u00b3pez \u00c3\u0081lvarez",
+      "timestamp_ms": 1742731080499,
+      "content": "Daniel inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Daniel \u00c2\u00b7 Notebook Ultra Rapida Dell i5 con 16GB RAM Muy Potente Con M2 256GB ENCIENDE EN 7 SEGUNDOS!",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/danielnotebookultrarapidadelli5con16gbrammuypotenteconm2256gbenciendeen7segundos_24124708897118014",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

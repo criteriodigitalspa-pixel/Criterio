@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Joseph Vargas"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Joseph Vargas",
+      "timestamp_ms": 1769186353697,
+      "content": "Puente Alto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1769186195088,
+      "content": "De donde es?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1769186192535,
+      "content": "Holaa, puedo llevar a su domicilio dependiendo de la comuna",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joseph Vargas",
+      "timestamp_ms": 1769182723376,
+      "content": "Genial. Hace entrega en estaci\u00c3\u00b3n de Metro o domicilio?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1769182653549,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joseph Vargas",
+      "timestamp_ms": 1769181963626,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joseph Vargas",
+      "timestamp_ms": 1769181954624,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joseph Vargas",
+      "timestamp_ms": 1769181954416,
+      "content": "Joseph inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Joseph \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "inbox/josephnotebooki710thultrarapida16gbramssdd_1506798640416127",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

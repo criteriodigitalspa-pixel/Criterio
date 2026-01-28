@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Katherine Vss Sanchez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739485607256,
+      "content": "Es de 14\" estimada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Katherine Vss Sanchez",
+      "timestamp_ms": 1739485540645,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Katherine Vss Sanchez",
+      "timestamp_ms": 1739485535764,
+      "content": "Pulgadas de la pantalla?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Katherine Vss Sanchez",
+      "timestamp_ms": 1739485535465,
+      "content": "Katherine Vss inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Katherine Vss \u00c2\u00b7 Notebook Gamer Hp // RYZEN 5 PRO // VEGA 8 2gb // 16gb RAM // SSDD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/katherinevssnotebookgamerhpryzen5provega82gb16gbramssdd_28660760083569503",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

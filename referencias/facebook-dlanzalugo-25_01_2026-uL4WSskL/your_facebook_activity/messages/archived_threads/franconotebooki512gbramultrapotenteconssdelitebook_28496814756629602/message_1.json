@@ -1,0 +1,101 @@
+{
+  "participants": [
+    {
+      "name": "Franco Contreras"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Franco Contreras",
+      "timestamp_ms": 1740605227951,
+      "content": "Franco reaccion\u00c3\u00b3 \u00f0\u009f\u0098\u00a2 a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740605144122,
+      "content": "https://www.microsoft.com/es-cl/microsoft-365/get-office-and-microsoft-365-oem-download-page",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Franco Contreras"
+        }
+      ],
+      "share": {
+        "link": "https://www.microsoft.com/es-cl/microsoft-365/get-office-and-microsoft-365-oem-download-page"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740598042996,
+      "content": "994919000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Contreras",
+      "timestamp_ms": 1740596704041,
+      "content": "tiene algun numero para poder llamarlo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740590538848,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740590538458,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740590538104,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Contreras",
+      "timestamp_ms": 1740589899498,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Contreras",
+      "timestamp_ms": 1740589892617,
+      "content": "Buenas tardes. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Contreras",
+      "timestamp_ms": 1740589891590,
+      "content": "Franco inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Franco \u00c2\u00b7 Notebook i5 12GB RAM Ultra Potente con SSD ELITEBOOK",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/franconotebooki512gbramultrapotenteconssdelitebook_28496814756629602",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

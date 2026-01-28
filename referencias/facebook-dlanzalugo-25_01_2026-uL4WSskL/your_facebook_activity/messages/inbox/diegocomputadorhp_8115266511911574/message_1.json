@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Daniela Ya\u00c3\u00b1ez"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Daniela Ya\u00c3\u00b1ez",
+      "timestamp_ms": 1769115496716,
+      "content": "Daniela vendi\u00c3\u00b3 Computador HP.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniela Ya\u00c3\u00b1ez",
+      "timestamp_ms": 1767727951276,
+      "content": "Daniela baj\u00c3\u00b3 el precio de Computador HP a $100.000.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Computador HP",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegocomputadorhp_8115266511911574",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/932715518706975.jpg",
+    "creation_timestamp": 1730225015
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

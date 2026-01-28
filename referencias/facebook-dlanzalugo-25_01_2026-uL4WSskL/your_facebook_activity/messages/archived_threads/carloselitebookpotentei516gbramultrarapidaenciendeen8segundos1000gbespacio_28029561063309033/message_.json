@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Carlos Carre\u00c3\u00b1o"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732278977099,
+      "content": "Le intereso el quipo? Quiere coordinar o tiene alguna duda?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732204117700,
+      "content": "De 14\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos Carre\u00c3\u00b1o",
+      "timestamp_ms": 1732203943776,
+      "content": "Pulgadas??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos Carre\u00c3\u00b1o",
+      "timestamp_ms": 1732203911825,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos Carre\u00c3\u00b1o",
+      "timestamp_ms": 1732203908115,
+      "content": "Buenas tardes. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos Carre\u00c3\u00b1o",
+      "timestamp_ms": 1732203907737,
+      "content": "Carlos Carre\u00c3\u00b1o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos Carre\u00c3\u00b1o",
+      "timestamp_ms": 1732203905448,
+      "content": "Carlos cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos Carre\u00c3\u00b1o",
+      "timestamp_ms": 1732203905447,
+      "content": "Carlos asign\u00c3\u00b3 al grupo el nombre \"Carlos \u00c2\u00b7 Elitebook Potente i5 16GB RAM Ultra Rapida enciende en 8 segundos! 1000GB Espacio\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Carlos \u00c2\u00b7 Elitebook Potente i5 16GB RAM Ultra Rapida enciende en 8 segundos! 1000GB Espacio",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/carloselitebookpotentei516gbramultrarapidaenciendeen8segundos1000gbespacio_28029561063309033",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

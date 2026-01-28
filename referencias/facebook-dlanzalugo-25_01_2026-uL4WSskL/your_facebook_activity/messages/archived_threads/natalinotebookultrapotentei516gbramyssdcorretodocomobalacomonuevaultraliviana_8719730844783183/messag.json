@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Natali Nu\u00c3\u00b1ez"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729082543097,
+      "content": "Buenos dias, aun no se decide? Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729045787223,
+      "content": "Si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729045784762,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Natali Nu\u00c3\u00b1ez",
+      "timestamp_ms": 1729045699001,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Natali Nu\u00c3\u00b1ez",
+      "timestamp_ms": 1729045695070,
+      "content": "\u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Natali Nu\u00c3\u00b1ez",
+      "timestamp_ms": 1729045694720,
+      "content": "Natali Nu\u00c3\u00b1ez",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Natali Nu\u00c3\u00b1ez",
+      "timestamp_ms": 1729045692536,
+      "content": "Natali asign\u00c3\u00b3 al grupo el nombre \"Natali \u00c2\u00b7 Notebook Ultra Potente i5 16gb RAM y SSD Corre todo como bala, Como nueva ultra liviana\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Natali Nu\u00c3\u00b1ez",
+      "timestamp_ms": 1729045692536,
+      "content": "Natali cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Natali \u00c2\u00b7 Notebook Ultra Potente i5 16gb RAM y SSD Corre todo como bala, Como nueva ultra liviana",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/natalinotebookultrapotentei516gbramyssdcorretodocomobalacomonuevaultraliviana_8719730844783183",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

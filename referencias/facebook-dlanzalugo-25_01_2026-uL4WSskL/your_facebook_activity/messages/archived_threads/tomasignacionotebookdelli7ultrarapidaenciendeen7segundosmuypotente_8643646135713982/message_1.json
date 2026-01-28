@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Tomas Dinamarca"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730138269350,
+      "content": "No amigo muchas gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tomas Dinamarca",
+      "timestamp_ms": 1730138221822,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tomas Dinamarca",
+      "timestamp_ms": 1730138217964,
+      "content": "Hola, permutas por un iPad m\u00c3\u00a1s Apple Pencil?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tomas Dinamarca",
+      "timestamp_ms": 1730138217720,
+      "content": "Tomas inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Tom\u00c3\u00a1s Ignacio \u00c2\u00b7 Notebook Dell i7 Ultra Rapida ENCIENDE en 7 segundos MUY POTENTE",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/tomasignacionotebookdelli7ultrarapidaenciendeen7segundosmuypotente_8643646135713982",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

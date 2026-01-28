@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Megma Dimon"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Megma Dimon",
+      "timestamp_ms": 1729451477141,
+      "content": "Megma vendi\u00c3\u00b3 Notebook HP I3.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Megma Dimon",
+      "timestamp_ms": 1729353542369,
+      "content": "\u00c2\u00bfA\u00c3\u00ban te interesa? Responde a: 920816332",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Megma Dimon",
+      "timestamp_ms": 1729346545969,
+      "content": "920816332",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Megma Dimon",
+      "timestamp_ms": 1729346538130,
+      "content": "hola si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook HP I3",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebookhpi3_8934556239922135",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/533466466103306.jpg",
+    "creation_timestamp": 1729291510
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

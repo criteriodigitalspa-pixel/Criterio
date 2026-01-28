@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Yamilet Lugo"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Yamilet Lugo",
+      "timestamp_ms": 1705330793691,
+      "content": "Yamilet envi\u00c3\u00b3 un archivo adjunto.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Yamilet Lugo",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/yamiletlugo_1105247176200781",
+  "magic_words": [
+    
+  ]
+}

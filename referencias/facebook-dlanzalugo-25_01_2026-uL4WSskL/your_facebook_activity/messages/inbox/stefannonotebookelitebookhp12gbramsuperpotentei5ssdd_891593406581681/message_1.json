@@ -1,0 +1,62 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Stefanno Rojas"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Stefanno Rojas",
+      "timestamp_ms": 1769122075519,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/stefannonotebookelitebookhp12gbramsuperpotentei5ssdd_891593406581681/audio/734784946057015.mp4",
+          "creation_timestamp": 1769122074
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1769110688034,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stefanno Rojas",
+      "timestamp_ms": 1769110615466,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stefanno Rojas",
+      "timestamp_ms": 1769110607849,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stefanno Rojas",
+      "timestamp_ms": 1769110607586,
+      "content": "Stefanno inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Stefanno \u00c2\u00b7 Notebook Elitebook HP 12GB RAM Super Potente/ I5 / SSDD /",
+  "is_still_participant": true,
+  "thread_path": "inbox/stefannonotebookelitebookhp12gbramsuperpotentei5ssdd_891593406581681",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

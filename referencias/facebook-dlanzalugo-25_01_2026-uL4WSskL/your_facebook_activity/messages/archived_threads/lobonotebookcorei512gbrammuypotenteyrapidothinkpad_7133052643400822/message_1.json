@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Lobo Estepario Gorria"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703299983483,
+      "content": "Si amigo sigue disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703299975359,
+      "content": "Hola buenas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lobo Estepario Gorria",
+      "timestamp_ms": 1703299967695,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lobo Estepario Gorria",
+      "timestamp_ms": 1703299960636,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lobo Estepario Gorria",
+      "timestamp_ms": 1703299960001,
+      "content": "Lobo Estepario Gorria",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lobo Estepario Gorria",
+      "timestamp_ms": 1703299957182,
+      "content": "Lobo cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lobo Estepario Gorria",
+      "timestamp_ms": 1703299956611,
+      "content": "Lobo asign\u00c3\u00b3 al grupo el nombre \"Lobo \u00c2\u00b7 Notebook Core i5, 12GB Ram Muy potente y rapido, thinkpad\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lobo \u00c2\u00b7 Notebook Core i5, 12GB Ram Muy potente y rapido, thinkpad",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/lobonotebookcorei512gbrammuypotenteyrapidothinkpad_7133052643400822",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/330187949826047.jpg",
+    "creation_timestamp": 1703299951
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Damian Villarroel"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Damian Villarroel",
+      "timestamp_ms": 1760002160813,
+      "content": " est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Damian Villarroel",
+      "timestamp_ms": 1759954786357,
+      "content": "Damian envi\u00c3\u00b3 un archivo adjunto.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Damian Villarroel",
+      "timestamp_ms": 1759954784678,
+      "content": "Hola buenas permutas por una tablet Lenovo Tab k11 + una ps3 liberada con programa HEN y alg\u00c3\u00ban monto a tu favor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Damian Villarroel",
+      "timestamp_ms": 1759954784503,
+      "content": "Damian inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Damian \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "inbox/damiannotebooki710thultrarapida202316gbramssdd_1439421370458905",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

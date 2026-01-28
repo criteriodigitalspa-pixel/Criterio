@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Margaret Oyarzo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Margaret Oyarzo",
+      "timestamp_ms": 1732831377184,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Margaret Oyarzo",
+      "timestamp_ms": 1732831369127,
+      "content": "Buenas noches. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Margaret Oyarzo",
+      "timestamp_ms": 1732831368657,
+      "content": "Margaret Oyarzo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Margaret Oyarzo",
+      "timestamp_ms": 1732831366347,
+      "content": "Margaret asign\u00c3\u00b3 al grupo el nombre \"Margaret \u00c2\u00b7 Elitebook Potente i5 16GB RAM Ultra Rapida enciende en 8 segundos! 1000GB Espacio\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Margaret Oyarzo",
+      "timestamp_ms": 1732831366347,
+      "content": "Margaret cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Margaret \u00c2\u00b7 Elitebook Potente i5 16GB RAM Ultra Rapida enciende en 8 segundos! 1000GB Espacio",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/margaretelitebookpotentei516gbramultrarapidaenciendeen8segundos1000gbespacio_8674037899375105",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

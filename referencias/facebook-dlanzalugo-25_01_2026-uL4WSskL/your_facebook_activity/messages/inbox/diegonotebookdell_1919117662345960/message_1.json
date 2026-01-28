@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Stall Metalymadera"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Stall Metalymadera",
+      "timestamp_ms": 1766525015662,
+      "content": "Stall cambi\u00c3\u00b3 la descripci\u00c3\u00b3n de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stall Metalymadera",
+      "timestamp_ms": 1766525014384,
+      "content": "Stall baj\u00c3\u00b3 el precio de Notebook dell a $40.000.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook dell",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebookdell_1919117662345960",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/4215018298711405.jpg",
+    "creation_timestamp": 1765512322
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

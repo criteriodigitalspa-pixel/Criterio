@@ -1,0 +1,96 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Note Book Repuesto"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Note Book Repuesto",
+      "timestamp_ms": 1703104941961,
+      "content": "No puedo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703099843828,
+      "content": "Y la busco en algun metro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703099840341,
+      "content": "No puede hoy?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Note Book Repuesto",
+      "timestamp_ms": 1703099824796,
+      "content": "Ma\u00c3\u00b1ana podr\u00c3\u00ada entregar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703099474614,
+      "content": "La necesito con urgencia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703099465744,
+      "content": "Soy de la florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703099449237,
+      "content": "Amigo como esta?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703099436025,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703099434185,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703099433872,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Memoria ram 8gb ddr3l para Notebook\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Memoria ram 8gb ddr3l para Notebook",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegomemoriaram8gbddr3lparanotebook_7549463795082849",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1438457456711398.jpg",
+    "creation_timestamp": 1703099432
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

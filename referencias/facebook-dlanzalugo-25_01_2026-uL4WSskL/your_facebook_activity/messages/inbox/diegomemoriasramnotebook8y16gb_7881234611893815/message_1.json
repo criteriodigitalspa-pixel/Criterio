@@ -1,0 +1,436 @@
+{
+  "participants": [
+    {
+      "name": "Jorge Lagos Silva"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jorge Lagos Silva",
+      "timestamp_ms": 1703120083572,
+      "content": "S\u00c3\u00baper gracias a ti",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703120062851,
+      "content": "Gracias amigo todo bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703120058853,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/diegomemoriasramnotebook8y16gb_7881234611893815/photos/400544455729010.jpg",
+          "creation_timestamp": 1703120057
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703120058449,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Lagos Silva",
+      "timestamp_ms": 1703117850007,
+      "content": "Ok estacionando y voy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703117830756,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/diegomemoriasramnotebook8y16gb_7881234611893815/photos/1012347433400122.jpg",
+          "creation_timestamp": 1703117829
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703117797394,
+      "content": "Estoy de negro con gorra y lente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703117743706,
+      "content": "En cambio de anden?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703117737865,
+      "content": "Ya estoy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Lagos Silva",
+      "timestamp_ms": 1703117281653,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703117258440,
+      "content": "Estoy a 4 estaciones",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703116364932,
+      "content": "Vale voy saliendo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Lagos Silva",
+      "timestamp_ms": 1703116299799,
+      "content": "Yo puedo llegar en 10 voy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703116178814,
+      "content": "Estoy a 20 min",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703116170928,
+      "content": "Avisame y salgo para alla",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703116160573,
+      "content": "Buenisimo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Lagos Silva",
+      "timestamp_ms": 1703115435551,
+      "videos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/diegomemoriasramnotebook8y16gb_7881234611893815/videos/1053343689248824.mp4",
+          "creation_timestamp": 1703115432
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Lagos Silva",
+      "timestamp_ms": 1703115430355,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/diegomemoriasramnotebook8y16gb_7881234611893815/photos/1716731088834981.jpg",
+          "creation_timestamp": 1703115429
+        },
+        {
+          "uri": "your_facebook_activity/messages/inbox/diegomemoriasramnotebook8y16gb_7881234611893815/photos/7196537717070571.jpg",
+          "creation_timestamp": 1703115429
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Lagos Silva",
+      "timestamp_ms": 1703115429376,
+      "content": "Y la de 8gb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Lagos Silva",
+      "timestamp_ms": 1703115419782,
+      "content": "Esta es la de 16 gb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703115361704,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Lagos Silva",
+      "timestamp_ms": 1703115286349,
+      "videos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/diegomemoriasramnotebook8y16gb_7881234611893815/videos/659504243012934.mp4",
+          "creation_timestamp": 1703115282
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Lagos Silva",
+      "timestamp_ms": 1703115279711,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/diegomemoriasramnotebook8y16gb_7881234611893815/photos/1467258020882871.jpg",
+          "creation_timestamp": 1703115278
+        },
+        {
+          "uri": "your_facebook_activity/messages/inbox/diegomemoriasramnotebook8y16gb_7881234611893815/photos/1102011987878567.jpg",
+          "creation_timestamp": 1703115278
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703113083435,
+      "content": "Dale buenisima",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Lagos Silva",
+      "timestamp_ms": 1703113065538,
+      "content": "Si estoy por llegar a casa voy a grabar un video funcionando las 2",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703113041496,
+      "content": "Oye estan probadas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Lagos Silva",
+      "timestamp_ms": 1703113021961,
+      "content": "Ok nos juntamos en el cambio de and\u00c3\u00a9n",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703113008628,
+      "content": "Voy en metro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Lagos Silva",
+      "timestamp_ms": 1703112915438,
+      "content": "Vienes en auto ??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Lagos Silva",
+      "timestamp_ms": 1703112906224,
+      "content": "Ok te llevo las 2 entonces",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703112827956,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703112824530,
+      "content": "Dale me parece",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Lagos Silva",
+      "timestamp_ms": 1703112807154,
+      "content": "35.000 las 2",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703112774806,
+      "content": "Aah vale, que precio me das para comprar las 2?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Lagos Silva",
+      "timestamp_ms": 1703112744500,
+      "content": "Y me queda 1 de 8gb ddr3L y 1 de 16gb ddr4",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Lagos Silva",
+      "timestamp_ms": 1703112721811,
+      "content": "Me queda solo de notebook",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703112440007,
+      "content": "Cuanto le dejas 2 ddr3L de 8gb y 1 16gb de ddr4?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703112396288,
+      "content": "Amigo y tendra pc4 de 16gb?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Lagos Silva",
+      "timestamp_ms": 1703110271151,
+      "content": "S\u00c3\u00ad claro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703108528026,
+      "content": "Amigo entonces podria ser en metro trinidad a las 9pm?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Lagos Silva",
+      "timestamp_ms": 1703103114423,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Lagos Silva",
+      "timestamp_ms": 1703103110307,
+      "content": "Llego tarde como las 21:00",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703102928382,
+      "content": "Puedo estar en metro trinidad en 30 minutos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Lagos Silva",
+      "timestamp_ms": 1703102654113,
+      "content": "Mi casa en la Florida sector santa Raquel con Santa Amalia o Metro trinidad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703102624071,
+      "content": "Donde entrega?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Lagos Silva",
+      "timestamp_ms": 1703102591780,
+      "content": "Es ddr3L",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703102385779,
+      "content": "Es ddr3 o ddr3L?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Lagos Silva",
+      "timestamp_ms": 1703101750292,
+      "content": "15 mil la de 8gb ddr3 y 25 mil la de 16gb ddr4",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703097752413,
+      "content": "Hola, a cuanto la ddr3L de 8gb y a cuanto la de 16gb?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703097750418,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703097750037,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Memorias ram notebook 8 y 16gb\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Memorias ram notebook 8 y 16gb",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegomemoriasramnotebook8y16gb_7881234611893815",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1437264083804728.jpg",
+    "creation_timestamp": 1703097748
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

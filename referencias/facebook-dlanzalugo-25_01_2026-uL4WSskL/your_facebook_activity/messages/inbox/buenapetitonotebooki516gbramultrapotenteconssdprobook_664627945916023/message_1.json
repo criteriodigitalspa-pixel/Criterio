@@ -1,0 +1,147 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Buen Apetito Buen Apetito"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Buen Apetito Buen Apetito",
+      "timestamp_ms": 1755017446021,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/buenapetitonotebooki516gbramultrapotenteconssdprobook_664627945916023/audio/1527456312030028.mp4",
+          "creation_timestamp": 1755017443
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1755017418624,
+      "content": "Hay otros modelos mas economicos que son mas para trabajo y le serviran",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1755017408608,
+      "content": "Ya porque la RTX es cara especificamente por la tecnologia para juegos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Buen Apetito Buen Apetito",
+      "timestamp_ms": 1755017331175,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Buen Apetito Buen Apetito",
+      "timestamp_ms": 1755017327239,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/buenapetitonotebooki516gbramultrapotenteconssdprobook_664627945916023/audio/2212009909317437.mp4",
+          "creation_timestamp": 1755017325
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1755017305500,
+      "content": "Para quiere para jugar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Buen Apetito Buen Apetito",
+      "timestamp_ms": 1755017294480,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1755017286404,
+      "content": "No estimado, una con rtx 3050 valen mas de 500mil usadas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Buen Apetito Buen Apetito",
+      "timestamp_ms": 1755017237198,
+      "content": "Hola tiene todo eso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Buen Apetito Buen Apetito",
+      "timestamp_ms": 1755017226443,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/buenapetitonotebooki516gbramultrapotenteconssdprobook_664627945916023/photos/2352496768478895.jpg",
+          "creation_timestamp": 1755017226
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1755017014527,
+      "content": "El equipo esta listo para usar.\nPuede probarlo y revisar con calma.\nEntrego en Mi domicilio en la comuna de La Florida o lugar a convenir.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1755017013353,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Buen Apetito Buen Apetito",
+      "timestamp_ms": 1755016229706,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Buen Apetito Buen Apetito",
+      "timestamp_ms": 1755016227742,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Buen Apetito Buen Apetito",
+      "timestamp_ms": 1755016227529,
+      "content": "Buen Apetito inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Buen Apetito \u00c2\u00b7 Notebook i5 16GB RAM Ultra Potente con SSD PROBOOK",
+  "is_still_participant": true,
+  "thread_path": "inbox/buenapetitonotebooki516gbramultrapotenteconssdprobook_664627945916023",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

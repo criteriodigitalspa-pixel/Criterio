@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Franco Pinto"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756873736810,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Pinto",
+      "timestamp_ms": 1756873512866,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Pinto",
+      "timestamp_ms": 1756873511854,
+      "content": "Me interesa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Pinto",
+      "timestamp_ms": 1756873505351,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Pinto",
+      "timestamp_ms": 1756873503566,
+      "content": "\u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Pinto",
+      "timestamp_ms": 1756873503373,
+      "content": "Franco inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Franco \u00c2\u00b7 Notebook Lenovo i5-10th / 12GB RAM / Ultra Potente con SSD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/franconotebooklenovoi510th12gbramultrapotenteconssd_972640251655003",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

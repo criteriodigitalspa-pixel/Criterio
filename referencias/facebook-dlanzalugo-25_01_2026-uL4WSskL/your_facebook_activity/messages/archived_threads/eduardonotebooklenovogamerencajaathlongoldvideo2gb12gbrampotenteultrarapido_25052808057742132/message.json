@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Pe\u00c3\u00b1aranda Eduardo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pe\u00c3\u00b1aranda Eduardo",
+      "timestamp_ms": 1761484954115,
+      "content": "Eduardo envi\u00c3\u00b3 un archivo adjunto.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pe\u00c3\u00b1aranda Eduardo",
+      "timestamp_ms": 1761484951395,
+      "content": "Hola. \u00c2\u00bfSigue disponible? Permutar\u00c3\u00adas por un iPhone 15 funciona perfecto solo wifi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pe\u00c3\u00b1aranda Eduardo",
+      "timestamp_ms": 1761484951137,
+      "content": "Eduardo inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Eduardo \u00c2\u00b7 Notebook Lenovo Gamer en caja / Athlon Gold / Video 2GB / 12GB RAM / Potente ultra Rapido",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/eduardonotebooklenovogamerencajaathlongoldvideo2gb12gbrampotenteultrarapido_25052808057742132",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

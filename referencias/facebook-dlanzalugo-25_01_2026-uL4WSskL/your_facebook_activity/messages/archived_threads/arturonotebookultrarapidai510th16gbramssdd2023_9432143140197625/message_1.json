@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Arturo A Ortiz G"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Arturo A Ortiz G",
+      "timestamp_ms": 1741532501247,
+      "content": "Aaaa entiendo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741532388733,
+      "content": "Hola disculpa pasa que no estoy cerca del equipo ahora para tomarle fotos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Arturo A Ortiz G",
+      "timestamp_ms": 1741532323913,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Arturo A Ortiz G",
+      "timestamp_ms": 1741522420035,
+      "content": "Arturo est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Arturo A Ortiz G",
+      "timestamp_ms": 1741499762301,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Arturo A Ortiz G",
+      "timestamp_ms": 1741499759114,
+      "content": "Tienes m\u00c3\u00a1s fotos ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Arturo A Ortiz G",
+      "timestamp_ms": 1741499758919,
+      "content": "Arturo inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Arturo \u00c2\u00b7 Notebook Ultra Rapida i5-10th // 16GB RAM // SSDD // 2023",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/arturonotebookultrarapidai510th16gbramssdd2023_9432143140197625",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

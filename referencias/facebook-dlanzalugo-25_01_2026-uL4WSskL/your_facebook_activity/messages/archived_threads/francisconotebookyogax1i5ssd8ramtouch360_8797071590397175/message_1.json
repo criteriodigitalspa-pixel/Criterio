@@ -1,0 +1,83 @@
+{
+  "participants": [
+    {
+      "name": "Francisco Mella"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739896274253,
+      "content": "Le intereso el equipo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739813455838,
+      "content": "Le intereso el equipo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739716276450,
+      "content": "Alli le envie el modelo exacto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739716268681,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/francisconotebookyogax1i5ssd8ramtouch360_8797071590397175/photos/1001608468509389.jpg",
+          "creation_timestamp": 1739716267
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1739716263388,
+      "content": "Hola si amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Mella",
+      "timestamp_ms": 1739716162014,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Mella",
+      "timestamp_ms": 1739716154143,
+      "content": "Hola. \u00c2\u00bfQu\u00c3\u00a9 procesador tiene i5 de octava generaci\u00c3\u00b3n tiene ? Saludos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Mella",
+      "timestamp_ms": 1739716153712,
+      "content": "Francisco inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Francisco \u00c2\u00b7 Notebook Yoga X1 // i5 // SSD// 8 RAM // Touch 360\u00c2\u00b0",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/francisconotebookyogax1i5ssd8ramtouch360_8797071590397175",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

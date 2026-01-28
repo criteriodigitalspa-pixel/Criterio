@@ -1,0 +1,93 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nicolas Navarro",
+      "timestamp_ms": 1720800806139,
+      "content": "Nicolas Navarro abandon\u00c3\u00b3 el grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718986692383,
+      "content": "Buenas tardes, le interese el equipo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718502022014,
+      "content": "90mil podria amigo no se si le acomoda?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Navarro",
+      "timestamp_ms": 1718501785859,
+      "content": "No la dejas en nada menos?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718501738921,
+      "content": "Hola si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Navarro",
+      "timestamp_ms": 1718500315002,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Navarro",
+      "timestamp_ms": 1718500307690,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Navarro",
+      "timestamp_ms": 1718500307436,
+      "content": "Nicolas Navarro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Navarro",
+      "timestamp_ms": 1718500305437,
+      "content": "Nicolas cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Navarro",
+      "timestamp_ms": 1718500305214,
+      "content": "Nicolas asign\u00c3\u00b3 al grupo el nombre \"Nicolas \u00c2\u00b7 Notebook i5 Dell Rapida 8Ram y SSD\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nicolas \u00c2\u00b7 Notebook i5 Dell Rapida 8Ram y SSD",
+  "is_still_participant": true,
+  "thread_path": "inbox/nicolasnotebooki5dellrapida8ramyssd_7947806638573423",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/973202647604739.jpg",
+    "creation_timestamp": 1718500303
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

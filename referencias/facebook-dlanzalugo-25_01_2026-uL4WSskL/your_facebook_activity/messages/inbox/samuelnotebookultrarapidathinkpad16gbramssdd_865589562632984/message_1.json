@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Samuel To\u00c3\u00b1o"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767891888597,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Samuel To\u00c3\u00b1o",
+      "timestamp_ms": 1766871975322,
+      "content": "Samuel est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Samuel To\u00c3\u00b1o",
+      "timestamp_ms": 1766848767524,
+      "content": "Samuel To\u00c3\u00b1o te envi\u00c3\u00b3 un mensaje sobre tu publicaci\u00c3\u00b3n: Notebook Ultra Rapida Thinkpad  / 16gb RAM / SSDD.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Samuel To\u00c3\u00b1o",
+      "timestamp_ms": 1766848764021,
+      "content": "Permutas oor una note 10 plus mas efectivo  samsung",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Samuel To\u00c3\u00b1o",
+      "timestamp_ms": 1766848763719,
+      "content": "Samuel inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Samuel \u00c2\u00b7 Notebook Ultra Rapida Thinkpad  / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "inbox/samuelnotebookultrarapidathinkpad16gbramssdd_865589562632984",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

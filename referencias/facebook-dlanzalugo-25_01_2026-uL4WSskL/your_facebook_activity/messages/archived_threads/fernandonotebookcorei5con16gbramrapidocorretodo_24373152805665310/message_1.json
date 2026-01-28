@@ -1,0 +1,108 @@
+{
+  "participants": [
+    {
+      "name": "Fernando Antonio Jimenez Mol"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Fernando Antonio Jimenez Mol",
+      "timestamp_ms": 1703133706957,
+      "content": "tiene hdmi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703132757140,
+      "content": "Es de 14\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Antonio Jimenez Mol",
+      "timestamp_ms": 1703132580035,
+      "content": "de cuantas pulgadas es la pantalla",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703132556199,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/fernandonotebookcorei5con16gbramrapidocorretodo_24373152805665310/photos/893597801977100.jpg",
+          "creation_timestamp": 1703132555
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Antonio Jimenez Mol",
+      "timestamp_ms": 1703132511907,
+      "content": "el procesador es i5 que generacion",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703132428629,
+      "content": "Si sigue disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Antonio Jimenez Mol",
+      "timestamp_ms": 1703132162366,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Antonio Jimenez Mol",
+      "timestamp_ms": 1703132157514,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Antonio Jimenez Mol",
+      "timestamp_ms": 1703132157279,
+      "content": "Fernando Antonio Jimenez Mol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Antonio Jimenez Mol",
+      "timestamp_ms": 1703132155580,
+      "content": "Fernando cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernando Antonio Jimenez Mol",
+      "timestamp_ms": 1703132155221,
+      "content": "Fernando asign\u00c3\u00b3 al grupo el nombre \"Fernando \u00c2\u00b7 Notebook Core i5 con 16GB RAM Rapido Corre Todo\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Fernando \u00c2\u00b7 Notebook Core i5 con 16GB RAM Rapido Corre Todo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/fernandonotebookcorei5con16gbramrapidocorretodo_24373152805665310",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/718925796866484.jpg",
+    "creation_timestamp": 1703132152
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

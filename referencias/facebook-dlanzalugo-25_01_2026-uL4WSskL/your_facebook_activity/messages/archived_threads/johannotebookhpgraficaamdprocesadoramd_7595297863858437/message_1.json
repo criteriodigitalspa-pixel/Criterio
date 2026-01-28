@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Johan Torres"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718473365522,
+      "content": "Esta bien cuidada funciona todo bien, lo unico es la bateria que esta mala, pero funciona perfectamente conectada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Johan Torres",
+      "timestamp_ms": 1718473076763,
+      "content": "Alg\u00c3\u00ban detalle?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718473061537,
+      "content": "Hola si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Johan Torres",
+      "timestamp_ms": 1718473055938,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Johan Torres",
+      "timestamp_ms": 1718473046710,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Johan Torres",
+      "timestamp_ms": 1718473046115,
+      "content": "Johan Torres",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Johan Torres",
+      "timestamp_ms": 1718473042818,
+      "content": "Johan cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Johan Torres",
+      "timestamp_ms": 1718473042337,
+      "content": "Johan asign\u00c3\u00b3 al grupo el nombre \"Johan \u00c2\u00b7 Notebook HP, GRAFICA AMD PROCESADOR AMD\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Johan \u00c2\u00b7 Notebook HP, GRAFICA AMD PROCESADOR AMD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/johannotebookhpgraficaamdprocesadoramd_7595297863858437",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/822213512873397.jpg",
+    "creation_timestamp": 1718473039
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

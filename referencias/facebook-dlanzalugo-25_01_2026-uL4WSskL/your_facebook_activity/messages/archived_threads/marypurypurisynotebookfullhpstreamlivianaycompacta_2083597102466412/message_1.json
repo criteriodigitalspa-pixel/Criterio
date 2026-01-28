@@ -1,0 +1,92 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Mary Pury Purisy Mendez Mendez"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767294650612,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764972846504,
+      "content": "Por 10mil se lo puedo llevar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mary Pury Purisy Mendez Mendez",
+      "timestamp_ms": 1764972523245,
+      "content": "Yo estoy x Santiago centro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764972494607,
+      "content": "Estoy en La Florida. Te acomoda la comuna o preferir\u00c3\u00adas que coordinemos en otro punto a convenir?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mary Pury Purisy Mendez Mendez",
+      "timestamp_ms": 1764971866714,
+      "content": "O domicilio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mary Pury Purisy Mendez Mendez",
+      "timestamp_ms": 1764971861716,
+      "content": "Y entrega en metro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764961270252,
+      "content": "Hola estimada, este lo tengo a 70mil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mary Pury Purisy Mendez Mendez",
+      "timestamp_ms": 1764960301441,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mary Pury Purisy Mendez Mendez",
+      "timestamp_ms": 1764960296453,
+      "content": "\u00c2\u00bfSigue disponible? \u00c2\u00bfprecios?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mary Pury Purisy Mendez Mendez",
+      "timestamp_ms": 1764960296079,
+      "content": "Mary Pury Purisy inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mary Pury Purisy \u00c2\u00b7 Notebook Full / HP Stream / Liviana y compacta",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/marypurypurisynotebookfullhpstreamlivianaycompacta_2083597102466412",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Jonathan Morales"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jonathan Morales",
+      "timestamp_ms": 1743085492124,
+      "content": "Ok gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743085426075,
+      "content": "Lo siento, no est\u00c3\u00a1 disponible.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Morales",
+      "timestamp_ms": 1743084914439,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Morales",
+      "timestamp_ms": 1743084909906,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Morales",
+      "timestamp_ms": 1743084909685,
+      "content": "Jonathan Morales",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Morales",
+      "timestamp_ms": 1743084907269,
+      "content": "Jonathan asign\u00c3\u00b3 al grupo el nombre \"Jonathan \u00c2\u00b7 Notebook i5-8Th / 16GB RAM Ultra Potente / Probook\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Morales",
+      "timestamp_ms": 1743084907269,
+      "content": "Jonathan cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jonathan \u00c2\u00b7 Notebook i5-8Th / 16GB RAM Ultra Potente / Probook",
+  "is_still_participant": true,
+  "thread_path": "inbox/jonathannotebooki58th16gbramultrapotenteprobook_9144983322290734",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

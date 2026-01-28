@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Ronald Jimenez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ronald Jimenez",
+      "timestamp_ms": 1769161817070,
+      "content": "Ronald vendi\u00c3\u00b3 Se vende notebook hp ENVi i5 250GHz.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ronald Jimenez",
+      "timestamp_ms": 1768491372264,
+      "content": "Ronald cambi\u00c3\u00b3 el precio de Se vende notebook hp ENVi i5 250GHz.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ronald Jimenez",
+      "timestamp_ms": 1768064315409,
+      "content": "Ronald actualiz\u00c3\u00b3 las fotos de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ronald Jimenez",
+      "timestamp_ms": 1768064294093,
+      "content": "Ronald cambi\u00c3\u00b3 la descripci\u00c3\u00b3n de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Se vende notebook hp ENVi",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegosevendenotebookhpenvi_2105755480228450",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1404646934666276.jpg",
+    "creation_timestamp": 1768044671
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

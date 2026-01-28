@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Kelly Ocando"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kelly Ocando",
+      "timestamp_ms": 1765991395332,
+      "content": "Kelly marc\u00c3\u00b3 la publicaci\u00c3\u00b3n como Pendiente.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Ocando",
+      "timestamp_ms": 1765374827699,
+      "content": "solo 512",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765374805234,
+      "content": "Hola, tienes de 256 y 512?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Ocando",
+      "timestamp_ms": 1765374788262,
+      "content": "hola si a\u00c3\u00ban disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765374775015,
+      "content": "Buenos d\u00c3\u00adas. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765374774815,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 SSD M.2",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegossdm2_1296510398950620",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1162473086033363.jpg",
+    "creation_timestamp": 1765374772
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

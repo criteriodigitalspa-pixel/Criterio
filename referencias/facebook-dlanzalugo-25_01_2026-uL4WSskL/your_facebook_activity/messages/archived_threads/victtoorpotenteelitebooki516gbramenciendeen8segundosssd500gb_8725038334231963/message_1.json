@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Victtoor Rafaeel"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731500917340,
+      "content": "Estimado buen dia, si le interesa podemos cerrar para hoy a 160mil, le parece?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731494702524,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victtoor Rafaeel",
+      "timestamp_ms": 1731475535634,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victtoor Rafaeel",
+      "timestamp_ms": 1731475531739,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victtoor Rafaeel",
+      "timestamp_ms": 1731475531355,
+      "content": "Victtoor Rafaeel",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victtoor Rafaeel",
+      "timestamp_ms": 1731475528912,
+      "content": "Victtoor asign\u00c3\u00b3 al grupo el nombre \"Victtoor \u00c2\u00b7 Potente Elitebook i5 16GB Ram Enciende en 8 segundos, SSD 500GB\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victtoor Rafaeel",
+      "timestamp_ms": 1731475528912,
+      "content": "Victtoor cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Victtoor \u00c2\u00b7 Potente Elitebook i5 16GB Ram Enciende en 8 segundos, SSD 500GB",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/victtoorpotenteelitebooki516gbramenciendeen8segundosssd500gb_8725038334231963",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Jonny Mondaca"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jonny Mondaca",
+      "timestamp_ms": 1732138200138,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonny Mondaca",
+      "timestamp_ms": 1732138196815,
+      "content": "Hola \u00c3\u009altimo precio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonny Mondaca",
+      "timestamp_ms": 1732138196613,
+      "content": "Jonny inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jonny \u00c2\u00b7 Potente Notebook i7 16GB RAM Ultra Rapida Elitebook con 500GB SSD M2",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/jonnypotentenotebooki716gbramultrarapidaelitebookcon500gbssdm2_8601429493313718",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

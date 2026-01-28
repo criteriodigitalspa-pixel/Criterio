@@ -1,0 +1,146 @@
+{
+  "participants": [
+    {
+      "name": "Andres Quintero"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728922002223,
+      "content": "Tiene otra duda?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728909481537,
+      "content": "La pantallanes 14\"\nHD\nTeclado retro iluminado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728909448491,
+      "content": "No se si hay otro dato que quieras ver?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728909439554,
+      "content": "Esas son las especificaciones amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728909434558,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/andresnotebookhprapidoi58ramtecladoretroiluminadoelitebookpotente_8254999457945758/photos/1064553138472821.jpg",
+          "creation_timestamp": 1728909432
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Quintero",
+      "timestamp_ms": 1728908905200,
+      "content": "Tiene mas imagenes mostrando los detalles",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728908621417,
+      "content": "No tengo el dato exacto porque la uso poco pero mas de 2 horas seguro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728908599824,
+      "content": "O puede venir a verla en mi domicilio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728908593282,
+      "content": "Amigo se la puedo llevar a cualquier estacion de metro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Quintero",
+      "timestamp_ms": 1728908357752,
+      "content": "Y cuanto dura la bater\u00c3\u00ada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Quintero",
+      "timestamp_ms": 1728908344542,
+      "content": "Donde entrega",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728908310471,
+      "content": "Buenos dias, si sigue siaponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Quintero",
+      "timestamp_ms": 1728908279813,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Quintero",
+      "timestamp_ms": 1728908276193,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Quintero",
+      "timestamp_ms": 1728908275933,
+      "content": "Andres Quintero",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Quintero",
+      "timestamp_ms": 1728908273789,
+      "content": "Andres asign\u00c3\u00b3 al grupo el nombre \"Andres \u00c2\u00b7 Notebook HP Rapido i5 8Ram Teclado retroiluminado Elitebook Potente\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Quintero",
+      "timestamp_ms": 1728908273789,
+      "content": "Andres cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Andres \u00c2\u00b7 Notebook HP Rapido i5 8Ram Teclado retroiluminado Elitebook Potente",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/andresnotebookhprapidoi58ramtecladoretroiluminadoelitebookpotente_8254999457945758",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

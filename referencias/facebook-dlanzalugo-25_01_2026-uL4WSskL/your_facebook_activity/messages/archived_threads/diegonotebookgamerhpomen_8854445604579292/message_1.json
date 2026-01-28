@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Jaime Bastian"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728469714176,
+      "content": "Ver publicaciones similares",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728340111948,
+      "content": "Hola, Jaime. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728340109847,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Notebook gamer HP Omen\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728340109847,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook gamer HP Omen",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebookgamerhpomen_8854445604579292",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/4037840936443683.jpg",
+    "creation_timestamp": 1728340108
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

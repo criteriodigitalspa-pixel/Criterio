@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Jhon Andrade"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jhon Andrade",
+      "timestamp_ms": 1748107682452,
+      "content": "Jhon envi\u00c3\u00b3 un archivo adjunto.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jhon Andrade",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/jhonandrade_122116832342271872",
+  "magic_words": [
+    
+  ]
+}

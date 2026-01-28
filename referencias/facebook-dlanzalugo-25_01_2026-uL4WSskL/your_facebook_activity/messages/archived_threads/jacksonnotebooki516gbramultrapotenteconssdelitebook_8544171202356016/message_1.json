@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Jackson Thys"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jackson Thys",
+      "timestamp_ms": 1738435199130,
+      "content": "Estoy interesado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jackson Thys",
+      "timestamp_ms": 1738435158758,
+      "content": "Es disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jackson Thys",
+      "timestamp_ms": 1738435158128,
+      "content": "Jackson inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jackson \u00c2\u00b7 Notebook i5 16GB RAM Ultra Potente con SSD ELITEBOOK",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/jacksonnotebooki516gbramultrapotenteconssdelitebook_8544171202356016",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

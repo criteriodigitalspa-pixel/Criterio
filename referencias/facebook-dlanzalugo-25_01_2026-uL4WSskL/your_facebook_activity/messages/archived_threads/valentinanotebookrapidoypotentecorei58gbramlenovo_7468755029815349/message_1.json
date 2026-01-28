@@ -1,0 +1,89 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Romanett Romanett"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703262878376,
+      "content": "Es usado, 110mil seria el precio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Romanett Romanett",
+      "timestamp_ms": 1703262808761,
+      "content": "Valor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Romanett Romanett",
+      "timestamp_ms": 1703262806858,
+      "content": "Esta nuevo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703262757287,
+      "content": "Hola buenas, si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Romanett Romanett",
+      "timestamp_ms": 1703261945455,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Romanett Romanett",
+      "timestamp_ms": 1703261941452,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Romanett Romanett",
+      "timestamp_ms": 1703261941133,
+      "content": "Romanett Romanett",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Romanett Romanett",
+      "timestamp_ms": 1703261939657,
+      "content": "Romanett cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Romanett Romanett",
+      "timestamp_ms": 1703261939196,
+      "content": "Romanett asign\u00c3\u00b3 al grupo el nombre \"Valentina \u00c2\u00b7 Notebook Rapido y Potente Core I5 8GB RAM Lenovo\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Valentina \u00c2\u00b7 Notebook Rapido y Potente Core I5 8GB RAM Lenovo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/valentinanotebookrapidoypotentecorei58gbramlenovo_7468755029815349",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/897630038300967.jpg",
+    "creation_timestamp": 1703261936
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

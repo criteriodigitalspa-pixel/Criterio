@@ -1,0 +1,110 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Cybertec Tecnologia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Cybertec Tecnologia",
+      "timestamp_ms": 1743191384415,
+      "content": "Cybertec marc\u00c3\u00b3 la publicaci\u00c3\u00b3n como Disponible.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cybertec Tecnologia",
+      "timestamp_ms": 1743191380420,
+      "content": "Cybertec vendi\u00c3\u00b3 Notebook ProBook i5 de 8va generacion.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cybertec Tecnologia",
+      "timestamp_ms": 1743191369584,
+      "content": "Cybertec marc\u00c3\u00b3 la publicaci\u00c3\u00b3n como Disponible.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cybertec Tecnologia",
+      "timestamp_ms": 1743162428218,
+      "content": "Cybertec marc\u00c3\u00b3 la publicaci\u00c3\u00b3n como Disponible.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cybertec Tecnologia",
+      "timestamp_ms": 1743162409058,
+      "content": "Cybertec vendi\u00c3\u00b3 Notebook ProBook i5 de 8va generacion.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cybertec Tecnologia",
+      "timestamp_ms": 1743162403453,
+      "content": "Cybertec marc\u00c3\u00b3 la publicaci\u00c3\u00b3n como Disponible.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cybertec Tecnologia",
+      "timestamp_ms": 1743104408963,
+      "content": "Cybertec vendi\u00c3\u00b3 Notebook ProBook i5 de 8va generacion.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743102884330,
+      "content": "Amigo entregaria en metro Macul?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cybertec Tecnologia",
+      "timestamp_ms": 1743102701280,
+      "content": "\u00c2\u00bfA\u00c3\u00ban te interesa? Responde a: Disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cybertec Tecnologia",
+      "timestamp_ms": 1743096231823,
+      "content": "Disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743087855374,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743087854896,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook ProBook i5 de 8va generacion",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebookprobooki5de8vageneracion_10001654039878665",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1445200486459734.jpg",
+    "creation_timestamp": 1743087849
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

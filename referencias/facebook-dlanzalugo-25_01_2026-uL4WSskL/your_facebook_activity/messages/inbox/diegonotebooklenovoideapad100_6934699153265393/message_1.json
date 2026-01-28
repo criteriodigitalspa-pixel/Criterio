@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Gonzalo Rodr\u00c3\u00adguez C\u00c3\u00a9spedes"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gonzalo Rodr\u00c3\u00adguez C\u00c3\u00a9spedes",
+      "timestamp_ms": 1709659292845,
+      "content": "Gonzalo elimin\u00c3\u00b3 el art\u00c3\u00adculo de Marketplace.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook Lenovo idea Pad 100",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebooklenovoideapad100_6934699153265393",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1326883217954408.jpg",
+    "creation_timestamp": 1702627519
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

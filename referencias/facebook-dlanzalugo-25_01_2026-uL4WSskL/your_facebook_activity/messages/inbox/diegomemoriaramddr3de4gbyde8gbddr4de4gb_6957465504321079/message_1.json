@@ -1,0 +1,115 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Juan Torres"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Juan Torres",
+      "timestamp_ms": 1703100890557,
+      "content": "Verla en mi domicilio pero si quiere comprar tendr\u00c3\u00ada que ir al metro Bueras es el que me queda m\u00c3\u00a1s Serca",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703100521713,
+      "content": "Que metro podria verla?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703100516121,
+      "content": "Donde entrega?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Torres",
+      "timestamp_ms": 1703100094200,
+      "content": "Son las \u00c3\u00baltimas dos que me quedan",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Torres",
+      "timestamp_ms": 1703100084863,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/diegomemoriaramddr3de4gbyde8gbddr4de4gb_6957465504321079/photos/261284166966305.jpg",
+          "creation_timestamp": 1703100084
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Torres",
+      "timestamp_ms": 1703100079412,
+      "content": "A 15 si llevas dos a 13 mil cada una",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703099782466,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703099781638,
+      "content": "Pc3 L de 8gb a cuanto(",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Torres",
+      "timestamp_ms": 1703099747139,
+      "content": "Si est\u00c3\u00a1 disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703099502231,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703099500258,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703099499985,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Memoria ram ddr3 de 4 GB y de 8 GB ddr4 de 4 GB\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Memoria ram ddr3 de 4 GB y de 8 GB ddr4 de 4 GB",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegomemoriaramddr3de4gbyde8gbddr4de4gb_6957465504321079",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/3567240023604989.jpg",
+    "creation_timestamp": 1703099498
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

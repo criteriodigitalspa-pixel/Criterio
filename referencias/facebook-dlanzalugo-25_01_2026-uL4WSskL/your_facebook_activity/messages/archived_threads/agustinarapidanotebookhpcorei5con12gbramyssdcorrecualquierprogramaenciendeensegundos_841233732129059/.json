@@ -1,0 +1,125 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Agustina Ponce"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Agustina Ponce",
+      "timestamp_ms": 1764651736204,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764527005477,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Agustina Ponce",
+      "timestamp_ms": 1764523061025,
+      "content": "Sisi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764522869534,
+      "content": "Podria enviartela ma\u00c3\u00b1ana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764522863793,
+      "content": "No puedo bro tengo el pc en mi trabajo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Agustina Ponce",
+      "timestamp_ms": 1764522853504,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/agustinarapidanotebookhpcorei5con12gbramyssdcorrecualquierprogramaenciendeensegundos_841233732129059/photos/723289830819899.jpg",
+          "creation_timestamp": 1764522853
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Agustina Ponce",
+      "timestamp_ms": 1764522850335,
+      "content": "Mire me env\u00c3\u00ada una foto as\u00c3\u00ad porfavor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764522775160,
+      "content": "Es un i5-6th con 12gb de ram, 250 SSDD windows 10pro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764522758521,
+      "content": "Si la ultima foto tiene la informacion de la ram y procesador",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764522739512,
+      "content": "Hola buenas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Agustina Ponce",
+      "timestamp_ms": 1764522125607,
+      "content": "Hola consulta , para verificar la informaci\u00c3\u00b3n de la descripci\u00c3\u00b3n podr\u00c3\u00adas ingresar al sistema para ver  mejor las especificaciones",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Agustina Ponce",
+      "timestamp_ms": 1764522118715,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Agustina Ponce",
+      "timestamp_ms": 1764522115621,
+      "content": "Holaa  buenas me interesa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Agustina Ponce",
+      "timestamp_ms": 1764522115454,
+      "content": "Agustina inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Agustina \u00c2\u00b7 Rapida Notebook HP core i5 con 12GB Ram y  SSD Corre cualquier programa ENCIENDE EN SEGUNDOS",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/agustinarapidanotebookhpcorei5con12gbramyssdcorrecualquierprogramaenciendeensegundos_841233732129059",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

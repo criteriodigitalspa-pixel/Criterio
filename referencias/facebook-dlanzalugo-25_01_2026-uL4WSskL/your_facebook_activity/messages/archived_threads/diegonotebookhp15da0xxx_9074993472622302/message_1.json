@@ -1,0 +1,258 @@
+{
+  "participants": [
+    {
+      "name": "Juan Novoa"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Juan Novoa",
+      "timestamp_ms": 1738601640886,
+      "content": "Juan vendi\u00c3\u00b3 Notebook hp 15-da0xxx.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Novoa",
+      "timestamp_ms": 1738601634139,
+      "content": "Juan marc\u00c3\u00b3 el art\u00c3\u00adculo como vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738601475608,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/diegonotebookhp15da0xxx_9074993472622302/photos/3774187186126622.jpg",
+          "creation_timestamp": 1738601474
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738600698710,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/diegonotebookhp15da0xxx_9074993472622302/photos/2230753307319674.jpg",
+          "creation_timestamp": 1738600697
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738600636474,
+      "content": "Vale te veo en torniquetes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Novoa",
+      "timestamp_ms": 1738600628125,
+      "content": "Entrando por l\u00c3\u00adnea 3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738600611163,
+      "content": "Llegaras por linea 5 o 3?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738600598838,
+      "content": "Ya estoy aca",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Novoa",
+      "timestamp_ms": 1738600191810,
+      "content": "Voy caminando para all\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738600178316,
+      "content": "Estoy a 3 estaciones",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Novoa",
+      "timestamp_ms": 1738599334733,
+      "content": "Listo, entonces en 10 minutos salgo para all\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738599243346,
+      "content": "Llego como en 25 min",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738599239519,
+      "content": "Bro voy de camino",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Novoa",
+      "timestamp_ms": 1738596784371,
+      "content": "Si me avisas cuando vayas en via qu\u00c3\u00a9 yo estoy a 10 minutos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738595667376,
+      "content": "Ya entinces a las 13.30 en estacion Irarrazabal",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738595589011,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Novoa",
+      "timestamp_ms": 1738595192812,
+      "content": "Si igual puedo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738595029018,
+      "content": "Vale a las 13.30 puedes en metro irarrazabal?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Novoa",
+      "timestamp_ms": 1738594878783,
+      "content": "Si, el original",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Novoa",
+      "timestamp_ms": 1738594874379,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Novoa",
+      "timestamp_ms": 1738594873409,
+      "content": "6 h aproximadamente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738593839622,
+      "content": "Tiene su cargador original?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738593824670,
+      "content": "Cuanto le dura la bateria?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Novoa",
+      "timestamp_ms": 1738593042072,
+      "content": "Hoy puedo al mediod\u00c3\u00ada a las 13 h",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738593006233,
+      "content": "Cuando puedes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738592998627,
+      "content": "Aah mejor aun me queda mas cerca",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Novoa",
+      "timestamp_ms": 1738592971501,
+      "content": "No, entrego en metro irarrazabal",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738591823675,
+      "content": "Estimado entregaria en metro macul?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Novoa",
+      "timestamp_ms": 1738591544737,
+      "content": "Hola\nSi disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738591077706,
+      "content": "Hola, Juan. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738591077539,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook hp 15-da0xxx",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebookhp15da0xxx_9074993472622302",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/2139614946455910.jpg",
+    "creation_timestamp": 1738591074
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Angus Young"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Angus Young",
+      "timestamp_ms": 1709338265508,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angus Young",
+      "timestamp_ms": 1709338260943,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angus Young",
+      "timestamp_ms": 1709338260679,
+      "content": "Angus Young",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angus Young",
+      "timestamp_ms": 1709338258430,
+      "content": "Angus cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angus Young",
+      "timestamp_ms": 1709338258076,
+      "content": "Angus asign\u00c3\u00b3 al grupo el nombre \"Angus \u00c2\u00b7 Notebook HP i7 SSDD 500gb 8GB RAM con Detalle\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Angus \u00c2\u00b7 Notebook HP i7 SSDD 500gb 8GB RAM con Detalle",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/angusnotebookhpi7ssdd500gb8gbramcondetalle_7232099056881510",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1425305905027474.jpg",
+    "creation_timestamp": 1709338255
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

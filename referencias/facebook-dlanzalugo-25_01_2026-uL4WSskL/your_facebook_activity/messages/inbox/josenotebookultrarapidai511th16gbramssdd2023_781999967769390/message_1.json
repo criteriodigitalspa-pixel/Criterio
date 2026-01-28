@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Jose Barrera"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756869761623,
+      "content": "Hola Jose, gracias por tu oferta.\n\nLa verdad es que el precio ya est\u00c3\u00a1 s\u00c3\u00baper ajustado para ser un i5 de 11th con SSD, es una m\u00c3\u00a1quina muy r\u00c3\u00a1pida y potente. Por 200 es imposible dejarla ir.\n\nMira, para que te animes y cerremos un buen trato para ambos, no te puedo bajar el precio, pero te lo entrego con un estuche de regalo. As\u00c3\u00ad te llevas el pack completo listo para usar por los $240.000.\n\nTe parece justo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Barrera",
+      "timestamp_ms": 1756869094648,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Barrera",
+      "timestamp_ms": 1756869092692,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?200",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Barrera",
+      "timestamp_ms": 1756869092445,
+      "content": "Jose inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jose \u00c2\u00b7 Notebook Ultra Rapida i5-11th // 16GB RAM // SSDD // 2023",
+  "is_still_participant": true,
+  "thread_path": "inbox/josenotebookultrarapidai511th16gbramssdd2023_781999967769390",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

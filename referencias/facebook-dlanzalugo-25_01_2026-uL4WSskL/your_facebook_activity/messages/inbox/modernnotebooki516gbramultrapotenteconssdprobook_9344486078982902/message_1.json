@@ -1,0 +1,90 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Modern Lag"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743725342332,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/modernnotebooki516gbramultrapotenteconssdprobook_9344486078982902/photos/669572725471326.jpg",
+          "creation_timestamp": 1743725342
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Modern Lag",
+      "timestamp_ms": 1743717978764,
+      "content": "Lo quiero para crearle m\u00c3\u00a1quinas virtuales y necesito una m\u00c3\u00a1quina potente para eso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Modern Lag",
+      "timestamp_ms": 1743717962613,
+      "content": "Vale, puedes enviarme una foto de sus especificaciones?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743717925023,
+      "content": "Acepto minimo 170mil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743717918857,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme al metro, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743717918014,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Modern Lag",
+      "timestamp_ms": 1743717606380,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Modern Lag",
+      "timestamp_ms": 1743717600360,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?, est\u00c3\u00a1s abierto a negociaciones?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Modern Lag",
+      "timestamp_ms": 1743717600185,
+      "content": "Modern inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Modern \u00c2\u00b7 Notebook i5 16GB RAM Ultra Potente con SSD PROBOOK",
+  "is_still_participant": true,
+  "thread_path": "inbox/modernnotebooki516gbramultrapotenteconssdprobook_9344486078982902",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

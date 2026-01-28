@@ -1,0 +1,140 @@
+{
+  "participants": [
+    {
+      "name": "Jos\u00c3\u00a9 Valenzuela"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jos\u00c3\u00a9 Valenzuela",
+      "timestamp_ms": 1769098681423,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/josenotebookelitebookhp12gbramsuperpotentei5ssdd_2057287741752439/photos/1677350316615634.jpg",
+          "creation_timestamp": 1769098680
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jos\u00c3\u00a9 Valenzuela",
+      "timestamp_ms": 1769098671522,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/josenotebookelitebookhp12gbramsuperpotentei5ssdd_2057287741752439/photos/1184589353742449.jpg",
+          "creation_timestamp": 1769098670
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jos\u00c3\u00a9 Valenzuela",
+      "timestamp_ms": 1769098589169,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/josenotebookelitebookhp12gbramsuperpotentei5ssdd_2057287741752439/photos/2749685325392231.jpg",
+          "creation_timestamp": 1769098587
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jos\u00c3\u00a9 Valenzuela",
+      "timestamp_ms": 1769098581093,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/josenotebookelitebookhp12gbramsuperpotentei5ssdd_2057287741752439/photos/883922594019522.jpg",
+          "creation_timestamp": 1769098579
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jos\u00c3\u00a9 Valenzuela",
+      "timestamp_ms": 1769098563395,
+      "content": "Estoy buscando algo similar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jos\u00c3\u00a9 Valenzuela",
+      "timestamp_ms": 1769096521617,
+      "content": "Estoy en Maip\u00c3\u00ba",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1769091725317,
+      "content": "Hola soy de la comuna de la florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jos\u00c3\u00a9 Valenzuela",
+      "timestamp_ms": 1769091586560,
+      "content": "Buen d\u00c3\u00ada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jos\u00c3\u00a9 Valenzuela",
+      "timestamp_ms": 1769091584583,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jos\u00c3\u00a9 Valenzuela",
+      "timestamp_ms": 1769091579798,
+      "content": "De d\u00c3\u00b3nde eres?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1769077603114,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jos\u00c3\u00a9 Valenzuela",
+      "timestamp_ms": 1769059769055,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jos\u00c3\u00a9 Valenzuela",
+      "timestamp_ms": 1769059764111,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jos\u00c3\u00a9 Valenzuela",
+      "timestamp_ms": 1769059763800,
+      "content": "Jos\u00c3\u00a9 inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jos\u00c3\u00a9 \u00c2\u00b7 Notebook Elitebook HP 12GB RAM Super Potente/ I5 / SSDD /",
+  "is_still_participant": true,
+  "thread_path": "inbox/josenotebookelitebookhp12gbramsuperpotentei5ssdd_2057287741752439",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

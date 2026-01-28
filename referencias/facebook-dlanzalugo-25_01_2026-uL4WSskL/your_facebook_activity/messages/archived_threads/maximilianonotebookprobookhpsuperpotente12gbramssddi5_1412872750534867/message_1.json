@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Maximiliano Morales"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767561305133,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maximiliano Morales",
+      "timestamp_ms": 1767435526752,
+      "content": "Maximiliano est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maximiliano Morales",
+      "timestamp_ms": 1767413781419,
+      "content": "Maximiliano Morales te envi\u00c3\u00b3 un mensaje sobre tu publicaci\u00c3\u00b3n: Notebook Probook HP  Super Potente/ 12GB RAM / SSDD / i5.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maximiliano Morales",
+      "timestamp_ms": 1767413777946,
+      "content": "Permutas? tengo un iphone como nuevo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maximiliano Morales",
+      "timestamp_ms": 1767413777786,
+      "content": "Maximiliano inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Maximiliano \u00c2\u00b7 Notebook Probook HP  Super Potente/ 12GB RAM / SSDD / i5",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/maximilianonotebookprobookhpsuperpotente12gbramssddi5_1412872750534867",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Hernandez Hernandez Gutierrez"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732072590829,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732072588240,
+      "content": "Hola Si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hernandez Hernandez Gutierrez",
+      "timestamp_ms": 1732071531810,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hernandez Hernandez Gutierrez",
+      "timestamp_ms": 1732071527158,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hernandez Hernandez Gutierrez",
+      "timestamp_ms": 1732071526811,
+      "content": "Hernandez Hernandez Gutierrez",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hernandez Hernandez Gutierrez",
+      "timestamp_ms": 1732071523951,
+      "content": "Hernandez asign\u00c3\u00b3 al grupo el nombre \"Hernandez \u00c2\u00b7 Potente Notebook Ultra Rapida i5 16GB RAM  Enciende en 6 Segundos SSD\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hernandez Hernandez Gutierrez",
+      "timestamp_ms": 1732071523951,
+      "content": "Hernandez cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Hernandez \u00c2\u00b7 Potente Notebook Ultra Rapida i5 16GB RAM  Enciende en 6 Segundos SSD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/hernandezpotentenotebookultrarapidai516gbramenciendeen6segundosssd_9134348313284363",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

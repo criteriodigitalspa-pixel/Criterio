@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Florcitaunik Mejias Mu\u00c3\u00b1oz"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730468432614,
+      "content": "Ver publicaciones similares",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Florcitaunik Mejias Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1730377850758,
+      "content": "Florcitaunik est\u00c3\u00a1 esperando tu respuesta sobre esta publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Florcitaunik Mejias Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1730340112276,
+      "content": "Florcitaunik rechaz\u00c3\u00b3 tu oferta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730338828575,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730338827452,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Notebook hp\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730338827452,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook hp",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebookhp_27306089222371737",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/481879521563694.jpg",
+    "creation_timestamp": 1730338826
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "participants": [
+    {
+      "name": "Nelson Vidal"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nelson Vidal",
+      "timestamp_ms": 1741178626731,
+      "content": "+56944011720 nelson",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nelson Vidal",
+      "timestamp_ms": 1741178616806,
+      "content": "Hola buen d\u00c3\u00ada te dej\u00c3\u00b3 mi whattsap",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nelson Vidal",
+      "timestamp_ms": 1741144164216,
+      "content": "Te confirmo en la ma\u00c3\u00b1ana gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741143063479,
+      "content": "De los i5-10 tengo varios del mismo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741143048393,
+      "content": "Necesitas 3?\nLos i7 de 8th puedo dejarlos en 200, y los i5-10th en 190mil c/u, pensando en que te lleves 3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nelson Vidal",
+      "timestamp_ms": 1741140662712,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/nelsonnotebooki711th12gbramultrapotenteprobook2023_9465848236807390/photos/1347656713082445.jpg",
+          "creation_timestamp": 1741140662
+        },
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/nelsonnotebooki711th12gbramultrapotenteprobook2023_9465848236807390/photos/619628540932044.jpg",
+          "creation_timestamp": 1741140662
+        },
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/nelsonnotebooki711th12gbramultrapotenteprobook2023_9465848236807390/photos/1016628050370624.jpg",
+          "creation_timestamp": 1741140662
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nelson Vidal",
+      "timestamp_ms": 1741140659695,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/nelsonnotebooki711th12gbramultrapotenteprobook2023_9465848236807390/photos/663098416278932.jpg",
+          "creation_timestamp": 1741140659
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nelson Vidal",
+      "timestamp_ms": 1741140348968,
+      "content": "Perfecto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741139319502,
+      "content": "Revise mi perfil me dice que tres me interesan",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741139303862,
+      "content": "Si claro pero no tengo 3 del mismo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741139007819,
+      "content": "Hola amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nelson Vidal",
+      "timestamp_ms": 1741137246475,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nelson Vidal",
+      "timestamp_ms": 1741137241049,
+      "content": "Hola Diego si te compro unos 3 me das mejor precio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nelson Vidal",
+      "timestamp_ms": 1741137240716,
+      "content": "Nelson inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nelson \u00c2\u00b7 Notebook i7-11Th / 12GB RAM Ultra Potente / Probook/ 2023",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/nelsonnotebooki711th12gbramultrapotenteprobook2023_9465848236807390",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

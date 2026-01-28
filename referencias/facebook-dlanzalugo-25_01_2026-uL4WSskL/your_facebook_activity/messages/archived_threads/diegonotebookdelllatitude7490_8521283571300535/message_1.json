@@ -1,0 +1,79 @@
+{
+  "participants": [
+    {
+      "name": "Sandro Serrano"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729424815825,
+      "content": "Abandonaste el grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729348756834,
+      "content": "Se la pago en efectivo o transferencia lo que prefiera",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729348742244,
+      "content": "Vale, si se pudiese acercar al metro le compro las 2",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sandro Serrano",
+      "timestamp_ms": 1729348430831,
+      "content": "Entrego en mi domicilio gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729348315233,
+      "content": "Compa buen dia, puedo pasar al tiro a buscarlo, que metro te queda cerca?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729348285939,
+      "content": "Buenos d\u00c3\u00adas. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729348283437,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Notebook Dell latitude 7490\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729348283437,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook Dell latitude 7490",
+  "is_still_participant": false,
+  "thread_path": "archived_threads/diegonotebookdelllatitude7490_8521283571300535",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/4195478797358793.jpg",
+    "creation_timestamp": 1729348282
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

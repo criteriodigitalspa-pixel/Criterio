@@ -1,0 +1,143 @@
+{
+  "participants": [
+    {
+      "name": "JAck FlAsh"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "JAck FlAsh",
+      "timestamp_ms": 1738355719594,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738355255845,
+      "content": "Gracias igual",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738355248568,
+      "content": "Aah vale amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "JAck FlAsh",
+      "timestamp_ms": 1738355149944,
+      "content": "Que est\u00c3\u00a1 al lado de metro rojas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "JAck FlAsh",
+      "timestamp_ms": 1738355133953,
+      "content": "Solo entrego en la recepci\u00c3\u00b3n de mi edificio compa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "JAck FlAsh",
+      "timestamp_ms": 1738355123022,
+      "content": "Hola compa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738354997352,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738337356890,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738337355760,
+      "content": "Podria ser en metro Maculm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738337350732,
+      "content": "Hola amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "JAck FlAsh",
+      "timestamp_ms": 1738289368610,
+      "content": "\u00c2\u00bfA\u00c3\u00ban te interesa? Responde a: Se puede ver y revisar en metro rojas magallanes, La Florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "JAck FlAsh",
+      "timestamp_ms": 1738279273866,
+      "content": "Se puede ver y revisar en metro rojas magallanes, La Florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "JAck FlAsh",
+      "timestamp_ms": 1738279250537,
+      "content": "Buenas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "JAck FlAsh",
+      "timestamp_ms": 1738279248086,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "JAck FlAsh",
+      "timestamp_ms": 1738279237915,
+      "content": "JAck acept\u00c3\u00b3 tu oferta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738038052394,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook HP I5",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebookhpi5_8805924826184062",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1295180275057907.jpg",
+    "creation_timestamp": 1738038049
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

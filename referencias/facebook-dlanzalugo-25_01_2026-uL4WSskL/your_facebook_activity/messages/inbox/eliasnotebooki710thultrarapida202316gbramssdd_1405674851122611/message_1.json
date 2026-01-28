@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "El\u00c3\u00adas DS"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "El\u00c3\u00adas DS",
+      "timestamp_ms": 1763631061369,
+      "content": "El\u00c3\u00adas est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "El\u00c3\u00adas DS",
+      "timestamp_ms": 1763602227997,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "El\u00c3\u00adas DS",
+      "timestamp_ms": 1763602225701,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "El\u00c3\u00adas DS",
+      "timestamp_ms": 1763602225262,
+      "content": "El\u00c3\u00adas inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "El\u00c3\u00adas \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "inbox/eliasnotebooki710thultrarapida202316gbramssdd_1405674851122611",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

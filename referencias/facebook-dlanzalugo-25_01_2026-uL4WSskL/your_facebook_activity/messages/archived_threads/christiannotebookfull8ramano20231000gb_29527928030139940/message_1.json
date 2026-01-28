@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Christian Mena Ramirez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Christian Mena Ramirez",
+      "timestamp_ms": 1740648358733,
+      "content": "Christian est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Christian Mena Ramirez",
+      "timestamp_ms": 1740626636673,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Christian Mena Ramirez",
+      "timestamp_ms": 1740626633021,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Christian Mena Ramirez",
+      "timestamp_ms": 1740626632762,
+      "content": "Christian inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Christian \u00c2\u00b7 Notebook Full / 8 RAM / a\u00c3\u00b1o 2023 / 1000GB",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/christiannotebookfull8ramano20231000gb_29527928030139940",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Tom\u00c3\u00a1s Pe\u00c3\u00b1a"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tom\u00c3\u00a1s Pe\u00c3\u00b1a",
+      "timestamp_ms": 1769188365302,
+      "content": "Tom\u00c3\u00a1s Pe\u00c3\u00b1a te envi\u00c3\u00b3 un mensaje sobre tu publicaci\u00c3\u00b3n: Notebook Elitebook HP 12GB RAM Super Potente/ I5 / SSDD /.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tom\u00c3\u00a1s Pe\u00c3\u00b1a",
+      "timestamp_ms": 1769188360753,
+      "content": "Hola buenas, de casualidad permutas por una bicicleta pistera?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tom\u00c3\u00a1s Pe\u00c3\u00b1a",
+      "timestamp_ms": 1769188360479,
+      "content": "Tom\u00c3\u00a1s inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Tom\u00c3\u00a1s \u00c2\u00b7 Notebook Elitebook HP 12GB RAM Super Potente/ I5 / SSDD /",
+  "is_still_participant": true,
+  "thread_path": "inbox/tomasnotebookelitebookhp12gbramsuperpotentei5ssdd_1982826255599436",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

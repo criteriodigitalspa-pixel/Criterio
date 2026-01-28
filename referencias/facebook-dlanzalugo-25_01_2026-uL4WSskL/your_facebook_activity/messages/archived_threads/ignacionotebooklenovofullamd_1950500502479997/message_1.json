@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Ignacio Acu\u00c3\u00b1a Moreno"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765984418817,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ignacio Acu\u00c3\u00b1a Moreno",
+      "timestamp_ms": 1765791954101,
+      "content": "Ignacio est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ignacio Acu\u00c3\u00b1a Moreno",
+      "timestamp_ms": 1765761412463,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ignacio Acu\u00c3\u00b1a Moreno",
+      "timestamp_ms": 1765761409822,
+      "content": "\u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ignacio Acu\u00c3\u00b1a Moreno",
+      "timestamp_ms": 1765761409474,
+      "content": "Ignacio inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ignacio \u00c2\u00b7 Notebook Lenovo Full AMD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/ignacionotebooklenovofullamd_1950500502479997",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

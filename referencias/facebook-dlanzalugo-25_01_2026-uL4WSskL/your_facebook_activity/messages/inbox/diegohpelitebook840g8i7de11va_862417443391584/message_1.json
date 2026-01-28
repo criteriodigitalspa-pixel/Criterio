@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Hector O Bozo"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765512892894,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 HP Elitebook 840 g8 i7 de 11va ",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegohpelitebook840g8i7de11va_862417443391584",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1533675914416811.jpg",
+    "creation_timestamp": 1765512887
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

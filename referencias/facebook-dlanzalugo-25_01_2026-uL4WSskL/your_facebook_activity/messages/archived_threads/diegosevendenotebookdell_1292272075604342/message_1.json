@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Bryan Manr\u00c3\u00adquez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bryan Manr\u00c3\u00adquez",
+      "timestamp_ms": 1757109095093,
+      "content": "Bryan vendi\u00c3\u00b3 Se Vende Notebook Dell.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757084727484,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757084727280,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Se Vende Notebook Dell",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegosevendenotebookdell_1292272075604342",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/2287805065002801.jpg",
+    "creation_timestamp": 1757084725
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Alejandra BM"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alejandra BM",
+      "timestamp_ms": 1706456004127,
+      "content": "Alejandra vendi\u00c3\u00b3 notebook.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703933036455,
+      "content": "Publicaciones similares a \"notebook\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703803434393,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703803432177,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703803431792,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 notebook\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 notebook",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebook_6738006156308495",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1748948925591423.jpg",
+    "creation_timestamp": 1703803429
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "participants": [
+    {
+      "name": "Romer Alfonso Monsalve"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759441595112,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Romer Alfonso Monsalve",
+      "timestamp_ms": 1757208715064,
+      "content": "Me mud\u00c3\u00a9 pero cerquita",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Romer Alfonso Monsalve",
+      "timestamp_ms": 1757208710273,
+      "content": "Romer reaccion\u00c3\u00b3 \u00e2\u009d\u00a4 a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Romer Alfonso Monsalve",
+      "timestamp_ms": 1757208708784,
+      "content": "Hablame bro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757200145928,
+      "content": "Sigues en el mismo depa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757200139017,
+      "content": "Para el prox tatuaje te llevo el notebook",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Romer Alfonso Monsalve"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757200126611,
+      "content": "Jajajaja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757200119618,
+      "content": "Buenaaa Romer todo bien?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Romer Alfonso Monsalve",
+      "timestamp_ms": 1757199361165,
+      "content": "Romer est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Romer Alfonso Monsalve",
+      "timestamp_ms": 1757175985694,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Romer Alfonso Monsalve",
+      "timestamp_ms": 1757175980293,
+      "content": "Hola! Me interes\u00c3\u00b3 tu publicaci\u00c3\u00b3n y quer\u00c3\u00ada preguntarte si estar\u00c3\u00adas abierto/a a una permuta. Soy tatuador con a\u00c3\u00b1os de experiencia y tengo mi trabajo en Instagram (@romertatuajes). Me gustar\u00c3\u00ada intercambiar un tatuaje por tu producto, adapt\u00c3\u00a1ndonos al valor del mismo. Si te interesa, dime y coordinamos los detalles. \u00c2\u00a1Quedo atento!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Romer Alfonso Monsalve",
+      "timestamp_ms": 1757175979867,
+      "content": "Romer inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Romer \u00c2\u00b7 Notebook HP / MultiTarea Muy Rapido / 12GB RAM / SSDD / 2023",
+  "is_still_participant": true,
+  "thread_path": "inbox/romernotebookhpmultitareamuyrapido12gbramssdd2023_2250928982002420",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

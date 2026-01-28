@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Francisca Alo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Francisca Alo",
+      "timestamp_ms": 1728873830496,
+      "content": "Alo baj\u00c3\u00b3 el precio de Notebook HP Core i3-10110U CPU, 4Gb RAM a $80.000.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728393987546,
+      "content": "Amigo la bateria esta buena?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisca Alo",
+      "timestamp_ms": 1728392096196,
+      "content": "disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisca Alo",
+      "timestamp_ms": 1728392094359,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728391342900,
+      "content": "Hola, disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728340031481,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728340029894,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Notebook HP Core i3-10110U CPU, 4Gb RAM\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728340029894,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook HP Core i3-10110U CPU, 4Gb RAM",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebookhpcorei310110ucpu4gbram_8387086971377104",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/437201225617543.jpg",
+    "creation_timestamp": 1728340028
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Niko Santiago"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703297819538,
+      "content": "Buenas, si sigue disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Niko Santiago",
+      "timestamp_ms": 1703296384135,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Niko Santiago",
+      "timestamp_ms": 1703296379352,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Niko Santiago",
+      "timestamp_ms": 1703296379131,
+      "content": "Niko Santiago",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Niko Santiago",
+      "timestamp_ms": 1703296377850,
+      "content": "Niko cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Niko Santiago",
+      "timestamp_ms": 1703296377401,
+      "content": "Niko asign\u00c3\u00b3 al grupo el nombre \"Niko \u00c2\u00b7 Notebook Core i5, 12GB Ram Muy potente y rapido, thinkpad\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Niko \u00c2\u00b7 Notebook Core i5, 12GB Ram Muy potente y rapido, thinkpad",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/nikonotebookcorei512gbrammuypotenteyrapidothinkpad_7271374912928597",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/728769932248923.jpg",
+    "creation_timestamp": 1703296375
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

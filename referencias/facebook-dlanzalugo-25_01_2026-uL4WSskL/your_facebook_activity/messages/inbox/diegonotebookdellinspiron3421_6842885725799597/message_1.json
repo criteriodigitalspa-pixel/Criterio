@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Jonatthan Medalla"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jonatthan Medalla",
+      "timestamp_ms": 1708110384700,
+      "content": "Jonatthan elimin\u00c3\u00b3 el art\u00c3\u00adculo de Marketplace.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook Dell Inspiron 3421",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebookdellinspiron3421_6842885725799597",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/3633649353572763.jpg",
+    "creation_timestamp": 1702553201
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

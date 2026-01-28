@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Alexander Sevein"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alexander Sevein",
+      "timestamp_ms": 1715188487393,
+      "content": "Alexander vendi\u00c3\u00b3 Notebook core i5.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook core i5",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebookcorei5_7563830610313465",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/381773250986962.jpg",
+    "creation_timestamp": 1702627413
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

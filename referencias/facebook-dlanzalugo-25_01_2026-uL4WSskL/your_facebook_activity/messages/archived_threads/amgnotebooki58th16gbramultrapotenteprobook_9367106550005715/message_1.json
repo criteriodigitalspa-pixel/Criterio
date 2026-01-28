@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Amg Parts"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743067915408,
+      "content": "180mil amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743067909222,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Amg Parts",
+      "timestamp_ms": 1743050417478,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Amg Parts",
+      "timestamp_ms": 1743050413356,
+      "content": "Hola , en cuanto lo dejas mi bro en efectivo ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Amg Parts",
+      "timestamp_ms": 1743050413109,
+      "content": "Amg inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Amg \u00c2\u00b7 Notebook i5-8Th / 16GB RAM Ultra Potente / Probook",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/amgnotebooki58th16gbramultrapotenteprobook_9367106550005715",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

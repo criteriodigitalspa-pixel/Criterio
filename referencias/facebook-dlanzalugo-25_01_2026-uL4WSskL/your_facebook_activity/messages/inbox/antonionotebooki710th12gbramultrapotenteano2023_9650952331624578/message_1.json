@@ -1,0 +1,83 @@
+{
+  "participants": [
+    {
+      "name": "Antonio Mu\u00c3\u00b1oz Alvarez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1746035723216,
+      "content": "Vale estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1746035718664,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Antonio Mu\u00c3\u00b1oz Alvarez",
+      "timestamp_ms": 1746032912029,
+      "content": "Para ver si est\u00c3\u00a1 disponible para despu\u00c3\u00a9s",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Antonio Mu\u00c3\u00b1oz Alvarez",
+      "timestamp_ms": 1746032898270,
+      "content": "Muchas gracias, guardar\u00c3\u00a9 el post",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1746029819776,
+      "content": "Hola estimado, la tarjeta es integrada, usa 6gb de ram",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Antonio Mu\u00c3\u00b1oz Alvarez",
+      "timestamp_ms": 1746029275633,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Antonio Mu\u00c3\u00b1oz Alvarez",
+      "timestamp_ms": 1746029269801,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible? Consulta la tarjeta de video de cuando es?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Antonio Mu\u00c3\u00b1oz Alvarez",
+      "timestamp_ms": 1746029269526,
+      "content": "Antonio inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Antonio \u00c2\u00b7 Notebook i7-10Th / 12GB RAM Ultra Potente // a\u00c3\u00b1o 2023",
+  "is_still_participant": true,
+  "thread_path": "inbox/antonionotebooki710th12gbramultrapotenteano2023_9650952331624578",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Tania Mayerli Munoz"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729603074399,
+      "content": "Gola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tania Mayerli Munoz",
+      "timestamp_ms": 1729602431316,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tania Mayerli Munoz",
+      "timestamp_ms": 1729602426920,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tania Mayerli Munoz",
+      "timestamp_ms": 1729602426531,
+      "content": "Tania Mayerli Munoz",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tania Mayerli Munoz",
+      "timestamp_ms": 1729602423784,
+      "content": "Tania Mayerli asign\u00c3\u00b3 al grupo el nombre \"Maria Lopez \u00c2\u00b7 Notebook HP AMD - \u00c2\u00a1lmpecable! Oferta \u00c3\u00banica\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tania Mayerli Munoz",
+      "timestamp_ms": 1729602423784,
+      "content": "Tania Mayerli cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Maria Lopez \u00c2\u00b7 Notebook HP AMD - \u00c2\u00a1lmpecable! Oferta \u00c3\u00banica",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/marialopeznotebookhpamdlmpecableofertaunica_8569566726456335",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

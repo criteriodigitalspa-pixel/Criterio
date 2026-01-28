@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Nik Concha"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718986731954,
+      "content": "Buenas tardes, le interese el equipo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718715637452,
+      "content": "12.5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718715629329,
+      "content": "Hola si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nik Concha",
+      "timestamp_ms": 1718706712831,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nik Concha",
+      "timestamp_ms": 1718706707565,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible? \u00c2\u00bfDe cuantas pulgadas es la pantalla?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nik Concha",
+      "timestamp_ms": 1718706707154,
+      "content": "Nik Concha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nik Concha",
+      "timestamp_ms": 1718706704522,
+      "content": "Nik cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nik Concha",
+      "timestamp_ms": 1718706704300,
+      "content": "Nik asign\u00c3\u00b3 al grupo el nombre \"Nikolas \u00c2\u00b7 Notebook i5 Dell Rapida 8Ram y SSD\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nikolas \u00c2\u00b7 Notebook i5 Dell Rapida 8Ram y SSD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/nikolasnotebooki5dellrapida8ramyssd_7722516477804464",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/778423887439567.jpg",
+    "creation_timestamp": 1718706702
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

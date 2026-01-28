@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Eduardo Odoniano"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Eduardo Odoniano",
+      "timestamp_ms": 1764764788752,
+      "content": "Eduardo vendi\u00c3\u00b3 Laptop Lenovo ThinkPad T470s Intel i7.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eduardo Odoniano",
+      "timestamp_ms": 1764764788134,
+      "content": "Eduardo vendi\u00c3\u00b3 Laptop Lenovo ThinkPad T470s Intel i7.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764729799501,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764729799404,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Laptop Lenovo ThinkPad T470s Intel i7",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegolaptoplenovothinkpadt470sinteli7_4283206868631453",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1378330697269606.jpg",
+    "creation_timestamp": 1764729796
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

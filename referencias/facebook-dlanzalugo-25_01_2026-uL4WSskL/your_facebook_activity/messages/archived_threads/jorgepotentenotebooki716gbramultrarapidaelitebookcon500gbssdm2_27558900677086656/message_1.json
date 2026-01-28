@@ -1,0 +1,207 @@
+{
+  "participants": [
+    {
+      "name": "Jorge Mauricio Vered"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jorge Mauricio Vered",
+      "timestamp_ms": 1732127832166,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732127564218,
+      "content": "Dale amigo, te aviso si lo vendo antes igual que tengo varios interesados",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Mauricio Vered",
+      "timestamp_ms": 1732127519151,
+      "content": "Bueno, me va a quedar lejos de d\u00c3\u00b3nde yo voy, despu\u00c3\u00a9s te aviso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732127477470,
+      "content": "Si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732127470277,
+      "content": "Justamente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Mauricio Vered",
+      "timestamp_ms": 1732127464231,
+      "content": "Ah\u00c3\u00ad?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Mauricio Vered",
+      "timestamp_ms": 1732127457938,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/jorgepotentenotebooki716gbramultrarapidaelitebookcon500gbssdm2_27558900677086656/photos/485566017864208.jpg",
+          "creation_timestamp": 1732127457
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732127246758,
+      "content": "La direccion es lago pirihueico 6502, la florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732127232265,
+      "content": "Claro sin problema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Mauricio Vered",
+      "timestamp_ms": 1732127215505,
+      "content": "Claro, por eso digo 230 mil chilenos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732127193696,
+      "content": "No amigo dolares no, si gusta pasa por casa de cambio y lo cambia a pesos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Mauricio Vered",
+      "timestamp_ms": 1732127173398,
+      "content": "Me puedes mandar la ubicaci\u00c3\u00b3n?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Mauricio Vered",
+      "timestamp_ms": 1732127149108,
+      "content": "230 entonces",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Mauricio Vered",
+      "timestamp_ms": 1732127139637,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Mauricio Vered",
+      "timestamp_ms": 1732127137651,
+      "content": "Soy de argentina y estoy por viajar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732127129337,
+      "content": "Solo pesos estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Mauricio Vered",
+      "timestamp_ms": 1732127118418,
+      "content": "Y cu\u00c3\u00a1nto en d\u00c3\u00b3lares?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732127103080,
+      "content": "No amigo gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Mauricio Vered",
+      "timestamp_ms": 1732127027738,
+      "content": "Te sirven 200 d\u00c3\u00b3lares en efectivo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732123459567,
+      "content": "Hola Si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Mauricio Vered",
+      "timestamp_ms": 1732123410290,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Mauricio Vered",
+      "timestamp_ms": 1732123406942,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Mauricio Vered",
+      "timestamp_ms": 1732123406604,
+      "content": "Jorge Mauricio Vered",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Mauricio Vered",
+      "timestamp_ms": 1732123404161,
+      "content": "Jorge asign\u00c3\u00b3 al grupo el nombre \"Jorge \u00c2\u00b7 Potente Notebook i7 16GB RAM Ultra Rapida Elitebook con 500GB SSD M2\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Mauricio Vered",
+      "timestamp_ms": 1732123404161,
+      "content": "Jorge cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jorge \u00c2\u00b7 Potente Notebook i7 16GB RAM Ultra Rapida Elitebook con 500GB SSD M2",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/jorgepotentenotebooki716gbramultrarapidaelitebookcon500gbssdm2_27558900677086656",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

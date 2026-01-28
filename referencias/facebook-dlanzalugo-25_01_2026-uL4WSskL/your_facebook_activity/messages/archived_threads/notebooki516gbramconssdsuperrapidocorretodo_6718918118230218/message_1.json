@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Kristhian Gil"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703430509147,
+      "content": "Buenas cuentame, le intereso?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703363583834,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kristhian Gil",
+      "timestamp_ms": 1703354747473,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kristhian Gil",
+      "timestamp_ms": 1703354743789,
+      "content": "Buenas tardes. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kristhian Gil",
+      "timestamp_ms": 1703354743540,
+      "content": "Kristhian Gil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kristhian Gil",
+      "timestamp_ms": 1703354741715,
+      "content": "Kristhian cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kristhian Gil",
+      "timestamp_ms": 1703354741365,
+      "content": "Kristhian asign\u00c3\u00b3 al grupo el nombre \"\u00e1\u008a\u00ad\u00e1\u0088\u00ad\u00e1\u0088\u00b5\u00e1\u0089\u00b2\u00e1\u008b\u00ab\u00e1\u008a\u0095 \u00c2\u00b7 Notebook i5 16gb Ram con SSD, super rapido, corre todo\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00e1\u008a\u00ad\u00e1\u0088\u00ad\u00e1\u0088\u00b5\u00e1\u0089\u00b2\u00e1\u008b\u00ab\u00e1\u008a\u0095 \u00c2\u00b7 Notebook i5 16gb Ram con SSD, super rapido, corre todo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/notebooki516gbramconssdsuperrapidocorretodo_6718918118230218",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/917021989465399.jpg",
+    "creation_timestamp": 1703354739
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

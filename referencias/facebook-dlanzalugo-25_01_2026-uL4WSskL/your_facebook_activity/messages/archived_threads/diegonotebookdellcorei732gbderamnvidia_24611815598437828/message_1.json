@@ -1,0 +1,289 @@
+{
+  "participants": [
+    {
+      "name": "Alonso Salas"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alonso Salas",
+      "timestamp_ms": 1753491026291,
+      "content": "Alonso vendi\u00c3\u00b3 Notebook DELL - core I7 - 32GB de Ram - NVIDIA.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alonso Salas",
+      "timestamp_ms": 1753491023757,
+      "content": "Alonso marc\u00c3\u00b3 el art\u00c3\u00adculo como vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alonso Salas",
+      "timestamp_ms": 1753446031120,
+      "content": "Alonso reaccion\u00c3\u00b3 \u00f0\u009f\u0091\u008d a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753445788489,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/diegonotebookdellcorei732gbderamnvidia_24611815598437828/photos/1087696419470602.jpg",
+          "creation_timestamp": 1753445787
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Alonso Salas"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alonso Salas",
+      "timestamp_ms": 1753444068354,
+      "content": "+56932060961",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alonso Salas",
+      "timestamp_ms": 1753444058633,
+      "content": "Te dejo mi numero cualquier cosa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alonso Salas",
+      "timestamp_ms": 1753444038387,
+      "content": "Estoy despierto asi que te puedo recibir",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alonso Salas",
+      "timestamp_ms": 1753444027550,
+      "content": "Buenas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753441904173,
+      "content": "Puedes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753441898705,
+      "content": "Voy a estar antes de lo que te comente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753441882850,
+      "content": "Llego tipo en 40min",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753441879146,
+      "content": "Voy saliendo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753441869802,
+      "content": "Alonso buen dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753441866788,
+      "content": "Holaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alonso Salas",
+      "timestamp_ms": 1753401656208,
+      "content": "perfecto, te espero",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753401644499,
+      "content": "Comfirmado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753401641188,
+      "content": "Estimado ma\u00c3\u00b1ana tipo 8.30 estoy alli",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753400781211,
+      "content": "Buenisimo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alonso Salas",
+      "timestamp_ms": 1753400772418,
+      "content": "es el primer condominio de la calle",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alonso Salas",
+      "timestamp_ms": 1753400764465,
+      "content": "Garcia hurtado de mendoza 7620",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alonso Salas",
+      "timestamp_ms": 1753400760432,
+      "content": "La florida, te dejo mi direccion",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753400729336,
+      "content": "Que comuna es?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alonso Salas",
+      "timestamp_ms": 1753400483569,
+      "content": "vale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753400444134,
+      "content": "Pero yo creo que sera 8.30 a 9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753400437910,
+      "content": "Excelente me sirve, seguramente sea temprano, te confirmo exactamente en 1 hora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alonso Salas",
+      "timestamp_ms": 1753400354708,
+      "content": "ya despues salgo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alonso Salas",
+      "timestamp_ms": 1753400344027,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alonso Salas",
+      "timestamp_ms": 1753400341930,
+      "content": "puedo desde las 8am hasta las 12",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753400298166,
+      "content": "Vale a que hora podria ma\u00c3\u00b1ana?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alonso Salas",
+      "timestamp_ms": 1753400285189,
+      "content": "no, como minimo lo puedo dejar a 160",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753400089213,
+      "content": "Podria ma\u00c3\u00b1ana en la ma\u00c3\u00b1ana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alonso Salas",
+      "timestamp_ms": 1753399973335,
+      "content": "vendrias ahora a buscarlo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753399899709,
+      "content": "Dejemoslo en 150mil con 16gb de ram y lo busco",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alonso Salas",
+      "timestamp_ms": 1753399638333,
+      "content": "si no lo puedo bajar a 160 pero con solo 16Gb de ram",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alonso Salas",
+      "timestamp_ms": 1753399622571,
+      "content": "te lo puedo dejar a minimo 190 asi tal cual",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753399464805,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook DELL - core I7 - 32GB de Ram - NVIDIA",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebookdellcorei732gbderamnvidia_24611815598437828",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1231000905435939.jpg",
+    "creation_timestamp": 1753399461
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

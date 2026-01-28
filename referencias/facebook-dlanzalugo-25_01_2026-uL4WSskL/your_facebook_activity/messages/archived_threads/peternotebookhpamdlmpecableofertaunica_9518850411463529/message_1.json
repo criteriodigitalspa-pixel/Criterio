@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Peter Dordjy Dolcin\u00c3\u00a9"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Peter Dordjy Dolcin\u00c3\u00a9",
+      "timestamp_ms": 1729595077825,
+      "content": "D\u00c3\u00b3nde estas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729595011149,
+      "content": "Hola, s\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Peter Dordjy Dolcin\u00c3\u00a9",
+      "timestamp_ms": 1729589461140,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Peter Dordjy Dolcin\u00c3\u00a9",
+      "timestamp_ms": 1729589457105,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Peter Dordjy Dolcin\u00c3\u00a9",
+      "timestamp_ms": 1729589456799,
+      "content": "Peter inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Peter \u00c2\u00b7 Notebook HP AMD - \u00c2\u00a1lmpecable! Oferta \u00c3\u00banica",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/peternotebookhpamdlmpecableofertaunica_9518850411463529",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

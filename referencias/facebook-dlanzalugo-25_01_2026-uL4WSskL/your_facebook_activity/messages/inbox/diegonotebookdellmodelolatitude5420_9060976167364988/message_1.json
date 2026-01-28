@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Maria Jose Takahashi"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Maria Jose Takahashi",
+      "timestamp_ms": 1742821390896,
+      "content": "Maria vendi\u00c3\u00b3 Notebook Dell, modelo Latitude 5420.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Jose Takahashi",
+      "timestamp_ms": 1742676195714,
+      "content": "Maria baj\u00c3\u00b3 el precio de Notebook Dell, modelo Latitude 5420 a $160.000.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Jose Takahashi",
+      "timestamp_ms": 1742675924866,
+      "content": "Maria est\u00c3\u00a1 recibiendo muchos mensajes sobre esta publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Jose Takahashi",
+      "timestamp_ms": 1742653073578,
+      "content": "\u00c2\u00bfA\u00c3\u00ban te interesa? Responde a: Lo dejo a 160",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Jose Takahashi",
+      "timestamp_ms": 1742647149695,
+      "content": "Lo dejo a 160",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Jose Takahashi",
+      "timestamp_ms": 1742647145725,
+      "content": "Hola!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Jose Takahashi",
+      "timestamp_ms": 1742647141832,
+      "content": "Maria acept\u00c3\u00b3 tu oferta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1742623524828,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook Dell, modelo Latitude 5420",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebookdellmodelolatitude5420_9060976167364988",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1056624736299670.jpg",
+    "creation_timestamp": 1742623521
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

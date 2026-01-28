@@ -1,0 +1,83 @@
+{
+  "participants": [
+    {
+      "name": "Eduardo Jesus Gatica"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738760081089,
+      "content": "El equipo esta en excelente estado, sin fallas ni nada, todo funcionando pk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738760050025,
+      "content": "Hola. Esta formateada, no trae nada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eduardo Jesus Gatica",
+      "timestamp_ms": 1738758974889,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/eduardojesusnotebookgameri516gbramamdgraphicsssd_9142068695908714/audio/1341021633997617.mp4",
+          "creation_timestamp": 1738758973
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738727055202,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738727054992,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eduardo Jesus Gatica",
+      "timestamp_ms": 1738726894004,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eduardo Jesus Gatica",
+      "timestamp_ms": 1738726886570,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eduardo Jesus Gatica",
+      "timestamp_ms": 1738726886283,
+      "content": "Eduardo Jesus inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Eduardo Jesus \u00c2\u00b7 Notebook Gamer // i5 // 16gb RAM // AMD Graphics / SSD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/eduardojesusnotebookgameri516gbramamdgraphicsssd_9142068695908714",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

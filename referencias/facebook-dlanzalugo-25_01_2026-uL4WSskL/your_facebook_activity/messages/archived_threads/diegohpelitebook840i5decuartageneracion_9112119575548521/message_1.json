@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "D'ayan D'avila"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "D'ayan D'avila",
+      "timestamp_ms": 1737423450291,
+      "content": "Ma\u00c3\u00b1ana le digo con gusto si, a lo que llegue a la oficina",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737389288652,
+      "content": "Me dice el modelo de la bateria? Para buscarla",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "D'ayan D'avila",
+      "timestamp_ms": 1737389258836,
+      "content": "Tambi\u00c3\u00a9n tenemos otros modelos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "D'ayan D'avila",
+      "timestamp_ms": 1737389257998,
+      "content": "Lo tenemos pero sin bater\u00c3\u00ada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737389212815,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737389212464,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Hp EliteBook 840 i5 de Cuarta Generaci\u00c3\u00b3n ",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegohpelitebook840i5decuartageneracion_9112119575548521",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/513385577872506.jpg",
+    "creation_timestamp": 1737389208
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

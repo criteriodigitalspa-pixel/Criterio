@@ -1,0 +1,638 @@
+{
+  "participants": [
+    {
+      "name": "Luis Geovanny V\u00c3\u00a1squez Pe\u00c3\u00b1a"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740520295005,
+      "content": "Abandonaste el grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Geovanny V\u00c3\u00a1squez Pe\u00c3\u00b1a",
+      "timestamp_ms": 1739208377185,
+      "content": "El vendedor vendi\u00c3\u00b3 HP  348 G5 i7 8565U 16GB RAM SSD M2 512.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Geovanny V\u00c3\u00a1squez Pe\u00c3\u00b1a",
+      "timestamp_ms": 1739208369488,
+      "content": "Luis envi\u00c3\u00b3 un archivo adjunto.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738881655382,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Geovanny V\u00c3\u00a1squez Pe\u00c3\u00b1a",
+      "timestamp_ms": 1738881636457,
+      "content": "Te escribir\u00c3\u00a9 un WhatsApp",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738881624158,
+      "content": "994919000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738881620979,
+      "content": "Te dejo mi numero",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738881618242,
+      "content": "Vale estimado, muchas gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Geovanny V\u00c3\u00a1squez Pe\u00c3\u00b1a",
+      "timestamp_ms": 1738881607499,
+      "content": "Muy bien, acepto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738881568057,
+      "content": "Podriamos dejarlo en 250?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738881562308,
+      "content": "Vale compita",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Geovanny V\u00c3\u00a1squez Pe\u00c3\u00b1a",
+      "timestamp_ms": 1738881553032,
+      "content": "Perfecto entonces ma\u00c3\u00b1ana a las 10am en vicu\u00c3\u00b1a Mackenna",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738881540718,
+      "content": "Si puedes claro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738881527061,
+      "content": "Vicu\u00c3\u00b1a mackenna",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738881523207,
+      "content": "Tipo 10am en el mismo lugar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Geovanny V\u00c3\u00a1squez Pe\u00c3\u00b1a",
+      "timestamp_ms": 1738881507740,
+      "content": "Muy bien y que hora ser\u00c3\u00ada eso?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738881479390,
+      "content": "Lo mas temprano que se pueda",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738881471105,
+      "content": "No hace falta, les puedo instalar yo el sistema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Geovanny V\u00c3\u00a1squez Pe\u00c3\u00b1a",
+      "timestamp_ms": 1738881426096,
+      "content": "Que horario te acomoda?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Geovanny V\u00c3\u00a1squez Pe\u00c3\u00b1a",
+      "timestamp_ms": 1738881412832,
+      "content": "Ya les instalo sistema, s\u00c3\u00ad ma\u00c3\u00b1ana mismo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738881395035,
+      "content": "Si puedes ma\u00c3\u00b1ana genial",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Geovanny V\u00c3\u00a1squez Pe\u00c3\u00b1a",
+      "timestamp_ms": 1738881384322,
+      "content": "S\u00c3\u00ad el mismo modelo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738881376085,
+      "content": "Los otros 2?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738881363640,
+      "content": "Son exactamente el mismo modelo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738881335801,
+      "content": "Si es para ma\u00c3\u00b1ana me sirve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Geovanny V\u00c3\u00a1squez Pe\u00c3\u00b1a",
+      "timestamp_ms": 1738881209913,
+      "content": "Para cuando necesitas los notebook?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Geovanny V\u00c3\u00a1squez Pe\u00c3\u00b1a",
+      "timestamp_ms": 1738881171629,
+      "content": "Esa era la \u00c3\u00banica bater\u00c3\u00ada que no deb\u00c3\u00ada dejar metida en un notebook",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Geovanny V\u00c3\u00a1squez Pe\u00c3\u00b1a",
+      "timestamp_ms": 1738881154398,
+      "content": "Por supuesto te parece bien ma\u00c3\u00b1ana y si podemos manejar el mismo precio incluso las destapamos para que veas todo en orden",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738881151224,
+      "content": "Si te parece",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738881140426,
+      "content": "Comentame de esto y te compro los otros y cambiamos la bateria inflada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Geovanny V\u00c3\u00a1squez Pe\u00c3\u00b1a",
+      "timestamp_ms": 1738881107275,
+      "content": "Yo te llevo la bater\u00c3\u00ada y la cambiamos por supuesto disculpame fue un error m\u00c3\u00ado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738881106528,
+      "content": "Con baterias no infladas claro jajaja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738881097280,
+      "content": "Podriamos manejar el mismo precio? Necesito 2 mas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738881078222,
+      "content": "Y lo otro, me comentaste tenias otros notebooks de estos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Geovanny V\u00c3\u00a1squez Pe\u00c3\u00b1a",
+      "timestamp_ms": 1738881070822,
+      "content": "S\u00c3\u00ad claro que s\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738881061355,
+      "content": "Crees que podamos hacer algo? Un cambio de bateria o asi?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Geovanny V\u00c3\u00a1squez Pe\u00c3\u00b1a",
+      "timestamp_ms": 1738881038253,
+      "content": "Tengo un desorden aqu\u00c3\u00ad por la mudanza y vi una bater\u00c3\u00ada fuera y esa inflada la ten\u00c3\u00ada era de prueba",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Geovanny V\u00c3\u00a1squez Pe\u00c3\u00b1a",
+      "timestamp_ms": 1738880970912,
+      "content": "Compa s\u00c3\u00ad fue error m\u00c3\u00ado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Geovanny V\u00c3\u00a1squez Pe\u00c3\u00b1a",
+      "timestamp_ms": 1738880962303,
+      "content": "Caracoles",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738880924760,
+      "content": "Tanto que hace presion en el mousepad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738880917833,
+      "content": "Sabes que recien ocupe el notebook, y los click estaban medio raros, y cuando veo la bateria esta infladisima",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Geovanny V\u00c3\u00a1squez Pe\u00c3\u00b1a",
+      "timestamp_ms": 1738880877294,
+      "content": "Bien gracias,  cu\u00c3\u00a9ntame",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Geovanny V\u00c3\u00a1squez Pe\u00c3\u00b1a",
+      "timestamp_ms": 1738880869980,
+      "content": "Hola Diego buenas tardes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738880853338,
+      "content": "Compa como estas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738692185572,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/diegohp348g5i78565u16gbramssdm2512_28662972749983226/photos/1631773057428503.jpg",
+          "creation_timestamp": 1738692184
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Geovanny V\u00c3\u00a1squez Pe\u00c3\u00b1a",
+      "timestamp_ms": 1738692085750,
+      "content": "Luis Geovanny Vasquez Pe\u00c3\u00b1a\nRUT: 271130406\nMercado Pago\nCuenta Vista\nN\u00c3\u00bamero de cuenta: 1061822170\nlugevape@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Geovanny V\u00c3\u00a1squez Pe\u00c3\u00b1a",
+      "timestamp_ms": 1738691919004,
+      "content": "Voy bajando",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738691916632,
+      "content": "Voy de polera blanca y zapatillas blancas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Geovanny V\u00c3\u00a1squez Pe\u00c3\u00b1a",
+      "timestamp_ms": 1738691906957,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/diegohp348g5i78565u16gbramssdm2512_28662972749983226/photos/657808483249200.jpg",
+          "creation_timestamp": 1738691906
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738691858791,
+      "content": "Ya estoy llegando",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Geovanny V\u00c3\u00a1squez Pe\u00c3\u00b1a",
+      "timestamp_ms": 1738691175449,
+      "content": "Muy bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738691169463,
+      "content": "En la combinacion linea 4a hay sillitas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738691155030,
+      "content": "Por dentro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Geovanny V\u00c3\u00a1squez Pe\u00c3\u00b1a",
+      "timestamp_ms": 1738691133052,
+      "content": "Nos vemos dentro de la estaci\u00c3\u00b3n del metro o por fuera?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738691096658,
+      "content": "Si ya voy de camino",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Geovanny V\u00c3\u00a1squez Pe\u00c3\u00b1a",
+      "timestamp_ms": 1738691082536,
+      "content": "Te espero",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Geovanny V\u00c3\u00a1squez Pe\u00c3\u00b1a",
+      "timestamp_ms": 1738689599541,
+      "content": "Esta bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738689438319,
+      "content": "Me devolvi dame 15 mas porfa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738689422966,
+      "content": "Shuta ya va, que deje la mochila",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738689116407,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Geovanny V\u00c3\u00a1squez Pe\u00c3\u00b1a",
+      "timestamp_ms": 1738688690862,
+      "content": "Voy en camino",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738688573037,
+      "content": "Si puedes antes mejor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738688565659,
+      "content": "Yo llego en 20",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738688558959,
+      "content": "Dale compa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Geovanny V\u00c3\u00a1squez Pe\u00c3\u00b1a",
+      "timestamp_ms": 1738688453251,
+      "content": "Confirmame para salir",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Geovanny V\u00c3\u00a1squez Pe\u00c3\u00b1a",
+      "timestamp_ms": 1738686791520,
+      "content": "A las 2:30 puedo estar en vicu\u00c3\u00b1a Mackenna",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738682481613,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Geovanny V\u00c3\u00a1squez Pe\u00c3\u00b1a",
+      "timestamp_ms": 1738682392836,
+      "content": "Muy bien te confirmo la hora cuando salga",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738682298920,
+      "content": "Si cualquier hora esta bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738682293941,
+      "content": "Vale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Geovanny V\u00c3\u00a1squez Pe\u00c3\u00b1a",
+      "timestamp_ms": 1738682096884,
+      "content": "Ando en un tr\u00c3\u00a1mite y no se a que hora termino, creo que despu\u00c3\u00a9s de las 3 podr\u00c3\u00ada estar en esa estaci\u00c3\u00b3n de metro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Geovanny V\u00c3\u00a1squez Pe\u00c3\u00b1a",
+      "timestamp_ms": 1738682096739,
+      "content": "Puedes hoy a cualquier hora?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738681846835,
+      "content": "A que hora podrias?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738681843906,
+      "content": "Vicu\u00c3\u00b1a mackenna me sirve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Geovanny V\u00c3\u00a1squez Pe\u00c3\u00b1a",
+      "timestamp_ms": 1738674877260,
+      "content": "+56934800670",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Geovanny V\u00c3\u00a1squez Pe\u00c3\u00b1a",
+      "timestamp_ms": 1738674774577,
+      "content": "Puede ser en La Cisterna o dependiendo de la hora Vicu\u00c3\u00b1a Mackenna",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Geovanny V\u00c3\u00a1squez Pe\u00c3\u00b1a",
+      "timestamp_ms": 1738674646227,
+      "content": "A ver que l\u00c3\u00adnea es Macul?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Geovanny V\u00c3\u00a1squez Pe\u00c3\u00b1a",
+      "timestamp_ms": 1738674635019,
+      "content": "A que hora?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738674621881,
+      "content": "Entregarias en metro Macul?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738674604442,
+      "content": "Vale me parece",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Geovanny V\u00c3\u00a1squez Pe\u00c3\u00b1a",
+      "timestamp_ms": 1738674594809,
+      "content": "Y el disco M2",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Geovanny V\u00c3\u00a1squez Pe\u00c3\u00b1a",
+      "timestamp_ms": 1738674583352,
+      "content": "1x8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738674572634,
+      "content": "La ram seria 1 tarjeta de 8? O 2 de 4?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Geovanny V\u00c3\u00a1squez Pe\u00c3\u00b1a",
+      "timestamp_ms": 1738674526578,
+      "content": "Podr\u00c3\u00ada aceptar esa cantidad,  solo que aceptes que el equipo sea 8gb de ram y 256 ssd",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738674450005,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 HP  348 G5 i7 8565U 16GB RAM SSD M2 512",
+  "is_still_participant": false,
+  "thread_path": "archived_threads/diegohp348g5i78565u16gbramssdm2512_28662972749983226",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1850039358866534.jpg",
+    "creation_timestamp": 1738674447
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

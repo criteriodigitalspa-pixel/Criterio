@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Francisca Miranda"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Francisca Miranda",
+      "timestamp_ms": 1768398189007,
+      "content": "No respondiste a: S\u00c3\u00ad. \u00c2\u00bfTe interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisca Miranda",
+      "timestamp_ms": 1768364658222,
+      "content": "S\u00c3\u00ad. \u00c2\u00bfTe interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768349544203,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768349544049,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook HP 240 G6",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebookhp240g6_1849161749808816",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/888527010329111.jpg",
+    "creation_timestamp": 1768349541
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

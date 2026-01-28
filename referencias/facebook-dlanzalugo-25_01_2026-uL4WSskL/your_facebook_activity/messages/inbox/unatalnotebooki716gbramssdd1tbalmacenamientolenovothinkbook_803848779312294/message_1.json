@@ -1,0 +1,112 @@
+{
+  "participants": [
+    {
+      "name": "Una Tal Fran"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763581122173,
+      "content": "Holaa, en este momento no tengo ninguno tactil. Pero este Lenovo Thinkbook es de los mejores que tiene lenovo por lo potente y duradero que es",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Una Tal Fran",
+      "timestamp_ms": 1763581072135,
+      "content": "Una Tal reaccion\u00c3\u00b3 \u00f0\u009f\u0091\u008d a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Una Tal Fran",
+      "timestamp_ms": 1763580830657,
+      "content": "yo tengo un yoga c740 pero ayer se me cayo y funciona a medias... ma\u00c3\u00b1ana debo dar una clase fuera de santiago y quiero uno lo mas similiar al YOga,",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Una Tal Fran",
+      "timestamp_ms": 1763580767725,
+      "content": "me gusta este, pero te consulto si tienes otros marca lenovo que sean touch",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Una Tal Fran",
+      "timestamp_ms": 1763580738013,
+      "content": "aprovecho de consultarte porque vi que tienes varios modelos...",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Una Tal Fran",
+      "timestamp_ms": 1763580715503,
+      "content": "mira, yo estoy en el metro los leones, podria ser que nos juntemos ahi?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Una Tal Fran",
+      "timestamp_ms": 1763580697721,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763580279583,
+      "content": "Estoy en La Florida. Te acomoda la comuna o preferir\u00c3\u00adas que coordinemos en otro punto a convenir?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Una Tal Fran"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763580277903,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Una Tal Fran",
+      "timestamp_ms": 1763579587597,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Una Tal Fran",
+      "timestamp_ms": 1763579584787,
+      "content": "Buenas tardes. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Una Tal Fran",
+      "timestamp_ms": 1763579584475,
+      "content": "Una Tal inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Una Tal \u00c2\u00b7 Notebook i7/16GB RAM / SSDD / 1TB almacenamiento/Lenovo ThinkBook",
+  "is_still_participant": true,
+  "thread_path": "inbox/unatalnotebooki716gbramssdd1tbalmacenamientolenovothinkbook_803848779312294",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

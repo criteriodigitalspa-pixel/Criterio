@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Dana Calderon"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dana Calderon",
+      "timestamp_ms": 1741711932569,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dana Calderon",
+      "timestamp_ms": 1741711924716,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dana Calderon",
+      "timestamp_ms": 1741711924198,
+      "content": "Dana inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dana \u00c2\u00b7 Notebook Gamer // Intel core i7 // AMD Graphics // 12gb RAM // SSDD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/dananotebookgamerintelcorei7amdgraphics12gbramssdd_32336071279372741",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

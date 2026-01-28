@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Wilmer Zacarias"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Wilmer Zacarias",
+      "timestamp_ms": 1752867470017,
+      "content": "Wilmer vendi\u00c3\u00b3 2022 Bajaj Pulsar.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wilmer Zacarias",
+      "timestamp_ms": 1752789743691,
+      "content": "\u00c2\u00bfA\u00c3\u00ban te interesa? Responde a: S\u00c3\u00ad. \u00c2\u00bfTe interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wilmer Zacarias",
+      "timestamp_ms": 1752780975078,
+      "content": "S\u00c3\u00ad. \u00c2\u00bfTe interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1752779543906,
+      "content": "Hola, Wilmer. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1752779543557,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 2022 Bajaj Pulsar",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diego2022bajajpulsar_10038730242890866",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1065721842359848.jpg",
+    "creation_timestamp": 1752779539
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

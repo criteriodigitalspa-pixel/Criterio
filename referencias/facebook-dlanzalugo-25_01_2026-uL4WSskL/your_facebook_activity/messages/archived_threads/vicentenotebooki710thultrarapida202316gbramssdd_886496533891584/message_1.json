@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Vicente Soto Diaz"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766836619964,
+      "content": "Abandonaste el grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vicente Soto Diaz",
+      "timestamp_ms": 1766827375195,
+      "content": "Vicente est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vicente Soto Diaz",
+      "timestamp_ms": 1766791318132,
+      "content": "Vicente envi\u00c3\u00b3 un archivo adjunto.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vicente Soto Diaz",
+      "timestamp_ms": 1766791316443,
+      "content": "Permutas m\u00c3\u00a1s dinero a tu favor?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vicente Soto Diaz",
+      "timestamp_ms": 1766791316002,
+      "content": "Vicente inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Vicente \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 16gb RAM / SSDD",
+  "is_still_participant": false,
+  "thread_path": "archived_threads/vicentenotebooki710thultrarapida202316gbramssdd_886496533891584",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

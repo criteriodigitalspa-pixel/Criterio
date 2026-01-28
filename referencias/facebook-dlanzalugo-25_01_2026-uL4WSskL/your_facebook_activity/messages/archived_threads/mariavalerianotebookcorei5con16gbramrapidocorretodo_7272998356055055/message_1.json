@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Maria Valeria Forni Rojas"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Maria Valeria Forni Rojas",
+      "timestamp_ms": 1703120836147,
+      "content": "Maria Valeria Forni Rojas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Valeria Forni Rojas",
+      "timestamp_ms": 1703120836021,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Valeria Forni Rojas",
+      "timestamp_ms": 1703120832992,
+      "content": "Maria Valeria asign\u00c3\u00b3 al grupo el nombre \"Maria Valeria \u00c2\u00b7 Notebook Core i5 con 16GB RAM Rapido Corre Todo\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Valeria Forni Rojas",
+      "timestamp_ms": 1703120832992,
+      "content": "Maria Valeria cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria Valeria Forni Rojas",
+      "timestamp_ms": 1703120832992,
+      "content": "Buenos noches. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Maria Valeria \u00c2\u00b7 Notebook Core i5 con 16GB RAM Rapido Corre Todo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/mariavalerianotebookcorei5con16gbramrapidocorretodo_7272998356055055",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

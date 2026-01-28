@@ -1,0 +1,92 @@
+{
+  "participants": [
+    {
+      "name": "Gerardo Chacon"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gerardo Chacon",
+      "timestamp_ms": 1732212549548,
+      "content": "Vale bro, cualquier cosa me avisas sin problemas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732212506983,
+      "content": "Ya bro. Te aviso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gerardo Chacon",
+      "timestamp_ms": 1732212229256,
+      "content": "Mi insta es www.instagram.com/Lycan_ink",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732212195157,
+      "content": "Mandame tu ig",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732212192811,
+      "content": "Tienes fotos?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gerardo Chacon",
+      "timestamp_ms": 1732211051477,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gerardo Chacon",
+      "timestamp_ms": 1732211046781,
+      "content": "Ola disculpa permutas por tatuaje",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gerardo Chacon",
+      "timestamp_ms": 1732211046472,
+      "content": "Gerardo Chacon",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gerardo Chacon",
+      "timestamp_ms": 1732211044315,
+      "content": "Gerardo asign\u00c3\u00b3 al grupo el nombre \"Gerardo \u00c2\u00b7 Elitebook Potente i5 16GB RAM Ultra Rapida enciende en 8 segundos! 1000GB Espacio\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gerardo Chacon",
+      "timestamp_ms": 1732211044315,
+      "content": "Gerardo cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gerardo \u00c2\u00b7 Elitebook Potente i5 16GB RAM Ultra Rapida enciende en 8 segundos! 1000GB Espacio",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/gerardoelitebookpotentei516gbramultrarapidaenciendeen8segundos1000gbespacio_27691573360489564",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

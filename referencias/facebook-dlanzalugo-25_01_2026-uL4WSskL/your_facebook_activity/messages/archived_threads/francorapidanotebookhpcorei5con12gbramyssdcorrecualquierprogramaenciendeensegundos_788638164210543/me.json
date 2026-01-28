@@ -1,0 +1,315 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Franco Gonzalez"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764527009389,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Gonzalez",
+      "timestamp_ms": 1764502525727,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Gonzalez",
+      "timestamp_ms": 1764498491734,
+      "content": "Javier",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Gonzalez",
+      "timestamp_ms": 1764498489235,
+      "content": "950467708 javir",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Gonzalez",
+      "timestamp_ms": 1764498478642,
+      "content": "Antes de las 11am , puede ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Gonzalez",
+      "timestamp_ms": 1764498470697,
+      "content": "Hola buen d\u00c3\u00ada , hoy paso por el",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Gonzalez",
+      "timestamp_ms": 1764470097184,
+      "content": "Alg\u00c3\u00ban comprobante de e pago no tiene para justificarla compra",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764469257793,
+      "content": "Sii claro, te paso el video en la ma\u00c3\u00b1ana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Gonzalez",
+      "timestamp_ms": 1764467401207,
+      "content": "Se puede para pasar  ma\u00c3\u00b1ana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Gonzalez",
+      "timestamp_ms": 1764463070937,
+      "content": "Le servir\u00c3\u00a1 tipo adulto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Gonzalez",
+      "timestamp_ms": 1764463063261,
+      "content": "Tiene 11 a\u00c3\u00b1os",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Gonzalez",
+      "timestamp_ms": 1764463060363,
+      "content": "A ver si le gusta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Gonzalez",
+      "timestamp_ms": 1764463056888,
+      "content": "Para mostrarlo a mi hija",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Gonzalez",
+      "timestamp_ms": 1764463032453,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/francorapidanotebookhpcorei5con12gbramyssdcorrecualquierprogramaenciendeensegundos_788638164210543/audio/1492666481823369.mp4",
+          "creation_timestamp": 1764463030
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764462017029,
+      "content": "Me comenta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764449278392,
+      "content": "Detras del Lider de departamental unas torres blancas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764449266184,
+      "content": "En departamental con Vespucio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764449260088,
+      "content": "Sii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Gonzalez",
+      "timestamp_ms": 1764449052015,
+      "content": "Que altura es aprox",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Gonzalez",
+      "timestamp_ms": 1764449046971,
+      "content": "Se puede retirar de su domicilio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Gonzalez",
+      "timestamp_ms": 1764448935240,
+      "content": "Que w tiene",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764448155879,
+      "content": "Estoy en La Florida. Te acomoda la comuna o preferir\u00c3\u00adas que coordinemos en otro punto a convenir?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764448152038,
+      "content": "Sii es 14\" y si tiene office",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Gonzalez",
+      "timestamp_ms": 1764448052366,
+      "content": "Es pantalla 14\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Gonzalez",
+      "timestamp_ms": 1764448040838,
+      "content": "Donde entrega",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Gonzalez",
+      "timestamp_ms": 1764448040023,
+      "content": "Se envi\u00c3\u00b3 tu calificaci\u00c3\u00b3n",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Gonzalez",
+      "timestamp_ms": 1764448037106,
+      "content": "Tiene instalado el office ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764447871048,
+      "content": "Podria dejarlo en 140mil estimado, y el equipo tiene 4 a\u00c3\u00b1os de uso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Gonzalez",
+      "timestamp_ms": 1764447738391,
+      "content": "Cuanto puede quedar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Gonzalez",
+      "timestamp_ms": 1764447734569,
+      "content": "Que a\u00c3\u00b1o es",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764447707842,
+      "content": "No estimado, era de una se\u00c3\u00b1orita que le asignaron uno nuevo de la pega",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Gonzalez",
+      "timestamp_ms": 1764447620709,
+      "content": "Era de usted",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764446353530,
+      "content": "Si es de 14\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764446345856,
+      "content": "Hola Si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Gonzalez",
+      "timestamp_ms": 1764445801377,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Gonzalez",
+      "timestamp_ms": 1764444435803,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Gonzalez",
+      "timestamp_ms": 1764444169135,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Gonzalez",
+      "timestamp_ms": 1764444163627,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?consulta cu\u00c3\u00a1l ser\u00c3\u00ada el mejor precio es el 14\"?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Gonzalez",
+      "timestamp_ms": 1764444163303,
+      "content": "Franco inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Franco \u00c2\u00b7 Rapida Notebook HP core i5 con 12GB Ram y  SSD Corre cualquier programa ENCIENDE EN SEGUNDOS",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/francorapidanotebookhpcorei5con12gbramyssdcorrecualquierprogramaenciendeensegundos_788638164210543",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

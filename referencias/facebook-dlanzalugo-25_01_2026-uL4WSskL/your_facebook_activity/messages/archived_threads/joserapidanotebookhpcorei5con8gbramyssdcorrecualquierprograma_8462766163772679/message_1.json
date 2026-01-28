@@ -1,0 +1,195 @@
+{
+  "participants": [
+    {
+      "name": "Jose Peirano"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jose Peirano",
+      "timestamp_ms": 1728781836909,
+      "content": "Paso amigo\nMuchas gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728779432531,
+      "content": "Me confirma compa\u00c3\u00b1ero",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Peirano",
+      "timestamp_ms": 1728767603782,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728766708096,
+      "content": "Dale estare atento",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728766707892,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Peirano",
+      "timestamp_ms": 1728766263743,
+      "content": "No\nD\u00c3\u00a9jame revisar bien en la noche y te confirmo \nGracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728766228617,
+      "content": "Tienes otra duda?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Peirano",
+      "timestamp_ms": 1728766102845,
+      "content": "Jose reaccion\u00c3\u00b3 \u00f0\u009f\u0091\u008d a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728766054923,
+      "content": "3 usb\n1utp\n1vga\n1 hdmi\n1 lecor de disco",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Jose Peirano",
+          "timestamp": 1728766102
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728766018371,
+      "content": "Esos serian",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728766016587,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/joserapidanotebookhpcorei5con8gbramyssdcorrecualquierprograma_8462766163772679/photos/1270564157710843.jpg",
+          "creation_timestamp": 1728766014
+        },
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/joserapidanotebookhpcorei5con8gbramyssdcorrecualquierprograma_8462766163772679/photos/1251264122669616.jpg",
+          "creation_timestamp": 1728766014
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Peirano",
+      "timestamp_ms": 1728765950542,
+      "content": "Me puedes contar qu\u00c3\u00a9 puertos tiene?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728765936195,
+      "content": "Puede revisar y probarla con calma antes de pagar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728765923416,
+      "content": "Entrego en metro a convenir o mi domicilio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728765911841,
+      "content": "Hola amigo, soy de la comuna de la florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Peirano",
+      "timestamp_ms": 1728765645909,
+      "content": "Que puertos tiene?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Peirano",
+      "timestamp_ms": 1728765612186,
+      "content": "Hola de donde eres?\nDonde entregas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728764691394,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Peirano",
+      "timestamp_ms": 1728763531416,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Peirano",
+      "timestamp_ms": 1728763529110,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Peirano",
+      "timestamp_ms": 1728763528939,
+      "content": "Jose inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jose \u00c2\u00b7 Rapida Notebook HP core i5 con 8GB Ram y  SSD Corre cualquier programa",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/joserapidanotebookhpcorei5con8gbramyssdcorrecualquierprograma_8462766163772679",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

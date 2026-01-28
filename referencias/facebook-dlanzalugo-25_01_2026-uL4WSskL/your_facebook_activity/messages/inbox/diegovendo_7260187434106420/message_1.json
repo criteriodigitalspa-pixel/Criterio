@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Fabian Rodrigo Robles Romero"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Fabian Rodrigo Robles Romero",
+      "timestamp_ms": 1732570818593,
+      "content": "En metro pajaritos l\u00c3\u00adnea 1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732570031242,
+      "content": "Donde entregas estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabian Rodrigo Robles Romero",
+      "timestamp_ms": 1732569727906,
+      "content": "Fabian Rodrigo acept\u00c3\u00b3 tu oferta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Vendo",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegovendo_7260187434106420",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1061668802360517.jpg",
+    "creation_timestamp": 1729103543
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

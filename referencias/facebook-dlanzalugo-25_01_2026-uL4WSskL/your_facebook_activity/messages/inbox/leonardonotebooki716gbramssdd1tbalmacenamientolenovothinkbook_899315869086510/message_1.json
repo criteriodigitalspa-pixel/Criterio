@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Leonardo Aravena"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765245856953,
+      "content": "Holaa, es usado estimado pero trae caja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leonardo Aravena",
+      "timestamp_ms": 1765242705093,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leonardo Aravena",
+      "timestamp_ms": 1765242703489,
+      "content": "Holaa, est\u00c3\u00a1 nuevo en caja?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leonardo Aravena",
+      "timestamp_ms": 1765242703228,
+      "content": "Leonardo inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Leonardo \u00c2\u00b7 Notebook i7/16GB RAM / SSDD / 1TB almacenamiento/Lenovo ThinkBook",
+  "is_still_participant": true,
+  "thread_path": "inbox/leonardonotebooki716gbramssdd1tbalmacenamientolenovothinkbook_899315869086510",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

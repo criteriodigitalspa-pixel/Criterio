@@ -34,6 +34,9 @@ const LabelPlayground = lazy(() => import('./pages/LabelPlayground'));
 const SalesCopyPreview = lazy(() => import('./pages/SalesCopyPreview'));
 const ModelNormalizer = lazy(() => import('./pages/utilities/ModelNormalizer'));
 const ReportingDashboard = lazy(() => import('./components/reporting/ReportingDashboard'));
+const AgentStudio = lazy(() => import('./pages/AgentStudio/index'));
+// Legacy (can remove if file deleted)
+// const PersonaStudio = lazy(() => import('./pages/PersonaStudio'));
 
 // Loading Fallback (For Lazy Routes only)
 const PageLoader = () => (
@@ -168,6 +171,16 @@ function App() {
                     } />
 
                   </Route>
+
+                  <Route path="agent-studio" element={
+                    <ProtectedRoute allowedRoles={['Admin']}>
+                      <AgentStudio />
+                    </ProtectedRoute>
+                  } />
+
+                  {/* Redirects for old links */}
+                  <Route path="ai-studio" element={<Navigate to="/agent-studio" replace />} />
+                  <Route path="action-studio" element={<Navigate to="/agent-studio" replace />} />
 
                   <Route path="*" element={<Navigate to="/" replace />} />
                 </Routes>

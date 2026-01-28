@@ -1,0 +1,431 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Nicolas Cortes"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nicolas Cortes",
+      "timestamp_ms": 1731626438911,
+      "content": "Anoche deje la bater\u00c3\u00ada al 100 y ahora lo prend\u00c3\u00ad y se apago de una",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Cortes",
+      "timestamp_ms": 1731626402240,
+      "content": "Me est\u00c3\u00a1 tirando ese error de bater\u00c3\u00ada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Cortes",
+      "timestamp_ms": 1731626388354,
+      "content": "Bro como estas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Cortes",
+      "timestamp_ms": 1731626382869,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/nicolasrapidanotebookasusenciendeensegundoscontarjetanvidia8gbramyssd_9039162829448710/photos/1496904174356174.jpg",
+          "creation_timestamp": 1731626381
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731504369827,
+      "content": "Estoy aca abajo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731504175958,
+      "content": "Bajando",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Cortes",
+      "timestamp_ms": 1731504164746,
+      "content": "Llegue",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731503625082,
+      "content": "Vale vale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Cortes",
+      "timestamp_ms": 1731503612119,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/nicolasrapidanotebookasusenciendeensegundoscontarjetanvidia8gbramyssd_9039162829448710/audio/581679224204900.mp4",
+          "creation_timestamp": 1731503610
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731501072036,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/nicolasrapidanotebookasusenciendeensegundoscontarjetanvidia8gbramyssd_9039162829448710/photos/1554694285165233.jpg",
+          "creation_timestamp": 1731501070
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731501010647,
+      "content": "Hay estacionamiento",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731501007332,
+      "content": "Me avisas cuando estes abajo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731501002997,
+      "content": "Vale compita",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Cortes",
+      "timestamp_ms": 1731500842691,
+      "content": "Voy en camino",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Cortes",
+      "timestamp_ms": 1731497600282,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731497582005,
+      "content": "994919000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731497577398,
+      "content": "Claro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Cortes",
+      "timestamp_ms": 1731497271618,
+      "content": "D\u00c3\u00a9jame tu WhatsApp",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Cortes",
+      "timestamp_ms": 1731497257612,
+      "content": "Te aviso cuando vaya en camino",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Cortes",
+      "timestamp_ms": 1731497241780,
+      "content": "OK",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731496366293,
+      "content": "Lago pirihueico 6502",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Cortes",
+      "timestamp_ms": 1731495314475,
+      "content": "OK dame la direcci\u00c3\u00b3n",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731495127792,
+      "content": "Hago teletrabajo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731495123260,
+      "content": "En mi casa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Cortes",
+      "timestamp_ms": 1731494933054,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/nicolasrapidanotebookasusenciendeensegundoscontarjetanvidia8gbramyssd_9039162829448710/audio/1199187415135452.mp4",
+          "creation_timestamp": 1731494931
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Cortes",
+      "timestamp_ms": 1731494878442,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/nicolasrapidanotebookasusenciendeensegundoscontarjetanvidia8gbramyssd_9039162829448710/audio/1286702062256501.mp4",
+          "creation_timestamp": 1731494876
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731494848857,
+      "content": "Me complica compa estoy a mas de 1 hora hasta alla, y empiezo a trabajar a las 9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Cortes",
+      "timestamp_ms": 1731494773260,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/nicolasrapidanotebookasusenciendeensegundoscontarjetanvidia8gbramyssd_9039162829448710/audio/1255065909086448.mp4",
+          "creation_timestamp": 1731494771
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731494749111,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme al metro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Cortes",
+      "timestamp_ms": 1731494701072,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/nicolasrapidanotebookasusenciendeensegundoscontarjetanvidia8gbramyssd_9039162829448710/audio/1518753928784717.mp4",
+          "creation_timestamp": 1731494699
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731494678015,
+      "content": "160mil lo minimo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731494668222,
+      "content": "Estimado buen dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Cortes",
+      "timestamp_ms": 1731494175180,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Cortes",
+      "timestamp_ms": 1731487878681,
+      "content": "Amigo el elitebook que tienes publicado en cuanto lo puedes dejar ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Cortes",
+      "timestamp_ms": 1731465897287,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731465713425,
+      "content": "Podemos coordinar ma\u00c3\u00b1ana a primera hora si la necesitas con urgencia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731465658296,
+      "content": "Me confirma amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731461679585,
+      "content": "Comuna la florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731461671623,
+      "content": "La florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Cortes",
+      "timestamp_ms": 1731461503805,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Cortes",
+      "timestamp_ms": 1731460727968,
+      "content": "De donde eres ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731460667311,
+      "content": "130 y cerramos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Cortes",
+      "timestamp_ms": 1731460530091,
+      "content": "Pucha te puedo ofrecer 125 no tengo m\u00c3\u00a1s lo tengo que comprar de urgencia acaba de morir el mio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731460474728,
+      "content": "140mil amigo podria dejarlo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Cortes",
+      "timestamp_ms": 1731460291661,
+      "content": "Amigo y en cuanto me lo podr\u00c3\u00ada dejar para ir a buscarlo ahora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731460244212,
+      "content": "Todo funciona impecable, teclado, mousepad, camara, pantalla, bateria",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Cortes",
+      "timestamp_ms": 1731460073706,
+      "content": "Alg\u00c3\u00ban detalle ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Cortes",
+      "timestamp_ms": 1731460069203,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731459752535,
+      "content": "Si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Cortes",
+      "timestamp_ms": 1731459285723,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Cortes",
+      "timestamp_ms": 1731459282586,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicolas Cortes",
+      "timestamp_ms": 1731459282376,
+      "content": "Nicolas inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nicolas \u00c2\u00b7 Rapida Notebook ASUS enciende en segundos, con tarjeta NVIDIA 8GB RAM y SSD",
+  "is_still_participant": true,
+  "thread_path": "inbox/nicolasrapidanotebookasusenciendeensegundoscontarjetanvidia8gbramyssd_9039162829448710",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

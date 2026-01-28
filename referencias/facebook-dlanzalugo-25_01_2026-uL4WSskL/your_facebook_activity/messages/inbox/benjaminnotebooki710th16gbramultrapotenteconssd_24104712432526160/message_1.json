@@ -1,0 +1,91 @@
+{
+  "participants": [
+    {
+      "name": "Benjamin Catilao"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754242010128,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754194833218,
+      "content": "Cuanto de diferencia?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Catilao",
+      "timestamp_ms": 1754193455030,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/benjaminnotebooki710th16gbramultrapotenteconssd_24104712432526160/photos/1480769633354884.jpg",
+          "creation_timestamp": 1754193454
+        },
+        {
+          "uri": "your_facebook_activity/messages/inbox/benjaminnotebooki710th16gbramultrapotenteconssd_24104712432526160/photos/1083102183774467.jpg",
+          "creation_timestamp": 1754193454
+        },
+        {
+          "uri": "your_facebook_activity/messages/inbox/benjaminnotebooki710th16gbramultrapotenteconssd_24104712432526160/photos/1737303103546307.jpg",
+          "creation_timestamp": 1754193454
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Catilao",
+      "timestamp_ms": 1754193442099,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Catilao",
+      "timestamp_ms": 1754193441346,
+      "content": "Permutas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Catilao",
+      "timestamp_ms": 1754193440230,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Catilao",
+      "timestamp_ms": 1754193438307,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Catilao",
+      "timestamp_ms": 1754193438092,
+      "content": "Benjamin inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Benjamin \u00c2\u00b7 Notebook i7-10th / 16GB RAM Ultra Potente con SSD",
+  "is_still_participant": true,
+  "thread_path": "inbox/benjaminnotebooki710th16gbramultrapotenteconssd_24104712432526160",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Nicol\u00c3\u00a1s V\u00c3\u00a1squez Araya"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nicol\u00c3\u00a1s V\u00c3\u00a1squez Araya",
+      "timestamp_ms": 1703179077928,
+      "content": "Ok gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703179042002,
+      "content": "Hola, tiene un i5-6tha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicol\u00c3\u00a1s V\u00c3\u00a1squez Araya",
+      "timestamp_ms": 1703177770435,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicol\u00c3\u00a1s V\u00c3\u00a1squez Araya",
+      "timestamp_ms": 1703177765337,
+      "content": "Hola que procesador tiene espec\u00c3\u00adficamente ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicol\u00c3\u00a1s V\u00c3\u00a1squez Araya",
+      "timestamp_ms": 1703177765162,
+      "content": "Nicol\u00c3\u00a1s V\u00c3\u00a1squez Araya",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicol\u00c3\u00a1s V\u00c3\u00a1squez Araya",
+      "timestamp_ms": 1703177763382,
+      "content": "Nicol\u00c3\u00a1s cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nicol\u00c3\u00a1s V\u00c3\u00a1squez Araya",
+      "timestamp_ms": 1703177762940,
+      "content": "Nicol\u00c3\u00a1s asign\u00c3\u00b3 al grupo el nombre \"Nicol\u00c3\u00a1s \u00c2\u00b7 Notebook I5 Potente y Rapido 8GB RAM, Perfectas condiciones Thinkpad\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nicol\u00c3\u00a1s \u00c2\u00b7 Notebook I5 Potente y Rapido 8GB RAM, Perfectas condiciones Thinkpad",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/nicolasnotebooki5potenteyrapido8gbramperfectascondicionesthinkpad_7407065432637288",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/877432447208006.jpg",
+    "creation_timestamp": 1703177760
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

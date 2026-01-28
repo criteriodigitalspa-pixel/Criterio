@@ -1,0 +1,92 @@
+{
+  "participants": [
+    {
+      "name": "Diego Ignacio Bravo Ojeda"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1755085660822,
+      "content": "Fuera de eso esta nuevo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1755085651900,
+      "content": "El teclado tiene algunas teclas levemente mas oscuras",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1755085607231,
+      "content": "Esta como nuevo, el mouspad esta bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Ignacio Bravo Ojeda",
+      "timestamp_ms": 1755062968429,
+      "content": "Y tiene alg\u00c3\u00ban detalle? Desgaste, en el trackpad o algo que me pueda mencionar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1755062049266,
+      "content": "Menos de una lo estimado esta como nueva con su cargador original",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Ignacio Bravo Ojeda",
+      "timestamp_ms": 1755061636762,
+      "content": "Cuanto uso tiene?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1755061613822,
+      "content": "Hola, s\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Ignacio Bravo Ojeda",
+      "timestamp_ms": 1755061597745,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Ignacio Bravo Ojeda",
+      "timestamp_ms": 1755061595077,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Ignacio Bravo Ojeda",
+      "timestamp_ms": 1755061594825,
+      "content": "Diego Ignacio inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego Ignacio \u00c2\u00b7 Notebook HP i7 / 16GB RAM / SSDD / 2024",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegoignacionotebookhpi716gbramssdd2024_1474752547277939",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

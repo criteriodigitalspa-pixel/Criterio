@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Kayn Deat H Cannibal"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728604771720,
+      "content": "Abandonaste el grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728575389285,
+      "content": "Buenas tardes, comenteme tiene alguna duda?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728525877412,
+      "content": "\u00c2\u00bfA\u00c3\u00ban te interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kayn Deat H Cannibal",
+      "timestamp_ms": 1728525715476,
+      "content": "",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Diego Lanza",
+          "timestamp": 1728525877
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kayn Deat H Cannibal",
+      "timestamp_ms": 1728525712173,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kayn Deat H Cannibal",
+      "timestamp_ms": 1728525711978,
+      "content": "Kayn inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kayn \u00c2\u00b7 NOTEBOOK HP ULTRA RAPIDA Y POTENTE  CORE I5 8GB RAM, SIN USO ESTA COMO NUEVA",
+  "is_still_participant": false,
+  "thread_path": "archived_threads/kaynnotebookhpultrarapidaypotentecorei58gbramsinusoestacomonueva_8623260144398494",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

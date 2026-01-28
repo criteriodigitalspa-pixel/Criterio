@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Joaqu\u00c3\u00adn Hern\u00c3\u00a1ndez Ramos"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743259368822,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743259364988,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joaqu\u00c3\u00adn Hern\u00c3\u00a1ndez Ramos",
+      "timestamp_ms": 1743258791051,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joaqu\u00c3\u00adn Hern\u00c3\u00a1ndez Ramos",
+      "timestamp_ms": 1743258784016,
+      "content": "Hola buenas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joaqu\u00c3\u00adn Hern\u00c3\u00a1ndez Ramos",
+      "timestamp_ms": 1743258783810,
+      "content": "Joaqu\u00c3\u00adn inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Joaqu\u00c3\u00adn \u00c2\u00b7 Notebook i5 8GB RAM Ultra Potente con SSD ENCIENDE EN SEGUNDOS\n PROBOOK",
+  "is_still_participant": true,
+  "thread_path": "inbox/joaquinnotebooki58gbramultrapotenteconssdenciendeensegundosprobook_9710940988975288",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

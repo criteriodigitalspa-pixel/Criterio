@@ -1,0 +1,89 @@
+{
+  "participants": [
+    {
+      "name": "Valentina Diaz"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Valentina Diaz",
+      "timestamp_ms": 1766507875098,
+      "content": "Valentina vendi\u00c3\u00b3 Notebook Dell vostro 5410 i7 11th.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Valentina Diaz",
+      "timestamp_ms": 1765538929319,
+      "content": "250 es el minimo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Valentina Diaz",
+      "timestamp_ms": 1765538897616,
+      "content": "No",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765537302853,
+      "content": "Me acepta 200 para hoy?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765537288363,
+      "content": "Holaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Valentina Diaz",
+      "timestamp_ms": 1765536015419,
+      "content": "Valentina baj\u00c3\u00b3 el precio de Notebook Dell vostro 5410 i7 11th a $250.000.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Valentina Diaz",
+      "timestamp_ms": 1765535728417,
+      "content": "Disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765511735882,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765511735684,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook Dell vostro 5410 i7 11th",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebookdellvostro5410i711th_1368667474958105",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1524166365487318.jpg",
+    "creation_timestamp": 1765511733
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

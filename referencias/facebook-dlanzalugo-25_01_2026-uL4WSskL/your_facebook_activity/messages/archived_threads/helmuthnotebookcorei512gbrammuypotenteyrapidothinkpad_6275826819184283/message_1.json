@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Helmuth Wehrli"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703351028306,
+      "content": "Holaa si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Helmuth Wehrli",
+      "timestamp_ms": 1703346982353,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Helmuth Wehrli",
+      "timestamp_ms": 1703346979465,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Helmuth Wehrli",
+      "timestamp_ms": 1703346979322,
+      "content": "Helmuth Wehrli",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Helmuth Wehrli",
+      "timestamp_ms": 1703346977904,
+      "content": "Helmuth cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Helmuth Wehrli",
+      "timestamp_ms": 1703346977602,
+      "content": "Helmuth asign\u00c3\u00b3 al grupo el nombre \"Helmuth \u00c2\u00b7 Notebook Core i5, 12GB Ram Muy potente y rapido, thinkpad\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Helmuth \u00c2\u00b7 Notebook Core i5, 12GB Ram Muy potente y rapido, thinkpad",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/helmuthnotebookcorei512gbrammuypotenteyrapidothinkpad_6275826819184283",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1035183381064404.jpg",
+    "creation_timestamp": 1703346975
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

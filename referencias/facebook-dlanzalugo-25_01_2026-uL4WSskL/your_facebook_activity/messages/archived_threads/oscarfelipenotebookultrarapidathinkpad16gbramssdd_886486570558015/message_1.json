@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Oscar Felipe N\u00c3\u00ba\u00c3\u00b1ez Mu\u00c3\u00b1oz"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766759615008,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766339685313,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Felipe N\u00c3\u00ba\u00c3\u00b1ez Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1766338161327,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Felipe N\u00c3\u00ba\u00c3\u00b1ez Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1766338157443,
+      "content": "Buenas tardes. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Oscar Felipe N\u00c3\u00ba\u00c3\u00b1ez Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1766338157144,
+      "content": "Oscar Felipe inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Oscar Felipe \u00c2\u00b7 Notebook Ultra Rapida Thinkpad  / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/oscarfelipenotebookultrarapidathinkpad16gbramssdd_886486570558015",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

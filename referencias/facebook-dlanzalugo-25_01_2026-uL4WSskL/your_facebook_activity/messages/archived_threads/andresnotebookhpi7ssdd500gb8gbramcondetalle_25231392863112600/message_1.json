@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Andres Gomez"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Andres Gomez",
+      "timestamp_ms": 1709322373192,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible? \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Gomez",
+      "timestamp_ms": 1709322373036,
+      "content": "Andres Gomez",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Gomez",
+      "timestamp_ms": 1709322371419,
+      "content": "Andres cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andres Gomez",
+      "timestamp_ms": 1709322370280,
+      "content": "Andres asign\u00c3\u00b3 al grupo el nombre \"Andres \u00c2\u00b7 Notebook HP i7 SSDD 500gb 8GB RAM con Detalle\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Andres \u00c2\u00b7 Notebook HP i7 SSDD 500gb 8GB RAM con Detalle",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/andresnotebookhpi7ssdd500gb8gbramcondetalle_25231392863112600",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/410466978054914.jpg",
+    "creation_timestamp": 1709322368
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

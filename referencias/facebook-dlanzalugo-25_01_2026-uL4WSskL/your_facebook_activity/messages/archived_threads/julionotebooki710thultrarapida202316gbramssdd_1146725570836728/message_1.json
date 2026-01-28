@@ -1,0 +1,412 @@
+{
+  "participants": [
+    {
+      "name": "Julio Jaimes"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767457832194,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765195278798,
+      "content": "Hola Julio desde las 10am",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julio Jaimes",
+      "timestamp_ms": 1765188022745,
+      "content": "Hola @Diego Lanza buenos d\u00c3\u00adas \u00f0\u009f\u00a4\u0097 \n\nDesde que hora puedes estar en el local hoy ??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julio Jaimes",
+      "timestamp_ms": 1765126935549,
+      "content": "@Diego Lanza que posibilidad hay de que me entregues hoy la laptop la hp?\n\nLo que sucede es q ma\u00c3\u00b1ana salgo de viaje y tengo que instalarlo todos el software \u00f0\u009f\u00a4\u00a6 para poder trabajar durante el viaje",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julio Jaimes",
+      "timestamp_ms": 1765126850133,
+      "content": "Julio reaccion\u00c3\u00b3 \u00e2\u009d\u00a4 a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765121846223,
+      "content": "Nos estamos mudando recien",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Julio Jaimes"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765121839533,
+      "content": "Av pedro valdivia 1783",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765121827900,
+      "content": "Providencia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julio Jaimes",
+      "timestamp_ms": 1765121445591,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julio Jaimes",
+      "timestamp_ms": 1765121442648,
+      "content": "Vale @Diego Lanza voy a esperar entonces a ma\u00c3\u00b1ana para ver esa, en donde tienes la tienda ? Es para ver si me queda cerca",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765121398532,
+      "content": "Si seguramente pero rayada asi no esta, igual te envio un video ma\u00c3\u00b1ana en la ma\u00c3\u00b1ana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julio Jaimes",
+      "timestamp_ms": 1765120405580,
+      "content": "Si es lo q mas me llam\u00c3\u00b3 la atenci\u00c3\u00b3n entonces es suciedad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765120241850,
+      "content": "Aah no rayada no esta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julio Jaimes",
+      "timestamp_ms": 1765120108980,
+      "content": "Si me refiero a eso qt mand\u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julio Jaimes",
+      "timestamp_ms": 1765120099146,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/julionotebooki710thultrarapida202316gbramssdd_1146725570836728/photos/4359836860912761.jpg",
+          "creation_timestamp": 1765120098
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765120027310,
+      "content": "En principio es sucio, y si ma\u00c3\u00b1ana ire, si quieres te mando un video apenas llegue",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julio Jaimes",
+      "timestamp_ms": 1765119895335,
+      "content": "Ma\u00c3\u00b1ana es festivo creo igual abres el local ?\n\n\n@Diego Lanza veo eb la primera foto de la hp la pantalla como rayada... es rayada o sucio?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765118835498,
+      "content": "Osea ma\u00c3\u00b1ana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765118795410,
+      "content": "Esa HP pasa que la deje en el local, y no voy hasta el lunes jajaja, el lunes desde las 9am ya podria entregarte esa HP",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julio Jaimes",
+      "timestamp_ms": 1765118704580,
+      "content": "Voy a verla",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julio Jaimes",
+      "timestamp_ms": 1765118702256,
+      "content": "Hola diego",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765118549723,
+      "content": "Me avisas si te interesa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765118543108,
+      "content": "320mil asi con 16gb de RAM. Si me das 360mil te la puedo dejar con 32GB de RAM.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765118495726,
+      "content": "Este es el unico modelo que me queda que aguanta 64GB de RAM, es HP de 15\", tiene 2 modulos de ram, el procesador que tiene aguanta 64GB de RAM.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765118419590,
+      "content": "https://www.facebook.com/share/1PqTMpjE9U/",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julio Jaimes",
+      "timestamp_ms": 1765113840471,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/julionotebooki710thultrarapida202316gbramssdd_1146725570836728/audio/1556289791963994.mp4",
+          "creation_timestamp": 1765113839
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765113648222,
+      "content": "Hola Julio buen dia, comenteme nos veremos hoy en grecia?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765085577721,
+      "content": "Y el disco no se esactamente pero minimo 2tb por cada slot minimo, osea minimo 4teras en totald",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765085493978,
+      "content": "La ram maxima es 64GB",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julio Jaimes",
+      "timestamp_ms": 1765083013991,
+      "content": "Ah ya @Diego Lanza \n\n\nOtra pregunta \n\nCual.es limited maximo de ram  y ssd q soporta?",
+      "share": {
+        "link": "http://cual.es/",
+        "share_text": "Si quieres obtener m\u00c3\u00a1s informaci\u00c3\u00b3n para crear tu propio proyecto online, consulta nuestros productos en la parte inferior."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765082731246,
+      "content": "Si tiene 2 entradas de disco, un m.2 extraible y expandible (que ees la que tiene de 256gb), y ademas tiene una segunda entrada para un disco 2.5\" ssdd o disco duro disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julio Jaimes",
+      "timestamp_ms": 1765082591037,
+      "content": "Entiendo bueno por el.precio esta bn, se puede expandir o es soldado?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765082544386,
+      "content": "De 256gb estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julio Jaimes",
+      "timestamp_ms": 1765082375525,
+      "content": "Julio reaccion\u00c3\u00b3 \u00f0\u009f\u0091\u008d a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julio Jaimes",
+      "timestamp_ms": 1765082364445,
+      "content": "De xuanto es el ssdd?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765081933803,
+      "content": "Y cargador original tipo C",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765081919772,
+      "content": "Bateria buena, como nueva",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765081911464,
+      "content": "Esta 100% operativo, sonido, wifi, pantalla Full HD, teclado, mouse, esta todo funcionando perfecto",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Julio Jaimes"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julio Jaimes",
+      "timestamp_ms": 1765081569818,
+      "content": "Esta 100% operativo?\n\nAlg\u00c3\u00ban detalle,  falla.??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julio Jaimes",
+      "timestamp_ms": 1765081548258,
+      "content": "Me.parece super bien @Diego Lanza",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765081348930,
+      "content": "Te parece vernos en metro grecia y la revisas y todo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julio Jaimes",
+      "timestamp_ms": 1765080930194,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julio Jaimes",
+      "timestamp_ms": 1765080927229,
+      "content": "Soy de pe\u00c3\u00b1alolen @Diego Lanza cerca de los presidentes o metro grecia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765080877062,
+      "content": "De que comuna eres?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765080869354,
+      "content": "Hola estimado, le parece 270mil? Ma\u00c3\u00b1ana domingo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julio Jaimes",
+      "timestamp_ms": 1765080139432,
+      "content": "En mi mente y en mi bolsillo jaja te puedo dar 250.000 ma\u00c3\u00b1ana domingo amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765074573116,
+      "content": "El precio es el publicado, pero estoy abierto a una oferta razonable, que tenias en mente?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julio Jaimes",
+      "timestamp_ms": 1765074386038,
+      "content": "Hola @Diego Lanza buenas noches \u00f0\u009f\u0099\u0082 \n\nUn placer amigo..\n\n\nCuanto es lo menos que la dejas ??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765073164503,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julio Jaimes",
+      "timestamp_ms": 1765068865841,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julio Jaimes",
+      "timestamp_ms": 1765068862715,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julio Jaimes",
+      "timestamp_ms": 1765068862475,
+      "content": "Julio inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Julio \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/julionotebooki710thultrarapida202316gbramssdd_1146725570836728",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

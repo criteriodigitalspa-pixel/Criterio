@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Ciro Marco Valenzuela Sagredo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1758404765295,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ciro Marco Valenzuela Sagredo",
+      "timestamp_ms": 1757095785419,
+      "content": "Pens\u00c3\u00a9 que ten\u00c3\u00ada m\u00c3\u00a1s\u00e2\u0080\u00a6 la verdad es que lo necesito para editar videos\u00e2\u0080\u00a6 utilizo Sony vegas pro\u00e2\u0080\u00a6 por ende al hacer el proceso yo creo que no me servir\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757071967172,
+      "content": "1gb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757071961256,
+      "content": "Hola. S\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para que lo pruebes con toda la calma del mundo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ciro Marco Valenzuela Sagredo",
+      "timestamp_ms": 1757049957298,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ciro Marco Valenzuela Sagredo",
+      "timestamp_ms": 1757049955377,
+      "content": "Cu\u00c3\u00a1ntos gb tiene en video?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ciro Marco Valenzuela Sagredo",
+      "timestamp_ms": 1757049955171,
+      "content": "Ciro Marco inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ciro Marco \u00c2\u00b7 Notebook Ryzen 7PRO / 16GB RAM / SSDD / Thinkpad / a\u00c3\u00b1o 2023 / Gamer",
+  "is_still_participant": true,
+  "thread_path": "inbox/ciromarconotebookryzen7pro16gbramssddthinkpadano2023gamer_1124371852973586",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

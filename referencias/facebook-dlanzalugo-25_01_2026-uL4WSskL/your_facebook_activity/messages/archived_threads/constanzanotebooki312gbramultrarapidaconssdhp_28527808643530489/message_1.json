@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Constanza Piticar"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740879745094,
+      "content": "De 6tha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740879743770,
+      "content": "Holaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Constanza Piticar",
+      "timestamp_ms": 1740879578766,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Constanza Piticar",
+      "timestamp_ms": 1740879572542,
+      "content": "Hola, que generaci\u00c3\u00b3n es?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Constanza Piticar",
+      "timestamp_ms": 1740879572067,
+      "content": "Constanza inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Constanza \u00c2\u00b7 Notebook i3 12GB RAM Ultra Rapida con SSD HP",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/constanzanotebooki312gbramultrarapidaconssdhp_28527808643530489",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

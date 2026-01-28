@@ -1,0 +1,119 @@
+{
+  "participants": [
+    {
+      "name": "Bayron Acosta"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728779577504,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/bayronnotebookhpultrarapidaypotentecorei58gbramsinusoestacomonueva_8564980873580571/photos/933247845525588.jpg",
+          "creation_timestamp": 1728779575
+        },
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/bayronnotebookhpultrarapidaypotentecorei58gbramsinusoestacomonueva_8564980873580571/photos/501965226160799.jpg",
+          "creation_timestamp": 1728779576
+        },
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/bayronnotebookhpultrarapidaypotentecorei58gbramsinusoestacomonueva_8564980873580571/photos/554300807071354.jpg",
+          "creation_timestamp": 1728779576
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728779559232,
+      "content": "Amigo esta la vendi, pero tengo otra muy similar en 100mil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bayron Acosta",
+      "timestamp_ms": 1728740186044,
+      "content": "Pero puedo llegar es a 120 amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bayron Acosta",
+      "timestamp_ms": 1728740143395,
+      "content": "Si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728733968069,
+      "content": "Le intereso?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bayron Acosta",
+      "timestamp_ms": 1728678744885,
+      "content": "Ya",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728678600126,
+      "content": "130 minimo amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bayron Acosta",
+      "timestamp_ms": 1728678458255,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bayron Acosta",
+      "timestamp_ms": 1728678454379,
+      "content": "Hola acelga 110mill pesos para hoy mismo ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bayron Acosta",
+      "timestamp_ms": 1728678453991,
+      "content": "Bayron Acosta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bayron Acosta",
+      "timestamp_ms": 1728678451671,
+      "content": "Bayron asign\u00c3\u00b3 al grupo el nombre \"Bayron \u00c2\u00b7 NOTEBOOK HP ULTRA RAPIDA Y POTENTE  CORE I5 8GB RAM, SIN USO ESTA COMO NUEVA\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bayron Acosta",
+      "timestamp_ms": 1728678451671,
+      "content": "Bayron cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bayron \u00c2\u00b7 NOTEBOOK HP ULTRA RAPIDA Y POTENTE  CORE I5 8GB RAM, SIN USO ESTA COMO NUEVA",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/bayronnotebookhpultrarapidaypotentecorei58gbramsinusoestacomonueva_8564980873580571",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728888839272,
+      "content": "Ver publicaciones similares",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andi Teran Santos",
+      "timestamp_ms": 1728761713567,
+      "content": "Andi Teran Santos abandon\u00c3\u00b3 el grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andi Teran Santos",
+      "timestamp_ms": 1728759318916,
+      "content": "Listo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728759312173,
+      "content": "Vale paso gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andi Teran Santos",
+      "timestamp_ms": 1728759287741,
+      "content": "Para hoy 280",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andi Teran Santos",
+      "timestamp_ms": 1728759284183,
+      "content": "Impecable",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andi Teran Santos",
+      "timestamp_ms": 1728759281011,
+      "content": "Ola buenas tardes 300",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728759235832,
+      "content": "Precio?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728759233256,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Notebook HP 15-DY5000LA I5-1235U RAM 8GB SSD 512GB 15.6\"\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728759233256,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook HP 15-DY5000LA I5-1235U RAM 8GB SSD 512GB 15.6\"",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebookhp15dy5000lai51235uram8gbssd512gb156_8346061362168514",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1259518761725986.jpg",
+    "creation_timestamp": 1728759232
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

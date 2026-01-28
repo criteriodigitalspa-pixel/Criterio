@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Rophones CL"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753528654441,
+      "content": "Ver publicaciones similares",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rophones CL",
+      "timestamp_ms": 1753409062367,
+      "content": "No gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753399051626,
+      "content": "90 y lo voy a Buscar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rophones CL",
+      "timestamp_ms": 1753398992020,
+      "content": "No amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1753398947639,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Hp 240 g7 notebook",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegohp240g7notebook_23958796663742162",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1063014472613754.jpg",
+    "creation_timestamp": 1753398943
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

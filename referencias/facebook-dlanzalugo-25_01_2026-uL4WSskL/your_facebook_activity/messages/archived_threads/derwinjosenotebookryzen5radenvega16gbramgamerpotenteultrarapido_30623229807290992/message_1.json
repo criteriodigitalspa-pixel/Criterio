@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Derwin Jose Lastra Gil"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750565736861,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750543612504,
+      "content": "En la ultima foto esta el modelo de procesador exacto y graficas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750543598622,
+      "content": "Holaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Derwin Jose Lastra Gil",
+      "timestamp_ms": 1750541854689,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Derwin Jose Lastra Gil",
+      "timestamp_ms": 1750541848173,
+      "content": "Hola, de que generaci\u00c3\u00b3n es?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Derwin Jose Lastra Gil",
+      "timestamp_ms": 1750541847828,
+      "content": "Derwin Jose inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Derwin Jose \u00c2\u00b7 Notebook RYZEN 5 / RADEN VEGA / 16GB RAM / GAMER / Potente ultra Rapido",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/derwinjosenotebookryzen5radenvega16gbramgamerpotenteultrarapido_30623229807290992",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

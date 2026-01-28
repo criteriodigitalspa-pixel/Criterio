@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Davo King"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767536078687,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Davo King",
+      "timestamp_ms": 1767432908502,
+      "content": "Davo est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Davo King",
+      "timestamp_ms": 1767406271101,
+      "content": "Davo King te envi\u00c3\u00b3 un mensaje sobre tu publicaci\u00c3\u00b3n: Ultra Delgado Notebook HP Folio  / i5.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Davo King",
+      "timestamp_ms": 1767406267065,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Davo King",
+      "timestamp_ms": 1767406266821,
+      "content": "Davo inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Davo \u00c2\u00b7 Ultra Delgado Notebook HP Folio  / i5",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/davoultradelgadonotebookhpfolioi5_734553872602947",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

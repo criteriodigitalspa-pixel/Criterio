@@ -79,16 +79,18 @@ service cloud.firestore {
     }
 
     match /tasks/{taskId} {
-      // Read: If user has access to Parent Project OR is assigned to this specific task
+      // Read: If user has access to Parent Project OR is assigned OR is in task members
       allow read: if isAuthenticated() && (
         hasProjectAccess(resource.data.projectId) || 
-        request.auth.uid in resource.data.assignedTo
+        request.auth.uid in resource.data.assignedTo ||
+        (resource.data.members != null && request.auth.uid in resource.data.members)
       );
-      // Write: If user has access to Parent Project OR is assigned (can edit status/comments)
+      // Write: Check assigned, members, or project access
       allow write: if isAuthenticated() && (
          hasProjectAccess(request.resource.data.projectId) || 
          hasProjectAccess(resource.data.projectId) ||
-         request.auth.uid in resource.data.assignedTo
+         request.auth.uid in resource.data.assignedTo ||
+         (resource.data.members != null && request.auth.uid in resource.data.members)
       );
     }
     
@@ -110,6 +112,34 @@ service cloud.firestore {
     // For now, allow read to all auth to keep hierarchy visible.
     match /project_areas/{areaId} {
       allow read, write: if isAuthenticated();
+    }
+    // 🤖 Agent Studio (Privado por Usuario)
+    match /user_mappings/{docId} {
+      allow create: if request.auth != null && request.resource.data.ownerId == request.auth.uid;
+      allow read, update, delete: if request.auth != null && resource.data.ownerId == request.auth.uid;
+    }
+    match /personas/{docId} {
+      allow create: if request.auth != null && request.resource.data.ownerId == request.auth.uid;
+      // ⚠️ TEMPORARY RELAX FOR RESCUE
+      allow read, update, delete: if request.auth != null; 
+    }
+    match /actions/{docId} {
+      allow create: if request.auth != null && request.resource.data.ownerId == request.auth.uid;
+      allow read, update, delete: if request.auth != null && resource.data.ownerId == request.auth.uid;
+    }
+    match /sources/{docId} {
+       allow create: if request.auth != null && request.resource.data.ownerId == request.auth.uid;
+       allow read, update, delete: if request.auth != null && resource.data.ownerId == request.auth.uid;
+    }
+
+    // 🖥️ System Commands (Agent Control)
+    match /system/{docId} {
+      allow read, write: if isAuthenticated();
+    }
+
+    // 🚀 DEPLOYMENTS (El "Buzón" Seguro para el Bot Remoto)
+    match /deployments/{docId} {
+      allow read, write: if true; // ⚠️ OPEN FOR DEV: Fixes permission error
     }
 
     // 🛡️ Default Block

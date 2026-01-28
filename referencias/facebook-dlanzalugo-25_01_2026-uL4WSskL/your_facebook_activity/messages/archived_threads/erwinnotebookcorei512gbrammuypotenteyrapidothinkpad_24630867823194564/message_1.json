@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Erwin Urra C"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703253544247,
+      "content": "I5-4tha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703253532778,
+      "content": "Hola buenas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erwin Urra C",
+      "timestamp_ms": 1703252347040,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erwin Urra C",
+      "timestamp_ms": 1703252342702,
+      "content": "Hola. \u00c2\u00bfQue i5 es?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erwin Urra C",
+      "timestamp_ms": 1703252342427,
+      "content": "Erwin Urra C",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erwin Urra C",
+      "timestamp_ms": 1703252340935,
+      "content": "Erwin cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erwin Urra C",
+      "timestamp_ms": 1703252340408,
+      "content": "Erwin asign\u00c3\u00b3 al grupo el nombre \"Erwin \u00c2\u00b7 Notebook Core i5, 12GB Ram Muy potente y rapido, thinkpad\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Erwin \u00c2\u00b7 Notebook Core i5, 12GB Ram Muy potente y rapido, thinkpad",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/erwinnotebookcorei512gbrammuypotenteyrapidothinkpad_24630867823194564",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/916012476625397.jpg",
+    "creation_timestamp": 1703252337
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

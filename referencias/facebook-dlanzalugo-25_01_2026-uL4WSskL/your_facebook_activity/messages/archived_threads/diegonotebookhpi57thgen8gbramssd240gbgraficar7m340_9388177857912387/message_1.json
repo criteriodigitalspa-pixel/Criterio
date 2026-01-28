@@ -1,0 +1,576 @@
+{
+  "participants": [
+    {
+      "name": "Benjamin Huenulef"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738468158385,
+      "content": "Benjamin vendi\u00c3\u00b3 Notebook hp i5 7th gen//8GB ram//SSD\n240GB// Grafica R7 M340.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738468154281,
+      "content": "Benjamin marc\u00c3\u00b3 el art\u00c3\u00adculo como vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738373232038,
+      "content": "Aaa redy mano",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738373197358,
+      "content": "Pero la formateare apenas llegue a la casa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738373185003,
+      "content": "Aun no la uso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738373182757,
+      "content": "Hola bro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738371713738,
+      "content": "Creo k no saque mi cuenta de discord xd",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738371708665,
+      "content": "Ola bro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738361076812,
+      "content": "Toi con mi bro ando con mochila",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738360644688,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738360638242,
+      "content": "No la otra",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738360631949,
+      "content": "Tienes que ir a la Salida de Av Departamental",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738360624832,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738360619061,
+      "content": "Te veo en los torniquetes de estacion Macul",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738360596892,
+      "videos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/diegonotebookhpi57thgen8gbramssd240gbgraficar7m340_9388177857912387/videos/510129245524814.mp4",
+          "creation_timestamp": 1738360590
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738360582894,
+      "content": "Dale estoy a 10 min yo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738360573290,
+      "content": "De hecho estoy en vicente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738360567901,
+      "content": "Se me olvido jj",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738360561635,
+      "content": "Llegue",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738360559991,
+      "content": "Roo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738359079616,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738359063459,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/diegonotebookhpi57thgen8gbramssd240gbgraficar7m340_9388177857912387/audio/1130605801612429.mp4",
+          "creation_timestamp": 1738359061
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738358712970,
+      "content": "Dale compita",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738358556492,
+      "content": "Cuando este por llegar a vicente valdez",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738358546436,
+      "content": "Oki",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738358494918,
+      "content": "Dale avisame cuando estes a 15 min",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738358282158,
+      "content": "Soy del sotero del rio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738358274692,
+      "content": "+56937840703",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738358256963,
+      "content": "Sii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738357713715,
+      "content": "En metro macul entonces",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738357702406,
+      "content": "Dale buena",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738357692509,
+      "content": "Y lo llevo sin formatear",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738357679656,
+      "content": "De hecho sacare mis datos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738357674327,
+      "content": "Nada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738357672883,
+      "content": "No manito",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738357650265,
+      "content": "Se nota mucho?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738357513803,
+      "content": "Mmmm desgaste de pl\u00c3\u00a1stico",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738357505437,
+      "content": "Y no se apago",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738357502555,
+      "content": "Que la foto no se aprecia muchi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738357500858,
+      "content": "Lo use 1 horita",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738357498700,
+      "content": "Tiene algun detalle estetico?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738357495446,
+      "content": "Harto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738357491263,
+      "content": "Y lo ultimo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738357489817,
+      "content": "Sabes cuanto le dura la bateria?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738357473784,
+      "content": "Dime la hora no mas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738357464332,
+      "content": "Hoy mismo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738357462299,
+      "content": "Ya mano",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738357460646,
+      "content": "Si no ma\u00c3\u00b1ana igual esta bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738357454697,
+      "content": "Bro si puedes hoy en entacion Macul te la compro en 90",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738356971088,
+      "content": "Puedes subirle el dis o duro creo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738356964752,
+      "content": "Pero pude jugar gta san andreas bien y roblox",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738356948965,
+      "content": "Y no pude :(",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738356945483,
+      "content": "Intente jugar cs go 2",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738356939609,
+      "content": "Quiz\u00c3\u00a1s hoy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738356933136,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738356931450,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/diegonotebookhpi57thgen8gbramssd240gbgraficar7m340_9388177857912387/photos/1234641948078812.jpg",
+          "creation_timestamp": 1738356930
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Diego Lanza",
+          "timestamp": 1738356937
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738356926432,
+      "content": "Cuando puedes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738356924131,
+      "content": "Vale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738356923408,
+      "content": "Si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738356918791,
+      "content": "1 de 8 creo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738356911451,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/diegonotebookhpi57thgen8gbramssd240gbgraficar7m340_9388177857912387/photos/9303274353049007.jpg",
+          "creation_timestamp": 1738356910
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738356906864,
+      "content": "Consulta, sabes si las 8 de ram son 1 de 8gb o 2 de 4?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738356896122,
+      "content": "Vale no hay problema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738356883216,
+      "content": "Esta sin caja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738356881190,
+      "content": "Si rey",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738356874166,
+      "content": "Entregarias en metro macul amigo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738356830013,
+      "content": "Acepto tus 90$",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738356822289,
+      "content": "\u00f0\u009f\u0098\u0090\u00f0\u009f\u0098\u0090\u00f0\u009f\u0098\u0090",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738356816149,
+      "content": "Me equivoque",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738356813486,
+      "content": "Los acepto manito",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738356810282,
+      "content": "Benjamin rechaz\u00c3\u00b3 tu oferta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738356470866,
+      "content": "Ten\u00c3\u00ada pensado en 100",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Benjamin Huenulef",
+      "timestamp_ms": 1738356461363,
+      "content": "Deja ver si puedo aceptar nano",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738355925584,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook hp i5 7th gen//8GB ram//SSD\n240GB// Grafica R7 M340",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebookhpi57thgen8gbramssd240gbgraficar7m340_9388177857912387",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/605688445581427.jpg",
+    "creation_timestamp": 1738355922
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

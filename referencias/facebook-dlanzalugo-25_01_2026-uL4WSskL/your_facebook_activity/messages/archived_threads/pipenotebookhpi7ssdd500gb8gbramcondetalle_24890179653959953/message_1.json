@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Pipe Andres"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pipe Andres",
+      "timestamp_ms": 1709345004652,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pipe Andres",
+      "timestamp_ms": 1709345000204,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pipe Andres",
+      "timestamp_ms": 1709345000037,
+      "content": "Pipe Andres",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pipe Andres",
+      "timestamp_ms": 1709344998060,
+      "content": "Pipe cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pipe Andres",
+      "timestamp_ms": 1709344997473,
+      "content": "Pipe asign\u00c3\u00b3 al grupo el nombre \"Pipe \u00c2\u00b7 Notebook HP i7 SSDD 500gb 8GB RAM con Detalle\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Pipe \u00c2\u00b7 Notebook HP i7 SSDD 500gb 8GB RAM con Detalle",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/pipenotebookhpi7ssdd500gb8gbramcondetalle_24890179653959953",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/380244567970093.jpg",
+    "creation_timestamp": 1709344995
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

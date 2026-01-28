@@ -1,0 +1,588 @@
+{
+  "participants": [
+    {
+      "name": "Alex Matias Monardez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757042674494,
+      "content": "Ver publicaciones similares",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Matias Monardez",
+      "timestamp_ms": 1756924275556,
+      "content": "Alex envi\u00c3\u00b3 un archivo adjunto.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Matias Monardez",
+      "timestamp_ms": 1756924273912,
+      "content": "El vendedor vendi\u00c3\u00b3 Notebook semi gamer lenovo 8gb, 256gb ssd.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Matias Monardez",
+      "timestamp_ms": 1756924262453,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/diegonotebooksemigamerlenovo8gb256gbssd_2201017100390574/audio/2112411955918946.mp4",
+          "creation_timestamp": 1756924259
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756924213262,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/diegonotebooksemigamerlenovo8gb256gbssd_2201017100390574/photos/662085616359883.jpg",
+          "creation_timestamp": 1756924211
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756923974638,
+      "content": "Dale cierra con el no mas muchas gracias!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Matias Monardez",
+      "timestamp_ms": 1756923922117,
+      "content": "Ya lo esta viendo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Matias Monardez",
+      "timestamp_ms": 1756923725942,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/diegonotebooksemigamerlenovo8gb256gbssd_2201017100390574/audio/1112711734159866.mp4",
+          "creation_timestamp": 1756923723
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756923699172,
+      "content": "Dale me avisas no mas cuando llegues para decirle que este pendiente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Matias Monardez",
+      "timestamp_ms": 1756923306359,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/diegonotebooksemigamerlenovo8gb256gbssd_2201017100390574/audio/1539874670336141.mp4",
+          "creation_timestamp": 1756923302
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Matias Monardez",
+      "timestamp_ms": 1756923261874,
+      "videos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/diegonotebooksemigamerlenovo8gb256gbssd_2201017100390574/videos/759918337021035.mp4",
+          "creation_timestamp": 1756923250
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Matias Monardez",
+      "timestamp_ms": 1756923202943,
+      "content": "Sii, tampoco me hare el larry jajaja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Matias Monardez",
+      "timestamp_ms": 1756923194568,
+      "content": "Pense que lo habia mejorado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756923192787,
+      "content": "Aah vale dale esta bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Matias Monardez",
+      "timestamp_ms": 1756923184943,
+      "content": "Pq el disco era de 128gb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Matias Monardez",
+      "timestamp_ms": 1756923178680,
+      "content": "Son 95",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756923175943,
+      "content": "Dale no mas, igual el va a revisar alli en torniquetes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Matias Monardez",
+      "timestamp_ms": 1756923173835,
+      "content": "Alex Mat\u00c3\u00adas Mon\u00c3\u00a1rdez Vald\u00c3\u00a9s\nRUT: 193933750\nMercado Pago\nCuenta Vista\nN\u00c3\u00bamero de cuenta: 1050125718\nhomei_1996@hotmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Matias Monardez",
+      "timestamp_ms": 1756923124889,
+      "content": "Dame un momento y te paso la cuenta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Matias Monardez",
+      "timestamp_ms": 1756923110931,
+      "content": "19393375-0",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Matias Monardez",
+      "timestamp_ms": 1756923102996,
+      "videos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/diegonotebooksemigamerlenovo8gb256gbssd_2201017100390574/videos/1323928549113531.mp4",
+          "creation_timestamp": 1756923090
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756922990456,
+      "content": "Si enviame tus datos de la cuenta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Matias Monardez",
+      "timestamp_ms": 1756922978771,
+      "content": "Reaccion\u00c3\u00b3 \u00e2\u009d\u00a4 a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756922976596,
+      "content": "Dale oka",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756922939322,
+      "content": "Poleron gris con, pantalon azul, esta con un ni\u00c3\u00b1o de 5 a\u00c3\u00b1os",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alex Matias Monardez"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Matias Monardez",
+      "timestamp_ms": 1756922924946,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/diegonotebooksemigamerlenovo8gb256gbssd_2201017100390574/audio/560766753731272.mp4",
+          "creation_timestamp": 1756922922
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756922866627,
+      "content": "Alex ya esta alli",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Matias Monardez",
+      "timestamp_ms": 1756920913617,
+      "content": "Oki",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756920906070,
+      "content": "Te esperara en torniquetes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Matias Monardez",
+      "timestamp_ms": 1756920899709,
+      "content": "Yap",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756920893943,
+      "content": "Deberia llegar tipo 2.10-2.20",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756920875837,
+      "content": "Compi el bro salio un poco antes, va de camino",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Matias Monardez",
+      "timestamp_ms": 1756915165376,
+      "content": "Reaccion\u00c3\u00b3 \u00e2\u009d\u00a4 a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756914567070,
+      "content": "Vale Alex gracias",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Alex Matias Monardez"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Matias Monardez",
+      "timestamp_ms": 1756914534365,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/diegonotebooksemigamerlenovo8gb256gbssd_2201017100390574/audio/726482553725482.mp4",
+          "creation_timestamp": 1756914530
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756914422227,
+      "content": "Tienes numero de telefono?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756914233669,
+      "content": "Que tiene 100mil pesos de hace una semana y lleva dando vueltas como loco",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Matias Monardez",
+      "timestamp_ms": 1756914229312,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/diegonotebooksemigamerlenovo8gb256gbssd_2201017100390574/audio/1546245640065437.mp4",
+          "creation_timestamp": 1756914226
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756914187564,
+      "content": "Y es el quien va a ir a las 2.30 porque no se maneja mucho en marketplace",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756914175926,
+      "content": "Enrealidad es para el hijo de mi cu\u00c3\u00b1ado jajaja. Me pidio que yo cachaba de pcs que le consiguiera uno bueno",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Matias Monardez",
+      "timestamp_ms": 1756914124633,
+      "content": "Da igual si es para la reventa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Matias Monardez",
+      "timestamp_ms": 1756914118728,
+      "content": "Asi sinceramente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756914105018,
+      "content": "Yo creo que tipo 2.30 max estoy en metro parque ohiggins",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Matias Monardez",
+      "timestamp_ms": 1756914094026,
+      "content": "Es para tu hijo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756914085925,
+      "content": "Yaa bkn, si mira a las 2 salgo de colacion y voy volando en metro \u00f0\u009f\u009a\u0087",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Matias Monardez",
+      "timestamp_ms": 1756914083175,
+      "content": "Ahora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Matias Monardez",
+      "timestamp_ms": 1756914060727,
+      "content": "Jajja est\u00c3\u00a1 pendiente y me siguen hablando",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Matias Monardez",
+      "timestamp_ms": 1756914048304,
+      "content": "Te lo llevo cargado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Matias Monardez",
+      "timestamp_ms": 1756914042549,
+      "content": "A las 14 entonces",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Matias Monardez",
+      "timestamp_ms": 1756914038872,
+      "content": "No me respondi\u00c3\u00b3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Matias Monardez",
+      "timestamp_ms": 1756914035155,
+      "content": "Ya. Dale. Sera tuyo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756913925223,
+      "content": "Si si igual se entiende que esta usado los detallitos si es para el cabro entonces creeme que si tiene un detallito no le importara mucho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Matias Monardez",
+      "timestamp_ms": 1756913860499,
+      "content": "Alex envi\u00c3\u00b3 un archivo adjunto.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Matias Monardez",
+      "timestamp_ms": 1756913855112,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/diegonotebooksemigamerlenovo8gb256gbssd_2201017100390574/audio/2174957886339565.mp4",
+          "creation_timestamp": 1756913851
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756913803351,
+      "content": "Lleva como una semana buscando",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756913794663,
+      "content": "Es para mi hijo y justo esa le gusto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756913770859,
+      "content": "Dale estoy atento",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Matias Monardez",
+      "timestamp_ms": 1756913752258,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/diegonotebooksemigamerlenovo8gb256gbssd_2201017100390574/audio/1931257667664282.mp4",
+          "creation_timestamp": 1756913749
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756913708152,
+      "content": "100% seguro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756913705636,
+      "content": "Sin falta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756913703857,
+      "content": "A las 2pm confirmado puedo estar en metro parque ohiggins",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Matias Monardez",
+      "timestamp_ms": 1756913594986,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/diegonotebooksemigamerlenovo8gb256gbssd_2201017100390574/audio/773311881947792.mp4",
+          "creation_timestamp": 1756913591
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Matias Monardez",
+      "timestamp_ms": 1756913593728,
+      "content": "El vendedor marc\u00c3\u00b3 la publicaci\u00c3\u00b3n como Pendiente.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756913345059,
+      "content": "Me avisa que estoy interesado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756913186011,
+      "content": "A que hora puede?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Matias Monardez",
+      "timestamp_ms": 1756913156121,
+      "content": "Meta podr\u00c3\u00ada usar tecnolog\u00c3\u00ada para revisar los mensajes de Marketplace con el fin de detectar y reducir las estafas y el fraude.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alex Matias Monardez",
+      "timestamp_ms": 1756913154018,
+      "content": "Metro parque ohiggins",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756913073304,
+      "content": "Hola me interesa, donde entrega?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756913029616,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1756913029438,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook semi gamer lenovo 8gb, 256gb ssd",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebooksemigamerlenovo8gb256gbssd_2201017100390574",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1397978591285369.jpg",
+    "creation_timestamp": 1756913027
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

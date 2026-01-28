@@ -1,0 +1,454 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Hombre Zecta"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Hombre Zecta",
+      "timestamp_ms": 1765417384794,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hombre Zecta",
+      "timestamp_ms": 1764864552167,
+      "content": "Vale , hoy hay feria ... Pero si viene en veh\u00c3\u00adculo puede quedar en los pasajes de aqu\u00c3\u00ad mismo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764864493205,
+      "content": "Estimado voy llegando",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hombre Zecta",
+      "timestamp_ms": 1764861771034,
+      "content": "Si , no hay problema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764861753713,
+      "content": "Vale puedo pasar ahora en unos 30 minutos?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hombre Zecta",
+      "timestamp_ms": 1764861730344,
+      "content": "Hola amigo , disculpe no escuch\u00c3\u00a9... Es que trabajo de noche .pero si estar\u00c3\u00a9 todo el d\u00c3\u00ada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764861343331,
+      "content": "Le estuve llamando",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764859929007,
+      "content": "Para pasar a realizar el cambii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764859919172,
+      "content": "Estara en su domicilio a eso de las 12.30?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764859906904,
+      "content": "Estimado buenas tardes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hombre Zecta",
+      "timestamp_ms": 1764794645649,
+      "content": "Ok gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764794590200,
+      "content": "Gracias a ti, ma\u00c3\u00b1ana en la ma\u00c3\u00b1ana te confirmo horario",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hombre Zecta",
+      "timestamp_ms": 1764794449874,
+      "content": "Gracias amigo exelente servicio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764794310357,
+      "content": "Estimado disculpa, acabo de revisar y te envie el notebook con 8GB de RAM, le compensare el error actualizandole ese equipo a 16GB de RAM. Le escribire ma\u00c3\u00b1ana para coordinar una visita y realizarte la mejora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hombre Zecta",
+      "timestamp_ms": 1764794286706,
+      "content": "Amigo , el de mi hijo ten\u00c3\u00ada solo 8 de ram .. y se supone que eran 12 \u00f0\u009f\u00a4\u00b7 lo dej\u00c3\u00a9 igual pero como podemos hacer algo con eso ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hombre Zecta",
+      "timestamp_ms": 1764791855710,
+      "content": "Gracias \u00f0\u009f\u00ab\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764791704889,
+      "content": "No no jajaja, si el lo llamara cuando este cerca",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hombre Zecta",
+      "timestamp_ms": 1764791691908,
+      "content": "Aaa genial , pens\u00c3\u00a9 que lo hab\u00c3\u00ada vendido por otro lado ... gracias estoy atento",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764791665158,
+      "content": "Con mos 2 computadores",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764791660572,
+      "content": "Si estimado va de camino mi papa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hombre Zecta",
+      "timestamp_ms": 1764791641462,
+      "content": "Ya vienen amigo ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764791620161,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hombre Zecta",
+      "timestamp_ms": 1764774329250,
+      "content": "Si , hoy estoy todo el d\u00c3\u00ada .estar\u00c3\u00a9 pendiente,",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764774294571,
+      "content": "Leandro, entre 4pm y 5pm esta en tu domicilio, te llamara cuando este de camino",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hombre Zecta",
+      "timestamp_ms": 1764773261767,
+      "content": "Ok , gracias Diego",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764772121501,
+      "content": "Perfecto Leonardo, coordinare con mi papa y te confirmo la hora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hombre Zecta",
+      "timestamp_ms": 1764769861933,
+      "content": "Leonardo guerrero",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hombre Zecta",
+      "timestamp_ms": 1764769856873,
+      "content": "Ese es mi WhatsApp por si lo necesita",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hombre Zecta",
+      "timestamp_ms": 1764769839500,
+      "content": "+56951244443",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hombre Zecta",
+      "timestamp_ms": 1764769712831,
+      "content": "Casa de esquina",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hombre Zecta",
+      "timestamp_ms": 1764769703162,
+      "content": "Av Los nogales 9548 el bosque",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764769587805,
+      "content": "Y le confirmo el horario",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764769540361,
+      "content": "Deme la direccion no mas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hombre Zecta",
+      "timestamp_ms": 1764769404553,
+      "content": "Entonces se lo agradecer\u00c3\u00ada mucho , yo tengo el dinero en efectivo \u00f0\u009f\u0099\u008f y tengo a mi mujer enferma por eso no quiero dejarla sola mucho rato",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764769338192,
+      "content": "No nada tranqui, sin costo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hombre Zecta",
+      "timestamp_ms": 1764769303182,
+      "content": "Y eso cu\u00c3\u00a1nto saldr\u00c3\u00ada ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764769257615,
+      "content": "Ahora si te acomoda, mi papa hace uber, y puedo pedirle que durante el dia te lo vaya a dejar a tu domicilio si te acomoda",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764769231803,
+      "content": "Mira yo estoy trabajando en un local en providencia, en el centro comercial madrid, estare alli todo el dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hombre Zecta",
+      "timestamp_ms": 1764768448335,
+      "content": "C\u00c3\u00b3mo lo hacemos para ir por ellos ? yo soy del bosque igual tengo una torito como para ir",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hombre Zecta",
+      "timestamp_ms": 1764767836742,
+      "content": "Est\u00c3\u00a1 bien me parece perfecto amigo \u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764767798352,
+      "content": "Mira lo mejor que puedo hacer por ambos, a buen precio, 360mil por los 2",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hombre Zecta",
+      "timestamp_ms": 1764767683163,
+      "content": "Ya amigo , entonces cu\u00c3\u00a1nto ser\u00c3\u00adan ambos ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764767440370,
+      "content": "https://www.facebook.com/share/16MwLDrwrC/",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764767438068,
+      "content": "Justo por los 200 tengo esta Lenovo i5-10th, esta como nueva con su cargador original igual",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hombre Zecta",
+      "timestamp_ms": 1764767300195,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hombre Zecta",
+      "timestamp_ms": 1764767297241,
+      "content": "200 de presupuesto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764767229539,
+      "content": "Aah perfecto igual es buena dedicion, entonces, necesitas un segundo para tu hijo, cual es el presupeusto que tienes para el segundo equipo? Asi te recomiendo alguno que te acomode mas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hombre Zecta",
+      "timestamp_ms": 1764767120370,
+      "content": "No amigo ..a m\u00c3\u00ad me gust\u00c3\u00b3 el de 190 ... No dispongo de tanto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764766775232,
+      "content": "Igual puedes pasar a probarlos sin problema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764766768789,
+      "content": "Podria hacerte precio un buen precio por los 2 si te interesara",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764766730665,
+      "content": "https://www.facebook.com/share/1BCgXUFpLw/",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764766707617,
+      "content": "Ahora para ti pars tu home studio, te recomendaria algo un poco mas robusto, se que se aleja un poco del precio de este pero el Lenovo Thinkpad es un equipo de primera categoria",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764766609663,
+      "content": "Yo el equipo de esta publicacion te lo recomendaria para tu hijo, funciona super bien, es rapido, potente, no tendra problemas para estudiar y tener muchos programas abiertos, incluso hasta jugar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764766545693,
+      "content": "Perfecto entonces necesitas 2, uno que sea mas para estudio, y otro mas para trabajo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764766493737,
+      "content": "Hola estimado disculpa no vi su msj",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hombre Zecta",
+      "timestamp_ms": 1764766015128,
+      "content": "Hola ??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hombre Zecta",
+      "timestamp_ms": 1764730842870,
+      "content": "Si le compro 2 me har\u00c3\u00ada un precio ? Que ese es perfecto para mi Home studio y el otro ser\u00c3\u00ada para m\u00c3\u00ad hijo ... Para jugar y algo de trabajos del liceo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764729454267,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hombre Zecta",
+      "timestamp_ms": 1764729447338,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hombre Zecta",
+      "timestamp_ms": 1764729443835,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hombre Zecta",
+      "timestamp_ms": 1764729443709,
+      "content": "Hombre inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Hombre \u00c2\u00b7 Rapido Notebook HP i5 / 16GB RAM + SSDD / Ultra Potente ENCIENDE EN SEGUNDOS",
+  "is_still_participant": true,
+  "thread_path": "inbox/hombrerapidonotebookhpi516gbramssddultrapotenteenciendeensegundos_1530771558620184",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

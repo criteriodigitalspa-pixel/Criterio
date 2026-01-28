@@ -1,0 +1,100 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Enviar mensaje con la tecla Enter",
+      "value": "Verdadero"
+    },
+    {
+      "label": "Color del emoji",
+      "value": "0"
+    },
+    {
+      "label": "Notificaciones de conversaciones uno a uno",
+      "value": "Todo"
+    },
+    {
+      "label": "Debe usarse la programaci\u00c3\u00b3n de No molestar",
+      "value": "Falso"
+    },
+    {
+      "label": "Hora de inicio del modo \"No molestar\" pasada la medianoche",
+      "value": "0"
+    },
+    {
+      "label": "Hora de finalizaci\u00c3\u00b3n del modo \"No molestar\" pasada la medianoche",
+      "value": "0"
+    },
+    {
+      "label": "Notificaciones de conversaciones en grupo",
+      "value": "Todo"
+    },
+    {
+      "label": "Notificaciones de conversaciones del negocio",
+      "value": "Todo"
+    },
+    {
+      "label": "Notificaciones de conversaciones de Marketplace",
+      "value": "Todo"
+    },
+    {
+      "label": "Notificaciones de reacciones",
+      "value": "Verdadero"
+    },
+    {
+      "label": "Mensajes de amigos en com\u00c3\u00ban"
+    },
+    {
+      "label": "Mensajes de amigos en com\u00c3\u00ban"
+    },
+    {
+      "label": "Mensajes de amigos en com\u00c3\u00ban"
+    },
+    {
+      "label": "Mensajes de personas del mismo grupo de Facebook"
+    },
+    {
+      "label": "Mensajes de personas del mismo grupo de Facebook"
+    },
+    {
+      "label": "Mensajes de personas del mismo grupo de Facebook"
+    },
+    {
+      "label": "Configuraci\u00c3\u00b3n de personas que tienen tu n\u00c3\u00bamero de tel\u00c3\u00a9fono"
+    },
+    {
+      "label": "Configuraci\u00c3\u00b3n de personas que tienen tu n\u00c3\u00bamero de tel\u00c3\u00a9fono"
+    },
+    {
+      "label": "Configuraci\u00c3\u00b3n de personas que tienen tu n\u00c3\u00bamero de tel\u00c3\u00a9fono"
+    },
+    {
+      "label": "Configuraci\u00c3\u00b3n para mensajes de otras personas en Facebook"
+    },
+    {
+      "label": "Configuraci\u00c3\u00b3n para mensajes de otras personas en Facebook"
+    },
+    {
+      "label": "Configuraci\u00c3\u00b3n para mensajes de otras personas en Facebook"
+    },
+    {
+      "label": "Notificaciones de recordatorios de mensajes no le\u00c3\u00addos",
+      "value": "Falso"
+    },
+    {
+      "label": "Uso compartido de contactos desactivado",
+      "value": "Falso"
+    },
+    {
+      "label": "\u00c2\u00bfQui\u00c3\u00a9n puede compartir tu contacto?",
+      "value": "Cualquier persona"
+    },
+    {
+      "label": "Confirmaciones de lectura desactivadas",
+      "value": "Activado"
+    }
+  ],
+  "fbid": "1122480767866263"
+}

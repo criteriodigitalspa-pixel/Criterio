@@ -1,0 +1,106 @@
+{
+  "participants": [
+    {
+      "name": "Santiago Quiroga"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738615312119,
+      "content": "Si revisa mi perfil podra ver los otros modelos disponibles",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738615300809,
+      "content": "Este se vendio pero tengo otros a la venta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738615293703,
+      "content": "Estimado buenas tardes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Quiroga",
+      "timestamp_ms": 1738342732067,
+      "content": "Estamos en contacto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Quiroga",
+      "timestamp_ms": 1738342726776,
+      "content": "Dale, me parece perfecto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738325947129,
+      "content": "Si claro amigo, si no la vendo antes no hay problema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Quiroga",
+      "timestamp_ms": 1738277603332,
+      "content": "Te comento, yo soy de argentina y la semana que viene viajo para all\u00c3\u00a1, queria saber si podrias hacer el encuentro en la linea 1 metro los heroes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Quiroga",
+      "timestamp_ms": 1738277602164,
+      "content": "Genial",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738277493013,
+      "content": "I7-6th amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Quiroga",
+      "timestamp_ms": 1738277299102,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Quiroga",
+      "timestamp_ms": 1738277294631,
+      "content": "Hola, me podrias decir que generacion el el procesador?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Quiroga",
+      "timestamp_ms": 1738277294251,
+      "content": "Santiago inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Santiago \u00c2\u00b7 Notebook i7 16GB RAM Ultra Potente con SSD ELITEBOOK",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/santiagonotebooki716gbramultrapotenteconssdelitebook_9554329884600675",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Maca Paredes Diaz"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Maca Paredes Diaz",
+      "timestamp_ms": 1757185039925,
+      "content": "Maca vendi\u00c3\u00b3 Vendo Notebook.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757084635022,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757084634837,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Vendo Notebook",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegovendonotebook_2169529833543594",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/774832105278312.jpg",
+    "creation_timestamp": 1757084632
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

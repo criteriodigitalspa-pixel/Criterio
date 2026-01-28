@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Antonio Varas"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Antonio Varas",
+      "timestamp_ms": 1711557518455,
+      "content": "Antonio marc\u00c3\u00b3 la publicaci\u00c3\u00b3n como Disponible.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Antonio Varas",
+      "timestamp_ms": 1703343189980,
+      "content": "Antonio vendi\u00c3\u00b3 Notebook dell latitude 7470 i7 6ta gen.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703291133639,
+      "content": "Ver publicaciones similares",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Antonio Varas",
+      "timestamp_ms": 1703197147045,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Antonio Varas",
+      "timestamp_ms": 1703166562292,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703161530661,
+      "content": "Hola, Antonio. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703161527143,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703161526673,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Notebook dell latitude 7470 i7 6ta gen\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook dell latitude 7470 i7 6ta gen",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebookdelllatitude7470i76tagen_24384843457829007",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/287388793833877.jpg",
+    "creation_timestamp": 1703161524
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

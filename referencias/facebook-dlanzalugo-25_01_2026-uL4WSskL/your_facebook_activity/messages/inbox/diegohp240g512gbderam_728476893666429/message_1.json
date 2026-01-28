@@ -1,0 +1,117 @@
+{
+  "participants": [
+    {
+      "name": "Mathias Vergara"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mathias Vergara",
+      "timestamp_ms": 1768665861552,
+      "content": "Igual est\u00c3\u00a1s al tanto de los detalles?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mathias Vergara",
+      "timestamp_ms": 1768665852227,
+      "content": "Tipo 15:00",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mathias Vergara",
+      "timestamp_ms": 1768665848031,
+      "content": "Podr\u00c3\u00ada ma\u00c3\u00b1ana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mathias Vergara",
+      "timestamp_ms": 1768665844049,
+      "content": "Si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768664863754,
+      "content": "Podrias en metro \u00c3\u0091uble?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mathias Vergara",
+      "timestamp_ms": 1768664500121,
+      "content": "Puedo en cualquier estaci\u00c3\u00b3n de la L5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mathias Vergara",
+      "timestamp_ms": 1768664486206,
+      "content": "Mathias cambi\u00c3\u00b3 la descripci\u00c3\u00b3n de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mathias Vergara",
+      "timestamp_ms": 1768664484830,
+      "content": "Mathias baj\u00c3\u00b3 el precio de Hp 240 G5 12gb de ram a $40.000.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mathias Vergara",
+      "timestamp_ms": 1768664462070,
+      "content": "Mathias cambi\u00c3\u00b3 la descripci\u00c3\u00b3n de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768664425172,
+      "content": "Donde entregas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mathias Vergara",
+      "timestamp_ms": 1768664400170,
+      "content": "S\u00c3\u00ad. \u00c2\u00bfTe interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768349611896,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768349611802,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Hp 240 G5 12gb de ram",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegohp240g512gbderam_728476893666429",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/900918435798281.jpg",
+    "creation_timestamp": 1768349609
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

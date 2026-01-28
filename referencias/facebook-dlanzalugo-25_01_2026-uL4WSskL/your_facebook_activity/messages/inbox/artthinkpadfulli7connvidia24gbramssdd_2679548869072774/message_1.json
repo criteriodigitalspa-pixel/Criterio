@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Art Dermis"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767890440279,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Art Dermis",
+      "timestamp_ms": 1767518764788,
+      "content": "Art est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Art Dermis",
+      "timestamp_ms": 1767489079850,
+      "content": "Art Dermis te envi\u00c3\u00b3 un mensaje sobre tu publicaci\u00c3\u00b3n: Thinkpad Full i7 con NVIDIA /24GB RAM / SSDD /.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Art Dermis",
+      "timestamp_ms": 1767489076601,
+      "content": "350",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Art Dermis",
+      "timestamp_ms": 1767489076249,
+      "content": "Art inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Art \u00c2\u00b7 Thinkpad Full i7 con NVIDIA /24GB RAM / SSDD /",
+  "is_still_participant": true,
+  "thread_path": "inbox/artthinkpadfulli7connvidia24gbramssdd_2679548869072774",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

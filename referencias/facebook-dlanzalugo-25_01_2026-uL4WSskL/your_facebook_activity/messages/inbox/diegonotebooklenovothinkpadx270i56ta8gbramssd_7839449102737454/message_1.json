@@ -1,0 +1,131 @@
+{
+  "participants": [
+    {
+      "name": "Maria J\u00c3\u00b3se Valenzuela Arancibia"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Maria J\u00c3\u00b3se Valenzuela Arancibia",
+      "timestamp_ms": 1703251683983,
+      "content": "Maria vendi\u00c3\u00b3 Notebook Lenovo thinkpad X270 i5 6ta 8GB RAM SSD.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703161941049,
+      "content": "Buenisimo alli me escrinio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria J\u00c3\u00b3se Valenzuela Arancibia",
+      "timestamp_ms": 1703161364849,
+      "content": "Se llama benjam\u00c3\u00adn para que te habl\u00c3\u00a9 y coordines con el la entrega",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria J\u00c3\u00b3se Valenzuela Arancibia",
+      "timestamp_ms": 1703161353465,
+      "content": "Ya dale mira le deje tu contacto a mi hijo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703132957666,
+      "content": "936180863, gracias!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria J\u00c3\u00b3se Valenzuela Arancibia",
+      "timestamp_ms": 1703132651822,
+      "content": "me dejas tu whatsapp para coordinar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria J\u00c3\u00b3se Valenzuela Arancibia",
+      "timestamp_ms": 1703132640111,
+      "content": "si te acepto los 80",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703131783663,
+      "content": "80mil aceptas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703131780138,
+      "content": "Cual seria el precio minimo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703131772870,
+      "content": "Sii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria J\u00c3\u00b3se Valenzuela Arancibia",
+      "timestamp_ms": 1703115347333,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria J\u00c3\u00b3se Valenzuela Arancibia",
+      "timestamp_ms": 1703099590342,
+      "content": "\u00c2\u00bfA\u00c3\u00ban te interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703098737579,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703098736446,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703098736115,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Notebook Lenovo thinkpad X270 i5 6ta 8GB RAM SSD\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook Lenovo thinkpad X270 i5 6ta 8GB RAM SSD ",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebooklenovothinkpadx270i56ta8gbramssd_7839449102737454",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1425077521697844.jpg",
+    "creation_timestamp": 1703098733
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

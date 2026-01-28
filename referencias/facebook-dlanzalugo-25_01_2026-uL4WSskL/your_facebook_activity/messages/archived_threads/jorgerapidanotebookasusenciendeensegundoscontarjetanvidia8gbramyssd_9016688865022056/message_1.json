@@ -1,0 +1,333 @@
+{
+  "participants": [
+    {
+      "name": "Jorge Opazo"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jorge Opazo",
+      "timestamp_ms": 1731543462070,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/jorgerapidanotebookasusenciendeensegundoscontarjetanvidia8gbramyssd_9016688865022056/photos/442346375261196.jpg",
+          "creation_timestamp": 1731543461
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731543394276,
+      "content": "Diego Jose Lanza Lugo\n26.522.372-9\nBanco Ita\u00c3\u00ba\nCuenta corriente\n0225177493\nDIEGOL_9818@HOTMAIL.COM",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Opazo",
+      "timestamp_ms": 1731543262022,
+      "content": "Sabras si el fornite lo corra?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731543046026,
+      "content": "En la puerta de la recepcion",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731543040695,
+      "content": "Estoy aca",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Opazo",
+      "timestamp_ms": 1731542960334,
+      "content": "Llegue",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731542642179,
+      "content": "Voy bajando",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731542638694,
+      "content": "Dale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Opazo",
+      "timestamp_ms": 1731542628867,
+      "content": "Segun waze estoy a 5min",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Opazo",
+      "timestamp_ms": 1731542624094,
+      "content": "Amigo mejor voy altiro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Opazo",
+      "timestamp_ms": 1731542404932,
+      "content": "Bacan te aviso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731542383297,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/jorgerapidanotebookasusenciendeensegundoscontarjetanvidia8gbramyssd_9016688865022056/photos/583722470737232.jpg",
+          "creation_timestamp": 1731542382
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731542370781,
+      "content": "Lago pirihueico 6502",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Opazo",
+      "timestamp_ms": 1731542356265,
+      "content": "Me dejaria tu direccion x mientras?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Opazo",
+      "timestamp_ms": 1731542349468,
+      "content": "Vale te aviso cuando este en camino",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731542163351,
+      "content": "Si claro sin problema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Opazo",
+      "timestamp_ms": 1731542151966,
+      "content": "Cerca de las 10",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731542141557,
+      "content": "A que hora puede?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Opazo",
+      "timestamp_ms": 1731542111305,
+      "content": "Hasta que hora podria pasar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Opazo",
+      "timestamp_ms": 1731542103695,
+      "content": "Amigo consulta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Opazo",
+      "timestamp_ms": 1731527235499,
+      "content": "Bacan",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731527181576,
+      "content": "Si claro, en graficos bajo lo corre",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Opazo",
+      "timestamp_ms": 1731527058399,
+      "content": "Crees que corra el fornite?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731526542847,
+      "content": "Por la tarjeta de video si, pero no es notebok gamer, sin embargo puede correr algunos juegos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Opazo",
+      "timestamp_ms": 1731526474632,
+      "content": "Este es el mejorcito en relacion precio calidad para juegos?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Opazo",
+      "timestamp_ms": 1731526459137,
+      "content": "Vi que vendes hartos note",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Opazo",
+      "timestamp_ms": 1731526450922,
+      "content": "Compa consulta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731524252624,
+      "content": "Dale sin problema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Opazo",
+      "timestamp_ms": 1731523715830,
+      "content": "Te aviso si alcanzo a ir",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Opazo",
+      "timestamp_ms": 1731523706248,
+      "content": "No si puedo irn",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731523064638,
+      "content": "Di no igual puedo acercarcela a algun metro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Opazo",
+      "timestamp_ms": 1731522992286,
+      "content": "Vale bacan",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731522733687,
+      "content": "Me avisa no mas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731522731120,
+      "content": "Vale, si viene puedo recibirlo a cualquier hora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Opazo",
+      "timestamp_ms": 1731522474287,
+      "content": "Ahh ubico me tinca",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731521950634,
+      "content": "Lago pirihueico con froilan lagos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Opazo",
+      "timestamp_ms": 1731520934765,
+      "content": "En que sector?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731520608520,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Opazo",
+      "timestamp_ms": 1731519294582,
+      "content": "De donde eres?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731518595393,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Opazo",
+      "timestamp_ms": 1731518410649,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Opazo",
+      "timestamp_ms": 1731518407230,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jorge Opazo",
+      "timestamp_ms": 1731518407031,
+      "content": "Jorge inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jorge \u00c2\u00b7 Rapida Notebook ASUS enciende en segundos, con tarjeta NVIDIA 8GB RAM y SSD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/jorgerapidanotebookasusenciendeensegundoscontarjetanvidia8gbramyssd_9016688865022056",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

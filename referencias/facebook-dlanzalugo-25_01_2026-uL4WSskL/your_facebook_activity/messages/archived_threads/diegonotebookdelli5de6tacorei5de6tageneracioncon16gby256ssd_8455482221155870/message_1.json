@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Compu Serch"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Compu Serch",
+      "timestamp_ms": 1729248390525,
+      "content": "El vendedor cambi\u00c3\u00b3 el t\u00c3\u00adtulo de la publicaci\u00c3\u00b3n a Notebook Dell i5 de 6ta core i5 de 6ta generacion con 8gb y 512 ssd.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Compu Serch",
+      "timestamp_ms": 1729248359519,
+      "content": "El vendedor cambi\u00c3\u00b3 el precio de Notebook Dell i5 de 6ta core i5 de 6ta generacion con 16gb y 256 ssd.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728605470006,
+      "content": "Ver publicaciones similares",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Compu Serch",
+      "timestamp_ms": 1728485254859,
+      "content": " est\u00c3\u00a1 esperando tu respuesta sobre esta publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728475862699,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728475861708,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Notebook Dell i5 de 6ta core i5 de 6ta generacion con 16gb y 256 ssd\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728475861708,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook Dell i5 de 6ta core i5 de 6ta generacion con 16gb y 256 ssd",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebookdelli5de6tacorei5de6tageneracioncon16gby256ssd_8455482221155870",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1058632178980035.jpg",
+    "creation_timestamp": 1728475860
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

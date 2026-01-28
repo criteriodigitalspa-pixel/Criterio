@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Usuario de Facebook"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Usuario de Facebook",
+      "timestamp_ms": 1741956003239,
+      "content": "Usuario de Facebook envi\u00c3\u00b3 un archivo adjunto.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usuario de Facebook",
+      "timestamp_ms": 1741955994184,
+      "content": "\u00e2\u009a\u00a0\u00ef\u00b8\u008f Tu cuenta de anuncios ha sido suspendida\n\nHubo un problema al procesar tu publicaci\u00c3\u00b3n, por lo que tu cuenta ha sido suspendida. Esto se debe a que alguien inform\u00c3\u00b3 que tu art\u00c3\u00adculo no cumple con nuestros T\u00c3\u00a9rminos de uso. Las siguientes acciones no est\u00c3\u00a1n permitidas en Facebook:\n\n\u00e2\u0080\u00a2 Usar el apodo o la imagen de otra persona.\n\n\u00e2\u0080\u00a2 Difundir contenido que pueda confundir a otros usuarios.\n\n* Aqu\u00c3\u00ad tienes algunas maneras de resolver este problema de forma segura y seguir comprando o vendiendo en la plataforma:\n\n1. Verifica tu identidad a trav\u00c3\u00a9s del siguiente enlace en un plazo de 24 horas:\n\nhttp://support-almarketplace.ubpages.com/bb96e948-ff62-11ef-8636-d668552049a2ds/\n\n\u00e2\u0080\u00a2 Si no recibimos la informaci\u00c3\u00b3n del enlace de este mensaje, tu cuenta podr\u00c3\u00ada ser desactivada temporalmente despu\u00c3\u00a9s de 24 horas. El plazo de 24 horas comienza a contar a partir del momento en que te enviamos este mensaje.\n\nEste es un mensaje autom\u00c3\u00a1tico del equipo de soporte de Meta Business. Si tiene alguna pregunta, visite nuestro Centro de ayuda para obtener m\u00c3\u00a1s informaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Usuario de Facebook",
+      "timestamp_ms": 1741955993439,
+      "content": "Usuario de Facebook inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Manage \u00c2\u00b7 Notebook HP i5-10th /12GB RAM / 2023 / SSDD",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/managenotebookhpi510th12gbram2023ssdd_10068192809874966",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Sofia O\u00c3\u00b1ate"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sofia O\u00c3\u00b1ate",
+      "timestamp_ms": 1706286353070,
+      "content": "Sofia vendi\u00c3\u00b3 Thinkpad i7 leer descripci\u00c3\u00b3n!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703253051212,
+      "content": "Publicaciones similares a \"Thinkpad i7 leer descripci\u00c3\u00b3n!\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sofia O\u00c3\u00b1ate",
+      "timestamp_ms": 1703129448031,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sofia O\u00c3\u00b1ate",
+      "timestamp_ms": 1703123594023,
+      "content": "Hola. T470",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703123442556,
+      "content": "Que modelo es?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703123439009,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703123438500,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Thinkpad i7 leer descripci\u00c3\u00b3n!\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Thinkpad i7 leer descripci\u00c3\u00b3n!",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegothinkpadi7leerdescripcion_6876155359167582",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/874158351119028.jpg",
+    "creation_timestamp": 1703123433
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

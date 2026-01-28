@@ -1,0 +1,138 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Julio Paez"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Julio Paez",
+      "timestamp_ms": 1732237463413,
+      "content": "Julio baj\u00c3\u00b3 el precio de Notebook HP Elitebook\nIntel core i5 8 generacion 8250U CPU\n8.GB\n1.60 GHZ , 1.80 GHZ\nWindows 10 PRO a $120.000.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julio Paez",
+      "timestamp_ms": 1731979128720,
+      "content": "De donde eres tu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julio Paez",
+      "timestamp_ms": 1731979111600,
+      "content": "Hola disculpa , ma\u00c3\u00b1ana podriamos encontrarnos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julio Paez",
+      "timestamp_ms": 1731816959631,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julio Paez",
+      "timestamp_ms": 1731816955729,
+      "content": "Hablamos el lunes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731735210867,
+      "content": "994919000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julio Paez",
+      "timestamp_ms": 1731724249215,
+      "content": "Dejame tu numero",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julio Paez",
+      "timestamp_ms": 1731724240886,
+      "content": "Dejame ver ma\u00c3\u00b1ana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731710231484,
+      "content": "Pasa que igual es viejito, debe tener sus 7 a\u00c3\u00b1os, tengo 100mil amigo, si le interesa me dices",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julio Paez",
+      "timestamp_ms": 1731707794925,
+      "content": "Esta barato diego , lo vendo solo porque voy a comprar otro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731707703203,
+      "content": "Estimado cuanto es lo minimo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julio Paez",
+      "timestamp_ms": 1731603853934,
+      "content": "\u00c2\u00bfA\u00c3\u00ban te interesa? Responde a: Disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julio Paez",
+      "timestamp_ms": 1731595155945,
+      "content": "Disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731595028557,
+      "content": "Hola, Julio. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731595024834,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Notebook HP Elitebook\nIntel core i5 8 generacion 8250U CPU\n8.GB\n1.60 GHZ , 1.80 GHZ\nWindows 10 PRO\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731595024834,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook HP Elitebook\nIntel core i5 8 generacion 8250U CPU\n8.GB\n1.60 GHZ , 1.80 GHZ\nWindows 10 PRO",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebookhpelitebookintelcorei58generacion8250ucpu8gb160ghz180ghzwindows10pro_8620690384710267",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1261282161863457.jpg",
+    "creation_timestamp": 1731595023
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

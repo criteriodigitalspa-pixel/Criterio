@@ -1,0 +1,89 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Bastian Aguilera"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bastian Aguilera",
+      "timestamp_ms": 1704373932004,
+      "content": "Bastian vendi\u00c3\u00b3 Notebook Dell Latitude 3310.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bastian Aguilera",
+      "timestamp_ms": 1704318559734,
+      "content": "Bastian baj\u00c3\u00b3 el precio de Notebook Dell Latitude 3310 a $75.000.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703932549477,
+      "content": "Publicaciones similares a \"Notebook Dell Latitude 3310\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bastian Aguilera",
+      "timestamp_ms": 1703817850698,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bastian Aguilera",
+      "timestamp_ms": 1703811629847,
+      "content": "Entrego en metro y metro tren, puedo acercarme si gusta y as\u00c3\u00ad lo puede probar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bastian Aguilera",
+      "timestamp_ms": 1703806349118,
+      "content": "Hola, si est\u00c3\u00a1 disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703802945721,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703802943748,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703802943459,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Notebook Dell Latitude 3310\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook Dell Latitude 3310",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebookdelllatitude3310_7636771169684479",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/322274203970006.jpg",
+    "creation_timestamp": 1703802941
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

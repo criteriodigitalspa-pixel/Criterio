@@ -1,0 +1,130 @@
+{
+  "participants": [
+    {
+      "name": "Mauricio Tapia Callegari"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730584290795,
+      "content": "Le intereso amigo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730561256831,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730516251515,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/mauriciopotentei7notebookultrarapida16gbramm2500gbenciendeen7segundos_9152949558071689/photos/525861920219322.jpg",
+          "creation_timestamp": 1730516250
+        },
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/mauriciopotentei7notebookultrarapida16gbramm2500gbenciendeen7segundos_9152949558071689/photos/1041579207766626.jpg",
+          "creation_timestamp": 1730516250
+        },
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/mauriciopotentei7notebookultrarapida16gbramm2500gbenciendeen7segundos_9152949558071689/photos/1110156883839513.jpg",
+          "creation_timestamp": 1730516250
+        },
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/mauriciopotentei7notebookultrarapida16gbramm2500gbenciendeen7segundos_9152949558071689/photos/1296700781230055.jpg",
+          "creation_timestamp": 1730516250
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730489263863,
+      "content": "Le interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730483578320,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730483576957,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro, puede revisarlo y probarlo con calma, sin compromiso. Solo si le gusta se lo lleva",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730481091432,
+      "content": "Si disponible!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1730481091297,
+      "content": "Hola Mauricio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Tapia Callegari",
+      "timestamp_ms": 1730480253194,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Tapia Callegari",
+      "timestamp_ms": 1730480248674,
+      "content": "\u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Tapia Callegari",
+      "timestamp_ms": 1730480248104,
+      "content": "Mauricio Tapia Callegari",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Tapia Callegari",
+      "timestamp_ms": 1730480246331,
+      "content": "Mauricio asign\u00c3\u00b3 al grupo el nombre \"Mauricio \u00c2\u00b7 Potente i7 Notebook Ultra Rapida 16GB RAM M.2-500GB ENCIENDE EN 7 SEGUNDOS!\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mauricio Tapia Callegari",
+      "timestamp_ms": 1730480246331,
+      "content": "Mauricio cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mauricio \u00c2\u00b7 Potente i7 Notebook Ultra Rapida 16GB RAM M.2-500GB ENCIENDE EN 7 SEGUNDOS!",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/mauriciopotentei7notebookultrarapida16gbramm2500gbenciendeen7segundos_9152949558071689",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Victor Cordovez Hidalgo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Victor Cordovez Hidalgo",
+      "timestamp_ms": 1759518717354,
+      "content": "Ese me interesa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Cordovez Hidalgo",
+      "timestamp_ms": 1759518714857,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/victornotebooki710th12gbramultrapotenteano2023_24707406138918626/photos/1161851936076900.jpg",
+          "creation_timestamp": 1759518713
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Cordovez Hidalgo",
+      "timestamp_ms": 1759518663475,
+      "content": "Si ir\u00c3\u00a9 a que hora puedo ir a verlo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Cordovez Hidalgo",
+      "timestamp_ms": 1759518423893,
+      "content": "Estoy en rojas Magallanes con avenida la Florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759502912046,
+      "content": "Ah buenisimo, de que parte? Quiere pasar a probarlo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Cordovez Hidalgo",
+      "timestamp_ms": 1759502482707,
+      "content": "Estoy en La Florida tambi\u00c3\u00a9n",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759502439376,
+      "content": "Estoy en La Florida. Te acomoda la comuna o preferir\u00c3\u00adas que coordinemos en otro punto a convenir?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1759502432301,
+      "content": "Hola. S\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para que lo pruebes con toda la calma del mundo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Cordovez Hidalgo",
+      "timestamp_ms": 1759502418801,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Cordovez Hidalgo",
+      "timestamp_ms": 1759502415387,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Cordovez Hidalgo",
+      "timestamp_ms": 1759502415132,
+      "content": "Victor Cordovez Hidalgo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Cordovez Hidalgo",
+      "timestamp_ms": 1759502413050,
+      "content": "Victor asign\u00c3\u00b3 al grupo el nombre \"Victor \u00c2\u00b7 Notebook i7-10Th / 12GB RAM Ultra Potente // a\u00c3\u00b1o 2023\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Victor Cordovez Hidalgo",
+      "timestamp_ms": 1759502413050,
+      "content": "Victor cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Victor \u00c2\u00b7 Notebook i7-10Th / 12GB RAM Ultra Potente // a\u00c3\u00b1o 2023",
+  "is_still_participant": true,
+  "thread_path": "inbox/victornotebooki710th12gbramultrapotenteano2023_24707406138918626",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

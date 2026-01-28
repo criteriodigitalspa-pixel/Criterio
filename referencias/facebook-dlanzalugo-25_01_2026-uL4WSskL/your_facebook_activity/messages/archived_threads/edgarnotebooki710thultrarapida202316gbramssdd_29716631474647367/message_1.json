@@ -1,0 +1,90 @@
+{
+  "participants": [
+    {
+      "name": "Carhua Trinidad Jhonattan Edgar"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1749523473439,
+      "content": "Le intereso el equipo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1749382309493,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/edgarnotebooki710thultrarapida202316gbramssdd_29716631474647367/photos/2691071504417636.jpg",
+          "creation_timestamp": 1749382308
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carhua Trinidad Jhonattan Edgar",
+      "timestamp_ms": 1749351393183,
+      "content": "Con sus caracter\u00c3\u00adsticas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carhua Trinidad Jhonattan Edgar",
+      "timestamp_ms": 1749351383268,
+      "content": "Tiene fotos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1749342392853,
+      "content": "Es un i7- 10th gen estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1749342379145,
+      "content": "Holaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carhua Trinidad Jhonattan Edgar",
+      "timestamp_ms": 1749340028166,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carhua Trinidad Jhonattan Edgar",
+      "timestamp_ms": 1749340021829,
+      "content": "Hola buenas noches, puedo saber de que generaci\u00c3\u00b3n el la laptop?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carhua Trinidad Jhonattan Edgar",
+      "timestamp_ms": 1749340021445,
+      "content": "Edgar inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Edgar \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/edgarnotebooki710thultrarapida202316gbramssdd_29716631474647367",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

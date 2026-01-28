@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Diego Bustamante"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731896790671,
+      "content": "Publicaciones similares a \"Notebook acer grafito NUEVO\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Bustamante",
+      "timestamp_ms": 1731823105206,
+      "content": "Diego vendi\u00c3\u00b3 Notebook acer grafito NUEVO.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731767187299,
+      "content": "Cuales son las especificaciones amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731767184584,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Notebook acer grafito NUEVO\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731767184584,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook acer grafito NUEVO",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebookacergrafitonuevo_8095751673860146",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/2206329053101466.jpg",
+    "creation_timestamp": 1731767183
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

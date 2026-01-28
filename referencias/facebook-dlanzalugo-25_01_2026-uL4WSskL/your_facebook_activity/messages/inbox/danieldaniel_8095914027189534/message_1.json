@@ -1,0 +1,109 @@
+{
+  "participants": [
+    {
+      "name": "Daniel Daniel"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Daniel Daniel",
+      "timestamp_ms": 1754885671171,
+      "content": "Bueno gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754885652145,
+      "content": "Disculpa pero la verdad no se",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Daniel",
+      "timestamp_ms": 1754885545116,
+      "content": "Y le envi\u00c3\u00a9 a usted preguntando para saber qui\u00c3\u00a9n es el",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Daniel",
+      "timestamp_ms": 1754885533466,
+      "content": "Pero no s\u00c3\u00a9 qui\u00c3\u00a9n es",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Daniel",
+      "timestamp_ms": 1754885528761,
+      "content": "Estaba creando u. Facebook y me encontr\u00c3\u00a9 con esto de un tal Abelardo bravo con fotos y mensajes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Daniel",
+      "timestamp_ms": 1754885507554,
+      "content": "Mira te explico...",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Daniel",
+      "timestamp_ms": 1754885502257,
+      "content": "C\u00c3\u00b3mo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754885447207,
+      "content": "Oratoria?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Daniel",
+      "timestamp_ms": 1754885362360,
+      "content": "Ok, gracias!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754885352537,
+      "content": "La verdad, no jajaja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754885323822,
+      "content": "Hola buenas noches",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Daniel",
+      "timestamp_ms": 1754885295609,
+      "content": "Sabe qui\u00c3\u00a9n soy?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Daniel Daniel",
+      "timestamp_ms": 1754885290636,
+      "content": "Buenas noches, soy Abelardo bravo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Daniel Daniel",
+  "is_still_participant": true,
+  "thread_path": "inbox/danieldaniel_8095914027189534",
+  "magic_words": [
+    
+  ]
+}

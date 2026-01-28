@@ -1,0 +1,80 @@
+{
+  "participants": [
+    {
+      "name": "Jes\u00c3\u00bas Agust\u00c3\u00adn R\u00c3\u00ados D\u00c3\u00adaz"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jes\u00c3\u00bas Agust\u00c3\u00adn R\u00c3\u00ados D\u00c3\u00adaz",
+      "timestamp_ms": 1767890385417,
+      "content": "130",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767890101932,
+      "content": "Vale entiendo, me aceptarias 120mil amigo? Y lo busco hoy mismo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jes\u00c3\u00bas Agust\u00c3\u00adn R\u00c3\u00ados D\u00c3\u00adaz",
+      "timestamp_ms": 1767889674217,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/diegonotebooki78anvidiamx13016gbram256ssd1tbhddhplaptop156_1392168232709758/audio/711170801858565.mp4",
+          "creation_timestamp": 1767889672
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767889653695,
+      "content": "Holaa, bateria buena cierto?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jes\u00c3\u00bas Agust\u00c3\u00adn R\u00c3\u00ados D\u00c3\u00adaz",
+      "timestamp_ms": 1767889224581,
+      "content": "Hola, si esta disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767889214097,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767889213763,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook i7-8\u00c2\u00aa / \u00f0\u009f\u008e\u00aeNvidia Mx130 / 16Gb Ram / 256SSD + 1TB HDD / Hp Laptop 15,6\u00e2\u0080\u009d \u00f0\u009f\u00a7\u00ac",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebooki78anvidiamx13016gbram256ssd1tbhddhplaptop156_1392168232709758",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/3430398487135171.jpg",
+    "creation_timestamp": 1767889210
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

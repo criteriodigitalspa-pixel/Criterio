@@ -1,0 +1,92 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Chiiloko Diamante"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Chiiloko Diamante",
+      "timestamp_ms": 1729220711964,
+      "content": "Y parlante que\n Equivale 80 mil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729218140531,
+      "content": "No gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chiiloko Diamante",
+      "timestamp_ms": 1729218100669,
+      "content": "Por play 3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chiiloko Diamante",
+      "timestamp_ms": 1729218093764,
+      "content": "Permutas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729217645689,
+      "content": "Hola, si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chiiloko Diamante",
+      "timestamp_ms": 1729217004212,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chiiloko Diamante",
+      "timestamp_ms": 1729217000035,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chiiloko Diamante",
+      "timestamp_ms": 1729216999610,
+      "content": "Chiiloko Diamante",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chiiloko Diamante",
+      "timestamp_ms": 1729216997759,
+      "content": "Chiiloko asign\u00c3\u00b3 al grupo el nombre \"Chiiloko \u00c2\u00b7 Potente Notebook i5 con 8gb Ram corre todo\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chiiloko Diamante",
+      "timestamp_ms": 1729216997759,
+      "content": "Chiiloko cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Chiiloko \u00c2\u00b7 Potente Notebook i5 con 8gb Ram corre todo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/chiilokopotentenotebooki5con8gbramcorretodo_8408117285972565",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

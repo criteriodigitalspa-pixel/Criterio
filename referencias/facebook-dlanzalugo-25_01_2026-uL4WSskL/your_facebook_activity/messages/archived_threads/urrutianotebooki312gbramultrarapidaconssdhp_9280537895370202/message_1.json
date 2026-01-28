@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Urrutia Danilo'hh"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Urrutia Danilo'hh",
+      "timestamp_ms": 1740939749693,
+      "content": "Gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740938939823,
+      "content": "6tha gen",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740938935564,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Urrutia Danilo'hh",
+      "timestamp_ms": 1740938802650,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Urrutia Danilo'hh",
+      "timestamp_ms": 1740938800045,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Urrutia Danilo'hh",
+      "timestamp_ms": 1740938799854,
+      "content": "Buenas tardes qu\u00c3\u00a9 generaci\u00c3\u00b3n es ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Urrutia Danilo'hh",
+      "timestamp_ms": 1740938795745,
+      "content": "Buenas tardes. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Urrutia Danilo'hh",
+      "timestamp_ms": 1740938795445,
+      "content": "Urrutia inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Urrutia \u00c2\u00b7 Notebook i3 12GB RAM Ultra Rapida con SSD HP",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/urrutianotebooki312gbramultrarapidaconssdhp_9280537895370202",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

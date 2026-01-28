@@ -1,0 +1,381 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Felix Urquizo Ortuste"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757853374251,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757200989302,
+      "content": "Voy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Urquizo Ortuste",
+      "timestamp_ms": 1757200985624,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757200977922,
+      "content": "Vale si me esperas voy a donde estas tu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Urquizo Ortuste",
+      "timestamp_ms": 1757200972350,
+      "content": "Puedes bajar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Urquizo Ortuste",
+      "timestamp_ms": 1757200960121,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/felixnotebooki710thultrarapida202316gbramssdd_3927699277495862/photos/1545974130081334.jpg",
+          "creation_timestamp": 1757200959
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757200906918,
+      "content": "Vale yo estoy en el cambio de anden de linea 4 arriba",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Urquizo Ortuste",
+      "timestamp_ms": 1757200877439,
+      "content": "Llegue",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757200615020,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Urquizo Ortuste",
+      "timestamp_ms": 1757200605230,
+      "content": "Ok yo de rojo mochila camuflada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757200539811,
+      "content": "Ando de marron con negro y una mochila negra",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757200530439,
+      "content": "Dale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Urquizo Ortuste",
+      "timestamp_ms": 1757200524379,
+      "content": "Estoy a una parada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757200484716,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/felixnotebooki710thultrarapida202316gbramssdd_3927699277495862/photos/24647614021514744.jpg",
+          "creation_timestamp": 1757200483
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757200473184,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/felixnotebooki710thultrarapida202316gbramssdd_3927699277495862/photos/718717531193342.jpg",
+          "creation_timestamp": 1757200471
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Urquizo Ortuste",
+      "timestamp_ms": 1757200157952,
+      "content": "Vale yo estoy por san joaquin",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757200044193,
+      "content": "Voy llegando",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Urquizo Ortuste",
+      "timestamp_ms": 1757197940742,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757197906212,
+      "content": "Te veo en el cambio de anden de L5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757197898212,
+      "content": "Nos vemos a las 19:10 entonces en vicente valdez",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Urquizo Ortuste",
+      "timestamp_ms": 1757197896126,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757197878953,
+      "content": "Vale amigo perfecto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Urquizo Ortuste",
+      "timestamp_ms": 1757197791672,
+      "content": "Llego en aproximadamente 40 minutos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Urquizo Ortuste",
+      "timestamp_ms": 1757197759347,
+      "content": "Hola amigo voy para Vicente valdes en la l\u00c3\u00adnea 5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757193578696,
+      "content": "Vale estimado muchas gracias, estoy atento",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Urquizo Ortuste",
+      "timestamp_ms": 1757193573219,
+      "content": "Te parece",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Urquizo Ortuste",
+      "timestamp_ms": 1757193551780,
+      "content": "Entonces si llega r\u00c3\u00a1pido mi compra te confirmo para ir a Vicente valdes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757193460014,
+      "content": "Hoy se me complica moverme hasta alla, ma\u00c3\u00b1ana si podria acercarme",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757193440274,
+      "content": "Hola amigo buenas tardes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Urquizo Ortuste",
+      "timestamp_ms": 1757193395370,
+      "content": "Esque estoy esperando una compra que hice y me lo tienen que traer a mi casa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Urquizo Ortuste",
+      "timestamp_ms": 1757193360125,
+      "content": "Tu puedes venir al metro quinta normal",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Urquizo Ortuste",
+      "timestamp_ms": 1757193336718,
+      "content": "Hola amigo buenas tardes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Urquizo Ortuste",
+      "timestamp_ms": 1757166993505,
+      "content": "Coordinamos mas tarde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Urquizo Ortuste",
+      "timestamp_ms": 1757166986849,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Urquizo Ortuste",
+      "timestamp_ms": 1757166984778,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757166949400,
+      "content": "Vale si quieres nos podemos encontrar en el metro Vicente Valdes L5, o si prefieres en mi domicilio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Urquizo Ortuste",
+      "timestamp_ms": 1757166339511,
+      "content": "Vivo cerca del metro quinta normal",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Urquizo Ortuste",
+      "timestamp_ms": 1757166231819,
+      "content": "Yo trabajo hasta las 6 pm podr\u00c3\u00ada ser despu\u00c3\u00a9s como alas 7 soy de santiago centro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757166006992,
+      "content": "A que hora podrias?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757166000030,
+      "content": "Valenamigo le acepto los 300",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Urquizo Ortuste",
+      "timestamp_ms": 1757165972266,
+      "content": "Pero solo tengo 300",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757161675417,
+      "content": "Estoy en La Florida. Te acomoda la comuna o preferir\u00c3\u00adas que coordinemos en otro punto a convenir?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757161673699,
+      "content": "Hola. S\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para que lo pruebes con toda la calma del mundo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Urquizo Ortuste",
+      "timestamp_ms": 1757157095000,
+      "content": "Felix est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Urquizo Ortuste",
+      "timestamp_ms": 1757131092214,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Urquizo Ortuste",
+      "timestamp_ms": 1757131088100,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?lo da en 300",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felix Urquizo Ortuste",
+      "timestamp_ms": 1757131087897,
+      "content": "Felix inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Felix \u00c2\u00b7 Notebook i7-10th Ultra Rapida / 2023 / 16gb RAM / SSDD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/felixnotebooki710thultrarapida202316gbramssdd_3927699277495862",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

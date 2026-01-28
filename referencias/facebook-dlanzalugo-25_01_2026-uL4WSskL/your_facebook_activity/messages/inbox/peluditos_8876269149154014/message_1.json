@@ -1,0 +1,100 @@
+{
+  "participants": [
+    {
+      "name": "Peluditos"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Peluditos",
+      "timestamp_ms": 1736166468889,
+      "content": "Buen d\u00c3\u00ada, el valor por d\u00c3\u00ada es hotel es de $15.000, por favor ind\u00c3\u00adcanos tu correo electr\u00c3\u00b3nico para enviarte toda la informaci\u00c3\u00b3n",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1736119277861,
+      "content": "Y si entre en mi presupuesto por su puesto tengo otras 20 dudas jajaja, pero quiero daber el presupuesto primero",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1736119225873,
+      "content": "Pesa 5kg, quiero saber principalmente los precios",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1736119209399,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/peluditos_8876269149154014/photos/2355502141484804.jpg",
+          "creation_timestamp": 1736119206
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1736119185685,
+      "content": "Consulta, tenemos un viaje de 7 dias, del 1 de Marzo al 7 de Marzo, y necesitamos dejar a nuestra regalona",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1736119153962,
+      "content": "Holaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Peluditos",
+      "timestamp_ms": 1734898527102,
+      "content": "Buen d\u00c3\u00ada por favor ind\u00c3\u00adcanos tu n\u00c3\u00bamero de whatsapp para enviarte toda la informaci\u00c3\u00b3n",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Peluditos",
+      "timestamp_ms": 1734869475323,
+      "content": "Contamos con 2 sedes:\n\u00f0\u009f\u0093\u008dPe\u00c3\u00b1alolen : Av. las Torres 6297\n\u00f0\u009f\u0093\u008dSantiago Centro: Arauco 944",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734869470251,
+      "content": "\u00c2\u00bfDonde est\u00c3\u00a1n ubicados?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Peluditos",
+      "timestamp_ms": 1734869468673,
+      "content": "\u00c2\u00a1Hola, Diego! \u00c2\u00bfC\u00c3\u00b3mo podemos ayudarte?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Peluditos",
+      "timestamp_ms": 1734869466620,
+      "content": "Abriste esta conversaci\u00c3\u00b3n desde un anuncio. Si respondes, Peluditos ver\u00c3\u00a1 tu informaci\u00c3\u00b3n p\u00c3\u00bablica y el anuncio en el que hiciste clic.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Peluditos",
+  "is_still_participant": true,
+  "thread_path": "inbox/peluditos_8876269149154014",
+  "magic_words": [
+    
+  ]
+}

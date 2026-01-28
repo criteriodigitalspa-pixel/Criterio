@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Arriendos El Tenedor"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Arriendos El Tenedor",
+      "timestamp_ms": 1703812714165,
+      "content": "\u00c2\u00a1Hola! \u00c2\u00bfTe gustar\u00c3\u00ada cotizar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Arriendos El Tenedor",
+      "timestamp_ms": 1703812713444,
+      "content": "Abriste esta conversaci\u00c3\u00b3n desde un anuncio. Si respondes, Arriendos El Tenedor ver\u00c3\u00a1 tu informaci\u00c3\u00b3n p\u00c3\u00bablica y el anuncio en el que hiciste clic.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Arriendos El Tenedor",
+  "is_still_participant": true,
+  "thread_path": "inbox/arriendoseltenedor_6928632487251033",
+  "magic_words": [
+    
+  ]
+}

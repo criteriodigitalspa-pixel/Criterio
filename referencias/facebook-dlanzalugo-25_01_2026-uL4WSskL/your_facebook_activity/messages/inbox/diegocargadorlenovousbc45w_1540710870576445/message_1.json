@@ -1,0 +1,117 @@
+{
+  "participants": [
+    {
+      "name": "Dani Els"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dani Els",
+      "timestamp_ms": 1766265374420,
+      "content": "Dani vendi\u00c3\u00b3 Cargador Lenovo usb-c 45W.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dani Els",
+      "timestamp_ms": 1765553460385,
+      "content": "Si te queda de paso podria pasar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dani Els",
+      "timestamp_ms": 1765553449304,
+      "content": "Y voy a la granja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dani Els",
+      "timestamp_ms": 1765553441798,
+      "content": "Trabajo en enea",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dani Els",
+      "timestamp_ms": 1765553435838,
+      "content": "Igual ando con ellos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dani Els",
+      "timestamp_ms": 1765553427083,
+      "content": "Hoy salgo a las 4",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765553418222,
+      "content": "A que hora podria?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dani Els",
+      "timestamp_ms": 1765553403833,
+      "content": "En metro mirador",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765553395378,
+      "content": "Donde entrega?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765553392353,
+      "content": "Hola si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dani Els",
+      "timestamp_ms": 1765553231329,
+      "content": "S\u00c3\u00ad. \u00c2\u00bfTe interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765552505669,
+      "content": "Buenas tardes. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1765552505294,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Cargador Lenovo usb-c 45W",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegocargadorlenovousbc45w_1540710870576445",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1620008765647913.jpg",
+    "creation_timestamp": 1765552501
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Frank Ivan Davila Pi\u00c3\u00b1eda"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728819444744,
+      "content": "Si tiene alguna duda me avis",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728797110235,
+      "content": "Si amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Frank Ivan Davila Pi\u00c3\u00b1eda",
+      "timestamp_ms": 1728793964572,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Frank Ivan Davila Pi\u00c3\u00b1eda",
+      "timestamp_ms": 1728793960841,
+      "content": "\u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Frank Ivan Davila Pi\u00c3\u00b1eda",
+      "timestamp_ms": 1728793960330,
+      "content": "Frank Ivan Davila Pi\u00c3\u00b1eda",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Frank Ivan Davila Pi\u00c3\u00b1eda",
+      "timestamp_ms": 1728793957446,
+      "content": "Frank asign\u00c3\u00b3 al grupo el nombre \"Frank \u00c2\u00b7 Potente Notebook i5 16GB Ram y disco SSD\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Frank Ivan Davila Pi\u00c3\u00b1eda",
+      "timestamp_ms": 1728793957446,
+      "content": "Frank cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Frank \u00c2\u00b7 Potente Notebook i5 16GB Ram y disco SSD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/frankpotentenotebooki516gbramydiscossd_8694544737276079",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

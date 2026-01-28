@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Jes\u00c3\u00bas Agust\u00c3\u00adn R\u00c3\u00ados D\u00c3\u00adaz"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jes\u00c3\u00bas Agust\u00c3\u00adn R\u00c3\u00ados D\u00c3\u00adaz",
+      "timestamp_ms": 1768074027021,
+      "content": "Jes\u00c3\u00bas Agust\u00c3\u00adn vendi\u00c3\u00b3 Notebook i5-11\u00c2\u00aa / 12Gb Ram / 512 SSD / Hp 240 G8 14\u00e2\u0080\u009d \u00e2\u009c\u0085 IMPECABLE.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768073425299,
+      "content": "Buenas tardes. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768073425022,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook i5-11\u00c2\u00aa / 12Gb Ram / 512 SSD / Hp 240 G8 14\u00e2\u0080\u009d \u00e2\u009c\u0085 IMPECABLE",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebooki511a12gbram512ssdhp240g814impecable_1536136794105313",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1628430961662699.jpg",
+    "creation_timestamp": 1768073422
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

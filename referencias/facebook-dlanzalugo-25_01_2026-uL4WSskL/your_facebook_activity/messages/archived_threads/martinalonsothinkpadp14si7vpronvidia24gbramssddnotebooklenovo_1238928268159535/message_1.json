@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Martin Alonso Sepulveda Isla"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1769135804359,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Martin Alonso Sepulveda Isla",
+      "timestamp_ms": 1768422654116,
+      "content": "Martin Alonso est\u00c3\u00a1 esperando tu respuesta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Martin Alonso Sepulveda Isla",
+      "timestamp_ms": 1768399825994,
+      "content": "Martin Alonso Sepulveda Isla te envi\u00c3\u00b3 un mensaje sobre tu publicaci\u00c3\u00b3n: Thinkpad P14s i7 vPRO + NVIDIA / 24GB RAM / SSDD / Notebook Lenovo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Martin Alonso Sepulveda Isla",
+      "timestamp_ms": 1768399820057,
+      "content": "Hola amigo, de casualidad permuta? Tengo un MacBook Air para permutar y necesito un notebook con procesador en x86 y el m\u00c3\u00ado tiene arm.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Martin Alonso Sepulveda Isla",
+      "timestamp_ms": 1768399819725,
+      "content": "Martin Alonso inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Martin Alonso \u00c2\u00b7 Thinkpad P14s i7 vPRO + NVIDIA / 24GB RAM / SSDD / Notebook Lenovo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/martinalonsothinkpadp14si7vpronvidia24gbramssddnotebooklenovo_1238928268159535",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

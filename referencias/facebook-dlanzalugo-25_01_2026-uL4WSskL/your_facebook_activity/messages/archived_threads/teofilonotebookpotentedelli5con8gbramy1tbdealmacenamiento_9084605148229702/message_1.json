@@ -1,0 +1,91 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Teofilo Silva"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729953693125,
+      "content": "Le interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729885210953,
+      "content": "Podria acercarme a cualquier estacion de metro o podria verlo en mi domicilio en la comuna de la florida, lo que prefiera",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729885202858,
+      "content": "Ya vale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Teofilo Silva",
+      "timestamp_ms": 1729884254700,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Teofilo Silva",
+      "timestamp_ms": 1729884207027,
+      "content": "Hola, me interesa ofresco100. 000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Teofilo Silva",
+      "timestamp_ms": 1729884165504,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Teofilo Silva",
+      "timestamp_ms": 1729884162546,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Teofilo Silva",
+      "timestamp_ms": 1729884162317,
+      "content": "Teofilo Silva",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Teofilo Silva",
+      "timestamp_ms": 1729884160201,
+      "content": "Teofilo asign\u00c3\u00b3 al grupo el nombre \"Teofilo \u00c2\u00b7 Notebook Potente Dell i5 con 8GB Ram y 1TB de almacenamiento\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Teofilo Silva",
+      "timestamp_ms": 1729884160201,
+      "content": "Teofilo cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Teofilo \u00c2\u00b7 Notebook Potente Dell i5 con 8GB Ram y 1TB de almacenamiento",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/teofilonotebookpotentedelli5con8gbramy1tbdealmacenamiento_9084605148229702",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

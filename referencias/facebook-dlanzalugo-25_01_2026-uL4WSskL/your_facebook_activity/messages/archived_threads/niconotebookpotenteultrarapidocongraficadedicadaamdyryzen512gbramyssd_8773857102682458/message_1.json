@@ -1,0 +1,106 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Nico Soto"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734646804355,
+      "content": "Al rededor de los 30 fps amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734646795247,
+      "content": "Sorry estaba en la pega",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nico Soto",
+      "timestamp_ms": 1734620779167,
+      "content": "Disculpa tanta pregunta, pero es que lo quiero especialmente para jugar fortnite:(",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nico Soto",
+      "timestamp_ms": 1734620761230,
+      "content": "Ah buena, como cuantos fps?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734619201226,
+      "content": "Al 65%",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nico Soto",
+      "timestamp_ms": 1734617770678,
+      "content": "En bajo, sin resoluci\u00c3\u00b3n 3d verdad?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734617452893,
+      "content": "Holaa, en bajo corre bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nico Soto",
+      "timestamp_ms": 1734616232660,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nico Soto",
+      "timestamp_ms": 1734616228482,
+      "content": "Hola. \u00c2\u00bfSigue disponible? Como le corre el fortnite?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nico Soto",
+      "timestamp_ms": 1734616228039,
+      "content": "Nico Soto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nico Soto",
+      "timestamp_ms": 1734616224988,
+      "content": "Nico asign\u00c3\u00b3 al grupo el nombre \"Nico \u00c2\u00b7 Notebook Potente ultra Rapido con Grafica Dedicada AMD y Ryzen 5 12GB RAM y SSD\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nico Soto",
+      "timestamp_ms": 1734616224988,
+      "content": "Nico cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nico \u00c2\u00b7 Notebook Potente ultra Rapido con Grafica Dedicada AMD y Ryzen 5 12GB RAM y SSD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/niconotebookpotenteultrarapidocongraficadedicadaamdyryzen512gbramyssd_8773857102682458",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

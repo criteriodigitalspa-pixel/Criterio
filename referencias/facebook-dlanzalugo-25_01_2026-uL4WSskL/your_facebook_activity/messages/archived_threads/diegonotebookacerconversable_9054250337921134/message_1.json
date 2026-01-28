@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Alexa Lyon"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728451483837,
+      "content": "Publicaciones similares a \"Notebook Acer conversable\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexa Lyon",
+      "timestamp_ms": 1728334260731,
+      "content": "Alexa vendi\u00c3\u00b3 Notebook Acer conversable.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexa Lyon",
+      "timestamp_ms": 1728334257628,
+      "content": "Alexa marc\u00c3\u00b3 la publicaci\u00c3\u00b3n como Disponible.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexa Lyon",
+      "timestamp_ms": 1728334239346,
+      "content": "Alexa vendi\u00c3\u00b3 Notebook Acer conversable.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728321879935,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728321877372,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Notebook Acer conversable\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728321877372,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook Acer conversable",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebookacerconversable_9054250337921134",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1192569185154856.jpg",
+    "creation_timestamp": 1728321876
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

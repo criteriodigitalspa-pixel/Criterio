@@ -1,5 +1,5 @@
 import { Outlet, NavLink, useNavigate, useLocation } from 'react-router-dom';
-import { LayoutDashboard, Package, Ticket, LogOut, Users, Activity, Menu, X, TrendingUp, PlusCircle, Map, Settings, ClipboardList, BarChart3, ShoppingCart, ListTodo, DollarSign, PanelLeftClose, PanelLeftOpen } from 'lucide-react';
+import { LayoutDashboard, Package, Ticket, LogOut, Users, Activity, Menu, X, TrendingUp, PlusCircle, Map, Settings, ClipboardList, BarChart3, ShoppingCart, ListTodo, DollarSign, PanelLeftClose, PanelLeftOpen, Bot } from 'lucide-react';
 import clsx from 'clsx';
 import { useAuth } from '../context/AuthContext';
 import { useState, Suspense, useRef, useEffect } from 'react';

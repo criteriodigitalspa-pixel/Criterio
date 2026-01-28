@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Jhon Jairo"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729082573545,
+      "content": "Buenos dias, aun no se decide? Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729070461014,
+      "content": "Hola, si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jhon Jairo",
+      "timestamp_ms": 1729066107257,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jhon Jairo",
+      "timestamp_ms": 1729066102414,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jhon Jairo",
+      "timestamp_ms": 1729066101990,
+      "content": "Jhon Jairo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jhon Jairo",
+      "timestamp_ms": 1729066098600,
+      "content": "Jhon cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jhon Jairo",
+      "timestamp_ms": 1729066098599,
+      "content": "Jhon asign\u00c3\u00b3 al grupo el nombre \"Jhon \u00c2\u00b7 Potente Notebook Lenovo ultra Rapida y Liviana AMD Gold + AMD Grafica + 8gb RAM + SSD + HHD SIN USO\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jhon \u00c2\u00b7 Potente Notebook Lenovo ultra Rapida y Liviana AMD Gold + AMD Grafica + 8gb RAM + SSD + HHD SIN USO",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/jhonpotentenotebooklenovoultrarapidaylivianaamdgoldamdgrafica8gbramssdhhdsinuso_27209130758702879",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

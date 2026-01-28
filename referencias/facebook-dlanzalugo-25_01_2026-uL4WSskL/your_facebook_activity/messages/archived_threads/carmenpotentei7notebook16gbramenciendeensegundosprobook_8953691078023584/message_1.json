@@ -1,0 +1,492 @@
+{
+  "participants": [
+    {
+      "name": "Cristopher Daniel Casique"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735142696852,
+      "content": "Gracias a ti",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristopher Daniel Casique",
+      "timestamp_ms": 1735142691870,
+      "content": "Cualquier cosa le aviso",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Diego Lanza",
+          "timestamp": 1735142698
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristopher Daniel Casique",
+      "timestamp_ms": 1735142688272,
+      "content": "Muchas gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristopher Daniel Casique",
+      "timestamp_ms": 1735142685931,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/carmenpotentei7notebook16gbramenciendeensegundosprobook_8953691078023584/photos/1492882394738379.jpg",
+          "creation_timestamp": 1735142684
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristopher Daniel Casique",
+      "timestamp_ms": 1735142682106,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristopher Daniel Casique",
+      "timestamp_ms": 1735142677644,
+      "content": "Si ya lo hab\u00c3\u00ada calificado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735142301337,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/carmenpotentei7notebook16gbramenciendeensegundosprobook_8953691078023584/photos/890697579910473.jpg",
+          "creation_timestamp": 1735142299
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735142268578,
+      "content": "En alguna parte de esta conversacion saldra la opcion de calificar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735142249203,
+      "content": "Y si me calificas con 5 estrellas te lo agradezco",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735142233512,
+      "content": "Cualquier tema me envias whatsapp",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735142223507,
+      "content": "994919000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735142220963,
+      "content": "Mi numero de telefono",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735141799819,
+      "content": "Te veo en torniquetes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735141794840,
+      "content": "Dale, estoy a una estacion",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristopher Daniel Casique",
+      "timestamp_ms": 1735141719504,
+      "content": "Voy con polera verde y pantal\u00c3\u00b3n negro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristopher Daniel Casique",
+      "timestamp_ms": 1735141662641,
+      "content": "Ya estoy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristopher Daniel Casique",
+      "timestamp_ms": 1735141659276,
+      "content": "Cristopher reaccion\u00c3\u00b3 \u00e2\u009d\u00a4 a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735141523405,
+      "content": "Llego en 5 minutos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735140850830,
+      "content": "Unos 20 min",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Cristopher Daniel Casique",
+          "timestamp": 1735141659
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristopher Daniel Casique",
+      "timestamp_ms": 1735140796117,
+      "content": "C\u00c3\u00b3mo en cuanto llega para saber cuando salir",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristopher Daniel Casique",
+      "timestamp_ms": 1735140487372,
+      "content": "Oka",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735140454570,
+      "content": "Voy de camino",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristopher Daniel Casique",
+      "timestamp_ms": 1735137231631,
+      "content": "Perfecto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristopher Daniel Casique",
+      "timestamp_ms": 1735137229156,
+      "content": "Cristopher reaccion\u00c3\u00b3 \u00e2\u009d\u00a4 a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735137219748,
+      "content": "Listo entonces 13hr metro parque bustamante",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Cristopher Daniel Casique",
+          "timestamp": 1735137229
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristopher Daniel Casique",
+      "timestamp_ms": 1735137196016,
+      "content": "Perfecto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristopher Daniel Casique",
+      "timestamp_ms": 1735137193128,
+      "content": "Cristopher reaccion\u00c3\u00b3 \u00e2\u009d\u00a4 a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristopher Daniel Casique",
+      "timestamp_ms": 1735137190062,
+      "content": "Si claro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735137187638,
+      "content": "Si su cargador original",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Cristopher Daniel Casique",
+          "timestamp": 1735137193
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735137178134,
+      "content": "Tipo 13.00 puedes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristopher Daniel Casique",
+      "timestamp_ms": 1735137173876,
+      "content": "Otra pregunta, trae cargador original?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristopher Daniel Casique",
+      "timestamp_ms": 1735137148317,
+      "content": "Estoy disponible todo el dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristopher Daniel Casique",
+      "timestamp_ms": 1735137144826,
+      "content": "A la hora que usted me diga",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735137136793,
+      "content": "Si claro, que hora puedes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristopher Daniel Casique",
+      "timestamp_ms": 1735137099001,
+      "content": "En el metro digo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristopher Daniel Casique",
+      "timestamp_ms": 1735137094530,
+      "content": "Podr\u00c3\u00ada en parque bustamente?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735137075145,
+      "content": "Vale estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristopher Daniel Casique",
+      "timestamp_ms": 1735137046476,
+      "content": "Tengo 200 ahora en efectivo, me lo acepta?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735136939851,
+      "content": "A que hora?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735136932639,
+      "content": "Si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristopher Daniel Casique",
+      "timestamp_ms": 1735136784243,
+      "content": "Podr\u00c3\u00ada para hoy mismo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristopher Daniel Casique",
+      "timestamp_ms": 1735136779152,
+      "content": "Hola de nuevo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristopher Daniel Casique",
+      "timestamp_ms": 1735134357371,
+      "content": "Vale muchas gracias, le aviso",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Diego Lanza",
+          "timestamp": 1735134465
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristopher Daniel Casique",
+      "timestamp_ms": 1735134348457,
+      "content": "Cristopher reaccion\u00c3\u00b3 \u00e2\u009d\u00a4 a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735134032765,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Cristopher Daniel Casique",
+          "timestamp": 1735134348
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735134015541,
+      "content": "Tiene uso claro, no esta nueva. Pero como se ve en fotos esta impecable",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735133967796,
+      "content": "Funcionalmente esta al 100, no tiene nada, y esteticamente como se ve en las fotos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristopher Daniel Casique",
+      "timestamp_ms": 1735133746723,
+      "content": "Tiene alg\u00c3\u00ban detalle est\u00c3\u00a9tico o funcional",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735133691117,
+      "content": "Si la bateria esta como nueva, esta por encima de las 3 horas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristopher Daniel Casique",
+      "timestamp_ms": 1735133662930,
+      "content": "Cu\u00c3\u00a1nto tiene y cuanto le dura",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristopher Daniel Casique",
+      "timestamp_ms": 1735133658445,
+      "content": "Respecto a la bater\u00c3\u00ada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristopher Daniel Casique",
+      "timestamp_ms": 1735133654364,
+      "content": "Consulta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristopher Daniel Casique",
+      "timestamp_ms": 1735133651701,
+      "content": "Hola buenos d\u00c3\u00adas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1735133642473,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristopher Daniel Casique",
+      "timestamp_ms": 1735133637786,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristopher Daniel Casique",
+      "timestamp_ms": 1735133632481,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristopher Daniel Casique",
+      "timestamp_ms": 1735133631988,
+      "content": "Cristopher Daniel Casique",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristopher Daniel Casique",
+      "timestamp_ms": 1735133629433,
+      "content": "Cristopher asign\u00c3\u00b3 al grupo el nombre \"Carmen \u00c2\u00b7 Potente i7 Notebook 16GB RAM enciende en Segundos Probook\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cristopher Daniel Casique",
+      "timestamp_ms": 1735133629433,
+      "content": "Cristopher cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Carmen \u00c2\u00b7 Potente i7 Notebook 16GB RAM enciende en Segundos Probook",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/carmenpotentei7notebook16gbramenciendeensegundosprobook_8953691078023584",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

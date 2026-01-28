@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Pedro Riquelme"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732529426737,
+      "content": "Publicaciones similares a \"notebook Hp Elitebook 840 G6\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732399808419,
+      "content": "Holaa, 100mil te ofrezco",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732399805481,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 notebook Hp Elitebook 840 G6\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732399805481,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 notebook Hp Elitebook 840 G6",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebookhpelitebook840g6_9329973333682504",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/2097469857337310.jpg",
+    "creation_timestamp": 1732399803
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

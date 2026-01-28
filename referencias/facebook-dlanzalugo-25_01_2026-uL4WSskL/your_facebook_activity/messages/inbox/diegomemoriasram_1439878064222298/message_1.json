@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Fabi\u00c3\u00a1n Millanao"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Fabi\u00c3\u00a1n Millanao",
+      "timestamp_ms": 1767668591621,
+      "content": "Fabi\u00c3\u00a1n vendi\u00c3\u00b3 Memorias ram.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabi\u00c3\u00a1n Millanao",
+      "timestamp_ms": 1766503380633,
+      "content": "Fabi\u00c3\u00a1n respondi\u00c3\u00b3 tu mensaje sobre Memorias ram.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fabi\u00c3\u00a1n Millanao",
+      "timestamp_ms": 1766492195992,
+      "content": "S\u00c3\u00ad. \u00c2\u00bfTe interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766492072761,
+      "content": "Buenos d\u00c3\u00adas. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766492072496,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Memorias ram",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegomemoriasram_1439878064222298",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1630031978378508.jpg",
+    "creation_timestamp": 1766492069
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Maureen Escalona"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732498549305,
+      "content": "Claro amigo, no puedo comprometerme a guardarlo, ya que si lo buscan antes necesito el dinero",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maureen Escalona",
+      "timestamp_ms": 1732496579402,
+      "content": "esque a fin de mes me daran plata para comprarlo y queria saber si me lo pueden guardar hasta ese entonces",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maureen Escalona",
+      "timestamp_ms": 1732496487209,
+      "content": "si estoy interesada, pero queria saber hasta cuando lo tiene disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maureen Escalona",
+      "timestamp_ms": 1732496030567,
+      "content": "cuales son las especificaciones?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732493297116,
+      "content": "El publicado amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maureen Escalona",
+      "timestamp_ms": 1732492951393,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maureen Escalona",
+      "timestamp_ms": 1732492947873,
+      "content": "a cuanto esta su valor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732492337142,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maureen Escalona",
+      "timestamp_ms": 1732492325359,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maureen Escalona",
+      "timestamp_ms": 1732492321804,
+      "content": "Buenas noches. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maureen Escalona",
+      "timestamp_ms": 1732492321499,
+      "content": "Maureen Escalona",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maureen Escalona",
+      "timestamp_ms": 1732492318958,
+      "content": "Maureen asign\u00c3\u00b3 al grupo el nombre \"Mau \u00c2\u00b7 Notebook HP ultra Rapida i5 Potente 12GB RAM Enciende en segundos!\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maureen Escalona",
+      "timestamp_ms": 1732492318958,
+      "content": "Maureen cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mau \u00c2\u00b7 Notebook HP ultra Rapida i5 Potente 12GB RAM Enciende en segundos!",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/maunotebookhpultrarapidai5potente12gbramenciendeensegundos_27645924521719216",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

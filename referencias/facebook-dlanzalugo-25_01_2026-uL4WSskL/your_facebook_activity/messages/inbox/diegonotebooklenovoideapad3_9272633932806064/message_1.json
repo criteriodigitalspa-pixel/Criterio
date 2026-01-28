@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Brian Brian"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Brian Brian",
+      "timestamp_ms": 1760730534797,
+      "content": "Brian marc\u00c3\u00b3 la publicaci\u00c3\u00b3n como Disponible.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook Lenovo ideapad3",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebooklenovoideapad3_9272633932806064",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/938176125123971.jpg",
+    "creation_timestamp": 1737571785
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Sebastian Aponte"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703719160815,
+      "content": "Hola Sebastian, si sigue disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Aponte",
+      "timestamp_ms": 1703718378114,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Aponte",
+      "timestamp_ms": 1703718372775,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Aponte",
+      "timestamp_ms": 1703718372522,
+      "content": "Sebastian Aponte",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Aponte",
+      "timestamp_ms": 1703718370006,
+      "content": "Sebastian cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebastian Aponte",
+      "timestamp_ms": 1703718369554,
+      "content": "Sebastian asign\u00c3\u00b3 al grupo el nombre \"Sebastian \u00c2\u00b7 Notebook i5 16gb Ram con SSD, super rapido, corre todo\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sebastian \u00c2\u00b7 Notebook i5 16gb Ram con SSD, super rapido, corre todo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/sebastiannotebooki516gbramconssdsuperrapidocorretodo_7262138533831300",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/888411066176897.jpg",
+    "creation_timestamp": 1703718367
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

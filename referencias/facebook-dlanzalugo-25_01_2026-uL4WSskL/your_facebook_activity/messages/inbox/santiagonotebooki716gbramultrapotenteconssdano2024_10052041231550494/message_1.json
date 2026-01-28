@@ -1,0 +1,436 @@
+{
+  "participants": [
+    {
+      "name": "Santiago Arancibia Hidalgo"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1752609092432,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Disponible.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1751157641517,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1751043407711,
+      "content": "Estoy aca en el mut",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1751043256496,
+      "content": "Ya voy llegando",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1751042753164,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Arancibia Hidalgo",
+      "timestamp_ms": 1751042753074,
+      "content": "Voy a comer por mientras",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Arancibia Hidalgo",
+      "timestamp_ms": 1751042741724,
+      "content": "Avisame cuando llegues por fa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1751042713157,
+      "content": "Okaa, yo estoy a unas 5 estaciones",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Arancibia Hidalgo",
+      "timestamp_ms": 1751042665988,
+      "content": "Ya llegu\u00c3\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Arancibia Hidalgo",
+      "timestamp_ms": 1751041106806,
+      "content": "Yo llego",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Arancibia Hidalgo",
+      "timestamp_ms": 1751041103398,
+      "content": "Si, avisame no mas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1751041091567,
+      "content": "Antes*",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1751041089307,
+      "content": "Puede que llegue un poco qntes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1751041085085,
+      "content": "Voy de camino estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Arancibia Hidalgo",
+      "timestamp_ms": 1751035342928,
+      "content": "Si, me parece",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1751033348052,
+      "content": "Estimado entonces le parece tipo 13hr?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1751033339299,
+      "content": "Holaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Arancibia Hidalgo",
+      "timestamp_ms": 1750984317572,
+      "content": "Si,.claro q si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750984010104,
+      "content": "Puedes al medio dia?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Arancibia Hidalgo",
+      "timestamp_ms": 1750983972059,
+      "content": "Ma\u00c3\u00b1ana a la hr q tu me digas, no hay problema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750983885654,
+      "content": "Cuando puedes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Arancibia Hidalgo",
+      "timestamp_ms": 1750983731411,
+      "content": "En metro tobalaba? Mismo lugar de la otra vez, entrada al MUT",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Arancibia Hidalgo",
+      "timestamp_ms": 1750983703374,
+      "content": "Buenisimo!!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750983321918,
+      "content": "Holaa, si vale 350 para ma\u00c3\u00b1ana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Arancibia Hidalgo",
+      "timestamp_ms": 1750978997018,
+      "content": "Si es as\u00c3\u00ad, coordinamos para ma\u00c3\u00b1ana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Arancibia Hidalgo",
+      "timestamp_ms": 1750963807895,
+      "content": "Si es igual al anterior, lo dejamos igual en 350?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Arancibia Hidalgo",
+      "timestamp_ms": 1750963777671,
+      "content": "Pero ahora viene lo importante!!! Jajaja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750958477400,
+      "content": "O cuando puede?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750958475079,
+      "content": "Quisiera coordinar para hoy?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750958467028,
+      "content": "Valee estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Arancibia Hidalgo",
+      "timestamp_ms": 1750949483545,
+      "content": "Si es as\u00c3\u00ad, me interesa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Arancibia Hidalgo",
+      "timestamp_ms": 1750949471512,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/santiagonotebooki716gbramultrapotenteconssdano2024_10052041231550494/photos/1286528382826015.jpg",
+          "creation_timestamp": 1750949470
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750942884865,
+      "content": "Tiene 500 este",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Arancibia Hidalgo",
+      "timestamp_ms": 1750930893210,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Arancibia Hidalgo",
+      "timestamp_ms": 1750930889259,
+      "content": "Este dice 250 ssd en la publi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750919770892,
+      "content": "I7-12. 16gb ram y 500 SSDD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750919758787,
+      "content": "El de esta publicacion",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750919751559,
+      "content": "Y es el mejor que tengo ahora",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750919743580,
+      "content": "Es igual",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750919742309,
+      "content": "Aah es este mismo de la publicacion",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Arancibia Hidalgo",
+      "timestamp_ms": 1750908226994,
+      "content": "Buenisimo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Arancibia Hidalgo",
+      "timestamp_ms": 1750908222264,
+      "content": "500 gb SSD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Arancibia Hidalgo",
+      "timestamp_ms": 1750908198791,
+      "content": "16 gb expandible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Arancibia Hidalgo",
+      "timestamp_ms": 1750908180859,
+      "content": "I7 - 12va",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Arancibia Hidalgo",
+      "timestamp_ms": 1750908165862,
+      "content": "Ese",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Arancibia Hidalgo",
+      "timestamp_ms": 1750908157392,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/santiagonotebooki716gbramultrapotenteconssdano2024_10052041231550494/photos/2234077880366077.jpg",
+          "creation_timestamp": 1750908157
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750908036480,
+      "content": "Recuerdame cual fue el que te vendi?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Arancibia Hidalgo",
+      "timestamp_ms": 1750908022895,
+      "content": "Tienes algo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Arancibia Hidalgo",
+      "timestamp_ms": 1750908015046,
+      "content": "Ando buscando otro compu, mismas o mejores caracteristicas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750908007422,
+      "content": "Cuentame como te ayudo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750907992301,
+      "content": "Holaa Santiago",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Arancibia Hidalgo",
+      "timestamp_ms": 1750907966578,
+      "content": "No se ai te acuerdas, pero yo te compr\u00c3\u00a9 un HP en mayo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Arancibia Hidalgo",
+      "timestamp_ms": 1750907944836,
+      "content": "Como est\u00c3\u00a1s?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Arancibia Hidalgo",
+      "timestamp_ms": 1750907941292,
+      "content": "Hola Diego!!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Arancibia Hidalgo",
+      "timestamp_ms": 1750907917157,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Arancibia Hidalgo",
+      "timestamp_ms": 1750907911854,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Arancibia Hidalgo",
+      "timestamp_ms": 1750907911599,
+      "content": "Santiago inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Santiago \u00c2\u00b7 Notebook i7 / 16GB RAM Ultra Potente con SSD / A\u00c3\u00b1o 2024",
+  "is_still_participant": true,
+  "thread_path": "inbox/santiagonotebooki716gbramultrapotenteconssdano2024_10052041231550494",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

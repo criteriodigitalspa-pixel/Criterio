@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Franco Benavides"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Franco Benavides",
+      "timestamp_ms": 1746625422596,
+      "content": "Franco elimin\u00c3\u00b3 el art\u00c3\u00adculo de Marketplace.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Dell i5 7ma generaci\u00c3\u00b3n/ 8gb ram/SSD 240GB",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegodelli57mageneracion8gbramssd240gb_8165696456893386",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/550536697456636.jpg",
+    "creation_timestamp": 1729085201
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

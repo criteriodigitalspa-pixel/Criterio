@@ -1,0 +1,92 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Miguel Yalta Saavedra"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729082351344,
+      "content": "Metro macul",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729082239207,
+      "content": "Amigo si viene a buscarla cerramos a 150",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Miguel Yalta Saavedra",
+      "timestamp_ms": 1729081963437,
+      "content": "Tengo 150mil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Miguel Yalta Saavedra",
+      "timestamp_ms": 1729081959377,
+      "content": "Hola amigo buenos dias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729081932212,
+      "content": "Hola, si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Miguel Yalta Saavedra",
+      "timestamp_ms": 1729081855520,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Miguel Yalta Saavedra",
+      "timestamp_ms": 1729081851575,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Miguel Yalta Saavedra",
+      "timestamp_ms": 1729081851144,
+      "content": "Miguel Yalta Saavedra",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Miguel Yalta Saavedra",
+      "timestamp_ms": 1729081848659,
+      "content": "Miguel asign\u00c3\u00b3 al grupo el nombre \"MDaniel \u00c2\u00b7 Notebook Ultra Potente i5 16gb RAM y SSD Corre todo como bala, Como nueva ultra liviana\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Miguel Yalta Saavedra",
+      "timestamp_ms": 1729081848659,
+      "content": "Miguel cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "MDaniel \u00c2\u00b7 Notebook Ultra Potente i5 16gb RAM y SSD Corre todo como bala, Como nueva ultra liviana",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/mdanielnotebookultrapotentei516gbramyssdcorretodocomobalacomonuevaultraliviana_8055048874595110",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

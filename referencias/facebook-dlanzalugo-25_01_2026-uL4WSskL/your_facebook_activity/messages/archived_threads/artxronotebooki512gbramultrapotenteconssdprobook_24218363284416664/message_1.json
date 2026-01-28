@@ -1,0 +1,576 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Artxro Alejandro"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750290111021,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750124181484,
+      "content": "94919000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750124175810,
+      "content": "Diego Lanza\n26.503.138-2\nBanco de Chile\nCuenta Vista\n00-008-10250-45\ndixtal98@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750123624658,
+      "content": "Mochila negra",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750123617819,
+      "content": "Voy con polera blanca y park negra",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artxro Alejandro",
+      "timestamp_ms": 1750123567025,
+      "content": "Voy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artxro Alejandro",
+      "timestamp_ms": 1750123565927,
+      "content": "Ya bro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750123554390,
+      "content": "Que hay sillitas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750123551997,
+      "content": "En la combinaciom con L4",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artxro Alejandro",
+      "timestamp_ms": 1750123551105,
+      "content": "Estoy ac\u00c3\u00a1 en la boleter\u00c3\u00ada de la salidan",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artxro Alejandro",
+      "timestamp_ms": 1750123541165,
+      "content": "En donde te espero bro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750123529887,
+      "content": "Voy bajando",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750123526278,
+      "content": "Listo llegue",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artxro Alejandro",
+      "timestamp_ms": 1750123388175,
+      "content": "Amigo ??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artxro Alejandro",
+      "timestamp_ms": 1750123359567,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artxro Alejandro",
+      "timestamp_ms": 1750123268705,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/artxronotebooki512gbramultrapotenteconssdprobook_24218363284416664/photos/4056226367998203.jpg",
+          "creation_timestamp": 1750123267
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artxro Alejandro",
+      "timestamp_ms": 1750123229478,
+      "content": "En vicu\u00c3\u00b1a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artxro Alejandro",
+      "timestamp_ms": 1750123217200,
+      "content": "Yo estoy aqu\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artxro Alejandro",
+      "timestamp_ms": 1750123213407,
+      "content": "Bro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artxro Alejandro",
+      "timestamp_ms": 1750121696538,
+      "content": "Ya bro yo voy a tomar el metro ahora aqu\u00c3\u00ad en lo Ovalle",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750121433134,
+      "content": "9.20 enrealidad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750121415333,
+      "content": "Poco antes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750121410421,
+      "content": "Cacho 9.30 estoy alli",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artxro Alejandro",
+      "timestamp_ms": 1750121404893,
+      "content": "Voy en camino",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750121402786,
+      "content": "Voy saliendo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750121400202,
+      "content": "Listo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750121396118,
+      "content": "Dale avisame cual te llevo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artxro Alejandro",
+      "timestamp_ms": 1750121395207,
+      "content": "Ya el de 150",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750121388449,
+      "content": "Solo estetico",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750121386325,
+      "content": "No nada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artxro Alejandro",
+      "timestamp_ms": 1750121356581,
+      "content": "Yo voy en camino",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artxro Alejandro",
+      "timestamp_ms": 1750121323576,
+      "content": "Pero afecta en el funcionamiento?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750121278223,
+      "content": "En la foto se aprecia un poco",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750121252526,
+      "content": "Tiene desgaste junto al mouse, un poco decolorado por el apoyar la mu\u00c3\u00b1eca durante el tiempo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artxro Alejandro",
+      "timestamp_ms": 1750121198519,
+      "content": "??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artxro Alejandro",
+      "timestamp_ms": 1750121197187,
+      "content": "Que detalles tiene",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750121191553,
+      "content": "150mil podria ese",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750121180351,
+      "content": "Si ese es una generacion mas pero tiene par de detalles esteticos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artxro Alejandro",
+      "timestamp_ms": 1750121128258,
+      "content": "Es que por el procesador me sirve m\u00c3\u00a1s",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artxro Alejandro",
+      "timestamp_ms": 1750121120841,
+      "content": "Ese en cuanto es lo m\u00c3\u00adnimo que me lo dejar\u00c3\u00adas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artxro Alejandro",
+      "timestamp_ms": 1750121103143,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/artxronotebooki512gbramultrapotenteconssdprobook_24218363284416664/photos/1461290498372976.jpg",
+          "creation_timestamp": 1750121101
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artxro Alejandro",
+      "timestamp_ms": 1750121096647,
+      "content": "Tienes este igual publicado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artxro Alejandro",
+      "timestamp_ms": 1750121090694,
+      "content": "Mira",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artxro Alejandro",
+      "timestamp_ms": 1750121087712,
+      "content": "Amigo lira",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artxro Alejandro",
+      "timestamp_ms": 1750121085898,
+      "content": "Si en 40 mint",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750120915467,
+      "content": "O no se si prefiere ma\u00c3\u00b1ana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750120910821,
+      "content": "Puedo estar alli en unos 40min",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artxro Alejandro",
+      "timestamp_ms": 1750120860165,
+      "content": "??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artxro Alejandro",
+      "timestamp_ms": 1750120473676,
+      "content": "En cuanto puedesn",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artxro Alejandro",
+      "timestamp_ms": 1750120470070,
+      "content": "Vicu\u00c3\u00b1a mano",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artxro Alejandro",
+      "timestamp_ms": 1750120455745,
+      "content": "Vicu\u00c3\u00b1a m\u00c3\u00a1quena",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artxro Alejandro",
+      "timestamp_ms": 1750120425971,
+      "content": "Mira en Vicente Valdez",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750120197263,
+      "content": "O te lo puedo acercar a puente cal y canto por ejemplo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750120184496,
+      "content": "No se si te acomoda alguna",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750120180596,
+      "content": "Alguna de esas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750120178391,
+      "content": "Plaza ega\u00c3\u00b1a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750120176084,
+      "content": "O vicente valdez",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750120171653,
+      "content": "Tipo vicu\u00c3\u00b1a mackenna",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750120163897,
+      "content": "Si claro, podria ser en una combinacion",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artxro Alejandro",
+      "timestamp_ms": 1750120143013,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artxro Alejandro",
+      "timestamp_ms": 1750120141030,
+      "content": "Si no podemos verlo en alg\u00c3\u00ban metro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750120130001,
+      "content": "Es bastante rapido, con el disco solido enciende en segundos, todo abre bastante rapido, puedes tener muchas pesta\u00c3\u00b1as abiertas y funciona impecable",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artxro Alejandro",
+      "timestamp_ms": 1750120124852,
+      "content": "Estoy viendo si alg\u00c3\u00ban amigo me acompa\u00c3\u00b1an",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artxro Alejandro",
+      "timestamp_ms": 1750120116585,
+      "content": "Mira yo soy del metro lo Ovalle",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750120091541,
+      "content": "Nop, maneja buena temperatura",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750120077329,
+      "content": "Si claro juegos como lol, csgo o asi los corre, los de triple A si no los correra (warzone o asi)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artxro Alejandro",
+      "timestamp_ms": 1750120040796,
+      "content": "Me puedes dar m\u00c3\u00a1s detalles ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artxro Alejandro",
+      "timestamp_ms": 1750120036658,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artxro Alejandro",
+      "timestamp_ms": 1750120034592,
+      "content": "Se sobre calienta ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750120029755,
+      "content": "Entrego en mi domicilio en la comuna de la Florida o puedo acercar a  metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artxro Alejandro",
+      "timestamp_ms": 1750120029610,
+      "content": "Me corren algunos juegos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artxro Alejandro",
+      "timestamp_ms": 1750120023902,
+      "content": "Como la puedo probar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750120020752,
+      "content": "El equipo nunca fallo, mouse, pantalla, sonido, wifi, etc, funcionando impecable",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artxro Alejandro",
+      "timestamp_ms": 1750120019977,
+      "content": "Donde entregas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750120001335,
+      "content": "140mil podria amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1750119996956,
+      "content": "Rechazaste la oferta de Artxro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artxro Alejandro",
+      "timestamp_ms": 1750119947363,
+      "content": "Artxro te ofreci\u00c3\u00b3 $120.000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Artxro \u00c2\u00b7 Notebook i5 12GB RAM Ultra Potente con SSD PROBOOK",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/artxronotebooki512gbramultrapotenteconssdprobook_24218363284416664",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

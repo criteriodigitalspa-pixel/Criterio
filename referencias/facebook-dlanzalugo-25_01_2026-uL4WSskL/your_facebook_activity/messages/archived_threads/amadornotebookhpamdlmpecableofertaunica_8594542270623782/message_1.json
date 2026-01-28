@@ -1,0 +1,92 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Del Rosario Marchelo Amador"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729559199810,
+      "content": "Podria acercarme a cualquier estacion de metro o podria verlo en mi domicilio en la florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Del Rosario Marchelo Amador",
+      "timestamp_ms": 1729558513308,
+      "content": "D\u00c3\u00b3nde lo entregas amigo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729558460378,
+      "content": "Si tiene cargador, la bateria esta en buen estado igual, aprox 2 horas\n Funciona todo, teclas touchpad, todo le funciona bien\n Esta bien cuidada igual\nSolo un poco de desgaste estetico por uso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Del Rosario Marchelo Amador",
+      "timestamp_ms": 1729558364592,
+      "content": "Cu\u00c3\u00a1nto tiempo de uso tiene amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Del Rosario Marchelo Amador",
+      "timestamp_ms": 1729558309120,
+      "content": "Que detalles tiene",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729558287263,
+      "content": "Hola, s\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Del Rosario Marchelo Amador",
+      "timestamp_ms": 1729558276289,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Del Rosario Marchelo Amador",
+      "timestamp_ms": 1729558271909,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Del Rosario Marchelo Amador",
+      "timestamp_ms": 1729558269047,
+      "content": "Amador asign\u00c3\u00b3 al grupo el nombre \"Amador \u00c2\u00b7 Notebook HP AMD - \u00c2\u00a1lmpecable! Oferta \u00c3\u00banica\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Del Rosario Marchelo Amador",
+      "timestamp_ms": 1729558269047,
+      "content": "Amador cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Amador \u00c2\u00b7 Notebook HP AMD - \u00c2\u00a1lmpecable! Oferta \u00c3\u00banica",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/amadornotebookhpamdlmpecableofertaunica_8594542270623782",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

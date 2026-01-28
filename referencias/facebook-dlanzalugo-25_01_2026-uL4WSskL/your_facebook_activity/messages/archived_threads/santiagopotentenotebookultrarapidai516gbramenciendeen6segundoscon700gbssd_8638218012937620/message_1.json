@@ -1,0 +1,85 @@
+{
+  "participants": [
+    {
+      "name": "Santiago Ulivardo Villafa\u00c3\u00b1a Mu\u00c3\u00b1oz"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731547678436,
+      "content": "Le interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731419152787,
+      "content": "Quiere coordinar para verlo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731417340170,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma, sin compromiso. Solo si le gusta se lo lleva",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731417330669,
+      "content": "Hola, si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Ulivardo Villafa\u00c3\u00b1a Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1731417189043,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Ulivardo Villafa\u00c3\u00b1a Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1731417184155,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Ulivardo Villafa\u00c3\u00b1a Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1731417183798,
+      "content": "Santiago Ulivardo Villafa\u00c3\u00b1a Mu\u00c3\u00b1oz",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Ulivardo Villafa\u00c3\u00b1a Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1731417181605,
+      "content": "Santiago asign\u00c3\u00b3 al grupo el nombre \"Santiago \u00c2\u00b7 Potente Notebook Ultra Rapida i5 16GB RAM  Enciende en 6 Segundos, con 700GB SSD\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Ulivardo Villafa\u00c3\u00b1a Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1731417181605,
+      "content": "Santiago cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Santiago \u00c2\u00b7 Potente Notebook Ultra Rapida i5 16GB RAM  Enciende en 6 Segundos, con 700GB SSD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/santiagopotentenotebookultrarapidai516gbramenciendeen6segundoscon700gbssd_8638218012937620",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "JonaThan Meneses Gajardo"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1741658807621,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "JonaThan Meneses Gajardo",
+      "timestamp_ms": 1741657767421,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "JonaThan Meneses Gajardo",
+      "timestamp_ms": 1741657757745,
+      "content": "Hola. Est\u00c3\u00a1 disponible???",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "JonaThan Meneses Gajardo",
+      "timestamp_ms": 1741657757568,
+      "content": "JonaThan inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "JonaThan \u00c2\u00b7 Notebook Gamer // Intel core i7 // AMD Graphics // 12gb RAM // SSDD",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/jonathannotebookgamerintelcorei7amdgraphics12gbramssdd_8965897380198734",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

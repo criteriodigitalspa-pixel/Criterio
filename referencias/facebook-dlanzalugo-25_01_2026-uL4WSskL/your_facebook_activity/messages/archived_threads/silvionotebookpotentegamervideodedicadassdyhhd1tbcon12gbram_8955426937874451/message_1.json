@@ -1,0 +1,211 @@
+{
+  "participants": [
+    {
+      "name": "Silvio Garbi"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Silvio Garbi",
+      "timestamp_ms": 1729026901438,
+      "content": "Saludos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Silvio Garbi",
+      "timestamp_ms": 1729026896508,
+      "content": "Ok, gracias por avisar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729021706494,
+      "content": "Silvio buenas tardes, disculpeme compa\u00c3\u00b1ero pero vinieron a buscar el notebook a mi domicilio y lo pagaron a precio completo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729013609195,
+      "content": "No me ha llegado ninguna llamada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Silvio Garbi",
+      "timestamp_ms": 1729013605118,
+      "content": "958316847",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Silvio Garbi",
+      "timestamp_ms": 1729013574193,
+      "content": "Pero no me deja comunicarme",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Silvio Garbi",
+      "timestamp_ms": 1729013558125,
+      "content": "Te estoy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Silvio Garbi",
+      "timestamp_ms": 1729013549249,
+      "content": "Tiestos llamando tb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729012678951,
+      "content": "9 9491 9000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Silvio Garbi",
+      "timestamp_ms": 1729012415350,
+      "content": "Tienes WhatsApp",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Silvio Garbi",
+      "timestamp_ms": 1729012175287,
+      "content": "Hola s\u00c3\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728994203266,
+      "content": "Silvio buen dia, me confirma por favor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Silvio Garbi",
+      "timestamp_ms": 1728931691207,
+      "content": "Agendado, ma\u00c3\u00b1ana te escribo.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Diego Lanza",
+          "timestamp": 1728931751
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728931189528,
+      "content": "994919000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Silvio Garbi",
+      "timestamp_ms": 1728931157894,
+      "content": "Si me pasas tu numero te escribo al whatsapp",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728931143939,
+      "content": "Por supuesto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Silvio Garbi",
+      "timestamp_ms": 1728931130149,
+      "content": "Ma\u00c3\u00b1ana podriamos coordinar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728931116472,
+      "content": "Puede probarla igual con confianza antes de decidirse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728931070908,
+      "content": "Se la puedo acercar a alguna estacion de metro, o podria verla en mi domicilio en la florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Silvio Garbi",
+      "timestamp_ms": 1728930969051,
+      "content": "Y donde podria verla",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728930161365,
+      "content": "Si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Silvio Garbi",
+      "timestamp_ms": 1728929773827,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Silvio Garbi",
+      "timestamp_ms": 1728929769026,
+      "content": "Buenas tardes. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Silvio Garbi",
+      "timestamp_ms": 1728929768585,
+      "content": "Silvio Garbi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Silvio Garbi",
+      "timestamp_ms": 1728929766140,
+      "content": "Silvio asign\u00c3\u00b3 al grupo el nombre \"Silvio \u00c2\u00b7 NOTEBOOK POTENTE GAMER VIDEO DEDICADA SSD Y HHD1TB CON 12GB RAM\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Silvio Garbi",
+      "timestamp_ms": 1728929766140,
+      "content": "Silvio cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Silvio \u00c2\u00b7 NOTEBOOK POTENTE GAMER VIDEO DEDICADA SSD Y HHD1TB CON 12GB RAM",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/silvionotebookpotentegamervideodedicadassdyhhd1tbcon12gbram_8955426937874451",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

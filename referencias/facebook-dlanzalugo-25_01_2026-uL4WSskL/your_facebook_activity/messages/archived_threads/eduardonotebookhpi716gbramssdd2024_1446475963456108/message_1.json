@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Eduardo Marval"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757853492403,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757193853518,
+      "content": "Si puede subir su presupuesto estare atento, piense que es estara invirtiendo en un equipo que durara muchos a\u00c3\u00b1os sin descontinuar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757193800950,
+      "content": "Entiendo estimado, la verdad por 250 se me hace imposible por un equipo que tiene un procesador i7 de las las mejores generaciones, no baja de 700mil y ya esta muy rebajado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eduardo Marval",
+      "timestamp_ms": 1757193657879,
+      "content": "Entiendo! Muchas gracias por responder, pero es el presupuesto del que dispongo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757193627417,
+      "content": "Como podriamos acordar un monto que nos sirva a ambos?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1757193612319,
+      "content": "Hola Eduardo, gracias por su oferta pero se me hace imposible aceptar ese monto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eduardo Marval",
+      "timestamp_ms": 1757191575960,
+      "content": "Eduardo te ofreci\u00c3\u00b3 $250.000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Eduardo \u00c2\u00b7 Notebook HP i7 / 16GB RAM / SSDD / 2024",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/eduardonotebookhpi716gbramssdd2024_1446475963456108",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

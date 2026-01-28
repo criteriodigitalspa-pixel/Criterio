@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Jhanira L\u00c3\u00b3pez"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718292020201,
+      "content": "Ver publicaciones similares",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718162413830,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718162411296,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1718162411105,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Notebook Acer Aspire 3, 8G RAM, AMD E2-9000 , 15,6\" pulgadas\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook Acer Aspire 3, 8G RAM, AMD E2-9000 , 15,6\" pulgadas",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebookaceraspire38gramamde29000156pulgadas_7229045163867334",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1931597367310206.jpg",
+    "creation_timestamp": 1718162409
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

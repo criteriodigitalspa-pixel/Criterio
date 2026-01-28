@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "CH Kokushibo Takeshy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764774943918,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764366677071,
+      "content": "180mil y es tuyo amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CH Kokushibo Takeshy",
+      "timestamp_ms": 1764366668804,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CH Kokushibo Takeshy",
+      "timestamp_ms": 1764366664609,
+      "content": "\u00c3\u009altimo bro ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CH Kokushibo Takeshy",
+      "timestamp_ms": 1764366664225,
+      "content": "takeshy inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "takeshy \u00c2\u00b7 Notebook Lenovo i5 / Muy rapido / ENCIENDE EN SEGUNDOS /",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/takeshynotebooklenovoi5muyrapidoenciendeensegundos_1933736070911040",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

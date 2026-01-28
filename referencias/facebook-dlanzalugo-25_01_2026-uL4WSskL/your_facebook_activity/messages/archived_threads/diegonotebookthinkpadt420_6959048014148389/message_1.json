@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Catita Ignacia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703800778214,
+      "content": "Abandonaste el grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Catita Ignacia",
+      "timestamp_ms": 1703800633796,
+      "content": "Lo siento, no est\u00c3\u00a1 disponible.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703770933167,
+      "content": "Hola, Catita. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703770931205,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703770930850,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Notebook Thinkpad T420\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook Thinkpad T420",
+  "is_still_participant": false,
+  "thread_path": "archived_threads/diegonotebookthinkpadt420_6959048014148389",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/2961036630710087.jpg",
+    "creation_timestamp": 1703770928
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

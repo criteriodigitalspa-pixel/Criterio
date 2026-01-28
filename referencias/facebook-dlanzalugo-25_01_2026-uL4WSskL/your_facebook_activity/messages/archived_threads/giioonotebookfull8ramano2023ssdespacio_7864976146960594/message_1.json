@@ -1,0 +1,76 @@
+{
+  "participants": [
+    {
+      "name": "Giioo Guti\u00c3\u00a9rrez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740884319703,
+      "videos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/giioonotebookfull8ramano2023ssdespacio_7864976146960594/videos/659877766477882.mp4",
+          "creation_timestamp": 1740884319
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740876602508,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740876601617,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1740876601132,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Giioo Guti\u00c3\u00a9rrez",
+      "timestamp_ms": 1740870152572,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Giioo Guti\u00c3\u00a9rrez",
+      "timestamp_ms": 1740870146247,
+      "content": "Buenas noches. \u00c2\u00bfTodav\u00c3\u00ada est\u00c3\u00a1 disponible este art\u00c3\u00adculo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Giioo Guti\u00c3\u00a9rrez",
+      "timestamp_ms": 1740870146018,
+      "content": "Giioo inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Giioo \u00c2\u00b7 Notebook Full / 8 RAM / a\u00c3\u00b1o 2023 / SSD Espacio",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/giioonotebookfull8ramano2023ssdespacio_7864976146960594",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

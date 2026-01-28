@@ -1,0 +1,134 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Rodrigo CM"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732326366056,
+      "content": "Dale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo CM",
+      "timestamp_ms": 1732326360152,
+      "content": "Ver\u00c3\u00a9 si se puede",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo CM",
+      "timestamp_ms": 1732326354676,
+      "content": "Lo revisar\u00c3\u00a9 me interesaria ampliar a 16 gb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732326325302,
+      "content": "Es como un cache mejorado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732326300328,
+      "content": "Y la memoria optane es un espacio que se dedica a almacenar tu uso cotidiano, para precargar aplicaciones que uses habitualmente y dar mas rapidez y fluidez",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732326224607,
+      "content": "Esta todo funcionando, la ram es soldada por lo que no se puede ampliar facilmente",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo CM",
+      "timestamp_ms": 1732326086731,
+      "content": "Alg\u00c3\u00ban detalle? Cu\u00c3\u00a1nto dura la bater\u00c3\u00ada? Se puede ampliar la ram? No conozco eso de memoria octane",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732324156547,
+      "content": "Pesa 1.2kg",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732324151390,
+      "content": "Hp envy laptop model 13-aq100l2a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732324044219,
+      "content": "Hp envy 13 aq1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732324008773,
+      "content": "Hola buenas noches",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo CM",
+      "timestamp_ms": 1732323658317,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo CM",
+      "timestamp_ms": 1732323655197,
+      "content": "Buenas noches. \u00c2\u00bfSigue disponible? Que modelo espec\u00c3\u00adfico es ? Cu\u00c3\u00a1nto pesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo CM",
+      "timestamp_ms": 1732323636137,
+      "content": "Rodrigo CM te envi\u00c3\u00b3 un mensaje sobre tu publicaci\u00c3\u00b3n: Notebook i7-10th Ultra Rapida y potente HP Envy 13.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo CM",
+      "timestamp_ms": 1732323632156,
+      "content": "Buenas noches. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rodrigo CM",
+      "timestamp_ms": 1732323631955,
+      "content": "Rodrigo inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rodrigo \u00c2\u00b7 Notebook i7-10th Ultra Rapida y potente HP Envy 13",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/rodrigonotebooki710thultrarapidaypotentehpenvy13_27412028985112322",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

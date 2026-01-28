@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Vice Vi\u00c3\u00b1a"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1764654293618,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vice Vi\u00c3\u00b1a",
+      "timestamp_ms": 1764639988005,
+      "content": "Vice Vi\u00c3\u00b1a te envi\u00c3\u00b3 un mensaje sobre tu publicaci\u00c3\u00b3n: Potente Notebook 16GB RAM /  Ultra Rapida / i5-10th.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vice Vi\u00c3\u00b1a",
+      "timestamp_ms": 1764639984708,
+      "content": "\u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vice Vi\u00c3\u00b1a",
+      "timestamp_ms": 1764639984540,
+      "content": "Vice inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Vice \u00c2\u00b7 Potente Notebook 16GB RAM /  Ultra Rapida / i5-10th",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/vicepotentenotebook16gbramultrarapidai510th_3914929982132264",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "participants": [
+    {
+      "name": "Franco Arzola Mu\u00c3\u00b1oz"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Franco Arzola Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1728921989334,
+      "content": "Si es temprano puedo en metro el golf, si es en la tarde (metro grecia) tipo 19.30",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728921954984,
+      "content": "Ma\u00c3\u00b1ana a que hora amigo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Arzola Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1728916394734,
+      "content": "Tendria que ser ma\u00c3\u00b1ana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728916381997,
+      "content": "Aah vale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728916378331,
+      "content": "En metro macul puede entregarlo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Arzola Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1728916377427,
+      "content": "Si, pero no ando con el cargador hoy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Arzola Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1728916368660,
+      "content": "Para confirnar que sea compatible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Arzola Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1728916360974,
+      "content": "En la descripci\u00c3\u00b3n esta el modelo del cargador",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Franco Arzola Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1728916338583,
+      "content": "Buenos dias, disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728916334362,
+      "content": "Estimado, puede en metro Macul?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728916321853,
+      "content": "Buenos d\u00c3\u00adas. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728916318785,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Cargador LENOVO ORIGINAL 20V\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728916318785,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Cargador LENOVO ORIGINAL 20V",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegocargadorlenovooriginal20v_8481207505261238",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/459443240488003.jpg",
+    "creation_timestamp": 1728916316
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

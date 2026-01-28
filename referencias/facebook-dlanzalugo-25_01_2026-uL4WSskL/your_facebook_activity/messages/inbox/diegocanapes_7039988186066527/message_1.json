@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Maira Andrea Diaz Herrera"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Maira Andrea Diaz Herrera",
+      "timestamp_ms": 1703902670971,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maira Andrea Diaz Herrera",
+      "timestamp_ms": 1703811620760,
+      "content": "Hola , si a\u00c3\u00ban disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703811019484,
+      "content": "Hola. \u00c2\u00bfSigue estando disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703811017964,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1703811017700,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Canap\u00c3\u00a9s\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Canap\u00c3\u00a9s",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegocanapes_7039988186066527",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/926984148994477.jpg",
+    "creation_timestamp": 1703811015
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

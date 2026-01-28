@@ -1,0 +1,416 @@
+{
+  "participants": [
+    {
+      "name": "F Serrano Cid"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "F Serrano Cid",
+      "timestamp_ms": 1743614997120,
+      "content": "Te pasaste",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "F Serrano Cid",
+      "timestamp_ms": 1743614989973,
+      "content": "Vale Diego gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743613119307,
+      "content": "Son 5 tornillos en la tapa, sale y la bateria es un conector que sale con la mano",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743613089211,
+      "content": "Cambiarla es super facil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743613082062,
+      "content": "Esa es la bateria, vale 10mil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743613074229,
+      "content": "He encontrado esto en AliExpress: \nCLP11.936 | Bater\u00c3\u00ada WDX0R para Dell Inspiron 13 5000 5368 5378 7368 7378 14 7000 7560 7460 5468 15 7560 5538 5567 5568 P61F T2JX4 3CRH3 WDXOR\nhttps://a.aliexpress.com/_mNDh7Q7",
+      "share": {
+        "link": "https://a.aliexpress.com/_mNDh7Q7",
+        "share_text": "CLP11.936 | Bater\u00c3\u00ada WDX0R para Dell Inspiron 13 5000 5368 5378 7368 7378 14 7000 7560 7460 5468 15 7560 5538 5567 5568 P61F T2JX4 3CRH3 WDXOR"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "F Serrano Cid",
+      "timestamp_ms": 1743602266880,
+      "content": "Oka gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743602240446,
+      "content": "Dejame te busco donde comprarla",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "F Serrano Cid",
+      "timestamp_ms": 1743602231821,
+      "content": "Cambiarla",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743602230755,
+      "content": "Pero las baterias son economicas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743602221866,
+      "content": "Noo no me quedan ya",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "F Serrano Cid",
+      "timestamp_ms": 1743602218385,
+      "content": "O si sabes d\u00c3\u00b3nde puedo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743602215145,
+      "content": "Hola amigo como esta?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "F Serrano Cid",
+      "timestamp_ms": 1743602210763,
+      "content": "M\u00c3\u00a1s menos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "F Serrano Cid",
+      "timestamp_ms": 1743602205424,
+      "content": "Y cu\u00c3\u00a1nto sale",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "F Serrano Cid",
+      "timestamp_ms": 1743602200586,
+      "content": "Por una mejor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "F Serrano Cid",
+      "timestamp_ms": 1743602195890,
+      "content": "Tienes para poder cambiarla",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "F Serrano Cid",
+      "timestamp_ms": 1743602185679,
+      "content": "La bater\u00c3\u00ada dura como 1.5 hrs m\u00c3\u00a1s menos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "F Serrano Cid",
+      "timestamp_ms": 1743602166031,
+      "content": "Hola bro como est\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743201849538,
+      "content": "Te lo acabo de pasar al whatsapp igual",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743201813092,
+      "videos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/fnotebookultrarapidadelli5con16gbrammuypotenteconm2256gbenciendeen7segundos_9299795260147171/videos/991754269576012.mp4",
+          "creation_timestamp": 1743201799
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743201799692,
+      "content": "Alli te mande el video",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743201784768,
+      "content": "Disculpame estuve trabajando",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743201776976,
+      "content": "Ya estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "F Serrano Cid",
+      "timestamp_ms": 1743187078082,
+      "content": "Y el precio final cu\u00c3\u00a1nto es",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "F Serrano Cid",
+      "timestamp_ms": 1743187060696,
+      "content": "El encendido",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "F Serrano Cid",
+      "timestamp_ms": 1743187058529,
+      "content": "Mostr\u00c3\u00a1ndome el funcionamiento",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "F Serrano Cid",
+      "timestamp_ms": 1743187046784,
+      "content": "Puedes mandarme un video",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "F Serrano Cid",
+      "timestamp_ms": 1743187031014,
+      "content": "Por Whatsapp",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "F Serrano Cid",
+      "timestamp_ms": 1743187027317,
+      "content": "Me hablas a mi n\u00c3\u00bamero",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "F Serrano Cid",
+      "timestamp_ms": 1743187018345,
+      "content": "Felipe es mi nombre",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "F Serrano Cid",
+      "timestamp_ms": 1743187014039,
+      "content": "+56984943289",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743186995167,
+      "content": "Listo sin problema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "F Serrano Cid",
+      "timestamp_ms": 1743186985423,
+      "content": "Temprano como 10 am",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743186973359,
+      "content": "Vale digame la hora no mas y alli estare",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "F Serrano Cid",
+      "timestamp_ms": 1743186957986,
+      "content": "Puede ser el metro protectora de la infancia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743186955728,
+      "content": "Que hora?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743186952431,
+      "content": "Si claro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "F Serrano Cid",
+      "timestamp_ms": 1743186943434,
+      "content": "Ma\u00c3\u00b1ana en la ma\u00c3\u00b1ana tienes tiempo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743186927939,
+      "content": "El que le acomode no mas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "F Serrano Cid",
+      "timestamp_ms": 1743186908675,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "F Serrano Cid",
+      "timestamp_ms": 1743186907049,
+      "content": "Y que metro puede ser",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743186896360,
+      "content": "No amigo, solo metro o mi domicilio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "F Serrano Cid",
+      "timestamp_ms": 1743186892722,
+      "content": "Soy de puente alto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "F Serrano Cid",
+      "timestamp_ms": 1743186879345,
+      "content": "Para m\u00c3\u00a1s seguridad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "F Serrano Cid",
+      "timestamp_ms": 1743186874620,
+      "content": "Y puedes venir tu a mi domicilio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743186852181,
+      "content": "Sobre todo para modelados 2D y 3D basicos te ira super",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743186842110,
+      "content": "Si amigo te servira para el autocad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "F Serrano Cid",
+      "timestamp_ms": 1743186406580,
+      "content": "Lo necesito para el trabajo y que puedas usar la aplicaci\u00c3\u00b3n autocad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "F Serrano Cid",
+      "timestamp_ms": 1743186390961,
+      "content": "Tu lo ocupabas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743183108362,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme al metro, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1743183108008,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "F Serrano Cid",
+      "timestamp_ms": 1743180223486,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "F Serrano Cid",
+      "timestamp_ms": 1743180217628,
+      "content": "\u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "F Serrano Cid",
+      "timestamp_ms": 1743180217407,
+      "content": "F inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "F \u00c2\u00b7 Notebook Ultra Rapida Dell i5 con 16GB RAM Muy Potente Con M2 256GB ENCIENDE EN 7 SEGUNDOS!",
+  "is_still_participant": true,
+  "thread_path": "inbox/fnotebookultrarapidadelli5con16gbrammuypotenteconm2256gbenciendeen7segundos_9299795260147171",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

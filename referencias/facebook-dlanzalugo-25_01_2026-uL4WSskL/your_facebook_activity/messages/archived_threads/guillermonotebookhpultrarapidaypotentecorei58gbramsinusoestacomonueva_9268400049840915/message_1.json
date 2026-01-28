@@ -1,0 +1,125 @@
+{
+  "participants": [
+    {
+      "name": "Guillermo Bonta Denkberg"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Guillermo Bonta Denkberg",
+      "timestamp_ms": 1728475360791,
+      "content": "Guillermo reaccion\u00c3\u00b3 \u00f0\u009f\u0091\u008d a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728475233939,
+      "content": "No amigo muchas gracias igual",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Guillermo Bonta Denkberg",
+          "timestamp": 1728475360
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Guillermo Bonta Denkberg",
+      "timestamp_ms": 1728475153554,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/guillermonotebookhpultrarapidaypotentecorei58gbramsinusoestacomonueva_9268400049840915/photos/511752008337875.jpg",
+          "creation_timestamp": 1728475153
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Guillermo Bonta Denkberg",
+      "timestamp_ms": 1728475076811,
+      "content": "Tengo un tecle mec\u00c3\u00a1nico que no utiliza cadena levanta 500kl y no es m\u00c3\u00a1s grande que un libro pesa como 3 kilo y vale como 350000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728475006713,
+      "content": "Que tiene a cambio?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Guillermo Bonta Denkberg",
+      "timestamp_ms": 1728474977152,
+      "content": "Hola amigo buenos d\u00c3\u00adas consulta le interesa una permuta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728474943684,
+      "content": "Buen dia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728474941294,
+      "content": "Si Guillermo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Guillermo Bonta Denkberg",
+      "timestamp_ms": 1728474920074,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Guillermo Bonta Denkberg",
+      "timestamp_ms": 1728474915193,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Guillermo Bonta Denkberg",
+      "timestamp_ms": 1728474914474,
+      "content": "Guillermo Bonta Denkberg",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Guillermo Bonta Denkberg",
+      "timestamp_ms": 1728474912024,
+      "content": "Guillermo asign\u00c3\u00b3 al grupo el nombre \"Guillermo \u00c2\u00b7 NOTEBOOK HP ULTRA RAPIDA Y POTENTE  CORE I5 8GB RAM, SIN USO ESTA COMO NUEVA\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Guillermo Bonta Denkberg",
+      "timestamp_ms": 1728474912024,
+      "content": "Guillermo cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Guillermo \u00c2\u00b7 NOTEBOOK HP ULTRA RAPIDA Y POTENTE  CORE I5 8GB RAM, SIN USO ESTA COMO NUEVA",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/guillermonotebookhpultrarapidaypotentecorei58gbramsinusoestacomonueva_9268400049840915",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

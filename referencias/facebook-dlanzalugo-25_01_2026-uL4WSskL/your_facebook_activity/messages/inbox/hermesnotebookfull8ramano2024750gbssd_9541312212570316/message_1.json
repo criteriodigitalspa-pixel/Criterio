@@ -1,0 +1,125 @@
+{
+  "participants": [
+    {
+      "name": "Coronado Hermes"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738754337315,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/hermesnotebookfull8ramano2024750gbssd_9541312212570316/photos/588497884061758.jpg",
+          "creation_timestamp": 1738754336
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738754318756,
+      "content": "Esta nueva amigo. Esta todo al 100",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Coronado Hermes",
+      "timestamp_ms": 1738753334589,
+      "content": "El procesador",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Coronado Hermes",
+      "timestamp_ms": 1738753329631,
+      "content": "Porfa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Coronado Hermes",
+      "timestamp_ms": 1738753328078,
+      "content": "Me puedes mandar una foto del las caracter\u00c3\u00adsticas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Coronado Hermes",
+      "timestamp_ms": 1738753079390,
+      "content": "Alg\u00c3\u00ban detalle desgaste",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738752961327,
+      "content": "El publicado amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Coronado Hermes",
+      "timestamp_ms": 1738752671061,
+      "content": "\u00c3\u009altimo precio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738750787976,
+      "content": "Si tiene alguna duda me avisa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738750787211,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738750786578,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Coronado Hermes",
+      "timestamp_ms": 1738731468377,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Coronado Hermes",
+      "timestamp_ms": 1738731464255,
+      "content": "\u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Coronado Hermes",
+      "timestamp_ms": 1738731463880,
+      "content": "Hermes inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Hermes \u00c2\u00b7 Notebook Full / 8 RAM / a\u00c3\u00b1o 2024 / 750gb SSD",
+  "is_still_participant": true,
+  "thread_path": "inbox/hermesnotebookfull8ramano2024750gbssd_9541312212570316",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

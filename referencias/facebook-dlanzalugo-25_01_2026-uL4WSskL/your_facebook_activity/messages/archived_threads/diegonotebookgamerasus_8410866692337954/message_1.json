@@ -1,0 +1,94 @@
+{
+  "participants": [
+    {
+      "name": "Luis Torres"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Luis Torres",
+      "timestamp_ms": 1728925556217,
+      "content": "Luis elimin\u00c3\u00b3 el art\u00c3\u00adculo de Marketplace.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Torres",
+      "timestamp_ms": 1728607879264,
+      "content": "Luis baj\u00c3\u00b3 el precio de Notebook Gamer ASUS a $120.000.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Torres",
+      "timestamp_ms": 1728563233740,
+      "content": "lo va a querer?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Torres",
+      "timestamp_ms": 1728529572944,
+      "content": "Luis baj\u00c3\u00b3 el precio de Notebook Gamer ASUS a $150.000.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728489700397,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Torres",
+      "timestamp_ms": 1728489661375,
+      "content": "ya le aviso si me parece bien",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728475846541,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728475845232,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Notebook Gamer ASUS\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1728475845232,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook Gamer ASUS",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebookgamerasus_8410866692337954",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/563848496215119.jpg",
+    "creation_timestamp": 1728475844
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

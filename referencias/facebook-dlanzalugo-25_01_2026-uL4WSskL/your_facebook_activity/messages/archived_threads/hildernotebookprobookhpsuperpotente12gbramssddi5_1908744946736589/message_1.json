@@ -1,0 +1,92 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Hilder Escobar"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767561304314,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767470436007,
+      "content": "150mil amigo, nada menos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hilder Escobar",
+      "timestamp_ms": 1767469917721,
+      "content": "Cu\u00c3\u00a1nto seria",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hilder Escobar",
+      "timestamp_ms": 1767469913275,
+      "content": "Lo m\u00c3\u00adnimo que recibe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767469417395,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hilder Escobar",
+      "timestamp_ms": 1767469326645,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hilder Escobar",
+      "timestamp_ms": 1767469322947,
+      "content": "\u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hilder Escobar",
+      "timestamp_ms": 1767469322374,
+      "content": "Hilder Escobar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hilder Escobar",
+      "timestamp_ms": 1767469320518,
+      "content": "Hilder asign\u00c3\u00b3 al grupo el nombre \"Hilder \u00c2\u00b7 Notebook Probook HP  Super Potente/ 12GB RAM / SSDD / i5\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hilder Escobar",
+      "timestamp_ms": 1767469320518,
+      "content": "Hilder cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Hilder \u00c2\u00b7 Notebook Probook HP  Super Potente/ 12GB RAM / SSDD / i5",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/hildernotebookprobookhpsuperpotente12gbramssddi5_1908744946736589",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Yesmith Leon"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729187377759,
+      "content": "Le intereso?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729130439849,
+      "content": "Podria acercarme a cualquier estacion o podria verlo en mi domicilio en la florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729130433593,
+      "content": "El precio es 110mil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yesmith Leon",
+      "timestamp_ms": 1729129530459,
+      "content": "El precio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yesmith Leon",
+      "timestamp_ms": 1729129526305,
+      "content": "Dnd lo tienes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729129510731,
+      "content": "Sigue disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729129508295,
+      "content": "Hola si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yesmith Leon",
+      "timestamp_ms": 1729129490969,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yesmith Leon",
+      "timestamp_ms": 1729129487290,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yesmith Leon",
+      "timestamp_ms": 1729129486826,
+      "content": "Yesmith Leon",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yesmith Leon",
+      "timestamp_ms": 1729129484198,
+      "content": "Yesmith asign\u00c3\u00b3 al grupo el nombre \"Morenita \u00c2\u00b7 Rapida Notebook HP core i5 con 8GB Ram y  SSD Corre cualquier programa\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yesmith Leon",
+      "timestamp_ms": 1729129484198,
+      "content": "Yesmith cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Morenita \u00c2\u00b7 Rapida Notebook HP core i5 con 8GB Ram y  SSD Corre cualquier programa",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/morenitarapidanotebookhpcorei5con8gbramyssdcorrecualquierprograma_8918268338207455",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

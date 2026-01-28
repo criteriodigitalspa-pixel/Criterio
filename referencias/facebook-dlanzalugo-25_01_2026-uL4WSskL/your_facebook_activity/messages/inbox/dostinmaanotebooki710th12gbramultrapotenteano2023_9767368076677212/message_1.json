@@ -1,0 +1,104 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Dostin Maa Quilumbango"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1747420784690,
+      "content": "Hp 240 G3\nI5-6th\n8gb RAM\n250Gb\n$140.000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1747420741875,
+      "content": "Lenovo Thinkpad E14\nI7-10th\n16gb RAM\n250GB SSD\n$320.000\n\nLenovo Ideapad\nI7-10th\n12gb RAM\n250SSDD\n$280.000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1747420570770,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/dostinmaanotebooki710th12gbramultrapotenteano2023_9767368076677212/photos/2114640875723155.jpg",
+          "creation_timestamp": 1747420570
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dostin Maa Quilumbango",
+      "timestamp_ms": 1747420325203,
+      "content": "Gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dostin Maa Quilumbango",
+      "timestamp_ms": 1747420323659,
+      "content": "Me puedes enviar fotos de los que tiengas disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dostin Maa Quilumbango",
+      "timestamp_ms": 1747420302972,
+      "content": "Tienes algun otro modelo disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1747418313098,
+      "content": "Puede venir a verlo a mi domicilio en la comuna de la Florida, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1747418311420,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dostin Maa Quilumbango",
+      "timestamp_ms": 1747417958731,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dostin Maa Quilumbango",
+      "timestamp_ms": 1747417952311,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dostin Maa Quilumbango",
+      "timestamp_ms": 1747417952036,
+      "content": "Dostin Maa inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dostin Maa \u00c2\u00b7 Notebook i7-10Th / 12GB RAM Ultra Potente // a\u00c3\u00b1o 2023",
+  "is_still_participant": true,
+  "thread_path": "inbox/dostinmaanotebooki710th12gbramultrapotenteano2023_9767368076677212",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

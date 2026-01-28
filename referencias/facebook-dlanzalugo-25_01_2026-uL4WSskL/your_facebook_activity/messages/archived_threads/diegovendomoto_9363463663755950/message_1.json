@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Yohelis Rodriguez"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Yohelis Rodriguez",
+      "timestamp_ms": 1752848840466,
+      "content": "\u00c2\u00bfA\u00c3\u00ban te interesa? Responde a: S\u00c3\u00ad. \u00c2\u00bfTe interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yohelis Rodriguez",
+      "timestamp_ms": 1752809939112,
+      "content": "S\u00c3\u00ad. \u00c2\u00bfTe interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1752778180986,
+      "content": "Buenas tardes. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1752778180734,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Vendo \u00f0\u009f\u008f\u008d\u00ef\u00b8\u008f moto",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegovendomoto_9363463663755950",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/689739727358637.jpg",
+    "creation_timestamp": 1752778177
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

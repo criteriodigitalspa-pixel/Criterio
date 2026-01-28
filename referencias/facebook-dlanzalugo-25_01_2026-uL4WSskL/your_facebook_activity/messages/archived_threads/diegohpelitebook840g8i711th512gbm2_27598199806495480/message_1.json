@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Jose Manuel Gonzales Roca"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732534263924,
+      "content": "Donde entregas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jose Manuel Gonzales Roca",
+      "timestamp_ms": 1732534189417,
+      "content": "No rata",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732494228729,
+      "content": "Migo haces precio por los 3?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732494226364,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 HP ELITEBOOK 840 G8 i7 11th 512gb m.2\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1732494226364,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 HP ELITEBOOK 840 G8 i7 11th 512gb m.2",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegohpelitebook840g8i711th512gbm2_27598199806495480",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/3197710070363925.jpg",
+    "creation_timestamp": 1732494225
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Gesu Leon"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gesu Leon",
+      "timestamp_ms": 1766924477611,
+      "content": "En metro moneda a Santa ana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766922399535,
+      "content": "Donde entregas a.igo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gesu Leon",
+      "timestamp_ms": 1766885354364,
+      "content": "Gesu est\u00c3\u00a1 esperando tu respuesta sobre esta publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gesu Leon",
+      "timestamp_ms": 1766876507456,
+      "content": "Meta podr\u00c3\u00ada usar tecnolog\u00c3\u00ada para revisar los mensajes de Marketplace con el fin de detectar y reducir las estafas y el fraude.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gesu Leon",
+      "timestamp_ms": 1766876505928,
+      "content": "Hola, dispominle",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766871700201,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766871699880,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Memoria ram ddr4 16gb 2666 Samsung NOTEBOOK",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegomemoriaramddr416gb2666samsungnotebook_1946777039235010",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1073545884867249.jpg",
+    "creation_timestamp": 1766871696
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

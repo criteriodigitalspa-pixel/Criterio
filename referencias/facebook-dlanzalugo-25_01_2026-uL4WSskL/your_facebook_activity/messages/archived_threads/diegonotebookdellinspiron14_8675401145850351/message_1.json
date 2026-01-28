@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ang\u00c3\u00a9lica Sep\u00c3\u00balveda",
+      "timestamp_ms": 1729885150615,
+      "content": "Ang\u00c3\u00a9lica Sep\u00c3\u00balveda abandon\u00c3\u00b3 el grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook Dell Inspiron 14",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebookdellinspiron14_8675401145850351",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/421064537693219.jpg",
+    "creation_timestamp": 1729267100
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

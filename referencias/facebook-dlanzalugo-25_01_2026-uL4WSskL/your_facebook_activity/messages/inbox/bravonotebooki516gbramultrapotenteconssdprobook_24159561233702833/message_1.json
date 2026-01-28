@@ -1,0 +1,299 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Bravo Miguel \u00c3\u0081ngel"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bravo Miguel \u00c3\u0081ngel",
+      "timestamp_ms": 1754063365888,
+      "content": "Bravo reaccion\u00c3\u00b3 \u00f0\u009f\u0091\u008d a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bravo Miguel \u00c3\u0081ngel",
+      "timestamp_ms": 1754063363086,
+      "content": "Bravo reaccion\u00c3\u00b3 \u00f0\u009f\u0091\u008d a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754063357651,
+      "content": "Claro sin problema",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Bravo Miguel \u00c3\u0081ngel"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bravo Miguel \u00c3\u0081ngel",
+      "timestamp_ms": 1754063356253,
+      "content": "Ma\u00c3\u00b1ana podr\u00c3\u00ada pasar por alla",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bravo Miguel \u00c3\u0081ngel",
+      "timestamp_ms": 1754063347941,
+      "content": "Pero me interesa y si es si",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754063346163,
+      "content": "Pero para trabajos incluso pesados en la mayoria con 16gb en ram andaras super bien",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Bravo Miguel \u00c3\u0081ngel"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bravo Miguel \u00c3\u0081ngel",
+      "timestamp_ms": 1754063340446,
+      "content": "Te parece",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bravo Miguel \u00c3\u0081ngel",
+      "timestamp_ms": 1754063337116,
+      "content": "Ya mira te confirmo hoy por si o no en la tarde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754063313518,
+      "content": "Osea puedes tenerlo con maximo 32gb de ram. Y 2 discos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bravo Miguel \u00c3\u0081ngel",
+      "timestamp_ms": 1754063311916,
+      "content": "A buena",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754063296293,
+      "content": "Si. Tiene disco solido y ademas tiene otra ranura disponible para un segundo disco",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754063275728,
+      "content": "Si es ampliable la ram",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bravo Miguel \u00c3\u0081ngel",
+      "timestamp_ms": 1754063269615,
+      "content": "Es de disco s\u00c3\u00b3lido?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754063269525,
+      "content": "El equipo nunca fallo, mouse, pantalla, sonido, wifi, etc, funcionando impecable",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bravo Miguel \u00c3\u0081ngel",
+      "timestamp_ms": 1754063259816,
+      "content": "Es ampliable la ram verdad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bravo Miguel \u00c3\u0081ngel",
+      "timestamp_ms": 1754063247126,
+      "content": "Super",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bravo Miguel \u00c3\u0081ngel",
+      "timestamp_ms": 1754063238870,
+      "content": "Ya mira d\u00c3\u00a9jame verlo y te comento a la tarde",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754063238659,
+      "content": "El equipo esta bien cuidado, es bastante rapido, enciende rapido y mueve bastantes cosas abiertas sin problema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bravo Miguel \u00c3\u0081ngel",
+      "timestamp_ms": 1754063227888,
+      "content": "Ah s\u00c3\u00baper cerca de d\u00c3\u00b3nde estar\u00c3\u00a9 yo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754063217602,
+      "content": "Si claro sin problema",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754063208398,
+      "content": "Detras del lider de departamental, a pasos de metro Macul",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bravo Miguel \u00c3\u0081ngel",
+      "timestamp_ms": 1754063208073,
+      "content": "Bravo reaccion\u00c3\u00b3 \u00f0\u009f\u0091\u008d a tu mensaje ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bravo Miguel \u00c3\u0081ngel",
+      "timestamp_ms": 1754063203845,
+      "content": "Necesito algo r\u00c3\u00a1pido para mi trabajo personal",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bravo Miguel \u00c3\u0081ngel",
+      "timestamp_ms": 1754063193206,
+      "content": "Me gustar\u00c3\u00ada verlo igual",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bravo Miguel \u00c3\u0081ngel",
+      "timestamp_ms": 1754063188735,
+      "content": "Yo ma\u00c3\u00b1ana deber\u00c3\u00ada estar en el gimnasio municipal de la florida",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bravo Miguel \u00c3\u0081ngel",
+      "timestamp_ms": 1754063174440,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bravo Miguel \u00c3\u0081ngel",
+      "timestamp_ms": 1754063172146,
+      "content": "En qu\u00c3\u00a9 parte de la florida est\u00c3\u00a1s m\u00c3\u00a1s menos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754063159201,
+      "content": "160mil podria ultimo precio estimado",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Bravo Miguel \u00c3\u0081ngel"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bravo Miguel \u00c3\u0081ngel",
+      "timestamp_ms": 1754063158701,
+      "content": "Pke la verdad igual supera mi presupuesto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bravo Miguel \u00c3\u0081ngel",
+      "timestamp_ms": 1754063144989,
+      "content": "Buen d\u00c3\u00ada, me interesa, ese es el \u00c3\u00baltimo valor que lo dejas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754063135109,
+      "content": "Holaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bravo Miguel \u00c3\u0081ngel",
+      "timestamp_ms": 1754063110076,
+      "content": "Hola Diego",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754063079213,
+      "content": "El equipo esta listo para usar.\nPuede probarlo y revisar con calma.\nEntrego en:\nMi domicilio en comuna la florida.\n\nDespacho a domicilio 10mil adicional (dependiendo de la comuna).\n\nEstacion de metro a convenir sin costo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1754063076775,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bravo Miguel \u00c3\u0081ngel",
+      "timestamp_ms": 1754063060425,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bravo Miguel \u00c3\u0081ngel",
+      "timestamp_ms": 1754063055195,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bravo Miguel \u00c3\u0081ngel",
+      "timestamp_ms": 1754063054825,
+      "content": "Bravo inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bravo \u00c2\u00b7 Notebook i5 16GB RAM Ultra Potente con SSD PROBOOK",
+  "is_still_participant": true,
+  "thread_path": "inbox/bravonotebooki516gbramultrapotenteconssdprobook_24159561233702833",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

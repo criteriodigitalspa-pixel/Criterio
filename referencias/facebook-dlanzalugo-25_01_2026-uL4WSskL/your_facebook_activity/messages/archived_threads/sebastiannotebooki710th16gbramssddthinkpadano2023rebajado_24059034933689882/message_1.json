@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Sebasti\u00c3\u00a1n Sep\u00c3\u00balveda Fari\u00c3\u00b1a"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1749915428405,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1749744860786,
+      "content": "Le intereso el equipo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1749527932428,
+      "content": "Intel graphics 620 UHD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebasti\u00c3\u00a1n Sep\u00c3\u00balveda Fari\u00c3\u00b1a",
+      "timestamp_ms": 1749527151585,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebasti\u00c3\u00a1n Sep\u00c3\u00balveda Fari\u00c3\u00b1a",
+      "timestamp_ms": 1749527143732,
+      "content": "Hola, sabes que GPU de v\u00c3\u00addeo con sus caracter\u00c3\u00adsticas tiene ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebasti\u00c3\u00a1n Sep\u00c3\u00balveda Fari\u00c3\u00b1a",
+      "timestamp_ms": 1749527143555,
+      "content": "Sebasti\u00c3\u00a1n inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sebasti\u00c3\u00a1n \u00c2\u00b7 Notebook i7-10Th / 16GB RAM / SSDD / Thinkpad / a\u00c3\u00b1o 2023 / Rebajado",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/sebastiannotebooki710th16gbramssddthinkpadano2023rebajado_24059034933689882",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

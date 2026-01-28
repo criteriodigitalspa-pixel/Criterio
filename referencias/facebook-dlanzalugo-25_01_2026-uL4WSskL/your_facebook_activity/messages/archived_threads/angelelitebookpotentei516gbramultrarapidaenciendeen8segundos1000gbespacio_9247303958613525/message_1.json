@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Angel Gabriel Salas Lopez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Angel Gabriel Salas Lopez",
+      "timestamp_ms": 1732231188850,
+      "content": "Envieme whatapps para coordinar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angel Gabriel Salas Lopez",
+      "timestamp_ms": 1732231178183,
+      "content": "+56982972011",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angel Gabriel Salas Lopez",
+      "timestamp_ms": 1732231154341,
+      "content": "Archivo adjunto no disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angel Gabriel Salas Lopez",
+      "timestamp_ms": 1732231150707,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angel Gabriel Salas Lopez",
+      "timestamp_ms": 1732231150274,
+      "content": "Angel inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Angel \u00c2\u00b7 Elitebook Potente i5 16GB RAM Ultra Rapida enciende en 8 segundos! 1000GB Espacio",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/angelelitebookpotentei516gbramultrarapidaenciendeen8segundos1000gbespacio_9247303958613525",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

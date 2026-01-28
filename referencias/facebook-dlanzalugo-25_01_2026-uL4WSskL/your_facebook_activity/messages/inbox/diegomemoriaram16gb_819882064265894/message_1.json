@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Alexis Canto"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alexis Canto",
+      "timestamp_ms": 1765758712058,
+      "content": "Alexis vendi\u00c3\u00b3 Memoria Ram 16GB.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763948461779,
+      "content": "Buenas noches. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1763948459729,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Memoria Ram 16GB",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegomemoriaram16gb_819882064265894",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/807308432070828.jpg",
+    "creation_timestamp": 1763948455
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

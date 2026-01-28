@@ -1,0 +1,145 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Francisco Chacon Leon"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Francisco Chacon Leon",
+      "timestamp_ms": 1729813155828,
+      "content": "Francisco Chacon cambi\u00c3\u00b3 la descripci\u00c3\u00b3n de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Chacon Leon",
+      "timestamp_ms": 1729788981135,
+      "content": "Ah\u00c3\u00ad llevar\u00c3\u00a9 el notebook",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Chacon Leon",
+      "timestamp_ms": 1729788974884,
+      "content": "Dif\u00c3\u00adcil. El.Sabado voy a Santiago centro a votar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Chacon Leon",
+      "timestamp_ms": 1729788965606,
+      "content": "Ya pueden calificarse",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Chacon Leon",
+      "timestamp_ms": 1729788961211,
+      "content": "Talagante",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729788772452,
+      "content": "De la florida y tu?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Chacon Leon",
+      "timestamp_ms": 1729787835979,
+      "content": "De donde eres ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729786375040,
+      "content": "Ya amigo, podrias hoy mismo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Chacon Leon",
+      "timestamp_ms": 1729786344459,
+      "content": "Lo tienen en 130 en marketplace, el mismo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Chacon Leon",
+      "timestamp_ms": 1729786325188,
+      "content": "Los 90 estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729786207850,
+      "content": "Amigo y cuanto es lo minimo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729786193754,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Chacon Leon",
+      "timestamp_ms": 1729777560150,
+      "content": "Francisco Chacon est\u00c3\u00a1 esperando tu respuesta sobre esta publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Francisco Chacon Leon",
+      "timestamp_ms": 1729737701013,
+      "content": "Francisco Chacon rechaz\u00c3\u00b3 tu oferta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729733544943,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729733543541,
+      "content": "Asignaste al grupo el nombre \"Diego \u00c2\u00b7 Notebook Lenovo Ideapad 330s Intel Core i5 8va Generaci\u00c3\u00b3n\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729733543541,
+      "content": "Cambiaste la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook Lenovo Ideapad 330s Intel Core i5 8va Generaci\u00c3\u00b3n",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebooklenovoideapad330sintelcorei58vageneracion_8244331562362789",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/523021647174672.jpg",
+    "creation_timestamp": 1729733542
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

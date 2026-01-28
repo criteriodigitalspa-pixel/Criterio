@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Sebasti\u00c3\u00a1n Lovazzano Kruspe"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sebasti\u00c3\u00a1n Lovazzano Kruspe",
+      "timestamp_ms": 1738804801854,
+      "content": "Sebasti\u00c3\u00a1n vendi\u00c3\u00b3 Notebook Dell Vostro.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebasti\u00c3\u00a1n Lovazzano Kruspe",
+      "timestamp_ms": 1738804800433,
+      "content": "Sebasti\u00c3\u00a1n vendi\u00c3\u00b3 Notebook Dell Vostro.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebasti\u00c3\u00a1n Lovazzano Kruspe",
+      "timestamp_ms": 1738286873461,
+      "content": "me avisas si est\u00c3\u00a1s interesado, ya que tengo otra persona m\u00c3\u00a1s",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebasti\u00c3\u00a1n Lovazzano Kruspe",
+      "timestamp_ms": 1738257071154,
+      "content": "vale, tienes alguna duda o algo sobre el equipo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738254843717,
+      "content": "De la florida amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebasti\u00c3\u00a1n Lovazzano Kruspe",
+      "timestamp_ms": 1738253887410,
+      "content": "Sebasti\u00c3\u00a1n acept\u00c3\u00b3 tu oferta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sebasti\u00c3\u00a1n Lovazzano Kruspe",
+      "timestamp_ms": 1738253883598,
+      "content": "Hola amigo, de d\u00c3\u00b3nde eres?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738239952634,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook Dell Vostro",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebookdellvostro_7681007598690541",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/931350875786814.jpg",
+    "creation_timestamp": 1738239949
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

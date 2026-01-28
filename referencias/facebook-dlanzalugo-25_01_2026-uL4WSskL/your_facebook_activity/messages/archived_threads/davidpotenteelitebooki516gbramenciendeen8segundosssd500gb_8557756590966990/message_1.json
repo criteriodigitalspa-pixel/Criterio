@@ -1,0 +1,104 @@
+{
+  "participants": [
+    {
+      "name": "David Ihitz"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731532039156,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "David Ihitz",
+      "timestamp_ms": 1731523880734,
+      "content": "Lo estoy pensando gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731522993856,
+      "content": "Le interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "David Ihitz",
+      "timestamp_ms": 1731517969587,
+      "content": "OK gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731517597158,
+      "content": "2 a 3 horas amigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1731517592531,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "David Ihitz",
+      "timestamp_ms": 1731517578616,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "David Ihitz",
+      "timestamp_ms": 1731517575084,
+      "content": "Hola cuanto dura la bateria",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "David Ihitz",
+      "timestamp_ms": 1731517574745,
+      "content": "David Ihitz",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "David Ihitz",
+      "timestamp_ms": 1731517572428,
+      "content": "David asign\u00c3\u00b3 al grupo el nombre \"David \u00c2\u00b7 Potente Elitebook i5 16GB Ram Enciende en 8 segundos, SSD 500GB\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "David Ihitz",
+      "timestamp_ms": 1731517572428,
+      "content": "David cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "David \u00c2\u00b7 Potente Elitebook i5 16GB Ram Enciende en 8 segundos, SSD 500GB",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/davidpotenteelitebooki516gbramenciendeen8segundosssd500gb_8557756590966990",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

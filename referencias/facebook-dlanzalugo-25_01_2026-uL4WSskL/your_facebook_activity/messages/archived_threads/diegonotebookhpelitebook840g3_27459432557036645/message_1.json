@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Diego Lanza"
+    },
+    {
+      "name": "Steven Alvarez"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Steven Alvarez",
+      "timestamp_ms": 1755892343598,
+      "content": "Steven marc\u00c3\u00b3 el art\u00c3\u00adculo como vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Steven Alvarez",
+      "timestamp_ms": 1755892336516,
+      "content": "Steven vendi\u00c3\u00b3 Notebook Hp EliteBook 840 G3.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook Hp EliteBook 840 G3",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/diegonotebookhpelitebook840g3_27459432557036645",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/576419361741309.jpg",
+    "creation_timestamp": 1730842149
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Hern\u00c3\u00a1n Santib\u00c3\u00a1\u00c3\u00b1ez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1702828149785,
+      "content": "Le interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1702789483650,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hern\u00c3\u00a1n Santib\u00c3\u00a1\u00c3\u00b1ez",
+      "timestamp_ms": 1702786529541,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hern\u00c3\u00a1n Santib\u00c3\u00a1\u00c3\u00b1ez",
+      "timestamp_ms": 1702786523805,
+      "content": "Hola. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hern\u00c3\u00a1n Santib\u00c3\u00a1\u00c3\u00b1ez",
+      "timestamp_ms": 1702786523559,
+      "content": "Hern\u00c3\u00a1n Santib\u00c3\u00a1\u00c3\u00b1ez",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hern\u00c3\u00a1n Santib\u00c3\u00a1\u00c3\u00b1ez",
+      "timestamp_ms": 1702786521964,
+      "content": "Hern\u00c3\u00a1n cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hern\u00c3\u00a1n Santib\u00c3\u00a1\u00c3\u00b1ez",
+      "timestamp_ms": 1702786521466,
+      "content": "Hern\u00c3\u00a1n asign\u00c3\u00b3 al grupo el nombre \"Hern\u00c3\u00a1n \u00c2\u00b7 Notebook I5 Pontente y Rapido en Perfectas Condiciones, Corre todo\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Hern\u00c3\u00a1n \u00c2\u00b7 Notebook I5 Pontente y Rapido en Perfectas Condiciones, Corre todo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/hernannotebooki5pontenteyrapidoenperfectascondicionescorretodo_24295788000065366",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/825300342732298.jpg",
+    "creation_timestamp": 1702786519
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

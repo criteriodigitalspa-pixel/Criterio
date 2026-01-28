@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Osvaldo Antonio Cort\u00c3\u00a9s Rojas"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766706452766,
+      "content": "Marcaste la publicaci\u00c3\u00b3n como Vendido.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766107851179,
+      "content": "Paso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Osvaldo Antonio Cort\u00c3\u00a9s Rojas",
+      "timestamp_ms": 1766107791596,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Osvaldo Antonio Cort\u00c3\u00a9s Rojas",
+      "timestamp_ms": 1766107786586,
+      "content": "150 mil para ma\u00c3\u00b1ana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Osvaldo Antonio Cort\u00c3\u00a9s Rojas",
+      "timestamp_ms": 1766107786100,
+      "content": "Osvaldo Antonio Cort\u00c3\u00a9s Rojas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Osvaldo Antonio Cort\u00c3\u00a9s Rojas",
+      "timestamp_ms": 1766107783447,
+      "content": "Osvaldo asign\u00c3\u00b3 al grupo el nombre \"Osvaldo \u00c2\u00b7 Potente Notebook 16GB RAM /  Ultra Rapida / i5-11th HP\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Osvaldo Antonio Cort\u00c3\u00a9s Rojas",
+      "timestamp_ms": 1766107783447,
+      "content": "Osvaldo cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Osvaldo \u00c2\u00b7 Potente Notebook 16GB RAM /  Ultra Rapida / i5-11th HP",
+  "is_still_participant": true,
+  "thread_path": "inbox/osvaldopotentenotebook16gbramultrarapidai511thhp_1205879028147745",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

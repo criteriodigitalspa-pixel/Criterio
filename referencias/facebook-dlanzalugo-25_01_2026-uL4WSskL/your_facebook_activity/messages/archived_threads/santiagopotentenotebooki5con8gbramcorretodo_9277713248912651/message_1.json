@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Santiago Ulivardo Villafa\u00c3\u00b1a Mu\u00c3\u00b1oz"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729187485756,
+      "content": "Le intereso?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729118777145,
+      "content": "Si amigo disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1729118769323,
+      "content": "Hola",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Ulivardo Villafa\u00c3\u00b1a Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1729118765719,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Ulivardo Villafa\u00c3\u00b1a Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1729118760359,
+      "content": "Hola, Diego. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Ulivardo Villafa\u00c3\u00b1a Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1729118759726,
+      "content": "Santiago Ulivardo Villafa\u00c3\u00b1a Mu\u00c3\u00b1oz",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Ulivardo Villafa\u00c3\u00b1a Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1729118757051,
+      "content": "Santiago asign\u00c3\u00b3 al grupo el nombre \"Santiago \u00c2\u00b7 Potente Notebook i5 con 8gb Ram corre todo\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santiago Ulivardo Villafa\u00c3\u00b1a Mu\u00c3\u00b1oz",
+      "timestamp_ms": 1729118757051,
+      "content": "Santiago cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Santiago \u00c2\u00b7 Potente Notebook i5 con 8gb Ram corre todo",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/santiagopotentenotebooki5con8gbramcorretodo_9277713248912651",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

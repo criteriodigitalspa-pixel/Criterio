@@ -1,0 +1,111 @@
+{
+  "participants": [
+    {
+      "name": "Diego V\u00c3\u00a1squez"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego V\u00c3\u00a1squez",
+      "timestamp_ms": 1768604527106,
+      "audio_files": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/diegonotebookelitebookhpi5superpotente12gbramssdd_1493722165691104/audio/746963435118167.mp4",
+          "creation_timestamp": 1768604525
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768604258276,
+      "content": "Soy de providencia entrego en metro ines de suarez linea 6",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768604249066,
+      "content": "Hola estimado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego V\u00c3\u00a1squez",
+      "timestamp_ms": 1768597296497,
+      "content": "En d\u00c3\u00b3nde entregas ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego V\u00c3\u00a1squez",
+      "timestamp_ms": 1768597287459,
+      "content": "???",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego V\u00c3\u00a1squez",
+      "timestamp_ms": 1768594445329,
+      "content": "Necesito instalar Autocad y m\u00c3\u00a1s project es para estudio que lo necesito",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego V\u00c3\u00a1squez",
+      "timestamp_ms": 1768594431373,
+      "content": "Tiene alg\u00c3\u00ban detalle ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego V\u00c3\u00a1squez",
+      "timestamp_ms": 1768594421479,
+      "content": "Perfecto de que parte eres ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1768594389638,
+      "content": "Hola s\u00c3\u00ad, sigue disponible. El equipo est\u00c3\u00a1 impecable y listo para usar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego V\u00c3\u00a1squez",
+      "timestamp_ms": 1768594037134,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego V\u00c3\u00a1squez",
+      "timestamp_ms": 1768594032342,
+      "content": "Buenas noches. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego V\u00c3\u00a1squez",
+      "timestamp_ms": 1768594032033,
+      "content": "Diego inici\u00c3\u00b3 este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook Elitebook HP i5 Super Potente/ 12GB RAM / SSDD /",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebookelitebookhpi5superpotente12gbramssdd_1493722165691104",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -17,6 +17,8 @@ export default function AreaDashboard({ area, projects, projectStats }) {
     const completionRate = totalTasks > 0 ? Math.round((completedTasks / totalTasks) * 100) : 0;
     const pendingTasks = totalTasks - completedTasks;
 
+    if (!area) return null;
+
     return (
         <div className="h-full overflow-y-auto p-8 custom-scrollbar">
             {/* Header */}

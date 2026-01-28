@@ -1,0 +1,20 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "\u00c2\u00bfTu estado es visible?",
+      "value": "Verdadero"
+    },
+    {
+      "label": "\u00c2\u00bfTu estado es visible en Facebook?",
+      "value": "Verdadero"
+    },
+    {
+      "label": "\u00c2\u00bfSe puede ver tu estado en Messenger?",
+      "value": "Verdadero"
+    }
+  ],
+  "fbid": "1781566601957673"
+}

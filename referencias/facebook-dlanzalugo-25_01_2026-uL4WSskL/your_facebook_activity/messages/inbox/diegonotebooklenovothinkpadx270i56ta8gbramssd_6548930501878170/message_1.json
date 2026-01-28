@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Maria J\u00c3\u00b3se Valenzuela Arancibia"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Maria J\u00c3\u00b3se Valenzuela Arancibia",
+      "timestamp_ms": 1703111255193,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria J\u00c3\u00b3se Valenzuela Arancibia",
+      "timestamp_ms": 1703099605309,
+      "content": "si esta disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maria J\u00c3\u00b3se Valenzuela Arancibia",
+      "timestamp_ms": 1703099600815,
+      "content": "Hola Diego como estas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook Lenovo thinkpad X270 i5 6ta 8GB RAM SSD ",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebooklenovothinkpadx270i56ta8gbramssd_6548930501878170",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/907238200778061.jpg",
+    "creation_timestamp": 1703098712
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

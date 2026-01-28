@@ -1,0 +1,141 @@
+{
+  "participants": [
+    {
+      "name": "Jenita Mateo"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738299586015,
+      "content": "Publicaciones similares a \"Notebook HP 440 G6\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jenita Mateo",
+      "timestamp_ms": 1738287636820,
+      "content": "Jenita vendi\u00c3\u00b3 Notebook HP 440 G6.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jenita Mateo",
+      "timestamp_ms": 1738174684260,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738174485214,
+      "content": "Pega",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738174483893,
+      "content": "Vale es que me complica por la oega",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jenita Mateo",
+      "timestamp_ms": 1738172949707,
+      "content": "Yo vivo en padre hurtado, me queda muy lejos para all\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jenita Mateo",
+      "timestamp_ms": 1738172901531,
+      "content": "No amigo solo en las estaciones q mencione",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738172883315,
+      "content": "Podria ser en metro Vicu\u00c3\u00b1a Mackena? O Vicente Valdes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jenita Mateo",
+      "timestamp_ms": 1738172538083,
+      "content": "Entrego en metro el llano y plaza de Maip\u00c3\u00ba",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jenita Mateo",
+      "timestamp_ms": 1738172529969,
+      "content": "Viene con cargador",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jenita Mateo",
+      "timestamp_ms": 1738172526616,
+      "content": "Sin ning\u00c3\u00ban detalle t\u00c3\u00a9cnico la bater\u00c3\u00ada est\u00c3\u00a1 en un 67% aprox loq dura entre 3 a 4 hrs \n\nSolo detalle est\u00c3\u00a9tico por uso pero la nada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jenita Mateo",
+      "timestamp_ms": 1738172500081,
+      "content": "Si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738169983179,
+      "content": "Amiga sigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1738169968051,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1737479868925,
+      "content": "Oferta enviada al vendedor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Notebook HP 440 G6",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegonotebookhp440g6_9486412734712302",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1185710116402111.jpg",
+    "creation_timestamp": 1737479865
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

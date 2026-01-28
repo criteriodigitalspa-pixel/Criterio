@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Alvaro Salazar"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734473135022,
+      "content": "Estimado le intereso?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734462095280,
+      "content": "Puede venir a verlo a mi domicilio en la florida o puedo acercarme a cualquier estacion de metro a convenir, puede revisarlo y probarlo con calma.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1734462094485,
+      "content": "Hola si disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alvaro Salazar",
+      "timestamp_ms": 1734460609599,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alvaro Salazar",
+      "timestamp_ms": 1734460604315,
+      "content": "Buen dia, si est\u00c3\u00a1 disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alvaro Salazar",
+      "timestamp_ms": 1734460603794,
+      "content": "Alvaro Salazar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alvaro Salazar",
+      "timestamp_ms": 1734460601191,
+      "content": "Alvaro asign\u00c3\u00b3 al grupo el nombre \"Alvaro \u00c2\u00b7 Notebook HP ultra Rapida i5 Potente 16GB RAM Enciende en segundos!\".",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alvaro Salazar",
+      "timestamp_ms": 1734460601191,
+      "content": "Alvaro cambi\u00c3\u00b3 la foto del grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Alvaro \u00c2\u00b7 Notebook HP ultra Rapida i5 Potente 16GB RAM Enciende en segundos!",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/alvaronotebookhpultrarapidai5potente16gbramenciendeensegundos_8727335240726457",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

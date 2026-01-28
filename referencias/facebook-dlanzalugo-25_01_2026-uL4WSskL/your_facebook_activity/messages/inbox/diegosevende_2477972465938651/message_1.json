@@ -1,0 +1,89 @@
+{
+  "participants": [
+    {
+      "name": "Sara Haydee Mellado Castillo"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sara Haydee Mellado Castillo",
+      "timestamp_ms": 1767386147585,
+      "content": "Si est\u00c3\u00a1 disponible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sara Haydee Mellado Castillo",
+      "timestamp_ms": 1767386139837,
+      "content": "Ja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sara Haydee Mellado Castillo",
+      "timestamp_ms": 1767386136770,
+      "content": "Te mande los discos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sara Haydee Mellado Castillo",
+      "timestamp_ms": 1767386132392,
+      "content": "Sorry",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767386121688,
+      "content": "El notebook sigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767386113118,
+      "content": "Holaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sara Haydee Mellado Castillo",
+      "timestamp_ms": 1767386105504,
+      "content": "Disco Sata SSD 1TB $80.000\nDisco m2 SSD 500GB $35.000\nDisco Sata SSD 480GB $35.000\nDisco Sata SSD 500GB $40.000\nDisco Sata SSD 240GB $25.000\nDisco SSD M2 1Tb $110.000\nDisco SSD Sata 2Tb $ 90.000\nMemoria DDR4 16 GB $70.000\nDisco Sata SSD 120 GB $20.000\nDisco M2 SSD 256GB $25.000\nDisco M2 SSD 64GB $20.000",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767386067353,
+      "content": "Buenas noches. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1767386067035,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 Se vende",
+  "is_still_participant": true,
+  "thread_path": "inbox/diegosevende_2477972465938651",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/1557074778946377.jpg",
+    "creation_timestamp": 1767386064
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Ibarra Mauricio"
+    },
+    {
+      "name": "Diego Lanza"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ibarra Mauricio",
+      "timestamp_ms": 1766071500391,
+      "content": "Mauricio actualiz\u00c3\u00b3 las fotos de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ibarra Mauricio",
+      "timestamp_ms": 1766071498422,
+      "content": "Mauricio cambi\u00c3\u00b3 la descripci\u00c3\u00b3n de la publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ibarra Mauricio",
+      "timestamp_ms": 1766015070128,
+      "content": "Mauricio est\u00c3\u00a1 esperando tu respuesta sobre esta publicaci\u00c3\u00b3n.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ibarra Mauricio",
+      "timestamp_ms": 1766006276351,
+      "content": "Meta podr\u00c3\u00ada usar tecnolog\u00c3\u00ada para revisar los mensajes de Marketplace con el fin de detectar y reducir las estafas y el fraude.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ibarra Mauricio",
+      "timestamp_ms": 1766006274941,
+      "content": "S\u00c3\u00ad. \u00c2\u00bfTe interesa?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766004433480,
+      "content": "Buenas noches. \u00c2\u00bfSigue disponible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Diego Lanza",
+      "timestamp_ms": 1766004433282,
+      "content": "Iniciaste este chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Diego \u00c2\u00b7 6 notebook l\u00c3\u00adquido lote completo en 390000",
+  "is_still_participant": true,
+  "thread_path": "inbox/diego6notebookliquidolotecompletoen390000_2483350785394979",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_facebook_activity/messages/photos/838584719014640.jpg",
+    "creation_timestamp": 1766004430
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}
