@@ -115,21 +115,36 @@ class AIService {
         if (!this.db) return false;
         try {
             const cleanPhone = phone.replace(/\D/g, '');
+            console.log(`🔍 [AUTH CHECK] Validando acceso para: ${cleanPhone}...`);
+
             // 1. Check User Matrix (The Source of Truth)
             const mappingQuery = await this.db.collection('user_mappings')
                 .where('phoneNumber', '==', cleanPhone)
                 .limit(1)
                 .get();
 
-            if (!mappingQuery.empty) return true;
+            if (!mappingQuery.empty) {
+                const userData = mappingQuery.docs[0].data();
+                console.log(`✅ [AUTH SUCCESS] Usuario encontrado en Matrix: ${userData.name || 'Sin Nombre'}`);
+                return true;
+            }
 
-            // 2. Fallback: Check Legacy Preferences (Optional, for backward compat)
+            // 2. Fallback: Check Legacy Preferences
             const oldPref = await this.db.collection('user_preferences').doc(cleanPhone).get();
-            if (oldPref.exists) return true;
+            if (oldPref.exists) {
+                console.log(`✅ [AUTH SUCCESS] Usuario encontrado en Legacy Prefs.`);
+                return true;
+            }
 
-            // 3. Last Resort: Check if it's a Super Admin in .env (Emergency Access)
+            // 3. Last Resort: Check Super Admin
             const adminNumbers = (process.env.ADMIN_NUMBER || "").split(',').map(n => n.trim());
-            return adminNumbers.includes(cleanPhone);
+            if (adminNumbers.includes(cleanPhone)) {
+                console.log(`✅ [AUTH SUCCESS] Usuario es SUPER ADMIN (.env).`);
+                return true;
+            }
+
+            console.log(`⛔ [AUTH FAILED] Usuario ${cleanPhone} no existe en la Matriz.`);
+            return false;
 
         } catch (e) {
             console.error("Error checking auth:", e);
