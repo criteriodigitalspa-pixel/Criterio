@@ -18,6 +18,12 @@ build/
 .env.development.local
 .env.test.local
 .env.production.local
+service-account.json
+*.json
+!package.json
+!persona_config.json
+!models.json
+!user_matrix.json
 
 # Logs
 npm-debug.log*
