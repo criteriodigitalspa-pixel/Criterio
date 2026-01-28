@@ -61,6 +61,11 @@ const start = (firestoreDb, appLogger) => {
         // console.log(`💓 [HEARTBEAT] Bot activo. Memoria de IDs: ${botMessageIds.size}`);
     }, 10000);
 
+    // --- RAW DEBUGGER (OÍDO ABSOLUTO) ---
+    client.on('message_create', (msg) => {
+        console.log(`👂 [RAW INTERCEPT] From: ${msg.from} | Body: ${msg.body.substring(0, 15)}...`);
+    });
+
     // HANDLER FOR INCOMING MESSAGES ONLY
     const handleIncomingMessage = async (msg) => {
         const fromNumber = msg.from.replace(/\D/g, '');
