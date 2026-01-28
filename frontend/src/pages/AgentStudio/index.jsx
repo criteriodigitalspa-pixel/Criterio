@@ -363,14 +363,7 @@ export default function AgentStudio() {
                 <div className="p-3 border-t border-gray-800 bg-gray-900/50 space-y-2">
                     <input type="file" id="restore-input" hidden accept=".json" onChange={handleRestore} />
 
-                    {/* CRIDA SETUP (Pink) */}
-                    <button
-                        onClick={() => setupCridaProfile(user.uid)}
-                        className="w-full py-2 bg-pink-900/10 hover:bg-pink-900/20 text-pink-500 rounded border border-pink-900/20 hover:border-pink-500/30 transition-all flex items-center justify-center gap-2 text-[10px] font-bold"
-                        title="Configurar agente Crida automáticamente"
-                    >
-                        <Brain className="w-3 h-3" /> AUTO-SETUP CRIDA
-                    </button>
+
 
                     <div className="grid grid-cols-2 gap-2">
                         <button onClick={handleBackup} className="p-2 bg-gray-800 hover:bg-gray-700 text-gray-400 hover:text-white rounded border border-gray-700 flex items-center justify-center gap-2 transition-colors" title="Descargar Respaldo Total">

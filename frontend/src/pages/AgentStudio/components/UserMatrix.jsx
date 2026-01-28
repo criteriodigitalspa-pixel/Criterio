@@ -48,18 +48,38 @@ export default function UserMatrix({ personaId }) {
             // Security Fix: Query only owned documents to match Firestore Rules
             const qOwner = where('ownerId', '==', user.uid);
 
-            const [mapSnap, perSnap, actSnap] = await Promise.all([
-                getDocs(query(collection(db, 'user_mappings'), qOwner)),
-                getDocs(collection(db, 'personas')), // Personas are public/shared for now (rescue mode)
-                getDocs(query(collection(db, 'actions'), qOwner))
-            ]);
+            // DEBUG: Log UID to verify auth state
+            console.log("🔍 Fetching Matrix Data for User:", user.uid);
 
-            setMappings(mapSnap.docs.map(d => ({ id: d.id, ...d.data() })));
-            setPersonas(perSnap.docs.map(d => ({ id: d.id, ...d.data() })));
-            setActions(actSnap.docs.map(d => ({ id: d.id, ...d.data() })));
+            // 1. Mappings (Private)
+            try {
+                const mapSnap = await getDocs(query(collection(db, 'user_mappings'), qOwner));
+                setMappings(mapSnap.docs.map(d => ({ id: d.id, ...d.data() })));
+            } catch (e) {
+                console.error("❌ Error fetching USER_MAPPINGS:", e);
+                toast.error(`Error loading Mappings: ${e.message}`);
+            }
+
+            // 2. Personas (Public/Shared)
+            try {
+                const perSnap = await getDocs(collection(db, 'personas'));
+                setPersonas(perSnap.docs.map(d => ({ id: d.id, ...d.data() })));
+            } catch (e) {
+                console.error("❌ Error fetching PERSONAS:", e);
+                toast.error(`Error loading Personas: ${e.message}`);
+            }
+
+            // 3. Actions (Private)
+            try {
+                const actSnap = await getDocs(query(collection(db, 'actions'), qOwner));
+                setActions(actSnap.docs.map(d => ({ id: d.id, ...d.data() })));
+            } catch (e) {
+                console.error("❌ Error fetching ACTIONS:", e);
+                toast.error(`Error loading Actions: ${e.message}`);
+            }
         } catch (err) {
-            console.error("Matrix Load Error:", err);
-            toast.error(`Error cargando matriz: ${err.message}`);
+            console.error("❌ Error General:", err);
+            toast.error("Error crítico cargando matriz.");
         } finally {
             setLoading(false);
         }

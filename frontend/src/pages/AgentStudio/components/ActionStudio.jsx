@@ -176,61 +176,39 @@ export default function ActionStudio({ personaId, personaData }) {
                             </button>
                         </div>
                     </div>
-                    {personaData && (
-                        <div className="text-[10px] text-gray-500 flex items-center gap-1 bg-gray-900 p-1 rounded px-2 border border-gray-800">
-                            <span className="text-gray-400">Configurando para:</span>
-                            <strong className="text-blue-300">{personaData.name}</strong>
-                        </div>
-                    )}
-                </div>
-
-                <div className="flex-1 overflow-y-auto p-2 space-y-1">
-                    {actions.map(act => {
-                        const isAssigned = assignedActionIds.has(act.id);
-                        return (
-                            <div
-                                key={act.id}
-                                className={`group flex items-center pr-2 rounded-lg transition-colors border ${selectedActionId === act.id
+                    <div className="flex-1 overflow-y-auto p-2 space-y-1">
+                        {actions.map(act => {
+                            return (
+                                <div
+                                    key={act.id}
+                                    className={`group flex items-center pr-2 rounded-lg transition-colors border ${selectedActionId === act.id
                                         ? 'bg-blue-900/20 border-blue-900/50'
                                         : 'hover:bg-gray-800 border-transparent hover:border-gray-700'
-                                    }`}
-                            >
-                                {/* SELECTION CLICK AREA */}
-                                <button
-                                    onClick={() => setSelectedActionId(act.id)}
-                                    className="flex-1 text-left px-3 py-3 flex items-center gap-3 overflow-hidden"
-                                >
-                                    <Zap className={`w-4 h-4 shrink-0 ${isAssigned ? 'text-green-400' : 'text-gray-600'}`} />
-                                    <div className="flex-1 truncate">
-                                        <div className={`text-xs font-bold truncate ${selectedActionId === act.id ? 'text-blue-300' : 'text-gray-300'}`}>
-                                            {act.name}
-                                        </div>
-                                        <div className="text-[10px] text-gray-500 font-mono truncate">{act.trigger}</div>
-                                    </div>
-                                </button>
-
-                                {/* ASSIGNMENT TOGGLE */}
-                                <button
-                                    onClick={(e) => {
-                                        e.stopPropagation();
-                                        toggleToolAssignment(act.id);
-                                    }}
-                                    className={`w-8 h-4 rounded-full p-0.5 transition-colors relative ${isAssigned ? 'bg-green-600' : 'bg-gray-700'
                                         }`}
-                                    title={isAssigned ? "Desactivar para este agente" : "Activar para este agente"}
                                 >
-                                    <div className={`w-3 h-3 bg-white rounded-full shadow-sm transition-transform ${isAssigned ? 'translate-x-4' : 'translate-x-0'
-                                        }`} />
-                                </button>
-                            </div>
-                        );
-                    })}
+                                    {/* SELECTION CLICK AREA */}
+                                    <button
+                                        onClick={() => setSelectedActionId(act.id)}
+                                        className="flex-1 text-left px-3 py-3 flex items-center gap-3 overflow-hidden"
+                                    >
+                                        <Zap className={`w-4 h-4 shrink-0 text-yellow-500`} />
+                                        <div className="flex-1 truncate">
+                                            <div className={`text-xs font-bold truncate ${selectedActionId === act.id ? 'text-blue-300' : 'text-gray-300'}`}>
+                                                {act.name}
+                                            </div>
+                                            <div className="text-[10px] text-gray-500 font-mono truncate">{act.trigger}</div>
+                                        </div>
+                                    </button>
+                                </div>
+                            );
+                        })}
 
-                    {actions.length === 0 && !loading && (
-                        <div className="text-center p-4 text-gray-600 text-xs italic">
-                            No hay acciones definidas.
-                        </div>
-                    )}
+                        {actions.length === 0 && !loading && (
+                            <div className="text-center p-4 text-gray-600 text-xs italic">
+                                No hay acciones definidas.
+                            </div>
+                        )}
+                    </div>
                 </div>
             </div>
 
