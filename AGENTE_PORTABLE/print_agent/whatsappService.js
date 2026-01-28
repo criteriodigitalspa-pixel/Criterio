@@ -18,15 +18,20 @@ const start = (firestoreDb, appLogger) => {
 
     client = new Client({
         authStrategy: new LocalAuth(),
+        // FORCE COMPATIBLE VERSION (Salva vidas cuando FB rompe el código)
+        webVersionCache: {
+            type: 'remote',
+            remotePath: 'https://raw.githubusercontent.com/wppconnect-team/wa-version/main/html/2.2412.54.html',
+        },
         puppeteer: {
             headless: false,
-            bypassCSP: true, // <--- CRITICAL: Allow script injection
+            bypassCSP: true,
             args: [
                 '--no-sandbox',
                 '--disable-setuid-sandbox',
                 '--disable-web-security',
-                '--disable-features=IsolateOrigins,site-per-process', // Unlock iframes
-                '--shm-size=1gb' // Prevent crash on heavy pages
+                '--disable-features=IsolateOrigins,site-per-process',
+                '--shm-size=1gb'
             ]
         }
     });
