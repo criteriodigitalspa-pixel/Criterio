@@ -19,8 +19,15 @@ const start = (firestoreDb, appLogger) => {
     client = new Client({
         authStrategy: new LocalAuth(),
         puppeteer: {
-            headless: false, // <--- VISIBLE BROWSER
-            args: ['--no-sandbox', '--disable-setuid-sandbox']
+            headless: false,
+            bypassCSP: true, // <--- CRITICAL: Allow script injection
+            args: [
+                '--no-sandbox',
+                '--disable-setuid-sandbox',
+                '--disable-web-security',
+                '--disable-features=IsolateOrigins,site-per-process', // Unlock iframes
+                '--shm-size=1gb' // Prevent crash on heavy pages
+            ]
         }
     });
 
