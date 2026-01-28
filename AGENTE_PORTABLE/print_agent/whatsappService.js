@@ -61,28 +61,25 @@ const start = (firestoreDb, appLogger) => {
         // console.log(`💓 [HEARTBEAT] Bot activo. Memoria de IDs: ${botMessageIds.size}`);
     }, 10000);
 
+    // HANDLER FOR INCOMING MESSAGES ONLY
     const handleIncomingMessage = async (msg) => {
-        // LOGUEO ABSOLUTO DE TODO
-        console.log(`📨 [RAW_EVENT] Type: ${msg.type} | From: ${msg.from} | To: ${msg.to} | Me: ${msg.fromMe} | Body: "${msg.body.substring(0, 50)}..."`);
+        const fromNumber = msg.from.replace(/\D/g, '');
+        console.log(`🔔 [EVENTO RECEIVED] De: ${fromNumber} | Tipo: ${msg.type} | Body: "${msg.body.substring(0, 30)}..."`);
 
         try {
-            // 1. Loop Guard: Ignore messages sent by the bot itself
-            if (botMessageIds.has(msg.id.id)) {
-                // console.log("🔄 Ignorando mensaje propio (Cache Loop)");
-                return;
-            }
+            // 1. Loop Guard: Ignore messages sent by the bot itself (Redundant with 'message' event but safe)
+            if (msg.fromMe) return;
 
             // 2. Ignore status updates / broadcast
-            if (msg.id.remote.includes('status') || msg.id.remote.includes('broadcast')) return;
+            if (msg.type === 'e2e_notification' || msg.id.remote === 'status@broadcast') return;
 
             // [SECURITY] DYNAMIC WHITELIST CHECK (App Controlled)
-            const sender = msg.from.replace(/\D/g, ''); // Extract digits only
+            const sender = fromNumber;
             const isAllowed = await aiService.isUserAllowed(sender);
 
             if (!isAllowed) {
-                // Determine if we should reply with "Unauthorized" or stay silent.
-                // For now, silent (anti-spam).
-                // console.log(`⛔ [BLOCKED] Sender ${sender} not in User Matrix.`);
+                console.log(`⛔ [BLOCKED] Usuario ${sender} no autorizado en Matrix.`);
+                // OPTIONAL: Reply "Access Denied" if you want strict feedback
                 return;
             }
 
@@ -124,7 +121,6 @@ const start = (firestoreDb, appLogger) => {
                 }
 
                 // Reply with Persona AND TRACK ID
-                // Usamos msg.reply y guardamos el ID
                 const sentReply = await msg.reply(replyText);
                 if (sentReply && sentReply.id) {
                     botMessageIds.add(sentReply.id.id);
@@ -138,8 +134,8 @@ const start = (firestoreDb, appLogger) => {
         }
     };
 
-    // Usamos message_create para escuchar TODO (entrante y saliente)
-    client.on('message_create', handleIncomingMessage);
+    // SWITCH TO 'message' (Incoming only, more stable)
+    client.on('message', handleIncomingMessage);
 
     client.on('auth_failure', (msg) => {
         logger.error(`❌ Error de autenticación WhatsApp: ${msg}`);
