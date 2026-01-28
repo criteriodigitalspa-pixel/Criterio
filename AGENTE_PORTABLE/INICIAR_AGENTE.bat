@@ -34,10 +34,7 @@ if exist "print_agent\index.js" (
     pause
     exit
 )
-    echo [ERROR] No encuentro la carpeta 'print_agent'.
-    pause
-    exit
-)
+
 
 :: 3. VERIFICAR DEPENDENCIAS (Mantener igual)
 if not exist "node_modules" (
