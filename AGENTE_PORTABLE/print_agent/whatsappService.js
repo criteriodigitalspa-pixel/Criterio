@@ -151,21 +151,39 @@ const start = (firestoreDb, appLogger) => {
         console.log(`✓ ACK Update: ${msg.id.id} -> ${ack}`);
     });
 
-    // --- REMOTE KILL SWITCH (AUTOPILOT) ---
+    // --- REMOTE KILL SWITCH & REPAIR ---
     // Escucha comandos de reinicio desde la web
     db.collection('system').doc('agent_commands').onSnapshot(async (doc) => {
         if (doc.exists) {
             const cmd = doc.data();
+
+            // RESTART
             if (cmd.restart === true) {
                 logger.warn("♻️ COMANDO DE REINICIO RECIBIDO. Apagando para actualizar...");
                 try {
                     await db.collection('system').doc('agent_commands').update({ restart: false });
-                    logger.info("✅ Flag de reinicio reseteada. Saliendo...");
-                    // Give it a tiny buffer to flush logs
                     setTimeout(() => process.exit(0), 500);
+                } catch (e) { process.exit(1); }
+            }
+
+            // NUCLEAR RESET (Delete Session)
+            if (cmd.nuke_session === true) {
+                logger.warn("☢️ COMANDO NUCLEAR RECIBIDO. Borrando sesión de WhatsApp...");
+                const fs = require('fs');
+                const path = require('path');
+                try {
+                    const authPath = path.join(__dirname, '.wwebjs_auth');
+                    const cachePath = path.join(__dirname, '.wwebjs_cache');
+
+                    if (fs.existsSync(authPath)) fs.rmSync(authPath, { recursive: true, force: true });
+                    if (fs.existsSync(cachePath)) fs.rmSync(cachePath, { recursive: true, force: true });
+
+                    logger.info("✅ Sesión borrada. Reiniciando para solicitar QR nuevo...");
+                    await db.collection('system').doc('agent_commands').update({ nuke_session: false });
+
+                    setTimeout(() => process.exit(0), 1000);
                 } catch (e) {
-                    logger.error("Error reseteando flag:", e);
-                    process.exit(1);
+                    logger.error("❌ Error borrando sesión:", e);
                 }
             }
         }
