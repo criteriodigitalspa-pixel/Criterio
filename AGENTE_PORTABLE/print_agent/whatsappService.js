@@ -17,12 +17,9 @@ const start = (firestoreDb, appLogger) => {
     logger.info("📱 Iniciando Servicio WhatsApp (MODO VISUAL FORZADO v3)...");
 
     client = new Client({
-        authStrategy: new LocalAuth(),
-        // FORCE COMPATIBLE VERSION (Salva vidas cuando FB rompe el código)
-        webVersionCache: {
-            type: 'remote',
-            remotePath: 'https://raw.githubusercontent.com/wppconnect-team/wa-version/main/html/2.2412.54.html',
-        },
+        // NEW STRATEGY: Session Rotation (No manual delete)
+        authStrategy: new LocalAuth({ clientId: "print_agent_new" }),
+
         puppeteer: {
             headless: false,
             bypassCSP: true,
