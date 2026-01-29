@@ -22,6 +22,32 @@ class AIService {
     setDb(firestoreDb) {
         this.db = firestoreDb;
         console.log("💾 Base de datos conectada a AI Service.");
+        this.printAuthorizedUsers();
+    }
+
+    async printAuthorizedUsers() {
+        if (!this.db) return;
+        try {
+            console.log("\n📋 --- MATRIZ DE USUARIOS AUTORIZADOS ---");
+            const snapshot = await this.db.collection('user_mappings').get();
+            if (snapshot.empty) {
+                console.log("⚠️ No hay usuarios en la Matriz.");
+            } else {
+                const users = [];
+                snapshot.forEach(doc => {
+                    const data = doc.data();
+                    users.push({
+                        Nombre: data.name || 'Sin Nombre',
+                        Telefono: data.phoneNumber || doc.id,
+                        Rol: data.role || 'Usuario'
+                    });
+                });
+                console.table(users);
+            }
+            console.log("------------------------------------------\n");
+        } catch (error) {
+            console.error("❌ Error listando usuarios:", error.message);
+        }
     }
 
     /**
