@@ -74,13 +74,20 @@ const start = (firestoreDb, appLogger) => {
         // console.log(`💓 [HEARTBEAT] Bot activo. Memoria de IDs: ${botMessageIds.size}`);
     }, 10000);
 
-    // --- RAW DEBUGGER (OÍDO ABSOLUTO) ---
-    client.on('message_create', (msg) => {
-        console.log(`👂 [RAW INTERCEPT] From: ${msg.from} | Body: ${msg.body.substring(0, 15)}...`);
+    // --- RAW DEBUGGER & FALLBACK TRIGGER ---
+    client.on('message_create', async (msg) => {
+        console.log(`👂 [RAW] ${msg.from}: ${msg.body.substring(0, 10)}... (Type: ${msg.type})`);
+
+        // WAR FORCE: If 'message' event is dead, we use this as backup
+        if (!msg.fromMe) {
+            console.log("⚡ [FALLBACK TRIGGER] Usando message_create para procesar mensaje entrante...");
+            await handleIncomingMessage(msg);
+        }
     });
 
     // HANDLER FOR INCOMING MESSAGES ONLY
     const handleIncomingMessage = async (msg) => {
+
         const fromNumber = msg.from.replace(/\D/g, '');
         console.log(`🔔 [EVENTO RECEIVED] De: ${fromNumber} | Tipo: ${msg.type} | Body: "${msg.body.substring(0, 30)}..."`);
 
@@ -152,8 +159,7 @@ const start = (firestoreDb, appLogger) => {
         }
     };
 
-    // SWITCH TO 'message' (Incoming only, more stable)
-    client.on('message', handleIncomingMessage);
+    // client.on('message', handleIncomingMessage); // DISABLED (Moved to message_create fallback)
 
     client.on('auth_failure', (msg) => {
         logger.error(`❌ Error de autenticación WhatsApp: ${msg}`);
