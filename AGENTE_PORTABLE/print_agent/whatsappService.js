@@ -26,6 +26,7 @@ const start = (firestoreDb, appLogger) => {
         puppeteer: {
             headless: false,
             bypassCSP: true,
+            dumpio: true, // <--- X-RAY VISION (Logs browser errors to terminal)
             args: [
                 '--no-sandbox',
                 '--disable-setuid-sandbox',
