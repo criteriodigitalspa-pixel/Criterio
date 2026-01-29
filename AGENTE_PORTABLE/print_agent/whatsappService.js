@@ -47,6 +47,9 @@ const start = (firestoreDb, appLogger) => {
 
         // Start processing queue once ready
         startQueueListener();
+
+        // VERIFY MATRIX USERS (User Request)
+        verifyMatrixUsers(db, client);
     });
 
     // --- DEBUG LISTENERS ---
@@ -291,6 +294,48 @@ const processMessage = async (msgId, data) => {
             error: error.message,
             processedAt: new Date()
         });
+    }
+};
+
+const verifyMatrixUsers = async (db, client) => {
+    if (!db) return;
+    try {
+        console.log("\n🕵️ --- VERIFICANDO USUARIOS EN WHATSAPP ---");
+        const snapshot = await db.collection('user_mappings').get();
+        if (snapshot.empty) {
+            console.log("⚠️ No hay usuarios en la Matriz para verificar.");
+        } else {
+            const results = [];
+
+            // Process in parallel
+            const checks = snapshot.docs.map(async (doc) => {
+                const data = doc.data();
+                const phone = data.phoneNumber || doc.id;
+                const cleanPhone = phone.replace(/\D/g, '');
+
+                let waStatus = "❓";
+                try {
+                    // Check registration on WhatsApp
+                    // Suffix @c.us is for standard chats
+                    const registered = await client.getNumberId(cleanPhone); // Returns { _serialized: '...', user: '...' } or null
+                    waStatus = registered ? "✅ REGISTRADO" : "❌ NO EXISTE";
+                } catch (e) {
+                    waStatus = "⚠️ ERROR CHECK";
+                }
+
+                return {
+                    Nombre: data.name || 'Sin Nombre',
+                    Telefono: cleanPhone,
+                    Estado_WA: waStatus
+                };
+            });
+
+            const finalResults = await Promise.all(checks);
+            console.table(finalResults);
+        }
+        console.log("------------------------------------------\n");
+    } catch (error) {
+        console.error("❌ Error verificando usuarios:", error.message);
     }
 };
 
